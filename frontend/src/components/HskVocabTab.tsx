@@ -1,6 +1,7 @@
 import React, { useState, useMemo, useEffect } from 'react';
 import { HSK_VOCABULARY_LIST, HskVocabItem } from '../data/hskVocabData';
 import { loadZhVocab } from '../data/packLoader';
+import { VocabPager, VOCAB_PAGE_SIZE } from './VocabPager';
 import { speakNativeText, playPopSound, playSuccessSound } from '../utils/audio';
 import {
   Search,
@@ -27,7 +28,7 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
   const [flashcardIdx, setFlashcardIdx] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
   const [allVocab, setAllVocab] = useState<HskVocabItem[]>(HSK_VOCABULARY_LIST);
-  const [visibleCount, setVisibleCount] = useState(100);
+  const [page, setPage] = useState(0);
   const [masteredIds, setMasteredIds] = useState<Record<string, boolean>>(() => {
     try {
       return JSON.parse(localStorage.getItem('lp_hsk_mastered') || '{}');
@@ -46,7 +47,7 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
     } catch {}
   }, [masteredIds]);
 
-  useEffect(() => setVisibleCount(100), [selectedLevel, searchQuery]);
+  useEffect(() => setPage(0), [selectedLevel, searchQuery]);
 
   // Filtered vocabulary list
   const filteredList = useMemo(() => {
@@ -345,7 +346,7 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {filteredList.slice(0, visibleCount).map((item) => {
+            {filteredList.slice(page * VOCAB_PAGE_SIZE, (page + 1) * VOCAB_PAGE_SIZE).map((item) => {
               const isMastered = masteredIds[item.id];
               return (
                 <div
@@ -435,15 +436,8 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
                 </div>
               );
             })}
-          {filteredList.length > visibleCount && (
-            <button
-              onClick={() => setVisibleCount((c) => c + 200)}
-              className="mt-4 w-full py-3 rounded-xl bg-slate-800 border border-slate-700 font-bold hover:bg-slate-700"
-            >
-              Xem thêm ({filteredList.length - visibleCount} từ nữa)
-            </button>
-          )}
           </div>
+          <VocabPager page={page} total={filteredList.length} onChange={setPage} />
         </div>
       )}
     </div>

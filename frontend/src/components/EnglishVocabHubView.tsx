@@ -20,6 +20,7 @@ import {
   Zap,
 } from 'lucide-react';
 import confetti from 'canvas-confetti';
+import { VocabPager, VOCAB_PAGE_SIZE } from './VocabPager';
 
 interface EnglishVocabHubViewProps {
   onAddXp: (amount: number) => void;
@@ -82,6 +83,13 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
       return matchTopic && matchLevel && matchSearch;
     });
   }, [allVocab, selectedTopic, selectedLevel, searchQuery]);
+
+  const [page, setPage] = useState(0);
+  useEffect(() => setPage(0), [selectedTopic, selectedLevel, searchQuery]);
+  const pageList = useMemo(
+    () => filteredList.slice(page * VOCAB_PAGE_SIZE, (page + 1) * VOCAB_PAGE_SIZE),
+    [filteredList, page]
+  );
 
   const masteredCount = Object.keys(masteredIds).length;
 
@@ -322,7 +330,7 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3.5">
-            {filteredList.map((item) => {
+            {pageList.map((item) => {
               const isMastered = !!masteredIds[item.id];
               return (
                 <div
@@ -391,6 +399,8 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
               );
             })}
           </div>
+
+          <VocabPager page={page} total={filteredList.length} onChange={setPage} />
 
           {filteredList.length === 0 && (
             <div className="p-12 text-center rounded-3xl bg-slate-900 border border-slate-800 text-slate-400 space-y-2">
