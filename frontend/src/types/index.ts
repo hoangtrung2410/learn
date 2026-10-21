@@ -114,7 +114,7 @@ export interface UserStats {
   averagePronunciationScore: number;
 }
 
-export type UserRole = 'superadmin' | 'admin' | 'user' | 'guest';
+export type UserRole = 'admin' | 'user';
 
 export interface User {
   id: string;
@@ -124,7 +124,7 @@ export interface User {
   role: UserRole;
   avatar: string;
   isSuperAdmin: boolean;
-  provider: 'local' | 'google' | 'guest';
+  provider: 'local';
 }
 
 export interface ToeicWord {

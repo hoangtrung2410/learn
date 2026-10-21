@@ -1,6 +1,8 @@
-import { Controller, Post, Body, Inject, BadRequestException } from '@nestjs/common';
+import { UseGuards, Controller, Post, Body, Inject, BadRequestException } from '@nestjs/common';
 import { SpeechService } from './speech.service.ts';
+import { AiQuotaGuard } from '../shop/ai-quota.guard.ts';
 
+@UseGuards(AiQuotaGuard)
 @Controller('api/ai/speech-coach')
 export class SpeechController {
   constructor(

@@ -18,6 +18,17 @@ Cập nhật bài học: sửa `frontend/src/data/curriculum.ts` rồi chạy tr
 
 Màn hình: Lộ trình (làm bài trắc nghiệm / ghép câu / nghe), Hội thoại AI (31 tình huống), Tra cứu từ bằng AI, Hồ sơ (XP, chuỗi ngày, đổi ngôn ngữ). Chưa có: chấm phát âm bằng micro, đăng nhập.
 
+## Bán khoá học (tài khoản, thanh toán, quản trị)
+- **Gói bán**: Miễn phí (HSK 1-2, tiếng Anh A1-A2), Premium 1 tháng / 12 tháng (mở mọi nội dung trả phí) và khoá lẻ mua một lần học vĩnh viễn (HSK 3-4, 5-6, 7-9, Anh B1-B2, C1, TOEIC, IELTS). Giá và danh mục sửa trong trang quản trị (tab **Sản phẩm**); giá khởi tạo nằm ở `backend/src/modules/db/catalog.ts`.
+- **Dữ liệu** lưu bằng SQLite tại `backend/data/linguapulse.db` (đã bỏ khỏi git). Cần Node 22.5+.
+- **Tài khoản quản trị** tạo ở lần chạy đầu: đặt `ADMIN_USERNAME` / `ADMIN_PASSWORD` trong `backend/.env`; nếu để trống, mật khẩu ngẫu nhiên được in ra console một lần.
+- **Thanh toán**: `PAYMENT_PROVIDER=mock` (mặc định khi dev) dùng cổng giả lập, không trừ tiền thật; `PAYMENT_PROVIDER=vnpay` dùng VNPay với `VNPAY_TMN_CODE`, `VNPAY_HASH_SECRET`. Khai báo trên cổng VNPay: Return URL `API_URL/api/payments/vnpay/return`, IPN URL `API_URL/api/payments/vnpay/ipn`. Cổng giả lập tự tắt khi `NODE_ENV=production`.
+- **Production**: bắt buộc đặt `JWT_SECRET` (chuỗi ngẫu nhiên dài), `APP_URL`, `API_URL`. Build giao diện (`npm run build` trong `frontend/`) rồi chạy backend, một cổng phục vụ cả web lẫn API.
+- **Hạn mức AI** mỗi ngày theo gói (`AI_LIMIT_FREE/PAID/PREMIUM`, `TTS_LIMIT_DAILY`); API AI bắt buộc đăng nhập.
+- **Kiểm thử**: `cd backend && npm test` (49 test API: đăng ký/đăng nhập, phân quyền, đơn hàng, mã giảm giá, VNPay, hạn mức AI).
+- **Trang pháp lý** (Điều khoản, Bảo mật, Hoàn tiền) là văn bản mẫu, cần rà soát pháp lý và điền thông tin đơn vị trước khi bán.
+- Lưu ý: nội dung học được đóng gói trong frontend nên việc khoá nội dung ở giao diện chưa chống được người rành kỹ thuật; AI và đơn hàng thì được kiểm tra ở máy chủ. App Flutter (`app/`) chưa có đăng nhập nên chưa dùng được các API AI mới.
+
 ## Hội thoại AI
 Dùng Gemini bản lite (nhanh ~1s, trả chữ theo luồng). Đổi model qua `GEMINI_CHAT_MODELS="a,b"` trong backend/.env. Nhớ KHÔNG đưa backend/.env lên git (đã có .gitignore).
 

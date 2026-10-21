@@ -22,7 +22,7 @@ import {
 } from 'lucide-react';
 import { playPopSound } from '../utils/audio';
 
-export type AppNavTab = 'learn' | 'study' | 'hsk-prep' | 'english-vocab' | 'speaking' | 'roleplay' | 'pinyin' | 'store' | 'dictionary';
+export type AppNavTab = 'home' | 'learn' | 'study' | 'hsk-prep' | 'english-vocab' | 'speaking' | 'roleplay' | 'pinyin' | 'pricing' | 'dictionary' | 'account' | 'admin' | 'legal';
 
 interface NavbarProps {
   currentLang: LanguageCode;
@@ -32,7 +32,6 @@ interface NavbarProps {
   stats: UserStats;
   currentUser: User | null;
   onOpenAuth: () => void;
-  onOpenAdminPanel: () => void;
   onOpenFontSettings: () => void;
   onLogout: () => void;
 }
@@ -78,14 +77,13 @@ export const Navbar: React.FC<NavbarProps> = ({
   stats,
   currentUser,
   onOpenAuth,
-  onOpenAdminPanel,
   onOpenFontSettings,
   onLogout,
 }) => {
   const [langMenuOpen, setLangMenuOpen] = useState(false);
   const [userMenuOpen, setUserMenuOpen] = useState(false);
   const currentLangObj = SUPPORTED_LANGUAGES.find((l) => l.id === currentLang) || SUPPORTED_LANGUAGES[0];
-  const isSuperAdmin = currentUser?.role === 'superadmin';
+  const isSuperAdmin = currentUser?.role === 'admin';
 
   return (
     <>
@@ -115,7 +113,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           {/* ── Brand + Language Selector ── */}
           <div className="flex items-center gap-2 sm:gap-3">
             <button
-              onClick={() => { playPopSound(); onChangeTab('learn'); }}
+              onClick={() => { playPopSound(); onChangeTab('home'); }}
               className="flex items-center gap-2.5 text-left group cursor-pointer"
             >
               <div
@@ -344,13 +342,13 @@ export const Navbar: React.FC<NavbarProps> = ({
               {currentLang === 'zh' ? 'Tra Cứu & Bộ Thủ' : 'Từ Điển & Nguồn Gốc'}
             </button>
             <button
-              onClick={() => { playPopSound(); onChangeTab('store'); }}
-              className={`nav-tab-btn shrink-0 whitespace-nowrap flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${activeTab === 'store' ? 'active-tab' : ''}`}
-              style={activeTab === 'store'
+              onClick={() => { playPopSound(); onChangeTab('pricing'); }}
+              className={`nav-tab-btn shrink-0 whitespace-nowrap flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${activeTab === 'pricing' ? 'active-tab' : ''}`}
+              style={activeTab === 'pricing'
                 ? { background: 'linear-gradient(135deg,#f59e0b,#eab308)', color: '#0a0f1e', boxShadow: '0 4px 14px rgba(245,158,11,0.35)' }
                 : { color: '#fbbf24' }}
             >
-              <ShoppingBag className="w-3.5 h-3.5" /> Siêu Thị Học Liệu
+              <ShoppingBag className="w-3.5 h-3.5" /> Khoá Học & Bảng Giá
             </button>
           </nav>
 
@@ -400,12 +398,12 @@ export const Navbar: React.FC<NavbarProps> = ({
             {/* Super Admin */}
             {isSuperAdmin && (
               <button
-                onClick={() => { playPopSound(); onOpenAdminPanel(); }}
+                onClick={() => { playPopSound(); onChangeTab('admin'); }}
                 className="hidden sm:flex items-center gap-1.5 px-3 py-1.5 rounded-xl font-black text-xs cursor-pointer transition-all hover:scale-105"
                 style={{ background: 'linear-gradient(135deg,#f59e0b,#eab308)', color: '#0a0f1e', boxShadow: '0 4px 16px rgba(245,158,11,0.35)' }}
               >
                 <Crown className="w-4 h-4" />
-                Admin Panel
+                Quản Trị
               </button>
             )}
 
@@ -459,7 +457,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                           {currentUser.name}
                           {isSuperAdmin && (
                             <span className="text-[9px] px-1.5 py-0.5 rounded-md font-black" style={{ background: 'linear-gradient(135deg,#f59e0b,#eab308)', color: '#0a0f1e' }}>
-                              SUPER ADMIN
+                              ADMIN
                             </span>
                           )}
                         </p>
@@ -468,22 +466,22 @@ export const Navbar: React.FC<NavbarProps> = ({
 
                       {isSuperAdmin && (
                         <button
-                          onClick={() => { playPopSound(); setUserMenuOpen(false); onOpenAdminPanel(); }}
+                          onClick={() => { playPopSound(); setUserMenuOpen(false); onChangeTab('admin'); }}
                           className="w-full flex items-center gap-2 px-3 py-2 rounded-xl text-left text-xs font-bold transition-colors cursor-pointer hover:bg-amber-500/15"
                           style={{ color: '#fbbf24' }}
                         >
                           <Crown className="w-4 h-4 text-amber-400" />
-                          Bảng Quản Trị Super Admin
+                          Quản trị bán hàng
                         </button>
                       )}
 
                       <button
-                        onClick={() => { playPopSound(); setUserMenuOpen(false); onOpenAuth(); }}
+                        onClick={() => { playPopSound(); setUserMenuOpen(false); onChangeTab('account'); }}
                         className="w-full flex items-center gap-2 px-3 py-2 rounded-xl text-left text-xs transition-colors cursor-pointer hover:bg-white/5"
                         style={{ color: 'rgba(255,255,255,0.6)' }}
                       >
                         <Shield className="w-4 h-4 text-purple-400" />
-                        Đổi tài khoản
+                        Tài khoản & đơn hàng
                       </button>
 
                       <button
@@ -548,8 +546,8 @@ export const Navbar: React.FC<NavbarProps> = ({
           <button onClick={() => onChangeTab('dictionary')} className={`px-3 py-1.5 rounded-xl font-bold flex items-center gap-1 whitespace-nowrap transition-all ${activeTab === 'dictionary' ? 'bg-teal-600 text-white' : 'text-slate-400'}`}>
             {currentLang === 'zh' ? 'Tra Cứu' : 'Từ Điển'}
           </button>
-          <button onClick={() => onChangeTab('store')} className={`px-3 py-1.5 rounded-xl font-bold flex items-center gap-1 whitespace-nowrap transition-all ${activeTab === 'store' ? 'bg-amber-500 text-slate-950' : 'text-amber-400'}`}>
-            <ShoppingBag className="w-3.5 h-3.5" /> Học Liệu
+          <button onClick={() => onChangeTab('pricing')} className={`px-3 py-1.5 rounded-xl font-bold flex items-center gap-1 whitespace-nowrap transition-all ${activeTab === 'pricing' ? 'bg-amber-500 text-slate-950' : 'text-amber-400'}`}>
+            <ShoppingBag className="w-3.5 h-3.5" /> Bảng Giá
           </button>
         </div>
       </header>

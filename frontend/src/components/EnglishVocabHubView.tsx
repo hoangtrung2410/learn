@@ -1,6 +1,9 @@
 import React, { useState, useMemo, useEffect } from 'react';
 import { ENGLISH_VOCABULARY_1000, EnglishVocabItem } from '../data/englishVocab1000Data';
 import { loadEnVocab } from '../data/packLoader';
+import { useAccess, enLevelScope, SCOPE_LABEL, scopeProductId } from '../lib/access';
+import { LockedPanel } from './LockedPanel';
+import { goPricing } from '../lib/nav';
 import { speakNativeText, playPopSound, playSuccessSound, playErrorSound } from '../utils/audio';
 import {
   Search,
@@ -84,6 +87,13 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
     });
   }, [allVocab, selectedTopic, selectedLevel, searchQuery]);
 
+  const { hasScope } = useAccess();
+  const scopeOf = (w: EnglishVocabItem) => enLevelScope(w.level, w.pack === 'en-toeic' ? 'toeic' : w.pack === 'en-ielts' ? 'ielts' : undefined);
+  const isUnlocked = (w: EnglishVocabItem) => hasScope(scopeOf(w));
+  // Flashcard và trắc nghiệm chỉ dùng phần đã mở khoá.
+  const studyList = useMemo(() => filteredList.filter(isUnlocked), [filteredList, hasScope]); // eslint-disable-line react-hooks/exhaustive-deps
+  const lockedCount = filteredList.length - studyList.length;
+  const firstLockedScope = filteredList.find((w) => !isUnlocked(w));
   const [page, setPage] = useState(0);
   useEffect(() => setPage(0), [selectedTopic, selectedLevel, searchQuery]);
   const pageList = useMemo(
@@ -117,22 +127,22 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
   };
 
   // Flashcard navigation
-  const currentFlashcard = filteredList[flashcardIdx] || filteredList[0];
+  const currentFlashcard = studyList[flashcardIdx] || studyList[0];
 
   const handleNextFlashcard = () => {
     playPopSound();
     setIsFlipped(false);
-    setFlashcardIdx((prev) => (prev + 1) % (filteredList.length || 1));
+    setFlashcardIdx((prev) => (prev + 1) % (studyList.length || 1));
   };
 
   const handlePrevFlashcard = () => {
     playPopSound();
     setIsFlipped(false);
-    setFlashcardIdx((prev) => (prev - 1 + (filteredList.length || 1)) % (filteredList.length || 1));
+    setFlashcardIdx((prev) => (prev - 1 + (studyList.length || 1)) % (studyList.length || 1));
   };
 
   // Quiz generation for current flashcard / question
-  const currentQuizWord = filteredList[quizQuestionIdx % (filteredList.length || 1)] || filteredList[0];
+  const currentQuizWord = studyList[quizQuestionIdx % (studyList.length || 1)] || studyList[0];
   const quizOptions = useMemo(() => {
     if (!currentQuizWord) return [];
     const wrongPool = allVocab.filter((w) => w.id !== currentQuizWord.id);
@@ -325,13 +335,27 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
       {viewMode === 'list' && (
         <section className="space-y-3">
           <div className="flex items-center justify-between text-xs text-slate-400 px-1">
-            <span>Hiển thị <strong>{filteredList.length}</strong> từ vựng phù hợp</span>
+            <span>Hiển thị <strong>{filteredList.length}</strong> từ vựng phù hợp{lockedCount > 0 && <span className="text-amber-300"> ({lockedCount} từ cần mở khoá)</span>}</span>
             <span>Mẹo: Bấm biểu tượng loa để nghe phát âm giọng bản xứ</span>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3.5">
             {pageList.map((item) => {
               const isMastered = !!masteredIds[item.id];
+              if (!isUnlocked(item)) {
+                const sc = scopeOf(item);
+                return (
+                  <div key={item.id} className="p-4 rounded-2xl border border-slate-800 bg-slate-900/50 flex items-center justify-between gap-3">
+                    <div className="min-w-0">
+                      <h3 className="text-lg font-black text-white tracking-tight truncate">{item.word}</h3>
+                      <p className="text-xs text-slate-500 mt-1 blur-[3px] select-none" aria-hidden="true">[{item.partOfSpeech}] nghĩa tiếng Việt của từ này</p>
+                    </div>
+                    <button onClick={() => goPricing(scopeProductId(sc))} className="shrink-0 px-3 py-1.5 rounded-xl bg-amber-500/15 border border-amber-500/30 text-amber-200 text-[11px] font-black flex items-center gap-1 cursor-pointer">
+                      🔒 {SCOPE_LABEL[sc]}
+                    </button>
+                  </div>
+                );
+              }
               return (
                 <div
                   key={item.id}
@@ -413,11 +437,15 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
       )}
 
       {/* VIEW MODE 2: FLASHCARD 3D */}
+      {viewMode !== 'list' && studyList.length === 0 && filteredList.length > 0 && firstLockedScope && (
+        <LockedPanel scope={scopeOf(firstLockedScope)} what="Bộ từ đang chọn" />
+      )}
+
       {viewMode === 'flashcard' && currentFlashcard && (
         <section className="max-w-2xl mx-auto space-y-5">
           <div className="flex items-center justify-between text-xs text-slate-400 px-2">
             <span>
-              Thẻ {flashcardIdx + 1} / {filteredList.length} ({currentFlashcard.topic})
+              Thẻ {flashcardIdx + 1} / {studyList.length} ({currentFlashcard.topic})
             </span>
             <span className="font-bold text-amber-400">Trình độ: {currentFlashcard.level}</span>
           </div>

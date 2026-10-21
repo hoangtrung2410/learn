@@ -1,3 +1,4 @@
+import { authHeaders } from '../lib/api';
 import { LanguageCode } from '../types';
 
 let audioCtx: AudioContext | null = null;
@@ -203,7 +204,7 @@ async function fetchTtsAudio(text: string, lang: LanguageCode): Promise<string |
   try {
     const res = await fetch('/api/ai/tts', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: authHeaders({ 'Content-Type': 'application/json' }),
       body: JSON.stringify({ text, targetLanguage: lang, voice: lang === 'zh' ? 'Kore' : 'Zephyr' }),
     });
     if (res.ok) {

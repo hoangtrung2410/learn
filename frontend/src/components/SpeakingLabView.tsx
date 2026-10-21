@@ -1,3 +1,4 @@
+import { aiFetch, ApiError } from '../lib/api';
 import React, { useState, useEffect, useRef } from 'react';
 import { LanguageCode, SpeechEvaluationResult } from '../types';
 import { SPEAKING_SENTENCES_CATALOG } from '../data/curriculum';
@@ -211,17 +212,13 @@ export const SpeakingLabView: React.FC<SpeakingLabViewProps> = ({ currentLang, o
     setMicErrorMessage(null);
 
     try {
-      const res = await fetch('/api/ai/speech-coach', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          targetLanguage: currentLang,
-          languageName: currentLang === 'zh' ? 'Tiếng Trung' : 'Tiếng Anh',
-          targetSentence: currentSentence.sentence,
-          userSpokenText: textToEvaluate || currentSentence.sentence,
-          audioBase64: audioData,
-          mimeType: mime,
-        }),
+      const res = await aiFetch('/api/ai/speech-coach', {
+        targetLanguage: currentLang,
+        languageName: currentLang === 'zh' ? 'Tiếng Trung' : 'Tiếng Anh',
+        targetSentence: currentSentence.sentence,
+        userSpokenText: textToEvaluate || currentSentence.sentence,
+        audioBase64: audioData,
+        mimeType: mime,
       });
 
       if (!res.ok) {
@@ -245,7 +242,7 @@ export const SpeakingLabView: React.FC<SpeakingLabViewProps> = ({ currentLang, o
       }
     } catch (err: any) {
       console.error('Evaluate error', err);
-      setMicErrorMessage('Không thể kết nối AI chấm điểm. Vui lòng thử lại.');
+      setMicErrorMessage(err instanceof ApiError ? err.message : 'Không thể kết nối AI chấm điểm. Vui lòng thử lại.');
     } finally {
       setIsEvaluating(false);
     }

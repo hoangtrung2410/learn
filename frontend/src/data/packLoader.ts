@@ -104,6 +104,7 @@ export async function loadEnVocab(): Promise<EnglishVocabItem[]> {
       n++;
       out.push({
         id: `${prefix}-${n}`,
+        pack: prefix,
         word,
         ipa,
         partOfSpeech: pos,

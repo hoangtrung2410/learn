@@ -1,6 +1,8 @@
-import { Controller, Post, Body, Inject } from '@nestjs/common';
+import { UseGuards, Controller, Post, Body, Inject } from '@nestjs/common';
 import { ExplainService } from './explain.service.ts';
+import { AiQuotaGuard } from '../shop/ai-quota.guard.ts';
 
+@UseGuards(AiQuotaGuard)
 @Controller('api/ai/explain')
 export class ExplainController {
   constructor(

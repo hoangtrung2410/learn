@@ -7,6 +7,8 @@ import {
   ExamQuestion,
 } from '../data/hskExamData';
 import { speakNativeText, playPopSound, playSuccessSound, playErrorSound } from '../utils/audio';
+import { useAccess, zhLevelScope, scopeProductId } from '../lib/access';
+import { goPricing } from '../lib/nav';
 import {
   GraduationCap,
   BookOpen,
@@ -42,6 +44,7 @@ export const HskExamHubView: React.FC<HskExamHubViewProps> = ({ onAddXp }) => {
   const [examFilterLevel, setExamFilterLevel] = useState<number | 'all'>('all');
 
   // Selected level for roadmap detail
+  const { hasScope } = useAccess();
   const [selectedLevel, setSelectedLevel] = useState<HskLevelInfo>(HSK_LEVELS_ROADMAP[0]);
 
   // Exam simulation state
@@ -96,6 +99,11 @@ export const HskExamHubView: React.FC<HskExamHubViewProps> = ({ onAddXp }) => {
   }, [currentQuestionIdx, currentExam]);
 
   const handleStartExam = (exam: HskMockExam) => {
+    const scope = zhLevelScope(exam.hskLevel);
+    if (!hasScope(scope)) {
+      goPricing(scopeProductId(scope));
+      return;
+    }
     playPopSound();
     setCurrentExam(exam);
     setHubTab('mock-exam');
@@ -365,7 +373,7 @@ export const HskExamHubView: React.FC<HskExamHubViewProps> = ({ onAddXp }) => {
                     className="px-5 py-3 rounded-2xl bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-slate-950 font-black text-xs shadow-xl shadow-amber-500/20 flex items-center gap-2 cursor-pointer transition-transform hover:scale-105"
                   >
                     <FileCheck2 className="w-4 h-4" />
-                    <span>Thi Thử HSK {selectedLevel.level} Ngay</span>
+                    <span>{hasScope(zhLevelScope(selectedLevel.level)) ? `Thi Thử HSK ${selectedLevel.level} Ngay` : `🔒 Thi thử HSK ${selectedLevel.level} (cần mở khoá)`}</span>
                   </button>
                 )}
 
@@ -586,7 +594,7 @@ export const HskExamHubView: React.FC<HskExamHubViewProps> = ({ onAddXp }) => {
                             className="w-full py-3 rounded-2xl bg-amber-500 hover:bg-amber-400 text-slate-950 font-black text-xs transition-all shadow-lg shadow-amber-500/20 flex items-center justify-center gap-2 cursor-pointer"
                           >
                             <FileCheck2 className="w-4 h-4" />
-                            <span>Bắt Đầu Làm Bài Thi</span>
+                            <span>{hasScope(zhLevelScope(exam.hskLevel)) ? 'Bắt Đầu Làm Bài Thi' : '🔒 Mở khoá để làm đề này'}</span>
                           </button>
                         </div>
                       </div>

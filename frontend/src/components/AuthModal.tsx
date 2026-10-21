@@ -1,302 +1,206 @@
-import React, { useState } from 'react';
-import { User } from '../types';
-import {
-  X,
-  ShieldCheck,
-  User as UserIcon,
-  Lock,
-  Sparkles,
-  ArrowRight,
-  KeyRound,
-  CheckCircle2,
-} from 'lucide-react';
+import React, { useEffect, useState } from 'react';
+import { X, ShieldCheck, User as UserIcon, Lock, ArrowRight, KeyRound, CheckCircle2, Mail, Eye, EyeOff } from 'lucide-react';
+import { api } from '../lib/api';
+import { useAccess } from '../lib/access';
 import { playPopSound, playSuccessSound } from '../utils/audio';
 
 interface AuthModalProps {
   isOpen: boolean;
   onClose: () => void;
-  onLoginSuccess: (user: User) => void;
+  initialTab?: 'login' | 'register';
+  notice?: string | null;
+  onOpenLegal?: (page: 'terms' | 'privacy') => void;
+  onSuccess?: () => void;
 }
 
-export const AuthModal: React.FC<AuthModalProps> = ({ isOpen, onClose, onLoginSuccess }) => {
-  const [tab, setTab] = useState<'login' | 'register'>('login');
-  const [username, setUsername] = useState('');
-  const [password, setPassword] = useState('');
+const USERNAME_RE = /^[a-z0-9_.-]{3,30}$/;
+const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
+
+const inputCls =
+  'w-full bg-slate-800 border border-slate-700 rounded-xl pl-10 pr-4 py-2.5 text-sm text-white placeholder-slate-500 focus:outline-none focus:border-purple-500';
+
+export const AuthModal: React.FC<AuthModalProps> = ({ isOpen, onClose, initialTab = 'login', notice, onOpenLegal, onSuccess }) => {
+  const { setSession } = useAccess();
+  const [tab, setTab] = useState<'login' | 'register'>(initialTab);
   const [name, setName] = useState('');
+  const [username, setUsername] = useState('');
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
+  const [confirm, setConfirm] = useState('');
+  const [agree, setAgree] = useState(false);
+  const [showPw, setShowPw] = useState(false);
   const [loading, setLoading] = useState(false);
-  const [errorMessage, setErrorMessage] = useState<string | null>(null);
-  const [successMessage, setSuccessMessage] = useState<string | null>(null);
+  const [error, setError] = useState<string | null>(null);
+  const [success, setSuccess] = useState<string | null>(null);
+
+  useEffect(() => {
+    if (isOpen) {
+      setTab(initialTab);
+      setError(null);
+      setSuccess(null);
+    }
+  }, [isOpen, initialTab]);
+
+  useEffect(() => {
+    if (!isOpen) return;
+    const onKey = (e: KeyboardEvent) => e.key === 'Escape' && onClose();
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [isOpen, onClose]);
 
   if (!isOpen) return null;
 
+  const validate = (): string | null => {
+    if (tab === 'login') return !username.trim() || !password ? 'Vui lòng nhập tên đăng nhập (hoặc email) và mật khẩu.' : null;
+    if (!USERNAME_RE.test(username.trim().toLowerCase())) return 'Tên đăng nhập gồm 3-30 ký tự: chữ thường, số, dấu . _ -';
+    if (!EMAIL_RE.test(email.trim())) return 'Email không hợp lệ.';
+    if (password.length < 8) return 'Mật khẩu phải có ít nhất 8 ký tự.';
+    if (password !== confirm) return 'Mật khẩu nhập lại không khớp.';
+    if (!agree) return 'Bạn cần đồng ý với Điều khoản sử dụng và Chính sách bảo mật.';
+    return null;
+  };
+
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    setErrorMessage(null);
-    setSuccessMessage(null);
+    setError(null);
+    setSuccess(null);
+    const v = validate();
+    if (v) return setError(v);
     setLoading(true);
-
     try {
-      const endpoint = tab === 'login' ? '/api/auth/login' : '/api/auth/register';
-      const body = tab === 'login' ? { username, password } : { username, password, name };
-
-      const res = await fetch(endpoint, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(body),
+      const data = await api(tab === 'login' ? '/api/auth/login' : '/api/auth/register', {
+        body: tab === 'login' ? { username, password } : { username, email, password, name },
       });
-
-      const data = await res.json();
-
-      if (!res.ok) {
-        throw new Error(data.message || 'Thao tác thất bại');
-      }
-
       playSuccessSound();
-      setSuccessMessage(data.message || 'Thành công!');
-
+      setSuccess(data.message || 'Thành công!');
+      setSession(data.user, data.token);
+      setPassword('');
+      setConfirm('');
       setTimeout(() => {
-        onLoginSuccess(data.user);
         onClose();
-      }, 700);
+        onSuccess?.();
+      }, 600);
     } catch (err: any) {
-      setErrorMessage(err.message || 'Đã có lỗi xảy ra. Vui lòng thử lại.');
+      setError(err.message || 'Đã có lỗi xảy ra. Vui lòng thử lại.');
     } finally {
       setLoading(false);
     }
   };
 
-  const handleGoogleLogin = async () => {
-    setLoading(true);
-    setErrorMessage(null);
-    try {
-      playPopSound();
-      const res = await fetch('/api/auth/google', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          email: 'anhtrung24102k@gmail.com',
-          name: 'Anh Trung (Google Account)',
-          avatar: 'https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=200&q=80',
-        }),
-      });
-
-      const data = await res.json();
-      if (!res.ok) throw new Error(data.message);
-
-      playSuccessSound();
-      setSuccessMessage('Đăng nhập Google thành công!');
-      setTimeout(() => {
-        onLoginSuccess(data.user);
-        onClose();
-      }, 700);
-    } catch (err: any) {
-      setErrorMessage(err.message || 'Lỗi đăng nhập Google');
-    } finally {
-      setLoading(false);
-    }
-  };
-
-  const handleGuestLogin = async () => {
-    setLoading(true);
-    try {
-      playPopSound();
-      const res = await fetch('/api/auth/guest', { method: 'POST' });
-      const data = await res.json();
-      playSuccessSound();
-      onLoginSuccess(data.user);
-      onClose();
-    } catch (err: any) {
-      setErrorMessage(err.message);
-    } finally {
-      setLoading(false);
-    }
+  const switchTab = (t: 'login' | 'register') => {
+    playPopSound();
+    setTab(t);
+    setError(null);
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/80 backdrop-blur-md animate-in fade-in">
-      <div className="relative w-full max-w-md rounded-3xl bg-slate-900 border border-slate-700/80 shadow-2xl p-6 sm:p-8 space-y-6 overflow-hidden">
-        {/* Decorative background glows */}
-        <div className="absolute -top-24 -right-24 w-48 h-48 bg-purple-500/10 rounded-full blur-3xl pointer-events-none" />
-        <div className="absolute -bottom-24 -left-24 w-48 h-48 bg-emerald-500/10 rounded-full blur-3xl pointer-events-none" />
-
-        {/* Header */}
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/80 backdrop-blur-md animate-in fade-in" role="dialog" aria-modal="true" aria-label="Đăng nhập hoặc đăng ký">
+      <div className="relative w-full max-w-md max-h-[94vh] overflow-y-auto rounded-3xl bg-slate-900 border border-slate-700/80 shadow-2xl p-6 sm:p-8 space-y-5">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2.5">
             <div className="w-10 h-10 rounded-2xl bg-gradient-to-tr from-purple-500 to-indigo-500 flex items-center justify-center shadow-lg shadow-purple-500/25">
               <ShieldCheck className="w-5 h-5 text-white" />
             </div>
             <div>
-              <h2 className="text-xl font-black text-white tracking-tight">Cổng Đăng Nhập</h2>
-              <p className="text-xs text-slate-400">LinguaHub AI Education Center</p>
+              <h2 className="text-xl font-black text-white tracking-tight">{tab === 'login' ? 'Đăng nhập' : 'Tạo tài khoản'}</h2>
+              <p className="text-xs text-slate-400">LinguaHub AI</p>
             </div>
           </div>
-          <button
-            onClick={onClose}
-            className="p-2 rounded-xl text-slate-400 hover:text-white hover:bg-slate-800 transition-colors"
-          >
+          <button onClick={onClose} aria-label="Đóng" className="p-2 rounded-xl text-slate-400 hover:text-white hover:bg-slate-800 transition-colors cursor-pointer">
             <X className="w-5 h-5" />
           </button>
         </div>
 
-        {/* Google One-Tap Login Button */}
-        <button
-          type="button"
-          onClick={handleGoogleLogin}
-          disabled={loading}
-          className="w-full py-3 px-4 rounded-2xl bg-white hover:bg-slate-100 text-slate-800 font-bold text-sm flex items-center justify-center gap-3 transition-all hover:scale-[1.01] shadow-md cursor-pointer"
-        >
-          <svg className="w-5 h-5" viewBox="0 0 24 24">
-            <path
-              fill="#4285F4"
-              d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"
-            />
-            <path
-              fill="#34A853"
-              d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"
-            />
-            <path
-              fill="#FBBC05"
-              d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.06H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.94l2.85-2.22.81-.63z"
-            />
-            <path
-              fill="#EA4335"
-              d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.06l3.66 2.84c.87-2.6 3.3-4.52 6.16-4.52z"
-            />
-          </svg>
-          <span>Đăng nhập nhanh với Google</span>
-        </button>
+        {notice && <div className="p-3 rounded-xl bg-amber-500/10 border border-amber-500/30 text-amber-200 text-xs">{notice}</div>}
 
-        <div className="flex items-center gap-3">
-          <div className="h-px bg-slate-700/80 flex-1" />
-          <span className="text-[11px] font-semibold text-slate-500 uppercase tracking-wider">
-            hoặc tài khoản hệ thống
-          </span>
-          <div className="h-px bg-slate-700/80 flex-1" />
-        </div>
-
-        {/* Tab switch */}
         <div className="flex rounded-xl bg-slate-800 p-1 text-xs font-bold">
-          <button
-            type="button"
-            onClick={() => {
-              playPopSound();
-              setTab('login');
-              setErrorMessage(null);
-            }}
-            className={`flex-1 py-2 rounded-lg transition-all ${
-              tab === 'login' ? 'bg-purple-600 text-white shadow' : 'text-slate-400 hover:text-white'
-            }`}
-          >
-            Đăng Nhập
-          </button>
-          <button
-            type="button"
-            onClick={() => {
-              playPopSound();
-              setTab('register');
-              setErrorMessage(null);
-            }}
-            className={`flex-1 py-2 rounded-lg transition-all ${
-              tab === 'register' ? 'bg-purple-600 text-white shadow' : 'text-slate-400 hover:text-white'
-            }`}
-          >
-            Tạo Tài Khoản Mới
-          </button>
+          {(['login', 'register'] as const).map((t) => (
+            <button
+              key={t}
+              type="button"
+              onClick={() => switchTab(t)}
+              className={`flex-1 py-2 rounded-lg transition-all cursor-pointer ${tab === t ? 'bg-purple-600 text-white shadow' : 'text-slate-400 hover:text-white'}`}
+            >
+              {t === 'login' ? 'Đăng nhập' : 'Tạo tài khoản mới'}
+            </button>
+          ))}
         </div>
 
-        {/* Form */}
-        <form onSubmit={handleSubmit} className="space-y-4">
+        <form onSubmit={handleSubmit} className="space-y-4" noValidate>
           {tab === 'register' && (
             <div>
-              <label className="block text-xs font-bold text-slate-300 mb-1.5">Họ và Tên</label>
+              <label htmlFor="auth-name" className="block text-xs font-bold text-slate-300 mb-1.5">Họ và tên</label>
               <div className="relative">
                 <UserIcon className="absolute left-3.5 top-3.5 w-4 h-4 text-slate-500" />
-                <input
-                  type="text"
-                  value={name}
-                  onChange={(e) => setName(e.target.value)}
-                  placeholder="Ví dụ: Nguyễn Văn A"
-                  className="w-full bg-slate-800 border border-slate-700 rounded-xl pl-10 pr-4 py-2.5 text-sm text-white placeholder-slate-500 focus:outline-none focus:border-purple-500"
-                />
+                <input id="auth-name" type="text" autoComplete="name" value={name} onChange={(e) => setName(e.target.value)} placeholder="Ví dụ: Nguyễn Văn A" maxLength={60} className={inputCls} />
               </div>
             </div>
           )}
 
           <div>
-            <label className="block text-xs font-bold text-slate-300 mb-1.5">Tên Đăng Nhập</label>
+            <label htmlFor="auth-username" className="block text-xs font-bold text-slate-300 mb-1.5">{tab === 'login' ? 'Tên đăng nhập hoặc email' : 'Tên đăng nhập'}</label>
             <div className="relative">
               <KeyRound className="absolute left-3.5 top-3.5 w-4 h-4 text-slate-500" />
-              <input
-                type="text"
-                required
-                value={username}
-                onChange={(e) => setUsername(e.target.value)}
-                placeholder="Ví dụ: user_abc"
-                className="w-full bg-slate-800 border border-slate-700 rounded-xl pl-10 pr-4 py-2.5 text-sm text-white placeholder-slate-500 focus:outline-none focus:border-purple-500 font-mono"
-              />
+              <input id="auth-username" type="text" autoComplete="username" autoCapitalize="none" value={username} onChange={(e) => setUsername(e.target.value)} placeholder={tab === 'login' ? 'user_abc hoặc email@gmail.com' : 'Ví dụ: user_abc'} className={inputCls + ' font-mono'} />
             </div>
           </div>
+
+          {tab === 'register' && (
+            <div>
+              <label htmlFor="auth-email" className="block text-xs font-bold text-slate-300 mb-1.5">Email</label>
+              <div className="relative">
+                <Mail className="absolute left-3.5 top-3.5 w-4 h-4 text-slate-500" />
+                <input id="auth-email" type="email" autoComplete="email" value={email} onChange={(e) => setEmail(e.target.value)} placeholder="email@gmail.com" className={inputCls} />
+              </div>
+            </div>
+          )}
 
           <div>
-            <label className="block text-xs font-bold text-slate-300 mb-1.5">Mật Khẩu</label>
+            <label htmlFor="auth-password" className="block text-xs font-bold text-slate-300 mb-1.5">Mật khẩu</label>
             <div className="relative">
               <Lock className="absolute left-3.5 top-3.5 w-4 h-4 text-slate-500" />
-              <input
-                type="password"
-                required
-                value={password}
-                onChange={(e) => setPassword(e.target.value)}
-                placeholder="Nhập mật khẩu"
-                className="w-full bg-slate-800 border border-slate-700 rounded-xl pl-10 pr-4 py-2.5 text-sm text-white placeholder-slate-500 focus:outline-none focus:border-purple-500"
-              />
+              <input id="auth-password" type={showPw ? 'text' : 'password'} autoComplete={tab === 'login' ? 'current-password' : 'new-password'} value={password} onChange={(e) => setPassword(e.target.value)} placeholder={tab === 'register' ? 'Ít nhất 8 ký tự' : 'Nhập mật khẩu'} className={inputCls + ' pr-11'} />
+              <button type="button" onClick={() => setShowPw((v) => !v)} aria-label={showPw ? 'Ẩn mật khẩu' : 'Hiện mật khẩu'} className="absolute right-3 top-2.5 p-1 text-slate-500 hover:text-white cursor-pointer">
+                {showPw ? <EyeOff className="w-4 h-4" /> : <Eye className="w-4 h-4" />}
+              </button>
             </div>
           </div>
 
-          {errorMessage && (
-            <div className="p-3 rounded-xl bg-rose-500/15 border border-rose-500/30 text-rose-300 text-xs">
-              {errorMessage}
-            </div>
+          {tab === 'register' && (
+            <>
+              <div>
+                <label htmlFor="auth-confirm" className="block text-xs font-bold text-slate-300 mb-1.5">Nhập lại mật khẩu</label>
+                <div className="relative">
+                  <Lock className="absolute left-3.5 top-3.5 w-4 h-4 text-slate-500" />
+                  <input id="auth-confirm" type={showPw ? 'text' : 'password'} autoComplete="new-password" value={confirm} onChange={(e) => setConfirm(e.target.value)} placeholder="Nhập lại mật khẩu" className={inputCls} />
+                </div>
+              </div>
+              <label className="flex items-start gap-2 text-xs text-slate-400 cursor-pointer">
+                <input type="checkbox" checked={agree} onChange={(e) => setAgree(e.target.checked)} className="mt-0.5 accent-purple-500" />
+                <span>
+                  Tôi đồng ý với{' '}
+                  <button type="button" onClick={() => onOpenLegal?.('terms')} className="text-purple-300 underline cursor-pointer">Điều khoản sử dụng</button> và{' '}
+                  <button type="button" onClick={() => onOpenLegal?.('privacy')} className="text-purple-300 underline cursor-pointer">Chính sách bảo mật</button>.
+                </span>
+              </label>
+            </>
           )}
 
-          {successMessage && (
+          {error && <div role="alert" className="p-3 rounded-xl bg-rose-500/15 border border-rose-500/30 text-rose-300 text-xs">{error}</div>}
+          {success && (
             <div className="p-3 rounded-xl bg-emerald-500/15 border border-emerald-500/30 text-emerald-300 text-xs flex items-center gap-2">
-              <CheckCircle2 className="w-4 h-4" />
-              {successMessage}
+              <CheckCircle2 className="w-4 h-4" /> {success}
             </div>
           )}
 
-          <button
-            type="submit"
-            disabled={loading}
-            className="w-full py-3 rounded-xl bg-purple-600 hover:bg-purple-500 text-white font-bold text-sm shadow-lg shadow-purple-600/30 transition-all hover:scale-[1.01] flex items-center justify-center gap-2 cursor-pointer"
-          >
-            {loading ? (
-              <span className="animate-pulse">Đang xác thực...</span>
-            ) : (
-              <>
-                <span>{tab === 'login' ? 'Đăng Nhập Ngay' : 'Hoàn Tất Đăng Ký'}</span>
-                <ArrowRight className="w-4 h-4" />
-              </>
-            )}
+          <button type="submit" disabled={loading} className="w-full py-3 rounded-xl bg-purple-600 hover:bg-purple-500 disabled:opacity-60 text-white font-bold text-sm shadow-lg shadow-purple-600/30 transition-all flex items-center justify-center gap-2 cursor-pointer">
+            {loading ? <span className="animate-pulse">Đang xử lý...</span> : (<><span>{tab === 'login' ? 'Đăng nhập' : 'Hoàn tất đăng ký'}</span><ArrowRight className="w-4 h-4" /></>)}
           </button>
         </form>
 
-        {/* Footer shortcuts */}
-        <div className="pt-2 border-t border-slate-800 flex items-center justify-between text-xs text-slate-400">
-          <span className="text-[11px] text-slate-500 flex items-center gap-1">
-            <Lock className="w-3 h-3 text-slate-500" />
-            Bảo mật SSL 256-bit
-          </span>
-
-          <button
-            type="button"
-            onClick={handleGuestLogin}
-            className="hover:text-emerald-300 font-semibold transition-colors flex items-center gap-1 cursor-pointer"
-          >
-            <Sparkles className="w-3.5 h-3.5 text-emerald-400" />
-            Vào dạng Khách
-          </button>
-        </div>
+        <p className="text-[11px] text-slate-500 text-center">
+          Quên mật khẩu? Liên hệ hỗ trợ để được cấp lại mật khẩu tạm.
+        </p>
       </div>
     </div>
   );

@@ -12,13 +12,17 @@ import {
   ChevronUp,
 } from 'lucide-react';
 import confetti from 'canvas-confetti';
+import { useAccess, zhLevelScope } from '../lib/access';
+import { LockedPanel, LockIcon } from './LockedPanel';
 
 interface HskGrammarTabProps {
   onAddXp: (amount: number) => void;
 }
 
 export const HskGrammarTab: React.FC<HskGrammarTabProps> = ({ onAddXp }) => {
+  const { hasScope } = useAccess();
   const [selectedLevel, setSelectedLevel] = useState<number>(1);
+  const locked = !hasScope(zhLevelScope(selectedLevel));
   const [masteredGrammarIds, setMasteredGrammarIds] = useState<Record<string, boolean>>({});
 
   const filteredGrammar = HSK_GRAMMAR_GUIDE.filter(
@@ -80,6 +84,7 @@ export const HskGrammarTab: React.FC<HskGrammarTabProps> = ({ onAddXp }) => {
                 }`}
               >
                 <span>HSK {lvl}</span>
+                {!hasScope(zhLevelScope(lvl)) && <LockIcon />}
                 <span className={`text-[10px] px-1.5 py-0.2 rounded-md ${
                   isSelected ? 'bg-slate-950/20 text-slate-950' : 'bg-slate-800 text-slate-400'
                 }`}>
@@ -91,9 +96,18 @@ export const HskGrammarTab: React.FC<HskGrammarTabProps> = ({ onAddXp }) => {
         </div>
       </div>
 
+      {locked && (
+        <LockedPanel scope={zhLevelScope(selectedLevel)} what={`Ngữ pháp HSK ${selectedLevel}`}>
+          <ul className="text-left max-w-md mx-auto rounded-2xl bg-slate-800/60 p-4 space-y-1.5 text-sm text-slate-300">
+            {filteredGrammar.slice(0, 4).map((g) => <li key={g.id}>• {g.title}</li>)}
+            {filteredGrammar.length > 4 && <li className="text-slate-500">… và {filteredGrammar.length - 4} điểm ngữ pháp khác</li>}
+          </ul>
+        </LockedPanel>
+      )}
+
       {/* Grammar Cards List */}
       <div className="space-y-6">
-        {filteredGrammar.map((gm, idx) => {
+        {(locked ? [] : filteredGrammar).map((gm, idx) => {
           const isMastered = masteredGrammarIds[gm.id];
           return (
             <div

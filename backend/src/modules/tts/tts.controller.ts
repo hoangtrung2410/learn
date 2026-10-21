@@ -1,6 +1,8 @@
-import { Controller, Post, Body, Inject } from '@nestjs/common';
+import { UseGuards, Controller, Post, Body, Inject } from '@nestjs/common';
 import { TtsService } from './tts.service.ts';
+import { TtsQuotaGuard } from '../shop/ai-quota.guard.ts';
 
+@UseGuards(TtsQuotaGuard)
 @Controller('api/ai/tts')
 export class TtsController {
   constructor(

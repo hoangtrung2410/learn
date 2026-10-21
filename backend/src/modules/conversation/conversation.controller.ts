@@ -1,5 +1,7 @@
-import { Controller, Post, Body, Inject, Res, Req } from '@nestjs/common';
+import { UseGuards, Controller, Post, Body, Inject, Res, Req } from '@nestjs/common';
 import { ConversationService } from './conversation.service.ts';
+import { AiQuotaGuard } from '../shop/ai-quota.guard.ts';
+import { AuthGuard } from '../auth/auth.guard.ts';
 
 @Controller('api/ai/conversation')
 export class ConversationController {
@@ -10,12 +12,14 @@ export class ConversationController {
 
   // Giữ nguyên cho app Flutter.
   @Post()
+  @UseGuards(AiQuotaGuard)
   async handleConversation(@Body() body: any) {
     return this.conversationService.handleConversation(body);
   }
 
   // Server-Sent Events: {type:'delta',text} ... {type:'done'} hoặc {type:'error'}.
   @Post('stream')
+  @UseGuards(AiQuotaGuard)
   async stream(@Body() body: any, @Req() req: any, @Res() res: any) {
     res.status(200).set({
       'Content-Type': 'text/event-stream; charset=utf-8',
@@ -47,7 +51,9 @@ export class ConversationController {
     }
   }
 
+  // Phần bổ sung đi kèm lượt hội thoại đã tính hạn mức ở /stream nên chỉ cần đăng nhập.
   @Post('enrich')
+  @UseGuards(AuthGuard)
   async enrich(@Body() body: any) {
     return this.conversationService.enrich(body || {});
   }

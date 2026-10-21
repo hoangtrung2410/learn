@@ -1,3 +1,4 @@
+import { aiFetch, authHeaders } from '../lib/api';
 import React, { useState, useRef, useEffect } from 'react';
 import { LanguageCode, RoleplayScenario, ChatMessage } from '../types';
 import { CHINESE_ROLEPLAY_SCENARIOS, ENGLISH_ROLEPLAY_SCENARIOS } from '../data/curriculum';
@@ -323,12 +324,7 @@ export const AiRoleplayView: React.FC<AiRoleplayViewProps> = ({ currentLang, onA
       setMessages((prev) => prev.map((m) => (m.id === aiId ? { ...m, ...patch } : m)));
 
     try {
-      const res = await fetch('/api/ai/conversation/stream', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(ctx),
-        signal: ctrl.signal,
-      });
+      const res = await aiFetch('/api/ai/conversation/stream', ctx, ctrl.signal);
       if (!res.ok || !res.body) throw new Error('stream failed');
 
       const reader = res.body.getReader();
@@ -383,7 +379,7 @@ export const AiRoleplayView: React.FC<AiRoleplayViewProps> = ({ currentLang, onA
       setIsLoadingSuggestions(true);
       fetch('/api/ai/conversation/enrich', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: authHeaders({ 'Content-Type': 'application/json' }),
         body: JSON.stringify({ ...ctx, replyText: reply }),
         signal: ctrl.signal,
       })

@@ -23,3 +23,6 @@ app/ios/Flutter/flutter_export_environment.sh
 *.iml
 .idea/
 .DS_Store
+
+# Dữ liệu chạy (SQLite): KHÔNG đưa lên git
+backend/data/

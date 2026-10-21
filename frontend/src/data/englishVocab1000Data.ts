@@ -9,6 +9,8 @@ export interface EnglishVocabItem {
   collocation: string;
   exampleEn: string;
   exampleVi: string;
+  /** Gói nguồn (en-core / en-toeic / en-ielts); từ trong gói TOEIC/IELTS tính theo khoá riêng. */
+  pack?: string;
 }
 
 export const ENGLISH_VOCABULARY_1000: EnglishVocabItem[] = [

@@ -2,6 +2,8 @@ import React, { useState, useMemo, useEffect } from 'react';
 import { HSK_VOCABULARY_LIST, HskVocabItem } from '../data/hskVocabData';
 import { loadZhVocab } from '../data/packLoader';
 import { VocabPager, VOCAB_PAGE_SIZE } from './VocabPager';
+import { useAccess, zhLevelScope } from '../lib/access';
+import { LockedPanel, LockIcon } from './LockedPanel';
 import { speakNativeText, playPopSound, playSuccessSound } from '../utils/audio';
 import {
   Search,
@@ -22,7 +24,9 @@ interface HskVocabTabProps {
 }
 
 export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
+  const { hasScope } = useAccess();
   const [selectedLevel, setSelectedLevel] = useState<number>(1);
+  const locked = !hasScope(zhLevelScope(selectedLevel));
   const [searchQuery, setSearchQuery] = useState('');
   const [viewMode, setViewMode] = useState<'list' | 'flashcard'>('list');
   const [flashcardIdx, setFlashcardIdx] = useState(0);
@@ -170,6 +174,7 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
                 }`}
               >
                 <span>{lvl === 7 ? 'HSK 7-9' : `HSK ${lvl}`}</span>
+                {!hasScope(zhLevelScope(lvl)) && <LockIcon />}
                 <span className={`text-[10px] px-1.5 py-0.2 rounded-md ${
                   isSelected ? 'bg-slate-950/20 text-slate-950' : 'bg-slate-800 text-slate-400'
                 }`}>
@@ -197,7 +202,23 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
       </div>
 
       {/* ================= MODE 1: FLASHCARD VIEW ================= */}
-      {viewMode === 'flashcard' && (
+      {locked && (
+        <LockedPanel scope={zhLevelScope(selectedLevel)} what={`Từ vựng ${selectedLevel === 7 ? 'HSK 7-9' : `HSK ${selectedLevel}`}`}>
+          {filteredList.length > 0 && (
+            <div className="text-left max-w-md mx-auto rounded-2xl bg-slate-800/60 p-4 space-y-2">
+              <p className="text-[11px] font-bold text-slate-400 uppercase tracking-wider">Xem trước {Math.min(5, filteredList.length)} từ đầu · tổng {filteredList.length} từ</p>
+              {filteredList.slice(0, 5).map((w) => (
+                <div key={w.id} className="flex items-baseline justify-between gap-3 text-sm">
+                  <span className="font-black text-white text-lg">{w.hanzi}</span>
+                  <span className="text-slate-400 truncate">{w.pinyin} · {w.meaning}</span>
+                </div>
+              ))}
+            </div>
+          )}
+        </LockedPanel>
+      )}
+
+      {!locked && viewMode === 'flashcard' && (
         <div className="max-w-xl mx-auto space-y-6">
           {filteredList.length === 0 ? (
             <div className="p-8 rounded-3xl bg-slate-800 text-center text-slate-400 text-sm">
@@ -336,7 +357,7 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
       )}
 
       {/* ================= MODE 2: DETAILED LIST VIEW ================= */}
-      {viewMode === 'list' && (
+      {!locked && viewMode === 'list' && (
         <div className="space-y-4">
           <div className="flex items-center justify-between text-xs text-slate-400">
             <span>

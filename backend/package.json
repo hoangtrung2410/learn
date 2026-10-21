@@ -9,7 +9,8 @@
     "start": "node node_modules/tsx/dist/cli.mjs src/main.ts",
     "build": "node node_modules/esbuild/bin/esbuild src/main.ts --bundle --platform=node --format=esm --outfile=dist/main.js --packages=external",
     "start:prod": "node dist/main.js",
-    "lint": "node node_modules/typescript/bin/tsc --noEmit"
+    "lint": "node node_modules/typescript/bin/tsc --noEmit",
+    "test": "node --import ./node_modules/tsx/dist/loader.mjs --test --test-concurrency=1 test/auth.test.ts test/shop.test.ts test/ai-quota.test.ts test/vnpay.test.ts test/vnpay-config.test.ts"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",

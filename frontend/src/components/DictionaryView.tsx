@@ -1,3 +1,4 @@
+import { aiFetch } from '../lib/api';
 import React, { useState } from 'react';
 import { LanguageCode } from '../types';
 import { speakNativeText, playPopSound } from '../utils/audio';
@@ -162,6 +163,7 @@ export const DictionaryView: React.FC<{ currentLang: LanguageCode }> = ({ curren
   const [searchTerm, setSearchTerm] = useState('');
   const [activeWord, setActiveWord] = useState<VocabDetail>(defaultWords[0]);
   const [isLoading, setIsLoading] = useState(false);
+  const [lookupError, setLookupError] = useState<string | null>(null);
   const [isFlipped, setIsFlipped] = useState(false);
 
   React.useEffect(() => {
@@ -178,23 +180,22 @@ export const DictionaryView: React.FC<{ currentLang: LanguageCode }> = ({ curren
     setIsLoading(true);
 
     try {
-      const res = await fetch('/api/ai/explain', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          query: query.trim(),
-          targetLanguage: currentLang,
-          type: 'word',
-        }),
+      setLookupError(null);
+      const res = await aiFetch('/api/ai/explain', {
+        query: query.trim(),
+        targetLanguage: currentLang,
+        type: 'word',
       });
 
       if (res.ok) {
         const data = await res.json();
         setActiveWord(data);
         setIsFlipped(false);
+      } else {
+        setLookupError('Không tra được từ này lúc này. Vui lòng thử lại.');
       }
-    } catch (e) {
-      console.error(e);
+    } catch (e: any) {
+      setLookupError(e?.message || 'Không kết nối được máy chủ.');
     } finally {
       setIsLoading(false);
     }
@@ -252,6 +253,7 @@ export const DictionaryView: React.FC<{ currentLang: LanguageCode }> = ({ curren
             {isLoading ? <RefreshCw className="w-4 h-4 animate-spin" /> : 'Tra'}
           </button>
         </div>
+        {lookupError && <p role="alert" className="text-xs text-rose-300 mt-2">{lookupError}</p>}
       </div>
 
       {/* Suggested Quick Words */}

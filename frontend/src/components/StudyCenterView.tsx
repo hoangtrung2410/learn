@@ -23,6 +23,13 @@ import {
   GrammarEntry,
 } from '../data/packLoader';
 import { speakNativeText, playPopSound, playSuccessSound, playErrorSound } from '../utils/audio';
+import { useAccess, zhLevelScope, enLevelScope } from '../lib/access';
+import { LockedPanel } from './LockedPanel';
+
+const levelScope = (lang: 'zh' | 'en', level: string, type?: string): string =>
+  lang === 'zh' ? zhLevelScope(Number(level)) : enLevelScope(level, type === 'ielts' || type === 'toeic' ? type : undefined);
+const chipLabel = (lang: 'zh' | 'en', l: string, locked: boolean) =>
+  `${lang === 'zh' ? (l === '7' ? 'HSK 7-9' : `HSK ${l}`) : l}${locked ? ' 🔒' : ''}`;
 
 interface Props {
   currentLang: LanguageCode;
@@ -34,6 +41,7 @@ type SubTab = 'srs' | 'quiz' | 'grammar';
 interface StudyCard {
   id: string;
   level: string;
+  scope: string;
   front: string;
   reading?: string;
   meaning: string;
@@ -159,6 +167,7 @@ interface SrsState {
 }
 
 const SrsPanel: React.FC<{ lang: 'zh' | 'en'; onAddXp: (n: number) => void }> = ({ lang, onAddXp }) => {
+  const { hasScope } = useAccess();
   const [cards, setCards] = useState<StudyCard[] | null>(null);
   const [level, setLevel] = useState('all');
   const [srs, setSrs] = useState<Record<string, SrsState>>(() => readLS(`lp_srs_${lang}`, {}));
@@ -178,6 +187,7 @@ const SrsPanel: React.FC<{ lang: 'zh' | 'en'; onAddXp: (n: number) => void }> = 
           v.map((w) => ({
             id: w.id,
             level: String(w.level),
+            scope: zhLevelScope(w.level),
             front: w.hanzi,
             reading: w.pinyin,
             meaning: w.meaning,
@@ -194,6 +204,7 @@ const SrsPanel: React.FC<{ lang: 'zh' | 'en'; onAddXp: (n: number) => void }> = 
           v.map((w) => ({
             id: w.id,
             level: w.level,
+            scope: enLevelScope(w.level, w.pack === 'en-toeic' ? 'toeic' : w.pack === 'en-ielts' ? 'ielts' : undefined),
             front: w.word,
             reading: w.ipa,
             meaning: w.meaningVi,
@@ -215,7 +226,9 @@ const SrsPanel: React.FC<{ lang: 'zh' | 'en'; onAddXp: (n: number) => void }> = 
 
   const levels = lang === 'zh' ? ['1', '2', '3', '4', '5', '6', '7'] : ['A1', 'A2', 'B1', 'B2', 'C1'];
 
-  const pool = useMemo(() => (cards || []).filter((c) => level === 'all' || c.level === level), [cards, level]);
+  const pool = useMemo(() => (cards || []).filter((c) => hasScope(c.scope) && (level === 'all' || c.level === level)), [cards, level, hasScope]);
+  const lockedScope = level !== 'all' && !hasScope(levelScope(lang, level)) ? levelScope(lang, level) : null;
+  const lockedTotal = (cards || []).filter((c) => !hasScope(c.scope)).length;
   const stats = useMemo(() => {
     const now = Date.now();
     let learned = 0,
@@ -273,10 +286,17 @@ const SrsPanel: React.FC<{ lang: 'zh' | 'en'; onAddXp: (n: number) => void }> = 
             setLevel(l);
             setStarted(false);
           }}
-          labelOf={lang === 'zh' ? (l) => (l === '7' ? 'HSK 7-9' : `HSK ${l}`) : undefined}
+          labelOf={(l) => chipLabel(lang, l, !hasScope(levelScope(lang, l)))}
         />
       </div>
 
+      {lockedScope ? (
+        <LockedPanel scope={lockedScope} what={`Ôn tập ${chipLabel(lang, level, false)}`} />
+      ) : (
+      <>
+      {level === 'all' && lockedTotal > 0 && (
+        <p className="text-xs text-amber-300">{lockedTotal.toLocaleString('vi-VN')} thẻ nâng cao đang khoá. Mua khoá học để ôn thêm.</p>
+      )}
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
         {[
           ['Tổng số từ', stats.total],
@@ -395,6 +415,8 @@ const SrsPanel: React.FC<{ lang: 'zh' | 'en'; onAddXp: (n: number) => void }> = 
           )}
         </div>
       )}
+      </>
+      )}
     </div>
   );
 };
@@ -507,7 +529,11 @@ function buildFullExam(bank: QuizQuestion[], spec: FullSpec): { qs: QuizQuestion
 }
 
 const QuizPanel: React.FC<{ lang: 'zh' | 'en'; onAddXp: (n: number) => void }> = ({ lang, onAddXp }) => {
-  const [bank, setBank] = useState<QuizQuestion[] | null>(null);
+  const { hasScope } = useAccess();
+  const [rawBank, setBank] = useState<QuizQuestion[] | null>(null);
+  // Chỉ dùng câu hỏi thuộc phần đã mở khoá.
+  const bank = useMemo(() => (rawBank ? rawBank.filter((q) => hasScope(levelScope(lang, q.level, q.type))) : null), [rawBank, hasScope, lang]);
+  const lockedQuestions = rawBank && bank ? rawBank.length - bank.length : 0;
   const [level, setLevel] = useState('all');
   const [type, setType] = useState('all');
   const [mode, setMode] = useState<'practice' | 'exam' | 'wrong'>('practice');
@@ -527,7 +553,8 @@ const QuizPanel: React.FC<{ lang: 'zh' | 'en'; onAddXp: (n: number) => void }> =
     writeLS(`lp_wrong_${lang}`, wrongIds);
   }, [wrongIds, lang]);
 
-  const levels = lang === 'zh' ? ['1', '2', '3', '4', '5', '6'] : ['A1', 'A2', 'B1', 'B2', 'C1'];
+  const levels = lang === 'zh' ? ['1', '2', '3', '4', '5', '6', '7'] : ['A1', 'A2', 'B1', 'B2', 'C1'];
+  const lockedScope = level !== 'all' && !hasScope(levelScope(lang, level)) ? levelScope(lang, level) : null;
   const types = useMemo(() => Array.from(new Set((bank || []).map((q) => q.type))), [bank]);
 
   const filtered = useMemo(
@@ -597,8 +624,12 @@ const QuizPanel: React.FC<{ lang: 'zh' | 'en'; onAddXp: (n: number) => void }> =
           levels={levels}
           value={level}
           onChange={setLevel}
-          labelOf={lang === 'zh' ? (l) => `HSK ${l}` : undefined}
+          labelOf={(l) => chipLabel(lang, l, !hasScope(levelScope(lang, l)))}
         />
+        {lockedScope && <LockedPanel scope={lockedScope} what={`Đề luyện ${chipLabel(lang, level, false)}`} />}
+        {!lockedScope && lockedQuestions > 0 && level === 'all' && (
+          <p className="text-xs text-amber-300">{lockedQuestions.toLocaleString('vi-VN')} câu hỏi nâng cao đang khoá. Mua khoá học để luyện thêm.</p>
+        )}
         <div className="flex gap-1.5 flex-wrap">
           {['all', ...types].map((t) => (
             <button
@@ -878,7 +909,10 @@ const QuizPanel: React.FC<{ lang: 'zh' | 'en'; onAddXp: (n: number) => void }> =
 
 /* ============================================================== GRAMMAR */
 const GrammarPanel: React.FC<{ lang: 'zh' | 'en' }> = ({ lang }) => {
-  const [items, setItems] = useState<GrammarEntry[] | null>(null);
+  const { hasScope } = useAccess();
+  const [rawItems, setItems] = useState<GrammarEntry[] | null>(null);
+  const items = useMemo(() => (rawItems ? rawItems.filter((g) => hasScope(levelScope(lang, g.level))) : null), [rawItems, hasScope, lang]);
+  const lockedGrammar = rawItems && items ? rawItems.length - items.length : 0;
   const [level, setLevel] = useState('all');
   const [q, setQ] = useState('');
   const [open, setOpen] = useState<number | null>(null);
@@ -888,6 +922,7 @@ const GrammarPanel: React.FC<{ lang: 'zh' | 'en' }> = ({ lang }) => {
   }, [lang]);
 
   const levels = lang === 'zh' ? ['1', '2', '3', '4', '5', '6'] : ['A1', 'A2', 'B1', 'B2', 'C1'];
+  const lockedScope = level !== 'all' && !hasScope(levelScope(lang, level)) ? levelScope(lang, level) : null;
   const list = useMemo(() => {
     const s = q.trim().toLowerCase();
     return (items || []).filter(
@@ -905,8 +940,12 @@ const GrammarPanel: React.FC<{ lang: 'zh' | 'en' }> = ({ lang }) => {
         levels={levels}
         value={level}
         onChange={setLevel}
-        labelOf={lang === 'zh' ? (l) => `HSK ${l}` : undefined}
+        labelOf={(l) => chipLabel(lang, l, !hasScope(levelScope(lang, l)))}
       />
+      {lockedScope && <LockedPanel scope={lockedScope} what={`Ngữ pháp ${chipLabel(lang, level, false)}`} />}
+      {!lockedScope && lockedGrammar > 0 && level === 'all' && (
+        <p className="text-xs text-amber-300">{lockedGrammar} điểm ngữ pháp nâng cao đang khoá. Mua khoá học để mở thêm.</p>
+      )}
       <div className="relative">
         <Search className="w-4 h-4 absolute left-3 top-3 text-slate-500" />
         <input
