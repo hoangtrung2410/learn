@@ -290,7 +290,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                   ? { background: 'linear-gradient(135deg,#10b981,#0ea5e9)', color: '#fff', boxShadow: '0 4px 14px rgba(16,185,129,0.35)' }
                   : { color: '#34d399' }}
               >
-                <GraduationCap className="w-3.5 h-3.5" /> 1.000 Từ Vựng A1-C1
+                <GraduationCap className="w-3.5 h-3.5" /> Từ Vựng A1-C1
               </button>
             )}
             {(currentLang === 'zh' || currentLang === 'en') && (
@@ -526,7 +526,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           )}
           {currentLang === 'en' && (
             <button onClick={() => onChangeTab('english-vocab')} className={`px-3 py-1.5 rounded-xl font-bold flex items-center gap-1 whitespace-nowrap transition-all ${activeTab === 'english-vocab' ? 'bg-emerald-500 text-slate-950' : 'text-emerald-400'}`}>
-              <GraduationCap className="w-3.5 h-3.5" /> 1.000 Từ Vựng
+              <GraduationCap className="w-3.5 h-3.5" /> Từ Vựng
             </button>
           )}
           {(currentLang === 'zh' || currentLang === 'en') && (

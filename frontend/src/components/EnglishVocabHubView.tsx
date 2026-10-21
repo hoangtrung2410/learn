@@ -1,5 +1,6 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import { ENGLISH_VOCABULARY_1000, EnglishVocabItem } from '../data/englishVocab1000Data';
+import { loadEnVocab } from '../data/packLoader';
 import { speakNativeText, playPopSound, playSuccessSound, playErrorSound } from '../utils/audio';
 import {
   Search,
@@ -24,23 +25,21 @@ interface EnglishVocabHubViewProps {
   onAddXp: (amount: number) => void;
 }
 
-const TOPICS = [
-  'Tất cả',
-  'Giao tiếp & Đời sống',
-  'Công sở & Phỏng vấn',
-  'Du lịch & Khách sạn',
-  'Ẩm thực & Mua sắm',
-  'Công nghệ & Internet',
-  'Giáo dục & Thi cử',
-  'Sức khỏe & Thể thao',
-  'Môi trường & Thiên nhiên',
-  'Cảm xúc & Tính cách',
-  'Tài chính & Kinh doanh',
-];
-
 const LEVELS = ['Tất cả', 'A1', 'A2', 'B1', 'B2', 'C1'] as const;
 
 export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddXp }) => {
+  const [allVocab, setAllVocab] = useState<EnglishVocabItem[]>(ENGLISH_VOCABULARY_1000);
+  useEffect(() => {
+    let alive = true;
+    loadEnVocab().then((v) => { if (alive) setAllVocab(v); }).catch(() => {});
+    return () => { alive = false; };
+  }, []);
+  const topics = useMemo(() => {
+    const counts = new Map<string, number>();
+    allVocab.forEach((w) => counts.set(w.topic, (counts.get(w.topic) || 0) + 1));
+    return ['Tất cả', ...[...counts.entries()].sort((a, b) => b[1] - a[1]).map(([t]) => t)];
+  }, [allVocab]);
+  const total = allVocab.length;
   const [selectedTopic, setSelectedTopic] = useState('Tất cả');
   const [selectedLevel, setSelectedLevel] = useState<string>('Tất cả');
   const [searchQuery, setSearchQuery] = useState('');
@@ -68,7 +67,7 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
 
   // Filtered vocabulary list
   const filteredList = useMemo(() => {
-    return ENGLISH_VOCABULARY_1000.filter((item) => {
+    return allVocab.filter((item) => {
       const matchTopic = selectedTopic === 'Tất cả' || item.topic === selectedTopic;
       const matchLevel = selectedLevel === 'Tất cả' || item.level === selectedLevel;
       if (!searchQuery.trim()) return matchTopic && matchLevel;
@@ -82,7 +81,7 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
 
       return matchTopic && matchLevel && matchSearch;
     });
-  }, [selectedTopic, selectedLevel, searchQuery]);
+  }, [allVocab, selectedTopic, selectedLevel, searchQuery]);
 
   const masteredCount = Object.keys(masteredIds).length;
 
@@ -128,7 +127,7 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
   const currentQuizWord = filteredList[quizQuestionIdx % (filteredList.length || 1)] || filteredList[0];
   const quizOptions = useMemo(() => {
     if (!currentQuizWord) return [];
-    const wrongPool = ENGLISH_VOCABULARY_1000.filter((w) => w.id !== currentQuizWord.id);
+    const wrongPool = allVocab.filter((w) => w.id !== currentQuizWord.id);
     const shuffledWrong = [...wrongPool].sort(() => 0.5 - Math.random()).slice(0, 3);
     const combined = [currentQuizWord, ...shuffledWrong];
     return combined.sort(() => 0.5 - Math.random());
@@ -169,11 +168,11 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
             <div className="flex items-center gap-3">
               <span className="text-2xl">📚</span>
               <h1 className="text-2xl sm:text-3xl font-black text-white tracking-tight">
-                Kho 1.000 Từ Vựng Tiếng Anh Cốt Lõi (A1 - C1)
+                Kho {total.toLocaleString('vi-VN')} Từ Vựng Tiếng Anh (A1 - C1)
               </h1>
             </div>
             <div className="flex flex-wrap items-center gap-2 text-xs text-slate-400">
-              <span className="text-emerald-400 font-semibold">10 Chủ đề thiết yếu</span>
+              <span className="text-emerald-400 font-semibold">{topics.length - 1} chủ đề</span>
               <span aria-hidden="true" className="text-slate-600">·</span>
               <span>Phiên âm IPA chuẩn quốc tế</span>
               <span aria-hidden="true" className="text-slate-600">·</span>
@@ -191,13 +190,13 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
                 <div className="flex items-center gap-2">
                   <span className="text-[11px] text-slate-400 font-medium">Đã thành thạo:</span>
                   <span className="font-mono text-xs font-black text-amber-400">
-                    {masteredCount} / 1.000 từ
+                    {masteredCount} / {total.toLocaleString('vi-VN')} từ
                   </span>
                 </div>
                 <div className="w-32 h-1 bg-slate-800 rounded-full mt-1 overflow-hidden">
                   <div
                     className="h-full bg-amber-400 transition-all duration-300"
-                    style={{ width: `${Math.min(100, (masteredCount / 1000) * 100)}%` }}
+                    style={{ width: `${Math.min(100, (masteredCount / (total || 1)) * 100)}%` }}
                   />
                 </div>
               </div>
@@ -292,7 +291,7 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
           {/* Topic Pills */}
           <div className="flex items-center gap-1.5 overflow-x-auto pb-1 scrollbar-thin">
             <span className="text-[11px] font-semibold text-slate-400 shrink-0 mr-1">Chủ đề:</span>
-            {TOPICS.map((topic) => (
+            {topics.map((topic) => (
               <button
                 key={topic}
                 type="button"
