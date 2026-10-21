@@ -1,122 +1,122 @@
-A2|grammar|I have lived here ___ 2010.|in|during|for|since|D|Since + mốc thời gian (2010) dùng với hiện tại hoàn thành.
-A2|grammar|She has worked here ___ three years.|in|since|at|for|D|For + khoảng thời gian (three years).
-A2|grammar|Have you ever ___ sushi?|eating|eaten|eat|ate|B|Hiện tại hoàn thành: have + quá khứ phân từ (eaten).
-A2|grammar|He hasn't called me ___.|just|since|already|yet|D|Yet dùng trong câu phủ định và câu hỏi của hiện tại hoàn thành.
-A2|grammar|I ___ my keys. I can't find them.|has lost|have lost|losing|have lose|B|I + have + quá khứ phân từ (lost); kết quả còn ở hiện tại.
-A2|grammar|We ___ to Paris last summer.|go|went|were go|have gone|B|Last summer là mốc quá khứ xác định nên dùng quá khứ đơn.
-A2|grammar|She ___ been to Japan twice.|has|is|did|have|A|Chủ ngữ she dùng has + been (đã từng đến).
+A2|grammar|I have lived here ___ 2010.|for|since|during|in|B|Since + mốc thời gian (2010) dùng với hiện tại hoàn thành.
+A2|grammar|She has worked here ___ three years.|at|in|for|since|C|For + khoảng thời gian (three years).
+A2|grammar|Have you ever ___ sushi?|ate|eating|eat|eaten|D|Hiện tại hoàn thành: have + quá khứ phân từ (eaten).
+A2|grammar|He hasn't called me ___.|already|yet|since|just|B|Yet dùng trong câu phủ định và câu hỏi của hiện tại hoàn thành.
+A2|grammar|I ___ my keys. I can't find them.|losing|have lost|have lose|has lost|B|I + have + quá khứ phân từ (lost); kết quả còn ở hiện tại.
+A2|grammar|We ___ to Paris last summer.|were go|go|have gone|went|D|Last summer là mốc quá khứ xác định nên dùng quá khứ đơn.
+A2|grammar|She ___ been to Japan twice.|is|did|have|has|D|Chủ ngữ she dùng has + been (đã từng đến).
 A2|grammar|What are you ___ to do this weekend?|going|go|goes|gone|A|Dự định tương lai: be going to + V nguyên mẫu.
-A2|grammar|Look at those black clouds. It ___ rain.|does|has|will to|is going to|D|Dự đoán dựa trên bằng chứng hiện tại dùng be going to.
-A2|grammar|I think she ___ pass the exam.|has|will|does|is|B|Dự đoán theo ý kiến cá nhân (I think) dùng will + V.
-A2|grammar|The phone is ringing. I ___ answer it.|would to|am going|have|will|D|Quyết định ngay lúc nói dùng will (I'll).
-A2|grammar|If you ___ hard, you will pass the test.|will study|studying|studied|study|D|Mệnh đề If của điều kiện loại 1 dùng hiện tại đơn.
-A2|grammar|While I ___ TV, the phone rang.|watched|was watching|am watching|have watched|B|Hành động đang diễn ra trong quá khứ bị cắt ngang: quá khứ tiếp diễn.
+A2|grammar|Look at those black clouds. It ___ rain.|will to|is going to|does|has|B|Dự đoán dựa trên bằng chứng hiện tại dùng be going to.
+A2|grammar|I think she ___ pass the exam.|does|has|is|will|D|Dự đoán theo ý kiến cá nhân (I think) dùng will + V.
+A2|grammar|The phone is ringing. I ___ answer it.|have|would to|will|am going|C|Quyết định ngay lúc nói dùng will (I'll).
+A2|grammar|If you ___ hard, you will pass the test.|will study|study|studied|studying|B|Mệnh đề If của điều kiện loại 1 dùng hiện tại đơn.
+A2|grammar|While I ___ TV, the phone rang.|was watching|watched|am watching|have watched|A|Hành động đang diễn ra trong quá khứ bị cắt ngang: quá khứ tiếp diễn.
 A2|grammar|Yesterday at eight, they ___ dinner.|are having|were having|have had|has|B|Thời điểm cụ thể trong quá khứ dùng quá khứ tiếp diễn: were + V-ing.
-A2|grammar|This is the ___ film I have ever seen.|most good|better|best|good|C|So sánh nhất của good là best.
-A2|grammar|She is ___ than me.|more careful|carefuller|careful|most careful|A|Tính từ dài so sánh hơn: more + adj + than.
-A2|grammar|Jim is not ___ as his brother.|so taller|as tall|taller|tallest|B|Cấu trúc so sánh bằng: as + adj + as.
-A2|grammar|The soup is ___ hot to eat.|enough|too|so|very much|B|Too + adj + to V nghĩa là quá... không thể.
-A2|grammar|She isn't old ___ to drive.|enough|so|very|too|A|Adj + enough + to V: đủ... để làm gì; enough đứng sau tính từ.
-A2|grammar|I have ___ questions. Can I ask you?|a few|a little|little|much|A|Questions đếm được nên dùng a few.
-A2|grammar|There is ___ milk in the fridge. We can make coffee.|a little|few|a few|many|A|Milk không đếm được nên dùng a little (có một ít).
-A2|grammar|You ___ wear a seat belt in a car. It's the law.|don't have to|may|must|can|C|Must diễn tả bắt buộc theo luật.
-A2|grammar|You ___ park here. It's forbidden.|don't have to|may|can|mustn't|D|Mustn't diễn tả điều cấm.
+A2|grammar|This is the ___ film I have ever seen.|good|better|most good|best|D|So sánh nhất của good là best.
+A2|grammar|She is ___ than me.|carefuller|more careful|most careful|careful|B|Tính từ dài so sánh hơn: more + adj + than.
+A2|grammar|Jim is not ___ as his brother.|tallest|so taller|as tall|taller|C|Cấu trúc so sánh bằng: as + adj + as.
+A2|grammar|The soup is ___ hot to eat.|enough|too|very much|so|B|Too + adj + to V nghĩa là quá... không thể.
+A2|grammar|She isn't old ___ to drive.|enough|too|very|so|A|Adj + enough + to V: đủ... để làm gì; enough đứng sau tính từ.
+A2|grammar|I have ___ questions. Can I ask you?|a little|a few|much|little|B|Questions đếm được nên dùng a few.
+A2|grammar|There is ___ milk in the fridge. We can make coffee.|a little|many|few|a few|A|Milk không đếm được nên dùng a little (có một ít).
+A2|grammar|You ___ wear a seat belt in a car. It's the law.|can|must|may|don't have to|B|Must diễn tả bắt buộc theo luật.
+A2|grammar|You ___ park here. It's forbidden.|may|mustn't|can|don't have to|B|Mustn't diễn tả điều cấm.
 A2|grammar|You ___ come tomorrow. It's a holiday.|mustn't|don't have to|must|shouldn't|B|Don't have to nghĩa là không cần thiết phải làm.
-A2|grammar|You look tired. You ___ go to bed early.|would|are|should|does|C|Should + V dùng để đưa ra lời khuyên.
-A2|grammar|That is the restaurant ___ we had dinner.|which|whose|where|who|C|Where thay cho nơi chốn.
-A2|grammar|I enjoy ___ to music.|to listen|listening|listened|listen|B|Enjoy + V-ing.
-A2|grammar|She wants ___ a new job.|find|finding|to find|found|C|Want + to + V nguyên mẫu.
+A2|grammar|You look tired. You ___ go to bed early.|are|does|would|should|D|Should + V dùng để đưa ra lời khuyên.
+A2|grammar|That is the restaurant ___ we had dinner.|where|who|whose|which|A|Where thay cho nơi chốn.
+A2|grammar|I enjoy ___ to music.|listening|to listen|listen|listened|A|Enjoy + V-ing.
+A2|grammar|She wants ___ a new job.|to find|find|finding|found|A|Want + to + V nguyên mẫu.
 A2|grammar|He is good at ___ football.|playing|play|to play|played|A|Sau giới từ at dùng V-ing.
-A2|grammar|I'm thinking ___ buying a new car.|about|at|to|for|A|Think about + V-ing.
-A2|grammar|He walked ___ the room and sat down.|between|among|into|since|C|Into diễn tả chuyển động đi vào bên trong.
-A2|grammar|We drove ___ the bridge.|against|among|across|between|C|Across diễn tả di chuyển qua bên kia.
-A2|grammar|When I was young, I ___ play football every day.|used to|am used to|was use to|use to|A|Used to + V nguyên mẫu nói về thói quen trong quá khứ.
+A2|grammar|I'm thinking ___ buying a new car.|at|about|to|for|B|Think about + V-ing.
+A2|grammar|He walked ___ the room and sat down.|among|since|between|into|D|Into diễn tả chuyển động đi vào bên trong.
+A2|grammar|We drove ___ the bridge.|across|between|among|against|A|Across diễn tả di chuyển qua bên kia.
+A2|grammar|When I was young, I ___ play football every day.|used to|use to|was use to|am used to|A|Used to + V nguyên mẫu nói về thói quen trong quá khứ.
 A2|grammar|Anna is my friend. I gave ___ a present.|she|her|hers|herself|B|Sau động từ cần đại từ tân ngữ her.
-A2|grammar|I cut ___ with a knife.|myself|me|my|mine|A|Chủ ngữ và tân ngữ cùng một người dùng đại từ phản thân myself.
-A2|grammar|Their house is bigger than ___.|ours|we|our|us|A|Ours là đại từ sở hữu, thay cho our house.
-A2|grammar|I ___ him yesterday.|have seen|has seen|am seeing|saw|D|Yesterday là mốc quá khứ xác định nên dùng quá khứ đơn.
-A2|grammar|Did you ___ the film last night?|enjoyed|enjoy|enjoying|enjoys|B|Sau did dùng động từ nguyên mẫu.
-A2|grammar|He didn't ___ the answer.|knows|knew|know|known|C|Sau didn't dùng động từ nguyên mẫu.
-A2|grammar|How long ___ you lived here?|do|has|are|have|D|Câu hỏi hiện tại hoàn thành với you: have + you + quá khứ phân từ.
-A2|grammar|I'd like ___ water, please.|a few|some|any|many|B|Lời đề nghị lịch sự dùng some với danh từ không đếm được.
-A2|grammar|Do you have ___ brothers or sisters?|any|an|much|a|A|Câu hỏi với danh từ số nhiều dùng any.
-A2|grammar|My phone ___ yesterday, so I bought a new one.|breaking|broke|breaks|has broken|B|Yesterday dùng quá khứ đơn; quá khứ của break là broke.
-A2|grammar|I'll call you when I ___ home.|getting|will get|get|got|C|Mệnh đề thời gian với when về tương lai dùng hiện tại đơn.
-A2|grammar|He is ___ best player in the team.|some|an|the|a|C|So sánh nhất luôn có the.
-A2|grammar|She has ___ her ticket, so she can't travel.|forget|forgot|forgotten|forgetting|C|Hiện tại hoàn thành: has + quá khứ phân từ (forgotten).
-A2|grammar|Which is ___, Tokyo or Seoul?|more big|most big|bigger|biggest|C|So sánh giữa hai đối tượng dùng so sánh hơn: bigger.
-A2|reading|Last weekend, Mark went to the mountains with his friends. They walked for five hours and had a picnic at the top. Mark was tired but happy.¶Q: How did Mark feel after the walk?|Cold and hungry|Tired but happy|Bored|Sad and angry|B|Đoạn văn nói Mark was tired but happy.
-A2|reading|Sara wants to learn to cook. She is taking an evening class every Tuesday. So far she has learned to make soup and pasta.¶Q: What can Sara make now?|Salad only|Cake and bread|Rice and fish|Soup and pasta|D|Cho đến nay Sara đã học nấu súp và mì ống.
-A2|reading|Notice: The library will close early on Friday because of a staff meeting. It will close at 3 p.m. instead of 6 p.m. It will open as usual on Saturday.¶Q: Why will the library close early?|It is being repaired|There is a holiday|There are few visitors|There is a staff meeting|D|Thông báo nêu lý do là cuộc họp nhân viên.
-A2|reading|Tom's flat is small, but it is in a good place. The metro station is five minutes away and there is a big park behind the building. The rent is expensive.¶Q: What is the problem with Tom's flat?|It is noisy|It is far from the metro|There is no park nearby|The rent is expensive|D|Vấn đề duy nhất được nêu là tiền thuê đắt.
-A2|reading|Hi Ben, I can't come to football tonight because I have a bad cold. I'll stay home and rest. Can we play next week instead? Chris¶Q: Why can't Chris play football?|He is travelling|He lost his boots|He has a cold|He is working|C|Chris bị cảm nặng (a bad cold).
-A2|reading|Linh moved to Ho Chi Minh City two years ago. At first she missed her family very much, but now she has many friends and likes her job.¶Q: How does Linh feel about the city now?|She wants to leave|She hates her job|She misses her family all the time|She likes it|D|Bây giờ Linh có nhiều bạn và thích công việc nên cô hài lòng.
-A2|reading|The new cafe on Park Street opens at 7 a.m. It sells coffee, cakes and sandwiches. On Mondays, all drinks are half price.¶Q: When are drinks cheaper?|At 7 a.m.|On Mondays|Every day|On Sundays|B|Thứ Hai đồ uống giảm nửa giá.
-A2|reading|Peter usually walks to work, but today it is raining, so he is taking the bus. The bus is late and he is worried about the meeting at nine.¶Q: Why is Peter taking the bus today?|He is late|It is raining|He likes buses|His car is broken|B|Hôm nay trời mưa nên anh ấy đi xe buýt.
-A2|reading|My sister is learning Spanish. She has studied it for six months and can now talk about her family and her hobbies. She wants to visit Spain next year.¶Q: What does she want to do next year?|Teach Spanish|Move to Mexico|Study French|Visit Spain|D|Cô ấy muốn đến thăm Tây Ban Nha năm sau.
+A2|grammar|I cut ___ with a knife.|myself|me|mine|my|A|Chủ ngữ và tân ngữ cùng một người dùng đại từ phản thân myself.
+A2|grammar|Their house is bigger than ___.|we|our|ours|us|C|Ours là đại từ sở hữu, thay cho our house.
+A2|grammar|I ___ him yesterday.|has seen|saw|am seeing|have seen|B|Yesterday là mốc quá khứ xác định nên dùng quá khứ đơn.
+A2|grammar|Did you ___ the film last night?|enjoyed|enjoy|enjoys|enjoying|B|Sau did dùng động từ nguyên mẫu.
+A2|grammar|He didn't ___ the answer.|know|knew|knows|known|A|Sau didn't dùng động từ nguyên mẫu.
+A2|grammar|How long ___ you lived here?|have|do|are|has|A|Câu hỏi hiện tại hoàn thành với you: have + you + quá khứ phân từ.
+A2|grammar|I'd like ___ water, please.|many|some|a few|any|B|Lời đề nghị lịch sự dùng some với danh từ không đếm được.
+A2|grammar|Do you have ___ brothers or sisters?|any|a|much|an|A|Câu hỏi với danh từ số nhiều dùng any.
+A2|grammar|My phone ___ yesterday, so I bought a new one.|has broken|breaking|breaks|broke|D|Yesterday dùng quá khứ đơn; quá khứ của break là broke.
+A2|grammar|I'll call you when I ___ home.|got|getting|will get|get|D|Mệnh đề thời gian với when về tương lai dùng hiện tại đơn.
+A2|grammar|He is ___ best player in the team.|a|the|some|an|B|So sánh nhất luôn có the.
+A2|grammar|She has ___ her ticket, so she can't travel.|forgotten|forget|forgot|forgetting|A|Hiện tại hoàn thành: has + quá khứ phân từ (forgotten).
+A2|grammar|Which is ___, Tokyo or Seoul?|bigger|biggest|more big|most big|A|So sánh giữa hai đối tượng dùng so sánh hơn: bigger.
+A2|reading|Last weekend, Mark went to the mountains with his friends. They walked for five hours and had a picnic at the top. Mark was tired but happy.¶Q: How did Mark feel after the walk?|Sad and angry|Tired but happy|Cold and hungry|Bored|B|Đoạn văn nói Mark was tired but happy.
+A2|reading|Sara wants to learn to cook. She is taking an evening class every Tuesday. So far she has learned to make soup and pasta.¶Q: What can Sara make now?|Soup and pasta|Cake and bread|Rice and fish|Salad only|A|Cho đến nay Sara đã học nấu súp và mì ống.
+A2|reading|Notice: The library will close early on Friday because of a staff meeting. It will close at 3 p.m. instead of 6 p.m. It will open as usual on Saturday.¶Q: Why will the library close early?|There are few visitors|It is being repaired|There is a staff meeting|There is a holiday|C|Thông báo nêu lý do là cuộc họp nhân viên.
+A2|reading|Tom's flat is small, but it is in a good place. The metro station is five minutes away and there is a big park behind the building. The rent is expensive.¶Q: What is the problem with Tom's flat?|The rent is expensive|It is far from the metro|There is no park nearby|It is noisy|A|Vấn đề duy nhất được nêu là tiền thuê đắt.
+A2|reading|Hi Ben, I can't come to football tonight because I have a bad cold. I'll stay home and rest. Can we play next week instead? Chris¶Q: Why can't Chris play football?|He has a cold|He is working|He lost his boots|He is travelling|A|Chris bị cảm nặng (a bad cold).
+A2|reading|Linh moved to Ho Chi Minh City two years ago. At first she missed her family very much, but now she has many friends and likes her job.¶Q: How does Linh feel about the city now?|She likes it|She misses her family all the time|She hates her job|She wants to leave|A|Bây giờ Linh có nhiều bạn và thích công việc nên cô hài lòng.
+A2|reading|The new cafe on Park Street opens at 7 a.m. It sells coffee, cakes and sandwiches. On Mondays, all drinks are half price.¶Q: When are drinks cheaper?|At 7 a.m.|On Mondays|On Sundays|Every day|B|Thứ Hai đồ uống giảm nửa giá.
+A2|reading|Peter usually walks to work, but today it is raining, so he is taking the bus. The bus is late and he is worried about the meeting at nine.¶Q: Why is Peter taking the bus today?|It is raining|He is late|His car is broken|He likes buses|A|Hôm nay trời mưa nên anh ấy đi xe buýt.
+A2|reading|My sister is learning Spanish. She has studied it for six months and can now talk about her family and her hobbies. She wants to visit Spain next year.¶Q: What does she want to do next year?|Visit Spain|Study French|Teach Spanish|Move to Mexico|A|Cô ấy muốn đến thăm Tây Ban Nha năm sau.
 A2|reading|Ann bought a jacket online. It arrived after a week, but it was too small. She sent it back and asked for a bigger size.¶Q: What was wrong with the jacket?|It was too small|It was too expensive|It was dirty|It was the wrong colour|A|Áo khoác quá nhỏ.
-A2|reading|Our school trip to the zoo is on 12 May. Students must bring lunch and a bottle of water. Parents should sign the form by 5 May.¶Q: What must students bring?|Lunch and water|Money and a camera|Only a form|Warm clothes|A|Học sinh phải mang bữa trưa và chai nước.
-A2|reading|Jim has two jobs. In the morning he delivers newspapers, and in the afternoon he works in a shop. He studies at night.¶Q: When does Jim study?|At weekends|In the afternoon|In the morning|At night|D|Jim học vào ban đêm.
-A2|reading|I don't like big cities. They are noisy and crowded. I prefer small towns because life is quiet there and people are friendly.¶Q: Why does the writer like small towns?|They are big|They are cheap|They have many shops|They are quiet and friendly|D|Thị trấn nhỏ yên tĩnh và người dân thân thiện.
-A2|reading|Maria is allergic to nuts. Yesterday she ate a cake in a restaurant and felt sick. The waiter said the cake had nuts in it.¶Q: Why did Maria feel sick?|She was tired|The cake was old|The cake had nuts|She ate too fast|C|Maria dị ứng hạt và bánh có hạt.
-A2|reading|The film starts at 7:30. Dan will meet Eva outside the cinema at 7:00 so they can buy popcorn first.¶Q: Why will they meet at 7:00?|To wait for a friend|To buy tickets online|To buy popcorn|To eat dinner|C|Họ gặp sớm để mua bắp rang trước.
-A2|reading|I'm Kim. I work as a nurse at night, so I sleep during the day. I get home at 8 a.m., have breakfast and go to bed.¶Q: When does Kim sleep?|During the day|Never|At night|In the evening|A|Kim làm ca đêm nên ngủ ban ngày.
-A2|reading|There are three hotels in the village. The Blue Hotel is the cheapest, the Star Hotel is the best, and the Lake Hotel is the closest to the beach.¶Q: Which hotel is the cheapest?|The Lake Hotel|The Star Hotel|The Blue Hotel|The Beach Hotel|C|The cheapest là rẻ nhất: Blue Hotel.
-A2|reading|Tuan has been learning the guitar for a year. He practises every evening for half an hour. Next month he will play in a school concert.¶Q: What will Tuan do next month?|Start lessons|Buy a guitar|Stop practising|Play in a concert|D|Tháng sau Tuan sẽ biểu diễn trong buổi hòa nhạc của trường.
-A2|reading|Yesterday it was very windy. A big tree fell across the road and cars could not pass. The police closed the road for three hours.¶Q: What happened to the road?|The police closed it|It was made wider|It was repaired|It flooded|A|Cảnh sát đã đóng con đường ba tiếng.
-A2|reading|Anna lives with two other students. They share the kitchen, but each has their own bedroom. They clean the flat together every Saturday.¶Q: What do they do every Saturday?|Go shopping|Clean the flat|Cook together|Visit friends|B|Họ cùng dọn căn hộ vào thứ Bảy.
-A2|reading|Dear Mum, We arrived in Rome safely. The hotel is nice and our room has a view of the river. Tomorrow we will visit the Colosseum. Love, Jack¶Q: What will Jack do tomorrow?|Swim in the river|Visit the Colosseum|Rest in the hotel|Fly home|B|Ngày mai họ sẽ thăm Đấu trường La Mã.
-A2|reading|I always drink tea in the morning, but I never drink coffee. It makes me nervous and I can't sleep.¶Q: Why doesn't the writer drink coffee?|It is expensive|He doesn't like the taste|It makes him nervous|It is too hot|C|Cà phê làm người viết lo lắng và mất ngủ.
-A2|reading|A bus ticket costs two dollars. A day pass costs five dollars. If you take the bus more than twice a day, the day pass is cheaper.¶Q: When is the day pass cheaper?|When you take more than two trips|On weekends only|When you take one trip|For children only|A|Từ 3 chuyến trở lên (6 đô) đắt hơn vé ngày (5 đô).
-A2|reading|Lisa is late for work. Her alarm didn't ring, so she woke up at eight. She ran to the bus stop, but the bus had left.¶Q: Why was Lisa late?|She was ill|The bus was full|She forgot her bag|Her alarm didn't ring|D|Báo thức không reo nên cô ngủ dậy muộn.
-A2|reading|This sports centre has a swimming pool, a gym and two tennis courts. The pool is open from 7 a.m. to 9 p.m. The gym is open 24 hours.¶Q: Which place is open all day and night?|The cafe|The pool|The tennis courts|The gym|D|Phòng gym mở cửa 24 giờ.
-A2|reading|My brother is taller than me, but I am faster than him. He plays basketball and I play football.¶Q: Who is faster?|We don't know|The writer|They are the same|The brother|B|Người viết nói I am faster than him.
-A2|reading|Hoa has just started a new job in a bank. She likes her colleagues, but she finds the work difficult. She hopes it will get easier.¶Q: What does Hoa think about her work?|It is boring|It is dangerous|It is easy|It is difficult|D|Hoa thấy công việc khó (difficult).
-A2|reading|We should leave now. The last train to the city is at 10:30, and it takes twenty minutes to walk to the station. It is already 10:05.¶Q: Why should they leave now?|It is raining|They may miss the last train|They are hungry|The film is starting|B|Đi bộ mất 20 phút, đã 10:05 nên có thể lỡ chuyến tàu cuối.
-A2|reading|John grew up in a small village. He used to swim in the river every summer. Now he lives in a big city and he misses the village.¶Q: What did John do in summer as a child?|He climbed mountains|He swam in the river|He worked on a farm|He played in the city|B|Used to swim nghĩa là hồi nhỏ anh hay bơi ở sông.
-A2|reading|Ticket information: Adults pay ten dollars. Children under twelve pay half price. Children under three go free.¶Q: How much does a ten-year-old child pay?|Five dollars|Nothing|Twelve dollars|Ten dollars|A|Trẻ dưới 12 tuổi trả nửa giá: 5 đô.
-A2|reading|Mai and Nam want to have a party on Saturday. Mai will buy the food, and Nam will bring the music. They haven't invited their teacher yet.¶Q: Who will buy the food?|Nobody|Mai|Their teacher|Nam|B|Mai sẽ mua đồ ăn.
-A2|reading|Last year, I visited my aunt in Australia. I stayed for a month. I learned to surf and I made many new friends.¶Q: How long did the writer stay in Australia?|A year|A month|A week|Two days|B|Người viết ở lại một tháng.
-A2|reading|Weather forecast: Tomorrow will be cloudy in the morning with some rain in the afternoon. The evening will be dry but cold.¶Q: When will it rain?|In the morning|In the evening|In the afternoon|All day|C|Dự báo có mưa vào buổi chiều.
-A2|reading|Dan was nervous before his job interview. He arrived early, wore a nice shirt and smiled. The manager asked him many questions and said he did very well.¶Q: How did the interview go?|Badly|Dan was late|Well|It was cancelled|C|Quản lý nói Dan làm rất tốt.
-A2|reading|People in my town are very friendly. They always say hello in the street, and neighbours often help each other.¶Q: What are the people in the town like?|Quiet|Rude|Friendly|Busy|C|Người dân rất thân thiện.
-A2|listen|A: Have you finished the report?¶B: Not yet. I'll finish it this afternoon.¶Q: When will B finish the report?|Tonight|This morning|This afternoon|Tomorrow|C|B nói sẽ làm xong vào chiều nay.
-A2|listen|A: Did you enjoy the concert?¶B: Yes, it was fantastic, but the tickets were too expensive.¶Q: What was the problem?|The queue was long|The tickets were expensive|The music was bad|It started late|B|Vấn đề là vé quá đắt.
-A2|listen|A: Excuse me, how do I get to the station?¶B: Take the second street on the right and walk for ten minutes.¶Q: How long is the walk?|Ten minutes|One hour|Five minutes|Half an hour|A|B nói đi bộ mười phút.
-A2|listen|A: What are you going to do this weekend?¶B: I'm going to visit my cousins in Hue.¶Q: What will B do this weekend?|Stay at home|Study English|Visit cousins|Go to work|C|B sẽ thăm các anh chị em họ.
-A2|listen|A: Why are you late?¶B: Sorry. My bus broke down.¶Q: Tại sao B đến muộn?|Bị lạc đường|Ngủ quên|Xe buýt bị hỏng|Bị ốm|C|B nói xe buýt bị hỏng.
-A2|listen|A: I'd like to book a table for four at seven o'clock.¶B: Certainly. What's the name?¶A: Wilson.¶Q: How many people is the table for?|Four|Seven|Six|Two|A|A đặt bàn cho bốn người.
-A2|listen|A: How long have you worked here?¶B: For about three years. Before that, I worked in a hotel.¶Q: How long has B worked here?|One year|Five years|Three years|Ten years|C|B làm ở đây khoảng ba năm.
-A2|listen|A: Shall we take a taxi?¶B: No, it's too expensive. Let's take the bus.¶Q: How will they go?|On foot|By taxi|By bus|By train|C|B đề nghị đi xe buýt vì taxi quá đắt.
-A2|listen|A: You look terrible. What's wrong?¶B: I have a sore throat and a fever.¶Q: What is wrong with B?|A stomachache|A broken leg|A sore throat and a fever|A headache only|C|B bị đau họng và sốt.
-A2|listen|A: Do you want to see the new action film?¶B: I've already seen it. How about a comedy?¶Q: What does B suggest?|Staying at home|The action film|A cartoon|A comedy|D|B đề nghị xem phim hài.
-A2|listen|A: What's the weather going to be like tomorrow?¶B: It will be rainy, so take an umbrella.¶Q: What should A take?|Sunglasses|A fan|A hat|An umbrella|D|Trời mưa nên mang ô.
-A2|listen|A: Which do you prefer, tea or coffee?¶B: Coffee, but I only drink one cup a day.¶Q: How many cups of coffee does B drink a day?|Three|One|None|Two|B|B chỉ uống một tách mỗi ngày.
-A2|listen|A: Is the museum far from here?¶B: Not really. It's about a ten-minute walk.¶Q: Bảo tàng cách đây bao xa?|Rất xa|Đi bộ khoảng 10 phút|Đi bộ 1 giờ|Đi xe buýt 20 phút|B|B nói khoảng mười phút đi bộ.
-A2|listen|A: Have you ever been to London?¶B: Yes, I went there two years ago with my family.¶Q: When did B go to London?|Last month|Never|Two years ago|Last year|C|B nói đã đi cách đây hai năm.
-A2|listen|A: Could you help me with my suitcase?¶B: Of course. It's heavy! What's in it?¶A: Mostly books.¶Q: What is in the suitcase?|Clothes|Shoes|Books|Food|C|A nói chủ yếu là sách.
-A2|listen|A: I can't find my glasses.¶B: Look on the kitchen table. You were reading there this morning.¶Q: Where might the glasses be?|In the car|In the bedroom|On the kitchen table|In the bag|C|B gợi ý tìm trên bàn bếp.
-A2|listen|A: When does the next train to Hanoi leave?¶B: At quarter past two.¶Q: What time does the train leave?|2:45|3:15|2:15|1:15|C|Quarter past two là 2 giờ 15.
-A2|listen|A: I'm going to the supermarket. Do we need anything?¶B: We need some eggs and a little butter. We have enough milk.¶Q: What do they need to buy?|Eggs and butter|Milk and butter|Milk and eggs|Only milk|A|Họ cần trứng và bơ; sữa đã đủ.
-A2|listen|A: You can't park here.¶B: Why not?¶A: Look at the sign. It says No parking.¶Q: Why can't B park there?|There is a No parking sign|It costs too much|It is a private street|The street is full|A|Biển báo ghi cấm đỗ xe.
-A2|listen|A: Did you watch the match last night?¶B: No, I was studying for my exam.¶Q: What was B doing last night?|Sleeping|Studying|Watching the match|Working|B|B đang học bài cho kỳ thi.
-A2|listen|A: How was your holiday?¶B: Great! The hotel was lovely and the food was delicious. But it rained for two days.¶Q: What was bad about the holiday?|The hotel|The people|The food|The weather|D|Điều không tốt là trời mưa hai ngày.
-A2|listen|A: Would you like to come to my party on Saturday?¶B: I'd love to, but I have to work.¶Q: Can B come to the party?|Yes, B will come|No, B is ill|Yes, after work|No, B has to work|D|B phải làm việc nên không đi được.
-A2|listen|A: Is that your new bike?¶B: Yes. I bought it last week. It's faster than my old one.¶Q: What is true about the bike?|It belongs to A|It is old|It is slower than the old one|It is new and faster than the old one|D|Xe mới mua tuần trước và nhanh hơn xe cũ.
-A2|listen|A: What does your sister look like?¶B: She's short with curly hair and she wears glasses.¶Q: Chị của B trông thế nào?|Thấp, tóc xoăn, đeo kính|Cao, tóc thẳng|Thấp, tóc dài, không đeo kính|Cao, đeo kính|A|B mô tả cô ấy thấp, tóc xoăn, đeo kính.
-A2|listen|A: I'm so tired. I've been working since six o'clock.¶B: You should take a break.¶Q: What does B advise?|Take a break|Go to bed now|Drink tea|Work more|A|B khuyên nên nghỉ giải lao.
-A2|listen|A: Is this seat free?¶B: Sorry, it's taken. My friend is coming back in a minute.¶Q: Is the seat free?|We don't know|Yes|No|Only for a minute|C|Ghế đã có người (it's taken).
-A2|listen|A: How much is a ticket to the zoo?¶B: Eight dollars for adults and four dollars for children.¶A: I'll take two adult tickets.¶Q: How much will A pay?|16 dollars|8 dollars|4 dollars|12 dollars|A|Hai vé người lớn: 2 x 8 = 16 đô.
-A2|listen|A: Do you play any sports?¶B: I used to play tennis, but now I just go swimming.¶Q: What sport does B do now?|Football|Swimming|Tennis|Running|B|Used to nghĩa là trước đây; hiện giờ B chỉ đi bơi.
-A2|listen|A: I'm hungry. Is there anything to eat?¶B: There's some cold pizza in the fridge, or I can make you a sandwich.¶Q: What can B make?|Soup|A salad|A pizza|A sandwich|D|B có thể làm bánh sandwich.
-A2|listen|A: Our flight is delayed.¶B: For how long?¶A: About two hours. It will leave at ten.¶Q: What time will the flight leave?|2:00|10:00|12:00|8:00|B|Chuyến bay sẽ cất cánh lúc 10 giờ.
-A2|listen|A: Who's that man over there?¶B: He's the new manager. He used to work in Japan.¶Q: Who is the man?|A teacher|A customer|The new manager|B's brother|C|B nói đó là quản lý mới.
-A2|listen|A: Can I pay by card?¶B: I'm sorry. We only take cash.¶Q: How can A pay?|By phone|Online|By card|Only in cash|D|Cửa hàng chỉ nhận tiền mặt.
-A2|listen|A: My computer isn't working.¶B: Have you tried turning it off and on again?¶A: Not yet.¶Q: What does B suggest?|Turn it off and on again|Buy a new one|Wait a week|Call a shop|A|B gợi ý tắt rồi bật lại.
-A2|listen|A: Where did you buy that dress? It's beautiful.¶B: Thanks. My mother made it for me.¶Q: Who made the dress?|A shop|A|B's mother|B's sister|C|Mẹ của B làm chiếc váy.
-A2|listen|A: I've lost my wallet!¶B: Don't worry. When did you last have it?¶A: At the cafe, I think.¶Q: Where did A last have the wallet?|On the bus|At home|At the cafe|At school|C|A nghĩ lần cuối có ví là ở quán cà phê.
-A2|listen|A: If it's sunny tomorrow, let's have a picnic.¶B: Good idea. I'll bring the sandwiches.¶Q: What will B bring?|Fruit|Sandwiches|A ball|Drinks|B|B sẽ mang bánh sandwich.
-A2|listen|A: What time does the film finish?¶B: At about half past ten, so we'll have to take a taxi home.¶Q: Why will they take a taxi?|The bus is cheaper|The film finishes late|It is raining|They like taxis|B|Phim kết thúc muộn nên cần taxi về nhà.
-A2|listen|A: You're always on your phone! You should talk to people.¶B: But I am talking to my friends, online!¶Q: What does A think?|B has no friends|B talks too much|B uses the phone too much|B is rude|C|A cho rằng B dùng điện thoại quá nhiều.
-A2|listen|A: Are you ready to order?¶B: Yes. I'll have the chicken soup, please. And a glass of orange juice.¶Q: What does B order?|Fish soup|Tea|Chicken and rice|Chicken soup and orange juice|D|B gọi súp gà và nước cam.
-A2|listen|A: Which floor is the shoe department on?¶B: It's on the third floor, next to the escalator.¶Q: Which floor is it on?|The second floor|The fourth floor|The third floor|The first floor|C|Khu giày dép ở tầng ba.
+A2|reading|Our school trip to the zoo is on 12 May. Students must bring lunch and a bottle of water. Parents should sign the form by 5 May.¶Q: What must students bring?|Money and a camera|Lunch and water|Only a form|Warm clothes|B|Học sinh phải mang bữa trưa và chai nước.
+A2|reading|Jim has two jobs. In the morning he delivers newspapers, and in the afternoon he works in a shop. He studies at night.¶Q: When does Jim study?|At night|In the morning|In the afternoon|At weekends|A|Jim học vào ban đêm.
+A2|reading|I don't like big cities. They are noisy and crowded. I prefer small towns because life is quiet there and people are friendly.¶Q: Why does the writer like small towns?|They are quiet and friendly|They are big|They have many shops|They are cheap|A|Thị trấn nhỏ yên tĩnh và người dân thân thiện.
+A2|reading|Maria is allergic to nuts. Yesterday she ate a cake in a restaurant and felt sick. The waiter said the cake had nuts in it.¶Q: Why did Maria feel sick?|She ate too fast|The cake was old|She was tired|The cake had nuts|D|Maria dị ứng hạt và bánh có hạt.
+A2|reading|The film starts at 7:30. Dan will meet Eva outside the cinema at 7:00 so they can buy popcorn first.¶Q: Why will they meet at 7:00?|To eat dinner|To wait for a friend|To buy tickets online|To buy popcorn|D|Họ gặp sớm để mua bắp rang trước.
+A2|reading|I'm Kim. I work as a nurse at night, so I sleep during the day. I get home at 8 a.m., have breakfast and go to bed.¶Q: When does Kim sleep?|During the day|In the evening|Never|At night|A|Kim làm ca đêm nên ngủ ban ngày.
+A2|reading|There are three hotels in the village. The Blue Hotel is the cheapest, the Star Hotel is the best, and the Lake Hotel is the closest to the beach.¶Q: Which hotel is the cheapest?|The Blue Hotel|The Lake Hotel|The Star Hotel|The Beach Hotel|A|The cheapest là rẻ nhất: Blue Hotel.
+A2|reading|Tuan has been learning the guitar for a year. He practises every evening for half an hour. Next month he will play in a school concert.¶Q: What will Tuan do next month?|Stop practising|Buy a guitar|Play in a concert|Start lessons|C|Tháng sau Tuan sẽ biểu diễn trong buổi hòa nhạc của trường.
+A2|reading|Yesterday it was very windy. A big tree fell across the road and cars could not pass. The police closed the road for three hours.¶Q: What happened to the road?|It was made wider|It flooded|The police closed it|It was repaired|C|Cảnh sát đã đóng con đường ba tiếng.
+A2|reading|Anna lives with two other students. They share the kitchen, but each has their own bedroom. They clean the flat together every Saturday.¶Q: What do they do every Saturday?|Cook together|Go shopping|Clean the flat|Visit friends|C|Họ cùng dọn căn hộ vào thứ Bảy.
+A2|reading|Dear Mum, We arrived in Rome safely. The hotel is nice and our room has a view of the river. Tomorrow we will visit the Colosseum. Love, Jack¶Q: What will Jack do tomorrow?|Rest in the hotel|Visit the Colosseum|Fly home|Swim in the river|B|Ngày mai họ sẽ thăm Đấu trường La Mã.
+A2|reading|I always drink tea in the morning, but I never drink coffee. It makes me nervous and I can't sleep.¶Q: Why doesn't the writer drink coffee?|He doesn't like the taste|It makes him nervous|It is expensive|It is too hot|B|Cà phê làm người viết lo lắng và mất ngủ.
+A2|reading|A bus ticket costs two dollars. A day pass costs five dollars. If you take the bus more than twice a day, the day pass is cheaper.¶Q: When is the day pass cheaper?|On weekends only|When you take one trip|When you take more than two trips|For children only|C|Từ 3 chuyến trở lên (6 đô) đắt hơn vé ngày (5 đô).
+A2|reading|Lisa is late for work. Her alarm didn't ring, so she woke up at eight. She ran to the bus stop, but the bus had left.¶Q: Why was Lisa late?|She forgot her bag|The bus was full|Her alarm didn't ring|She was ill|C|Báo thức không reo nên cô ngủ dậy muộn.
+A2|reading|This sports centre has a swimming pool, a gym and two tennis courts. The pool is open from 7 a.m. to 9 p.m. The gym is open 24 hours.¶Q: Which place is open all day and night?|The gym|The cafe|The tennis courts|The pool|A|Phòng gym mở cửa 24 giờ.
+A2|reading|My brother is taller than me, but I am faster than him. He plays basketball and I play football.¶Q: Who is faster?|The brother|We don't know|They are the same|The writer|D|Người viết nói I am faster than him.
+A2|reading|Hoa has just started a new job in a bank. She likes her colleagues, but she finds the work difficult. She hopes it will get easier.¶Q: What does Hoa think about her work?|It is boring|It is difficult|It is easy|It is dangerous|B|Hoa thấy công việc khó (difficult).
+A2|reading|We should leave now. The last train to the city is at 10:30, and it takes twenty minutes to walk to the station. It is already 10:05.¶Q: Why should they leave now?|They are hungry|It is raining|The film is starting|They may miss the last train|D|Đi bộ mất 20 phút, đã 10:05 nên có thể lỡ chuyến tàu cuối.
+A2|reading|John grew up in a small village. He used to swim in the river every summer. Now he lives in a big city and he misses the village.¶Q: What did John do in summer as a child?|He played in the city|He swam in the river|He worked on a farm|He climbed mountains|B|Used to swim nghĩa là hồi nhỏ anh hay bơi ở sông.
+A2|reading|Ticket information: Adults pay ten dollars. Children under twelve pay half price. Children under three go free.¶Q: How much does a ten-year-old child pay?|Five dollars|Twelve dollars|Ten dollars|Nothing|A|Trẻ dưới 12 tuổi trả nửa giá: 5 đô.
+A2|reading|Mai and Nam want to have a party on Saturday. Mai will buy the food, and Nam will bring the music. They haven't invited their teacher yet.¶Q: Who will buy the food?|Nam|Mai|Their teacher|Nobody|B|Mai sẽ mua đồ ăn.
+A2|reading|Last year, I visited my aunt in Australia. I stayed for a month. I learned to surf and I made many new friends.¶Q: How long did the writer stay in Australia?|A week|A year|A month|Two days|C|Người viết ở lại một tháng.
+A2|reading|Weather forecast: Tomorrow will be cloudy in the morning with some rain in the afternoon. The evening will be dry but cold.¶Q: When will it rain?|In the morning|In the afternoon|In the evening|All day|B|Dự báo có mưa vào buổi chiều.
+A2|reading|Dan was nervous before his job interview. He arrived early, wore a nice shirt and smiled. The manager asked him many questions and said he did very well.¶Q: How did the interview go?|Dan was late|It was cancelled|Badly|Well|D|Quản lý nói Dan làm rất tốt.
+A2|reading|People in my town are very friendly. They always say hello in the street, and neighbours often help each other.¶Q: What are the people in the town like?|Friendly|Quiet|Rude|Busy|A|Người dân rất thân thiện.
+A2|listen|A: Have you finished the report?¶B: Not yet. I'll finish it this afternoon.¶Q: When will B finish the report?|Tomorrow|This morning|Tonight|This afternoon|D|B nói sẽ làm xong vào chiều nay.
+A2|listen|A: Did you enjoy the concert?¶B: Yes, it was fantastic, but the tickets were too expensive.¶Q: What was the problem?|The music was bad|The tickets were expensive|The queue was long|It started late|B|Vấn đề là vé quá đắt.
+A2|listen|A: Excuse me, how do I get to the station?¶B: Take the second street on the right and walk for ten minutes.¶Q: How long is the walk?|Ten minutes|Five minutes|One hour|Half an hour|A|B nói đi bộ mười phút.
+A2|listen|A: What are you going to do this weekend?¶B: I'm going to visit my cousins in Hue.¶Q: What will B do this weekend?|Go to work|Stay at home|Study English|Visit cousins|D|B sẽ thăm các anh chị em họ.
+A2|listen|A: Why are you late?¶B: Sorry. My bus broke down.¶Q: Tại sao B đến muộn?|Bị ốm|Ngủ quên|Bị lạc đường|Xe buýt bị hỏng|D|B nói xe buýt bị hỏng.
+A2|listen|A: I'd like to book a table for four at seven o'clock.¶B: Certainly. What's the name?¶A: Wilson.¶Q: How many people is the table for?|Seven|Two|Six|Four|D|A đặt bàn cho bốn người.
+A2|listen|A: How long have you worked here?¶B: For about three years. Before that, I worked in a hotel.¶Q: How long has B worked here?|Five years|Three years|One year|Ten years|B|B làm ở đây khoảng ba năm.
+A2|listen|A: Shall we take a taxi?¶B: No, it's too expensive. Let's take the bus.¶Q: How will they go?|By train|On foot|By taxi|By bus|D|B đề nghị đi xe buýt vì taxi quá đắt.
+A2|listen|A: You look terrible. What's wrong?¶B: I have a sore throat and a fever.¶Q: What is wrong with B?|A headache only|A broken leg|A stomachache|A sore throat and a fever|D|B bị đau họng và sốt.
+A2|listen|A: Do you want to see the new action film?¶B: I've already seen it. How about a comedy?¶Q: What does B suggest?|A comedy|Staying at home|A cartoon|The action film|A|B đề nghị xem phim hài.
+A2|listen|A: What's the weather going to be like tomorrow?¶B: It will be rainy, so take an umbrella.¶Q: What should A take?|A hat|An umbrella|A fan|Sunglasses|B|Trời mưa nên mang ô.
+A2|listen|A: Which do you prefer, tea or coffee?¶B: Coffee, but I only drink one cup a day.¶Q: How many cups of coffee does B drink a day?|None|One|Two|Three|B|B chỉ uống một tách mỗi ngày.
+A2|listen|A: Is the museum far from here?¶B: Not really. It's about a ten-minute walk.¶Q: Bảo tàng cách đây bao xa?|Đi xe buýt 20 phút|Rất xa|Đi bộ 1 giờ|Đi bộ khoảng 10 phút|D|B nói khoảng mười phút đi bộ.
+A2|listen|A: Have you ever been to London?¶B: Yes, I went there two years ago with my family.¶Q: When did B go to London?|Two years ago|Last year|Never|Last month|A|B nói đã đi cách đây hai năm.
+A2|listen|A: Could you help me with my suitcase?¶B: Of course. It's heavy! What's in it?¶A: Mostly books.¶Q: What is in the suitcase?|Shoes|Books|Clothes|Food|B|A nói chủ yếu là sách.
+A2|listen|A: I can't find my glasses.¶B: Look on the kitchen table. You were reading there this morning.¶Q: Where might the glasses be?|On the kitchen table|In the car|In the bedroom|In the bag|A|B gợi ý tìm trên bàn bếp.
+A2|listen|A: When does the next train to Hanoi leave?¶B: At quarter past two.¶Q: What time does the train leave?|3:15|1:15|2:45|2:15|D|Quarter past two là 2 giờ 15.
+A2|listen|A: I'm going to the supermarket. Do we need anything?¶B: We need some eggs and a little butter. We have enough milk.¶Q: What do they need to buy?|Milk and butter|Milk and eggs|Eggs and butter|Only milk|C|Họ cần trứng và bơ; sữa đã đủ.
+A2|listen|A: You can't park here.¶B: Why not?¶A: Look at the sign. It says No parking.¶Q: Why can't B park there?|There is a No parking sign|It is a private street|The street is full|It costs too much|A|Biển báo ghi cấm đỗ xe.
+A2|listen|A: Did you watch the match last night?¶B: No, I was studying for my exam.¶Q: What was B doing last night?|Watching the match|Studying|Sleeping|Working|B|B đang học bài cho kỳ thi.
+A2|listen|A: How was your holiday?¶B: Great! The hotel was lovely and the food was delicious. But it rained for two days.¶Q: What was bad about the holiday?|The people|The weather|The food|The hotel|B|Điều không tốt là trời mưa hai ngày.
+A2|listen|A: Would you like to come to my party on Saturday?¶B: I'd love to, but I have to work.¶Q: Can B come to the party?|Yes, B will come|Yes, after work|No, B has to work|No, B is ill|C|B phải làm việc nên không đi được.
+A2|listen|A: Is that your new bike?¶B: Yes. I bought it last week. It's faster than my old one.¶Q: What is true about the bike?|It is new and faster than the old one|It is old|It is slower than the old one|It belongs to A|A|Xe mới mua tuần trước và nhanh hơn xe cũ.
+A2|listen|A: What does your sister look like?¶B: She's short with curly hair and she wears glasses.¶Q: Chị của B trông thế nào?|Cao, tóc thẳng|Thấp, tóc xoăn, đeo kính|Thấp, tóc dài, không đeo kính|Cao, đeo kính|B|B mô tả cô ấy thấp, tóc xoăn, đeo kính.
+A2|listen|A: I'm so tired. I've been working since six o'clock.¶B: You should take a break.¶Q: What does B advise?|Take a break|Drink tea|Work more|Go to bed now|A|B khuyên nên nghỉ giải lao.
+A2|listen|A: Is this seat free?¶B: Sorry, it's taken. My friend is coming back in a minute.¶Q: Is the seat free?|Only for a minute|We don't know|Yes|No|D|Ghế đã có người (it's taken).
+A2|listen|A: How much is a ticket to the zoo?¶B: Eight dollars for adults and four dollars for children.¶A: I'll take two adult tickets.¶Q: How much will A pay?|16 dollars|8 dollars|12 dollars|4 dollars|A|Hai vé người lớn: 2 x 8 = 16 đô.
+A2|listen|A: Do you play any sports?¶B: I used to play tennis, but now I just go swimming.¶Q: What sport does B do now?|Tennis|Swimming|Football|Running|B|Used to nghĩa là trước đây; hiện giờ B chỉ đi bơi.
+A2|listen|A: I'm hungry. Is there anything to eat?¶B: There's some cold pizza in the fridge, or I can make you a sandwich.¶Q: What can B make?|A pizza|A sandwich|A salad|Soup|B|B có thể làm bánh sandwich.
+A2|listen|A: Our flight is delayed.¶B: For how long?¶A: About two hours. It will leave at ten.¶Q: What time will the flight leave?|8:00|10:00|12:00|2:00|B|Chuyến bay sẽ cất cánh lúc 10 giờ.
+A2|listen|A: Who's that man over there?¶B: He's the new manager. He used to work in Japan.¶Q: Who is the man?|A customer|The new manager|A teacher|B's brother|B|B nói đó là quản lý mới.
+A2|listen|A: Can I pay by card?¶B: I'm sorry. We only take cash.¶Q: How can A pay?|By card|Only in cash|By phone|Online|B|Cửa hàng chỉ nhận tiền mặt.
+A2|listen|A: My computer isn't working.¶B: Have you tried turning it off and on again?¶A: Not yet.¶Q: What does B suggest?|Turn it off and on again|Buy a new one|Call a shop|Wait a week|A|B gợi ý tắt rồi bật lại.
+A2|listen|A: Where did you buy that dress? It's beautiful.¶B: Thanks. My mother made it for me.¶Q: Who made the dress?|B's mother|A shop|A|B's sister|A|Mẹ của B làm chiếc váy.
+A2|listen|A: I've lost my wallet!¶B: Don't worry. When did you last have it?¶A: At the cafe, I think.¶Q: Where did A last have the wallet?|At the cafe|At school|On the bus|At home|A|A nghĩ lần cuối có ví là ở quán cà phê.
+A2|listen|A: If it's sunny tomorrow, let's have a picnic.¶B: Good idea. I'll bring the sandwiches.¶Q: What will B bring?|Drinks|Sandwiches|A ball|Fruit|B|B sẽ mang bánh sandwich.
+A2|listen|A: What time does the film finish?¶B: At about half past ten, so we'll have to take a taxi home.¶Q: Why will they take a taxi?|They like taxis|The bus is cheaper|The film finishes late|It is raining|C|Phim kết thúc muộn nên cần taxi về nhà.
+A2|listen|A: You're always on your phone! You should talk to people.¶B: But I am talking to my friends, online!¶Q: What does A think?|B uses the phone too much|B has no friends|B talks too much|B is rude|A|A cho rằng B dùng điện thoại quá nhiều.
+A2|listen|A: Are you ready to order?¶B: Yes. I'll have the chicken soup, please. And a glass of orange juice.¶Q: What does B order?|Chicken and rice|Chicken soup and orange juice|Tea|Fish soup|B|B gọi súp gà và nước cam.
+A2|listen|A: Which floor is the shoe department on?¶B: It's on the third floor, next to the escalator.¶Q: Which floor is it on?|The third floor|The first floor|The fourth floor|The second floor|A|Khu giày dép ở tầng ba.
