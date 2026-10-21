@@ -1,0 +1,75 @@
+6|vocab|“诚恳”的意思是什么？|ngạo mạn|giả dối|nghiêm khắc|chân thành, thành khẩn|D|诚恳 nghĩa là chân thành, thành khẩn.
+6|vocab|“迫切”的意思是什么？|chậm rãi|cấp bách, khẩn thiết|tùy ý|bình thường|B|迫切 nghĩa là cấp bách, khẩn thiết (nhu cầu).
+6|vocab|“巩固”的意思是什么？|phá vỡ|làm lỏng|củng cố|thay đổi|C|巩固 nghĩa là củng cố, làm vững chắc.
+6|vocab|“谨慎”的意思是什么？|thận trọng|vội vàng|thờ ơ|liều lĩnh|A|谨慎 nghĩa là thận trọng, cẩn thận.
+6|vocab|“沮丧”的意思是什么？|chán nản, thất vọng|phấn khởi|tức giận|tự hào|A|沮丧 nghĩa là chán nản, ủ rũ.
+6|vocab|“慷慨”的意思是什么？|keo kiệt|nhút nhát|hào phóng|lười biếng|C|慷慨 nghĩa là hào phóng, rộng rãi.
+6|vocab|“崇拜”的意思是什么？|ghét bỏ|sùng bái, ngưỡng mộ|nghi ngờ|đố kỵ|B|崇拜 nghĩa là sùng bái, ngưỡng mộ.
+6|vocab|“杜绝”的意思是什么？|cho phép|khuyến khích|tiếp tục|chấm dứt hoàn toàn, ngăn chặn tuyệt đối|D|杜绝 nghĩa là ngăn chặn hoàn toàn (sự việc xấu).
+6|vocab|“轮流”的意思是什么？|cùng lúc|luân phiên, lần lượt|một mình|ngẫu nhiên|B|轮流 nghĩa là luân phiên, lần lượt.
+6|vocab|“悬殊”的意思是什么？|tương đương|gần gũi|giống nhau|chênh lệch lớn|D|悬殊 nghĩa là chênh lệch rất lớn.
+6|vocab|“繁琐”的意思是什么？|rườm rà, phức tạp vụn vặt|nhanh gọn|đơn giản|hấp dẫn|A|繁琐 nghĩa là rườm rà, vụn vặt.
+6|vocab|“迁就”的意思是什么？|chống đối|phê bình|nhượng bộ, chiều theo|từ chối|C|迁就 nghĩa là nhượng bộ, chiều theo người khác.
+6|vocab|“敷衍”的意思是什么？|tận tình|cố gắng hết sức|làm qua loa, đối phó|kiên trì|C|敷衍 nghĩa là làm qua loa, đối phó cho xong.
+6|vocab|面对突如其来的变化，他表现得非常___。|镇定|镇压|震惊|振奋|A|镇定 nghĩa là bình tĩnh, điềm tĩnh.
+6|vocab|他没有经过允许就___做出了决定。|自愿|自发|自觉|擅自|D|擅自 nghĩa là tự ý (không được phép).
+6|vocab|经过多年的___，他终于成为了著名的画家。|磨蹭|磨炼|磨合|摩擦|B|磨炼 nghĩa là rèn luyện, tôi luyện.
+6|vocab|为了完成这项工程，公司投入了大量的人力和___。|物种|物价|物品|物力|D|人力和物力 là cụm cố định (nhân lực và vật lực).
+6|vocab|这篇文章的观点很___，让人耳目一新。|新鲜|新颖|新郎|新兴|B|新颖 nghĩa là mới mẻ, độc đáo.
+6|vocab|他说话总是闪烁其词，让人觉得很___。|可惜|可靠|可疑|可观|C|可疑 nghĩa là đáng nghi.
+6|vocab|面对困难，我们不能___，要勇敢地面对。|逃避|逃亡|逃跑|逃学|A|逃避 nghĩa là trốn tránh (khó khăn, trách nhiệm).
+6|vocab|公司为了降低___，减少了不必要的开支。|成本|成果|成分|成就|A|成本 nghĩa là chi phí, giá thành.
+6|vocab|这个问题必须马上解决，不能再___了。|拖欠|拖鞋|拖延|托运|C|拖延 nghĩa là trì hoãn, kéo dài.
+6|vocab|这位老教授学识___，深受学生爱戴。|渊源|渊博|源泉|缘分|B|渊博 nghĩa là uyên bác, hiểu biết sâu rộng.
+6|grammar|___你不同意，我也要这么做。|于是|因为|何况|即便|D|即便…也 nghĩa là cho dù…cũng.
+6|grammar|这___是一场比赛，___是一次交流。|不是 / 就是|与其说 / 不如说|一方面 / 另一方面|既然 / 就|B|与其说…不如说 nghĩa là nói là…chi bằng nói là…
+6|grammar|他太累了，___一坐下就睡着了。|以便|以免|以及|以至于|D|以至于 nghĩa là đến nỗi, nêu kết quả của mức độ.
+6|grammar|第一次做这样的工作，出错是___的。|难免|不免|难怪|未免|A|难免的 nghĩa là khó tránh khỏi; 不免 không đi cùng 的.
+6|grammar|你这样做___太不近人情了。|难免|何必|未免|岂止|C|未免太… nghĩa là hơi quá, nhận xét chê trách.
+6|grammar|成功___靠运气，而是靠努力。|并且|并没|并非|并排|C|并非…而是… nghĩa là không phải…mà là…
+6|grammar|他整天忙忙碌碌，___是为了多赚点钱。|无非|无从|无论|无须|A|无非 nghĩa là chẳng qua, chẳng phải gì khác ngoài.
+6|grammar|这___是我的问题，也是大家的问题。|莫非|岂有|难道|岂止|D|岂止 nghĩa là đâu chỉ, không chỉ.
+6|grammar|这个办法___好，___成本太高了。|既 / 又|固然 / 但|宁可 / 也|与其 / 不如|B|固然…但 nghĩa là tuy…nhưng (thừa nhận trước, chuyển sau).
+6|grammar|___你有任何问题，请随时联系我。|以便|何况|以免|倘若|D|倘若 nghĩa là nếu như, trang trọng.
+6|grammar|多运动有利于健康，___，缺乏运动会影响身体。|因此|反之|何况|况且|B|反之 nghĩa là ngược lại.
+6|grammar|这次改革提高了效率，___降低了成本。|从来|从事|从而|从中|C|从而 nghĩa là do đó, nhờ vậy (kết quả).
+6|grammar|他并不懒，___，他比谁都勤奋。|恰恰相反|恰巧|恰当|恰好|A|恰恰相反 nghĩa là hoàn toàn trái ngược.
+6|grammar|___遇到困难的人，他___愿意帮助。|凡是 / 都|只要 / 才|既然 / 就|尽管 / 却|A|凡是…都 nghĩa là hễ là…đều.
+6|grammar|只是一点小误会，___吵架吧。|不由得|不得已|不至于|不愧于|C|不至于 nghĩa là không đến nỗi.
+6|grammar|不努力的话，你___会被淘汰的。|起初|迟早|曾经|往常|B|迟早 nghĩa là sớm muộn gì.
+6|grammar|他___连自己的生日都忘了。|果然|固然|仍然|竟然|D|竟然 nghĩa là không ngờ, lại…(bất ngờ).
+6|grammar|天气预报说今天下雨，___下起来了。|竟然|果然|居然|依然|B|果然 nghĩa là quả nhiên, đúng như dự đoán.
+6|grammar|大人都搬不动，___孩子呢？|何必|无非|何时|何况|D|何况 nghĩa là huống hồ.
+6|grammar|他___饿着肚子，___不愿意接受别人的施舍。|宁肯 / 也|倘若 / 则|固然 / 但|既然 / 就|A|宁肯…也不 nghĩa là thà…cũng không.
+6|grammar|下面哪个句子是正确的？|我们把应该这个问题当作一个机会|我们应该当作把这个问题一个机会|我们应该把这个问题当作一个机会|我们应该把当作这个问题一个机会|C|把字句: 把+宾语+当作+tân ngữ.
+6|grammar|下面哪个句子是正确的？|他感到这个结果对相当满意|他相当对这个结果感到满意|他对这个结果感到相当满意|对他这个结果感到相当满意|C|对…感到满意: 他对这个结果感到相当满意.
+6|reading|如今，许多人习惯用手机支付，现金的使用越来越少。有人担心，这会使老年人难以适应社会。因此，一些商店仍然保留现金支付，并安排专人帮助老人使用手机。¶一些商店为什么保留现金支付？|方便老年人|手机支付太贵|现金更安全|防止偷窃|A|Lo lắng người già khó thích nghi nên giữ tiền mặt.
+6|reading|很多人认为，只要智商高就能取得成就。然而心理学家发现，情商同样重要。善于控制情绪、与人合作的人，往往更容易在事业上取得成功。¶心理学家认为什么同样重要？|智商|财富|运气|情商|D|Nhà tâm lý học nói情商同样重要.
+6|reading|这座古桥建于六百年前，曾经多次被洪水冲毁，又多次被修复。当地人说，桥不仅是交通工具，更是一座城市的记忆。¶当地人认为古桥是什么？|旅游景点|城市的记忆|危险建筑|商业中心|B|Họ coi cầu là ký ức của thành phố.
+6|reading|近年来，“慢生活”逐渐受到城市居民的欢迎。他们不再一味追求速度，而是更重视生活品质，比如花时间做饭、散步、陪伴家人。¶“慢生活”的特点是什么？|拒绝科技|追求速度|减少工作|重视生活品质|D|Coi trọng chất lượng cuộc sống thay vì tốc độ.
+6|reading|由于缺乏足够的睡眠，现代人的注意力普遍下降。研究表明，每天睡眠不足六小时的人，工作中出错的概率比正常人高出近一倍。¶睡眠不足会导致什么？|体重增加|工作出错增多|收入减少|情绪稳定|B|Thiếu ngủ khiến xác suất sai sót gần gấp đôi.
+6|reading|老张在小区里种了一片菜地，起初邻居们觉得他是在浪费时间。可是秋天丰收后，他把蔬菜免费送给大家，邻居们才明白他的心意。¶邻居们后来对老张的态度有什么变化？|一直反对|由欣赏变为失望|由怀疑变为理解|没有变化|C|Từ cho rằng lãng phí đến hiểu tấm lòng.
+6|reading|人工智能的发展给社会带来了便利，也引发了新的担忧：一些重复性的工作可能被机器取代。专家建议，人们应不断学习新技能，以适应变化。¶专家给出了什么建议？|学习新技能|反对发展人工智能|减少工作时间|换一座城市生活|A|Khuyên không ngừng học kỹ năng mới.
+6|reading|传统手工艺正面临失传的危险。年轻人觉得它收入低、学起来辛苦，不愿意继承。一些地方政府为此推出补贴政策，希望吸引更多年轻人加入。¶政府推出补贴政策的目的是什么？|吸引年轻人学习手工艺|提高产品价格|出口手工艺品|关闭工厂|A|Mục đích thu hút giới trẻ kế thừa nghề thủ công.
+6|reading|我曾经以为，朋友越多越好。后来才发现，真正的朋友不在多，而在于遇到困难时是否愿意伸出援手。¶作者现在的观点是什么？|朋友应越多越好|不需要朋友|真朋友重质量不重数量|朋友应该有钱|C|Bạn thật quan trọng ở chất lượng, giúp đỡ lúc khó khăn.
+6|reading|这次展览汇集了二十位年轻艺术家的作品。虽然风格各异，但都表达了对环境问题的关注，其中一件用废旧塑料制成的雕塑引起了观众的热烈讨论。¶这些作品的共同点是什么？|风格相同|关注环境问题|价格昂贵|都是雕塑|B|Điểm chung: đều thể hiện sự quan tâm tới vấn đề môi trường.
+6|reading|他的演讲并没有华丽的辞藻，却因为真诚而打动了在场的每一个人。演讲结束后，会场里响起了长时间的掌声。¶他的演讲为什么打动人？|辞藻华丽|时间很长|内容很幽默|因为真诚|D|Không hoa mỹ nhưng chân thành.
+6|reading|有些人面对批评时总是急于辩解，而聪明的人则会先冷静下来，思考对方的话是否有道理。这样不仅能避免矛盾，还能让自己不断进步。¶聪明的人面对批评时会怎么做？|立刻辩解|冷静思考|反击|沉默不语|B|Bình tĩnh suy nghĩ xem có lý không.
+6|reading|这个村子过去交通闭塞，村民主要靠种地为生。后来修了公路，又发展了旅游业，村民的收入增加了好几倍，不少外出打工的年轻人也回来了。¶村子发生了什么变化？|人口减少|农业发展停止|环境变差|收入大幅增加|D|Thu nhập tăng nhiều lần nhờ đường sá và du lịch.
+6|reading|节约用水应该从小事做起。比如，刷牙时关上水龙头，用洗菜的水冲厕所。别小看这些做法，积少成多，就是一笔可观的节约。¶文章主要想告诉我们什么？|从小事做起节约用水|应该少洗菜|不要刷牙|厕所用水很贵|A|Tiết kiệm nước bắt đầu từ việc nhỏ.
+6|reading|很多人把失败看作终点，其实失败往往是成功的起点。许多伟大的发明家都经历过无数次失败，但他们从不气馁，而是从中总结经验，最终获得成功。¶发明家们是怎么对待失败的？|怪别人|选择放弃|从中总结经验|害怕尝试|C|Không nản chí, rút kinh nghiệm.
+6|listen|A：这份报告你检查得怎么样了？¶B：基本没问题，只是有几个数据需要进一步核实，我下午再确认一下。|Báo cáo đã hoàn hảo|Báo cáo bị hủy|Còn vài số liệu cần xác minh thêm|Chưa bắt đầu kiểm tra|C|B nói vài số liệu cần核实 thêm.
+6|listen|A：听说你昨天在会上跟经理争起来了？¶B：我只是坦率地提了意见，没想到他当场就不高兴了。|Anh ấy thẳng thắn góp ý, giám đốc không vui|Anh ấy xin lỗi|Anh ấy tranh cãi to tiếng|Anh ấy bị thăng chức|A|B chỉ thẳng thắn đưa ý kiến, giám đốc không vui.
+6|listen|这家老字号经营了一百多年，靠的不是广告，而是对品质的执着追求。|Nhờ quảng cáo rầm rộ|Nhờ giá rẻ|Nhờ vị trí đẹp|Nhờ theo đuổi chất lượng|D|Dựa vào sự kiên trì theo đuổi chất lượng.
+6|listen|A：你觉得他适合这个职位吗？¶B：能力没得说，就是缺乏团队合作的意识，这一点比较让人担心。|Năng lực kém|Năng lực tốt nhưng thiếu tinh thần hợp tác nhóm|Quá lớn tuổi|Không muốn làm việc|B|能力没得说, nhưng thiếu ý thức hợp tác.
+6|listen|A：这个项目为什么推迟了？¶B：主要是资金没到位，另外几个合作方的意见也不统一。|Do thời tiết|Do giám đốc đi công tác|Do nhân viên nghỉ việc|Do vốn chưa đến và các bên ý kiến chưa thống nhất|D|Do资金没到位 và ý kiến các bên không thống nhất.
+6|listen|随着生活水平的提高，人们不再满足于吃饱穿暖，而是开始追求精神上的享受。|Người ta chỉ cần ăn no mặc ấm|Người ta bắt đầu theo đuổi hưởng thụ tinh thần|Cuộc sống ngày càng khó khăn|Người ta không quan tâm tiền|B|Không chỉ ăn no mặc ấm mà theo đuổi thỏa mãn tinh thần.
+6|listen|A：你怎么突然想辞职了？¶B：不是因为待遇，而是觉得在这里学不到新东西了，我想换个环境锻炼自己。|Vì lương thấp|Vì mâu thuẫn đồng nghiệp|Vì không học thêm được gì nên muốn đổi môi trường|Vì bị sa thải|C|Không phải do đãi ngộ mà vì không học thêm được gì.
+6|listen|A：这次谈判进行得顺利吗？¶B：双方都做出了让步，总算达成了初步协议，不过细节还要继续商量。|Đạt thỏa thuận sơ bộ, chi tiết còn bàn tiếp|Đàm phán thất bại hoàn toàn|Đã ký hợp đồng cuối cùng|Một bên không đến|A|Đạt协议 sơ bộ, chi tiết còn tiếp tục thương lượng.
+6|listen|A：他这个人怎么样？¶B：别看他表面上冷冰冰的，其实心肠很热，谁有困难他都会帮忙。|Anh ấy bề ngoài lạnh lùng nhưng rất nhiệt tình|Anh ấy thật sự lạnh lùng|Anh ấy hay gây sự|Anh ấy rất keo kiệt|A|Bề ngoài lạnh nhưng心肠很热.
+6|listen|A：你去过那个景区吗？¶B：去过一次，风景倒是挺美的，可惜游客太多，根本没法好好欣赏。|Vắng khách|Cảnh xấu|Cảnh đẹp nhưng quá đông khách nên khó thưởng thức|Chưa từng đi|C|Cảnh đẹp nhưng游客太多 không thưởng thức được.
+6|listen|A：你对这次的结果满意吗？¶B：说实话，离我的预期还有一定差距，不过这已经是团队尽了最大努力的结果了。|Rất hài lòng|Hơi thấp hơn kỳ vọng nhưng nhóm đã nỗ lực hết sức|Nhóm không cố gắng|Kết quả vượt mong đợi|B|Còn cách kỳ vọng nhưng đã cố hết sức.
+6|listen|由于交通拥堵日益严重，市政府决定限制私家车出行，同时大力发展公共交通。|Chính quyền cấm xe buýt|Chính quyền khuyến khích mua xe|Chính quyền xây thêm bãi đỗ|Chính quyền hạn chế xe cá nhân và phát triển giao thông công cộng|D|Hạn chế xe riêng, phát triển giao thông công cộng.
+6|listen|A：这篇论文的创新点在哪里？¶B：它提出了一种全新的研究方法，能大大提高实验的准确性。|Chỉ tổng hợp tài liệu cũ|Đề xuất phương pháp mới nâng cao độ chính xác|Bàn về lịch sử|Phản đối thực nghiệm|B|Đề xuất phương pháp mới, tăng độ chính xác.
+6|listen|A：为什么你们决定不涨价？¶B：虽然成本上升了，但我们不想失去老顾客，所以宁愿少赚一点。|Không còn khách|Chi phí giảm|Họ đã tăng giá|Không tăng giá để giữ khách cũ dù lợi nhuận giảm|D|宁愿少赚 để giữ khách cũ.
+6|listen|A：你觉得网络对孩子的影响怎么样？¶B：利大于弊吧，关键是家长要引导他们合理使用，不能放任不管。|Lợi nhiều hơn hại nhưng cần phụ huynh hướng dẫn|Hoàn toàn có hại|Không ảnh hưởng gì|Nên cấm hoàn toàn|A|Lợi nhiều hơn hại, nhưng phải hướng dẫn.

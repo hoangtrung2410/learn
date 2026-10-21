@@ -1,0 +1,78 @@
+您|ngài, ông, bà (kính ngữ)|Đại từ|nâm|您请坐。|Mời ngài ngồi.
+牛奶|sữa bò|Danh từ|ngưu nãi|我每天早上喝牛奶。|Mỗi sáng tôi đều uống sữa.
+女|nữ, con gái|Tính từ|nữ|那个女孩是我同学。|Cô gái kia là bạn học của tôi.
+旁边|bên cạnh|Danh từ|bàng biên|银行在商店旁边。|Ngân hàng ở bên cạnh cửa hàng.
+跑步|chạy bộ|Động từ|bào bộ|我喜欢早上跑步。|Tôi thích chạy bộ buổi sáng.
+便宜|rẻ|Tính từ|tiện nghi|这里的水果很便宜。|Trái cây ở đây rất rẻ.
+票|vé|Danh từ|phiếu|我买了两张电影票。|Tôi đã mua hai vé xem phim.
+妻子|vợ|Danh từ|thê tử|他的妻子是医生。|Vợ anh ấy là bác sĩ.
+起床|thức dậy|Động từ|khởi sàng|我每天六点起床。|Mỗi ngày tôi dậy lúc sáu giờ.
+千|nghìn|Số từ|thiên|这个书包两千块。|Chiếc cặp này hai nghìn tệ.
+铅笔|bút chì|Danh từ|duyên bút|请给我一支铅笔。|Làm ơn cho tôi một cây bút chì.
+晴|trời nắng, quang|Tính từ|tình|今天天气很晴。|Hôm nay trời rất quang đãng.
+去年|năm ngoái|Danh từ|khứ niên|我去年来到中国。|Năm ngoái tôi đến Trung Quốc.
+让|để, bảo, cho phép|Động từ|nhượng|妈妈让我早点儿睡觉。|Mẹ bảo tôi đi ngủ sớm.
+日|ngày|Danh từ|nhật|今天是五月一日。|Hôm nay là ngày một tháng năm.
+上班|đi làm|Động từ|thượng ban|爸爸八点上班。|Bố tám giờ đi làm.
+身体|cơ thể, sức khỏe|Danh từ|thân thể|祝你身体健康。|Chúc bạn sức khỏe dồi dào.
+生病|bị bệnh, ốm|Động từ|sinh bệnh|他生病了，没来上课。|Anh ấy bị ốm nên không đến lớp.
+生日|sinh nhật|Danh từ|sinh nhật|明天是我的生日。|Ngày mai là sinh nhật của tôi.
+时间|thời gian|Danh từ|thời gian|我今天没有时间。|Hôm nay tôi không có thời gian.
+事情|sự việc, chuyện|Danh từ|sự tình|我有一件事情要告诉你。|Tôi có một chuyện muốn nói với bạn.
+手表|đồng hồ đeo tay|Danh từ|thủ biểu|他送我一块手表。|Anh ấy tặng tôi một chiếc đồng hồ đeo tay.
+手机|điện thoại di động|Danh từ|thủ cơ|我的手机没电了。|Điện thoại của tôi hết pin rồi.
+说话|nói chuyện|Động từ|thuyết thoại|请不要大声说话。|Xin đừng nói chuyện lớn tiếng.
+送|tặng, tiễn, đưa|Động từ|tống|我想送她一朵花。|Tôi muốn tặng cô ấy một bông hoa.
+虽然|tuy rằng|Liên từ|tuy nhiên|虽然很累，但是我很高兴。|Tuy rất mệt nhưng tôi rất vui.
+但是|nhưng|Liên từ|đãn thị|他很聪明，但是不努力。|Cậu ấy thông minh nhưng không chăm chỉ.
+它|nó (chỉ vật)|Đại từ|tha|这只猫很可爱，我喜欢它。|Con mèo này rất đáng yêu, tôi thích nó.
+踢足球|đá bóng|Cụm từ|dịch túc cầu|男孩们在踢足球。|Các cậu bé đang đá bóng.
+题|câu hỏi, đề bài|Danh từ|đề|这道题很难。|Câu hỏi này rất khó.
+跳舞|nhảy múa|Động từ|khiêu vũ|她喜欢跳舞。|Cô ấy thích nhảy múa.
+外|ngoài|Danh từ|ngoại|外面在下雨。|Bên ngoài đang mưa.
+完|xong, hết|Động từ|hoàn|我作业还没写完。|Bài tập của tôi vẫn chưa làm xong.
+玩|chơi|Động từ|ngoạn|周末我们去公园玩。|Cuối tuần chúng tôi đi công viên chơi.
+晚上|buổi tối|Danh từ|vãn thượng|我晚上看电视。|Buổi tối tôi xem ti vi.
+为什么|tại sao|Đại từ|vị thập ma|你为什么不去？|Tại sao bạn không đi?
+问|hỏi|Động từ|vấn|我想问你一个问题。|Tôi muốn hỏi bạn một câu hỏi.
+问题|vấn đề, câu hỏi|Danh từ|vấn đề|老师，我有一个问题。|Thưa thầy, em có một câu hỏi.
+西瓜|dưa hấu|Danh từ|tây qua|夏天我爱吃西瓜。|Mùa hè tôi thích ăn dưa hấu.
+希望|hy vọng|Động từ|hy vọng|我希望明天天气好。|Tôi hy vọng ngày mai thời tiết tốt.
+洗|rửa, giặt, tắm|Động từ|tẩy|饭前要洗手。|Trước khi ăn phải rửa tay.
+小时|giờ, tiếng đồng hồ|Danh từ|tiểu thì|我学了两个小时汉语。|Tôi đã học tiếng Hán hai tiếng.
+笑|cười|Động từ|tiếu|她笑得很开心。|Cô ấy cười rất vui vẻ.
+新|mới|Tính từ|tân|我买了一部新手机。|Tôi mua một chiếc điện thoại mới.
+姓|họ, mang họ|Động từ|tính|你姓什么？|Bạn họ gì?
+休息|nghỉ ngơi|Động từ|hưu tức|你累了，休息一下吧。|Bạn mệt rồi, nghỉ một chút đi.
+雪|tuyết|Danh từ|tuyết|北方冬天常常下雪。|Mùa đông ở miền Bắc thường có tuyết rơi.
+颜色|màu sắc|Danh từ|nhan sắc|你喜欢什么颜色？|Bạn thích màu gì?
+眼睛|mắt|Danh từ|nhãn tinh|她的眼睛很大。|Mắt cô ấy rất to.
+羊肉|thịt cừu|Danh từ|dương nhục|我爱吃羊肉。|Tôi thích ăn thịt cừu.
+药|thuốc|Danh từ|dược|你要按时吃药。|Bạn phải uống thuốc đúng giờ.
+要|cần, muốn, phải|Động từ|yếu|我要一杯水。|Tôi cần một cốc nước.
+也|cũng|Phó từ|dã|我也是学生。|Tôi cũng là học sinh.
+一起|cùng nhau|Phó từ|nhất khởi|我们一起去吃饭吧。|Chúng ta cùng đi ăn cơm nhé.
+一下|một chút, thử|Lượng từ|nhất hạ|请你等一下。|Mời bạn chờ một chút.
+已经|đã|Phó từ|dĩ kinh|他已经回家了。|Anh ấy đã về nhà rồi.
+意思|ý nghĩa, ý tứ|Danh từ|ý tư|这个词是什么意思？|Từ này có nghĩa là gì?
+因为|bởi vì|Liên từ|nhân vị|因为下雨，所以我没出门。|Vì trời mưa nên tôi không ra ngoài.
+所以|cho nên|Liên từ|sở dĩ|我生病了，所以没去上班。|Tôi bị ốm nên không đi làm.
+阴|âm u, nhiều mây|Tính từ|âm|今天天阴了。|Hôm nay trời âm u.
+游泳|bơi lội|Động từ|du vịnh|夏天我常去游泳。|Mùa hè tôi thường đi bơi.
+右边|bên phải|Danh từ|hữu biên|商店在学校的右边。|Cửa hàng ở bên phải trường học.
+鱼|cá|Danh từ|ngư|我喜欢吃鱼。|Tôi thích ăn cá.
+远|xa|Tính từ|viễn|他家离这儿很远。|Nhà anh ấy cách đây rất xa.
+运动|vận động, thể thao|Động từ|vận động|多运动对身体好。|Vận động nhiều tốt cho sức khỏe.
+再|lại, nữa|Phó từ|tái|请再说一遍。|Xin nói lại một lần nữa.
+早上|buổi sáng|Danh từ|tảo thượng|我早上七点吃早饭。|Buổi sáng bảy giờ tôi ăn sáng.
+站|đứng, ga, trạm|Động từ|trạm|请在前面那一站下车。|Xin xuống xe ở trạm phía trước.
+丈夫|chồng|Danh từ|trượng phu|她的丈夫是老师。|Chồng cô ấy là giáo viên.
+找|tìm, kiếm|Động từ|trảo|我在找我的手机。|Tôi đang tìm điện thoại của mình.
+着|đang, đã (trợ từ trạng thái)|Trợ từ||门开着。|Cửa đang mở.
+真|thật, thực sự|Phó từ|chân|今天真热！|Hôm nay thật nóng!
+正在|đang|Phó từ|chính tại|他正在看书。|Anh ấy đang đọc sách.
+知道|biết|Động từ|tri đạo|我不知道他的名字。|Tôi không biết tên anh ấy.
+准备|chuẩn bị|Động từ|chuẩn bị|我在准备明天的考试。|Tôi đang chuẩn bị cho kỳ thi ngày mai.
+走|đi, đi bộ|Động từ|tẩu|我们走路去学校。|Chúng tôi đi bộ đến trường.
+最|nhất|Phó từ|tối|这是我最喜欢的歌。|Đây là bài hát tôi thích nhất.
+左边|bên trái|Danh từ|tả biên|医院在银行的左边。|Bệnh viện ở bên trái ngân hàng.

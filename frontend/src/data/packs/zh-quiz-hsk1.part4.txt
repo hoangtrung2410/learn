@@ -1,0 +1,148 @@
+1|grammar|明天我___去商店买衣服。|想|很|的|在|A|“想 + động từ” diễn tả dự định. “很” đứng trước tính từ, “在” là đang.
+1|grammar|你女儿今年___岁?|谁|哪|几|什么|C|Hỏi tuổi trẻ nhỏ dùng “几岁”; “什么/谁/哪” không đi với “岁” theo cách này.
+1|grammar|我有三___书。|本|杯|只|个|A|Lượng từ của sách là “本”.
+1|grammar|桌子上有一___水。|口|只|本|杯|D|“一杯水”: lượng từ của đồ uống đựng trong cốc là “杯”.
+1|grammar|那只猫___可爱。|在|很|是|有|B|Tính từ làm vị ngữ thường có “很” đứng trước, không dùng “是”.
+1|grammar|你不认识他,我___不认识他。|很|也|在|太|B|“也” = cũng, nối hai ý giống nhau (đều phủ định).
+1|grammar|我家后面___一个商店。|会|有|很|在|B|Câu tồn tại: “Địa điểm + 有 + sự vật”.
+1|grammar|杯子___椅子上面。|是|有|在|去|C|“Sự vật + 在 + nơi chốn” cho biết vị trí.
+1|grammar|下雨___,我们不去商店了。|的|呢|吗|了|D|“了” ở cuối câu diễn tả tình huống mới xuất hiện.
+1|grammar|你吃饭了___?|吗|的|个|呢|A|Câu hỏi có/không dùng “吗” ở cuối câu.
+1|grammar|我很好,你___?|呢|吧|吗|了|A|“……呢?” hỏi lại cùng nội dung: “Còn bạn thì sao?”.
+1|grammar|我___有哥哥,只有一个姐姐。|没|不|太|别|A|Phủ định của “有” là “没有”, không dùng “不有”.
+1|grammar|这个东西太贵___,我不买。|吗|吧|呢|了|D|Cấu trúc “太 + tính từ + 了” = quá…
+1|grammar|A: 你___去北京? B: 明天。|哪儿|什么时候|谁|怎么|B|Câu trả lời chỉ thời gian nên hỏi “什么时候”.
+1|grammar|A: ___是你的老师? B: 王先生。|几|哪|谁|什么|C|Hỏi người dùng “谁”.
+1|grammar|你家有___口人?|几|哪|谁|什么|A|Hỏi số lượng nhỏ dùng “几”: “几口人”.
+1|grammar|这是我的朋友,___叫王明。|他|你们|他们|我们|A|Chủ ngữ là một người bạn nam nên dùng “他”.
+1|grammar|这本书___钱?|什么|几|哪|多少|D|Hỏi giá dùng “多少钱”.
+1|grammar|他___北京工作,不在上海。|是|有|在|和|C|“在 + địa điểm + động từ”: làm việc ở đâu.
+1|grammar|我___妈妈去医院。|都|的|在|和|D|“A 和 B + động từ”: A cùng B làm gì.
+1|grammar|我和朋友___是学生。|都|呢|吗|了|A|“都” = đều, chỉ tổng hợp từ hai người trở lên.
+1|grammar|请问,医院在___?|几|什么|谁|哪儿|D|Hỏi nơi chốn dùng “哪儿”.
+1|grammar|这里有椅子,请___。|看|坐|写|听|B|“请坐” là câu mời ngồi, hợp ngữ cảnh có ghế.
+1|grammar|哪个句子是对的?|我去了商店昨天|昨天我商店去了|我昨天去商店了|我去商店昨天了|C|Trạng ngữ thời gian đứng trước động từ, động từ đứng trước tân ngữ.
+1|grammar|把词语排成句子:去 / 学校 / 我 / 明天|明天学校我去|去我明天学校|我去明天学校|我明天去学校|D|Thứ tự: Chủ ngữ + thời gian + động từ + tân ngữ.
+1|grammar|把词语排成句子:你 / 吗 / 能 / 说 / 汉语|你能说汉语吗|你汉语说能吗|你说能汉语吗|能你说汉语吗|A|Năng nguyện động từ “能” đứng trước động từ chính, “吗” đứng cuối câu.
+1|grammar|我会说汉语,___会写字。|都|太|很|也|D|“也会…” = cũng biết…, nối ý bổ sung.
+1|grammar|他今年十岁,不___开车。|在|是|会|有|C|“会 + động từ” chỉ kỹ năng đã học được; trẻ 10 tuổi chưa biết lái xe.
+1|grammar|这个杯子___我的,那个是你的。|有|是|在|很|B|“A 是 B” dùng để xác định, so sánh hai vật.
+1|grammar|A: 你想吃___? B: 我想吃米饭。|什么|哪儿|谁|几|A|Hỏi sự vật được ăn nên dùng “什么”.
+1|grammar|A: 你的衣服___? B: 很漂亮。|什么|哪儿|怎么样|谁|C|“……怎么样?” hỏi đánh giá, tính chất.
+1|grammar|A: 你___去学校? B: 坐出租车。|几|怎么|什么|哪|B|Hỏi cách thức dùng “怎么 + động từ”.
+1|grammar|今天星期___?|几|哪|多少|什么|A|Hỏi thứ trong tuần là “星期几”.
+1|grammar|我的生日是十___二号。|岁|个|月|年|C|“月” đứng sau số tháng, ví dụ 十月.
+1|grammar|他今年二十___。|口|岁|个|块|B|Tuổi dùng lượng từ “岁”.
+1|grammar|我有两___姐姐。|本|个|只|杯|B|Lượng từ chung cho người là “个”.
+1|grammar|我___喝咖啡,我喝茶。|不|没|也|很|A|“不 + động từ” phủ định thói quen/ý muốn hiện tại.
+1|grammar|我___看见你的书。|没|别|不|很|A|Phủ định hành động đã xảy ra/kết quả dùng “没(有)”.
+1|grammar|那___都是我的学生。|个|些|本|杯|B|“那些” là số nhiều; “都” đi với số nhiều nên chọn “些”.
+1|grammar|今天天气不___冷,我们去外面看看吧。|也|太|都|很|B|“不太 + tính từ” = không… lắm.
+1|grammar|你妈妈现在___做饭呢。|不|在|有|是|B|“在 + động từ (+ 呢)” diễn tả hành động đang diễn ra.
+1|grammar|这是我___书,那是你的。|的|了|呢|吗|A|“的” chỉ sở hữu: “我的书”.
+1|grammar|我___学生,我是老师。|很|不是|没有|在|B|Phủ định của “是” là “不是”.
+1|grammar|这个字我不___。|喝|认识|去|住|B|“认识” dùng với chữ, người; các động từ còn lại không hợp nghĩa.
+1|grammar|我在家,你___我家吧。|去|来|回|住|B|Người nói đang ở nhà, hướng tới người nói là “来”.
+1|grammar|他不在家,他___学校了。|去|来|有|是|A|“去 + nơi chốn + 了” = đã đi đâu rồi.
+1|grammar|我八点___学校,中午十二点回家。|是|去|很|有|B|“去 + địa điểm” đúng ngữ pháp và hợp nghĩa với “回家”.
+1|grammar|A: 你喜欢吃什么水果? B: 我___喜欢苹果。|在|有|的|很|D|“很 + 喜欢” = rất thích.
+1|reading|我叫王红,今年十九岁,是学生。我住在北京,在北京学习汉语。¶王红在哪儿学习汉语?|医院|上海|北京|家里|C|Bài đọc nói “在北京学习汉语”.
+1|reading|我家有五口人:爸爸、妈妈、哥哥、姐姐和我。哥哥在北京工作,姐姐是学生。¶谁在北京工作?|爸爸|姐姐|妈妈|哥哥|D|Bài đọc: “哥哥在北京工作”.
+1|reading|今天星期二,天气很热。我想喝水,也想吃苹果。我去商店买了三个苹果和一杯水。¶他在商店买了什么?|米饭和茶|书|苹果和水|衣服|C|Anh ấy mua táo và nước.
+1|reading|小明昨天很不好,没去学校。今天他去医院看医生。¶小明今天去哪儿?|商店|医院|学校|朋友家|B|Bài đọc: “今天他去医院”.
+1|reading|下午三点,我和朋友在饭店吃饭。我们吃了米饭和菜,喝了茶。¶他们在哪儿吃饭?|商店|家|学校|饭店|D|Họ ăn ở “饭店” (nhà hàng).
+1|reading|这个杯子五块钱,那个杯子八块钱。我没有很多钱,我买五块钱的。¶他买哪个杯子?|两个都买|五块钱的|八块钱的|都不买|B|Vì không nhiều tiền nên mua cốc 5 tệ.
+1|reading|我女儿今年四岁。她喜欢小猫,不喜欢小狗。¶女儿喜欢什么?|书|苹果|猫|狗|C|Con gái thích mèo, không thích chó.
+1|reading|现在是中午十二点。爸爸在家,他在看电视。妈妈在商店买东西。¶爸爸现在做什么?|工作|看电视|买东西|睡觉|B|Bố đang ở nhà xem tivi.
+1|reading|明天是星期六,我不去学校。我想和朋友去看电影。¶他明天做什么?|去工作|去看电影|在家睡觉|去学校|B|Anh ấy muốn đi xem phim với bạn.
+1|reading|我的同学小李喜欢看书,不喜欢看电视。他每天晚上都看书。¶小李喜欢做什么?|看电视|打电话|看电影|看书|D|Tiểu Lý thích đọc sách, không thích xem tivi.
+1|reading|老师说:“明天下午我们不上课。”¶明天什么时候不上课?|上午|下午|中午|晚上|B|Thầy nói “明天下午不上课”.
+1|reading|王先生是医生,他在医院工作。他的女儿是学生。¶王先生的女儿做什么?|医生|老师|学生|朋友|C|Bài đọc: “他的女儿是学生”.
+1|reading|昨天下雨了,我没有去商店。今天天气很好,我去商店买了衣服。¶他昨天去商店了吗?|没去|在学校|去了|去了两次|A|“昨天……我没有去商店”.
+1|reading|A: 你好,你叫什么名字? B: 我叫小红。A: 你是哪国人? B: 我是中国人。¶小红是哪国人?|美国人|韩国人|法国人|中国人|D|Tiểu Hồng nói: “我是中国人”.
+1|reading|我有一个哥哥,他二十五岁。他在上海工作。我很想他。¶哥哥在哪儿工作?|家|北京|上海|学校|C|Bài đọc: “他在上海工作”.
+1|reading|今天是九月十号,星期天。我们不上课,我在家写字、看书。¶今天星期几?|星期五|星期一|星期天|星期六|C|Bài đọc nói rõ “星期天”.
+1|reading|我家后面有一个商店。商店里有很多水果。我每天去那儿买苹果。¶商店在哪儿?|我家前面|学校里|我家后面|医院前面|C|“我家后面有一个商店”.
+1|reading|这件衣服很漂亮,可是太贵了,八十块。我不买了。¶他买衣服了吗?|买了两件|没买|不知道|买了|B|Vì quá đắt nên “我不买了”.
+1|reading|爸爸早上六点起床,六点十分吃饭,七点去工作。¶爸爸几点吃饭?|七点十分|六点|六点十分|七点|C|Bố ăn lúc 6 giờ 10.
+1|reading|小狗很喜欢我,我也很喜欢它。它不大,很小。它在我的椅子下面睡觉。¶小狗在哪儿睡觉?|桌子上|椅子下面|商店里|医院里|B|Chó con ngủ “椅子下面”.
+1|reading|我不会做饭,妈妈会做。她做的米饭很好吃。¶谁会做饭?|哥哥|我|爸爸|妈妈|D|Mẹ biết nấu ăn; người nói không biết.
+1|reading|你好!我是李明。我在中国学习,想认识很多中国朋友。¶李明想做什么?|看电影|回家|认识中国朋友|买东西|C|Bài đọc: “想认识很多中国朋友”.
+1|reading|妈妈说:“天气很热,你多喝水。”¶妈妈说什么?|多吃饭|多喝水|多睡觉|多看书|B|Mẹ dặn “多喝水”.
+1|reading|我哥哥开出租车。他每天早上七点去工作,晚上七点回家。¶哥哥做什么工作?|学生|开出租车|医生|老师|B|Anh trai lái taxi.
+1|reading|小红:“这个苹果多少钱?” 商店的人:“三块一个。” 小红:“我要四个。”¶小红要给多少钱?|十块|七块|十五块|十二块|D|3 tệ x 4 quả = 12 tệ.
+1|reading|星期三下午我没有课,我和同学去看电影。电影是下午三点的。¶电影是什么时候的?|星期三上午|星期四下午|星期三下午三点|星期三晚上|C|Phim chiếu 3 giờ chiều thứ Tư.
+1|reading|我在北京住了一年,现在我要回家了。¶他要去哪儿?|去商店|去北京|去学校|回家|D|Câu cuối: “我要回家了”.
+1|reading|妈妈:“你的书在哪儿?” 儿子:“在桌子上。” 妈妈:“我看见了,谢谢。”¶书在哪儿?|椅子上|商店|学校|桌子上|D|Con trai nói sách ở “桌子上”.
+1|reading|我认识了一个中国朋友,她叫王月。我今天很高兴。¶新朋友叫什么名字?|王月|李红|王明|李月|A|Bài đọc: “她叫王月”.
+1|reading|现在八点,我在学校。我的同学都在看书,老师不在。¶谁不在?|我|同学|老师|朋友|C|“老师不在”.
+1|reading|桌子上有五本书。三本是我的,两本是哥哥的。¶哥哥有几本书?|三本|一本|五本|两本|D|“两本是哥哥的”.
+1|reading|我妹妹十岁,她喜欢写字。她的字很漂亮。¶妹妹喜欢做什么?|打电话|喝茶|看电视|写字|D|Em gái thích viết chữ.
+1|reading|小姐:“请问,医院在哪儿?” 先生:“在那个商店后面。”¶医院在哪儿?|学校里|家前面|商店后面|商店前面|C|“在那个商店后面”.
+1|reading|我昨天很忙。上午工作,下午学习汉语,晚上看书。¶他下午做什么?|学习汉语|睡觉|看书|工作|A|Buổi chiều: “下午学习汉语”.
+1|reading|王先生在北京工作。他的家在上海。明天是星期六,他坐飞机回家。¶王先生怎么回家?|不回家|坐飞机|坐汽车|坐出租车|B|Bài đọc: “坐飞机回家”.
+1|reading|我喜欢喝茶,我爸爸喜欢喝咖啡,我妈妈喜欢喝水。¶谁喜欢喝水?|爸爸|妈妈|我|哥哥|B|Chỉ mẹ thích uống nước.
+1|reading|小李:“你想吃什么?” 小王:“我想吃面条。你呢?” 小李:“我想吃米饭。”¶小李想吃什么?|面条|菜|苹果|米饭|D|Tiểu Lý nói muốn ăn cơm.
+1|reading|外面下雨了,很冷。我不去学校,在家看电视。我的同学也不去学校。¶今天天气怎么样?|不下雨|很好|很热|下雨,很冷|D|“下雨了,很冷”.
+1|reading|小张是我们的汉语老师。她很漂亮,也很好。我们都很喜欢她。¶同学们喜欢小张吗?|不认识|不喜欢|喜欢|不知道|C|“我们都很喜欢她”.
+1|reading|我的学校不大,学生不多。学校里有一个小商店。¶学校里有什么?|饭店|电影|医院|商店|D|“学校里有一个小商店”.
+1|reading|今天星期天,爸爸、妈妈和我去商店。妈妈买了衣服,爸爸买了茶,我买了书。¶爸爸买了什么?|水果|书|茶|衣服|C|“爸爸买了茶”.
+1|reading|王小姐有一个儿子和一个女儿。儿子七岁,女儿五岁。¶王小姐的女儿几岁?|两岁|十岁|七岁|五岁|D|“女儿五岁”.
+1|reading|现在是晚上八点。我在家,爸爸在看电视,妈妈在打电话,哥哥在学习。¶妈妈在做什么?|睡觉|学习|看电视|打电话|D|“妈妈在打电话”.
+1|reading|我想学汉语,我的朋友小王是中国人,他是我的老师。他说:“你的汉语很好。”¶小王是我的什么人?|同学|哥哥|老师|医生|C|“他是我的老师”.
+1|reading|A: 请问你是谁? B: 我是小李的哥哥。小李不在家,他在学校。¶小李在哪儿?|家|商店|学校|医院|C|“小李不在家,他在学校”.
+1|reading|这个星期我很忙。星期一到星期五我都工作,星期六学习汉语,星期天在家看电视。¶他星期六做什么?|工作|学习汉语|去商店|看电视|B|“星期六学习汉语”.
+1|reading|那个人是我的老师。他姓李,在我们学校工作。他会说汉语,也会写汉字。¶李老师在哪儿工作?|学校|商店|饭店|医院|A|“在我们学校工作”.
+1|reading|我的朋友在商店买了一个杯子,八块钱。她很喜欢,我也想买一个。¶我想做什么?|买杯子|买书|买衣服|喝茶|A|“我也想买一个”(杯子).
+1|reading|我儿子今年六岁,他不会写字,他会说汉语。¶儿子会做什么?|说汉语|写字|开车|做饭|A|Bài đọc: “不会写字,会说汉语”.
+1|reading|现在两点,我在学校。朋友打电话:“你在哪儿?”我说:“我在学校。”¶朋友打电话问什么?|你吃饭了吗|你在哪儿|你叫什么|你几岁|B|Bạn gọi hỏi “你在哪儿?”.
+1|listen|我姓张,叫张明。¶Họ tên đầy đủ của người này là gì?|Vương Minh|Lý Minh|Trương Minh|Trương Hồng|C|“姓张,叫张明” = Trương Minh.
+1|listen|我家有六口人:爸爸、妈妈、哥哥、姐姐、弟弟和我。¶Nhà người này có mấy người?|Bốn người|Bảy người|Năm người|Sáu người|D|Liệt kê 6 người gồm cả người nói.
+1|listen|A: 你今天几点去学校?¶B: 我八点去。¶Mấy giờ B đi học?|7 giờ|8 giờ|9 giờ|10 giờ|B|B nói “八点”.
+1|listen|这个杯子三十块钱,那个杯子十块钱。¶Cái cốc kia giá bao nhiêu?|30 tệ|3 tệ|13 tệ|10 tệ|D|“那个杯子十块钱”.
+1|listen|A: 你喝茶吗?¶B: 不喝,我喝水。¶B uống gì?|Nước|Sữa|Cà phê|Trà|A|B nói “我喝水”.
+1|listen|今天天气很好,不冷也不热。我们去商店吧。¶Thời tiết hôm nay thế nào?|Không lạnh cũng không nóng|Mưa|Lạnh|Nóng|A|“不冷也不热”.
+1|listen|A: 你爸爸做什么工作?¶B: 他是医生,在医院工作。¶Bố của B làm nghề gì?|Học sinh|Bác sĩ|Tài xế|Giáo viên|B|“他是医生”.
+1|listen|我明天不上课,我想在家看电影。¶Ngày mai người nói muốn làm gì?|Xem phim ở nhà|Đi bệnh viện|Đi mua sắm|Đi học|A|“想在家看电影”.
+1|listen|A: 请问,商店在哪儿?¶B: 在医院前面。¶Cửa hàng ở đâu?|Sau bệnh viện|Trong trường|Ở nhà|Trước bệnh viện|D|“在医院前面”.
+1|listen|A: 现在几点?¶B: 现在十点十分。¶Bây giờ là mấy giờ?|9 giờ 10 phút|11 giờ 10 phút|10 giờ 10 phút|10 giờ|C|“十点十分”.
+1|listen|我喜欢小狗,我家有两只小狗。¶Nhà người nói có mấy con chó?|Bốn con|Ba con|Một con|Hai con|D|“两只小狗”.
+1|listen|A: 你会说汉语吗?¶B: 我不会说,我在学习。¶B đang làm gì?|Đang học tiếng Trung|Đi Trung Quốc|Dạy tiếng Trung|Nói tiếng Trung giỏi|A|B chưa biết nói, “在学习”.
+1|listen|昨天我和朋友去看电影了,电影很好看。¶Hôm qua người nói đã làm gì?|Đi xem phim với bạn|Đi học|Đi làm|Ở nhà ngủ|A|“和朋友去看电影了”.
+1|listen|A: 你的书在哪儿?¶B: 在桌子上。¶Sách ở đâu?|Trên bàn|Ở trường|Trên ghế|Dưới bàn|A|“在桌子上”.
+1|listen|今天星期五,明天星期六,我们不上课。¶Hôm nay là thứ mấy?|Thứ tư|Thứ sáu|Thứ bảy|Thứ năm|B|“今天星期五”.
+1|listen|A: 你女儿几岁了?¶B: 她今年六岁了。¶Con gái B mấy tuổi?|8 tuổi|7 tuổi|6 tuổi|5 tuổi|C|“六岁”.
+1|listen|我想买衣服,可是我没有很多钱。¶Người nói thiếu gì?|Tiền|Quần áo|Bạn bè|Thời gian|A|“没有很多钱”.
+1|listen|A: 你想吃什么?¶B: 我想吃米饭和菜。¶B muốn ăn gì?|Bánh|Hoa quả|Cơm và món ăn|Mì|C|“米饭和菜”.
+1|listen|王先生是我的老师,他在学校工作。¶Thầy Vương làm việc ở đâu?|Nhà hàng|Bệnh viện|Trường học|Cửa hàng|C|“在学校工作”.
+1|listen|A: 喂,你在哪儿?¶B: 我在家,你来吧。¶B đang ở đâu?|Ở trường|Ở nhà|Ở bệnh viện|Ở cửa hàng|B|“我在家”.
+1|listen|外面在下雨,我不去商店了。¶Thời tiết bên ngoài thế nào?|Có gió|Đang mưa|Nóng|Nắng|B|“在下雨”.
+1|listen|我哥哥开出租车,他每天都很忙。¶Anh trai làm nghề gì?|Lái taxi|Bác sĩ|Giáo viên|Học sinh|A|“开出租车”.
+1|listen|A: 这个多少钱?¶B: 两块五。¶Giá bao nhiêu?|2 tệ|5 tệ|25 tệ|2,5 tệ|D|“两块五” = 2,5 tệ.
+1|listen|我早上吃苹果,中午吃米饭,晚上喝茶。¶Buổi trưa người nói ăn gì?|Cơm|Táo|Trà|Mì|A|“中午吃米饭”.
+1|listen|A: 你认识他吗?¶B: 认识,他是我的同学。¶Anh ấy là gì của B?|Hàng xóm|Anh trai|Thầy giáo|Bạn học|D|“他是我的同学”.
+1|listen|我今天很高兴,我的朋友来我家了。¶Hôm nay ai đến nhà người nói?|Bạn|Bác sĩ|Anh trai|Thầy giáo|A|“我的朋友来我家了”.
+1|listen|A: 你想去哪儿?¶B: 我想去北京。¶B muốn đi đâu?|Bắc Kinh|Trường học|Bệnh viện|Thượng Hải|A|“去北京”.
+1|listen|我儿子七岁,他在学校学习。¶Con trai mấy tuổi?|5 tuổi|6 tuổi|7 tuổi|8 tuổi|C|“七岁”.
+1|listen|A: 请问,你是老师吗?¶B: 不是,我是学生。¶B là ai?|Giáo viên|Học sinh|Công nhân|Bác sĩ|B|“我是学生”.
+1|listen|小王不在家,他去商店了。¶Tiểu Vương đã đi đâu?|Bệnh viện|Trường học|Cửa hàng|Nhà bạn|C|“去商店了”.
+1|listen|A: 你有哥哥吗?¶B: 没有,我有一个姐姐。¶B có anh chị em gì?|Hai em gái|Không có ai|Một anh trai|Một chị gái|D|“没有哥哥,有一个姐姐”.
+1|listen|我下午三点去看医生。¶Mấy giờ chiều đi khám bác sĩ?|3 giờ|4 giờ|2 giờ|5 giờ|A|“下午三点”.
+1|listen|A: 你每天几点睡觉?¶B: 我十点睡觉。¶B đi ngủ lúc mấy giờ?|11 giờ|12 giờ|10 giờ|9 giờ|C|“十点”.
+1|listen|这是我的朋友小李,她是中国人,也是老师。¶Tiểu Lý là ai?|Học sinh người Mỹ|Giáo viên người Trung Quốc|Bạn học|Bác sĩ|B|“中国人,也是老师”.
+1|listen|A: 你想喝水吗?¶B: 谢谢,我不想喝,我想吃苹果。¶B muốn gì?|Uống nước|Uống trà|Ăn táo|Không muốn gì|C|“我想吃苹果”.
+1|listen|我家前面有一个饭店,菜很好吃。¶Trước nhà người nói có gì?|Trường học|Bệnh viện|Cửa hàng|Nhà hàng|D|“有一个饭店”.
+1|listen|A: 你今年多大了?¶B: 我二十岁了。¶B bao nhiêu tuổi?|19 tuổi|21 tuổi|18 tuổi|20 tuổi|D|“二十岁”.
+1|listen|我很喜欢中国菜,可是不会做。¶Người nói không biết làm gì?|Viết chữ|Lái xe|Nấu món Trung Quốc|Nói tiếng Trung|C|“不会做(中国菜)”.
+1|listen|A: 请坐,喝茶吧。¶B: 谢谢!¶A mời B làm gì?|Ăn cơm|Ngồi và uống trà|Xem phim|Đi học|B|“请坐,喝茶”.
+1|listen|现在是晚上七点,我在家看电视,爸爸在做饭。¶Bố đang làm gì?|Nấu cơm|Xem tivi|Ngủ|Đọc sách|A|“爸爸在做饭”.
+1|listen|A: 你明天几点来?¶B: 我下午两点来。¶Ngày mai B đến lúc mấy giờ?|3 giờ chiều|2 giờ chiều|2 giờ sáng|12 giờ trưa|B|“下午两点”.
+1|listen|我有两个朋友,一个是中国人,一个是美国人。¶Người nói có mấy người bạn?|Hai|Ba|Một|Bốn|A|“两个朋友”.
+1|listen|A: 这是什么?¶B: 这是汉语书。¶Đây là cái gì?|Vở|Tạp chí|Sách tiếng Anh|Sách tiếng Trung|D|“汉语书”.
+1|listen|小明今天去医院看医生,不去学校。¶Hôm nay Tiểu Minh đi đâu?|Bệnh viện|Nhà|Cửa hàng|Trường học|A|“去医院看医生”.
+1|listen|A: 你认识那个人吗?¶B: 不认识。你呢?¶A: 我也不认识。¶Hai người có quen người đó không?|Chỉ A quen|Chỉ B quen|Cả hai đều không quen|Cả hai đều quen|C|B không quen, A cũng “也不认识”.
+1|listen|A: 我想买三个苹果。¶B: 一个两块,三个六块。¶Ba quả táo bao nhiêu tiền?|5 tệ|6 tệ|8 tệ|3 tệ|B|“三个六块”.
+1|listen|我每天坐出租车去工作。¶Người nói đi làm bằng gì?|Taxi|Đi bộ|Tàu hỏa|Máy bay|A|“坐出租车”.
+1|listen|A: 谁在那儿?¶B: 是我哥哥,他在看书。¶Ai ở đó?|Anh trai|Em trai|Thầy giáo|Bố|A|“是我哥哥”.
+1|listen|下雨了,你在家吧,我去商店。¶Ai đi cửa hàng?|Người nghe|Người nói|Không ai|Cả hai|B|“我去商店”.
+1|listen|我昨天买了一个杯子,今天买了一本书。¶Hôm nay người nói mua gì?|Quần áo|Sách|Táo|Cốc|B|“今天买了一本书”.

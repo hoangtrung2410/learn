@@ -1,0 +1,75 @@
+5|vocab|“具备”的意思是什么？|hủy bỏ|thiếu hụt|vay mượn|có đủ, sở hữu|D|具备 nghĩa là có đủ, sở hữu (điều kiện, năng lực).
+5|vocab|“温暖”的意思是什么？|lạnh lẽo|ấm áp|ẩm ướt|khô ráo|B|温暖 nghĩa là ấm áp.
+5|vocab|“防止”的意思是什么？|khuyến khích|so sánh|ngăn ngừa, đề phòng|chấp nhận|C|防止 nghĩa là ngăn ngừa, đề phòng.
+5|vocab|“尊重”的意思是什么？|tôn trọng|giám sát|bắt chước|coi thường|A|尊重 nghĩa là tôn trọng.
+5|vocab|“稳定”的意思是什么？|ổn định|dao động|nguy hiểm|kịch liệt|A|稳定 nghĩa là ổn định, vững vàng.
+5|vocab|“灵活”的意思是什么？|cứng nhắc|chậm chạp|linh hoạt|nặng nề|C|灵活 nghĩa là linh hoạt, nhanh nhạy.
+5|vocab|“恢复”的意思是什么？|phá hủy|khôi phục, hồi phục|từ bỏ|phát hiện|B|恢复 nghĩa là khôi phục, hồi phục.
+5|vocab|“宝贵”的意思是什么？|rẻ tiền|phổ biến|nguy hiểm|quý báu|D|宝贵 nghĩa là quý báu.
+5|vocab|“暂时”的意思是什么？|vĩnh viễn|tạm thời|thường xuyên|đột nhiên|B|暂时 nghĩa là tạm thời, trong thời gian ngắn.
+5|vocab|“陌生”的意思是什么？|quen thuộc|nổi tiếng|thân thiết|xa lạ|D|陌生 nghĩa là xa lạ, lạ lẫm.
+5|vocab|“收获”的意思是什么？|thu hoạch, thành quả|trò chơi|tổn thất|trách nhiệm|A|收获 nghĩa là thu hoạch, thành quả.
+5|vocab|“密切”的意思是什么？|xa cách|lạnh nhạt|mật thiết, gần gũi|tạm thời|C|密切 nghĩa là mật thiết, gần gũi.
+5|vocab|“激烈”的意思是什么？|yên tĩnh|nhẹ nhàng|gay gắt, quyết liệt|lười biếng|C|激烈 nghĩa là gay gắt, quyết liệt (cạnh tranh).
+5|vocab|他的汉语水平提高得很快，这是长期努力的___。|结果|结论|结构|结婚|A|结果 nghĩa là kết quả; hợp với “长期努力”.
+5|vocab|这个问题很复杂，我们需要认真___一下。|分手|分别|分配|分析|D|分析 nghĩa là phân tích.
+5|vocab|大家对这个计划提出了很多不同的___。|意义|意见|意外|意思|B|意见 nghĩa là ý kiến; “提出意见” là cách nói quen thuộc.
+5|vocab|考试快到了，同学们都在紧张地___。|复印|复杂|复制|复习|D|复习 nghĩa là ôn tập.
+5|vocab|空气污染已经成为一个严重的社会___。|标题|问题|题目|问候|B|问题 nghĩa là vấn đề; “社会问题” là cụm cố định.
+5|vocab|这个手机的功能很___，什么都能做。|丰收|丰满|丰富|丰盛|C|丰富 nghĩa là phong phú, đa dạng.
+5|vocab|他由于工作___，常常加班到很晚。|繁忙|繁体|繁荣|繁殖|A|繁忙 nghĩa là bận rộn; 繁荣 là phồn vinh.
+5|vocab|对不起，我不是故意的，请您___。|原谅|原料|原则|原来|A|原谅 nghĩa là tha thứ.
+5|vocab|医生建议他戒烟，因为吸烟对健康有很大的___。|成就|收获|危害|待遇|C|危害 nghĩa là tác hại.
+5|grammar|他不但会说英语，___会说法语。|何况|而且|否则|可是|B|不但…而且 nghĩa là không những…mà còn.
+5|grammar|只要你努力，___能成功。|才|却|倒|就|D|只要…就 nghĩa là chỉ cần…thì.
+5|grammar|只有多练习，___能提高口语水平。|就|才|都|也|B|只有…才 nghĩa là chỉ có…mới.
+5|grammar|不管天气多冷，他___坚持晨跑。|更|才|却|都|D|不管…都 nghĩa là bất kể…đều.
+5|grammar|这个孩子很聪明，___有点儿懒。|不过|何况|因此|于是|A|不过 nghĩa là có điều, chuyển ý nhẹ.
+5|grammar|他的话把我___得说不出话来。|气氛|气候|气|空气|C|把…气得 + bổ ngữ: làm tôi tức đến nói không nên lời.
+5|grammar|下面哪个句子是正确的？|连他饭也没吃就走了|他饭连也没吃就走了|他连饭也没吃就走了|他连饭没也吃就走了|C|连…也 + phủ định: 连饭也没吃.
+5|grammar|下面哪个句子是正确的？|我对这个工作很感兴趣|我这个工作对很感兴趣|对我这个工作很感兴趣了|我很感兴趣对这个工作|A|对…感兴趣 nghĩa là hứng thú với…
+5|grammar|这次比赛他发挥得___好，所以拿了第一名。|特点|特色|特意|特别|D|特别 là phó từ nghĩa là đặc biệt, đứng trước tính từ.
+5|grammar|他一听到这个消息，___高兴地跳了起来。|立场|立刻|立体|立法|B|立刻 nghĩa là lập tức.
+5|grammar|他___个子不高，___篮球打得很好。|因为 / 所以|不但 / 而且|如果 / 就|虽然 / 但是|D|虽然…但是 chỉ nhượng bộ, chuyển ý.
+5|grammar|他对待工作___认真___负责，大家都很放心。|越 / 越|既 / 又|一边 / 一边|不但 / 不如|B|既…又 nghĩa là vừa…vừa (hai đặc điểm).
+5|grammar|这首歌我___听___喜欢。|不但 / 而且|既然 / 就|越 / 越|除非 / 才|C|越…越 nghĩa là càng…càng.
+5|grammar|下面哪个句子是正确的？|请把窗户打开|把请窗户打开|请窗户把打开|请把打开窗户|A|Cấu trúc 把字句: 把+宾语+động từ+thành phần khác.
+5|grammar|下面哪个句子是正确的？|他比我高五厘米|他很比我高五厘米|他比高我五厘米|他比我很高五厘米|A|Câu so sánh 比: A+比+B+tính từ+mức chênh lệch; không dùng 很.
+5|grammar|他喜欢___听音乐___做作业。|虽然 / 但是|不但 / 而且|一边 / 一边|只要 / 就|C|一边…一边 nghĩa là vừa…vừa (hai hành động đồng thời).
+5|grammar|我以为他会生气，没想到他___笑了起来。|何况|反而|否则|于是|B|反而 nghĩa là ngược lại, trái với dự đoán.
+5|grammar|他之所以迟到，___路上堵车。|所以|因此|于是|是因为|D|之所以…是因为… nêu kết quả trước, nguyên nhân sau.
+5|grammar|出门要带伞，___被雨淋湿。|以及|以免|以便|以来|B|以免 nghĩa là để khỏi, tránh (điều không tốt).
+5|grammar|___学生来说，时间非常宝贵。|跟|把|被|对|D|对…来说 nghĩa là đối với…mà nói.
+5|grammar|我已经把作业做___了，可以出去玩了。|完|过|着|的|A|做完 nghĩa là làm xong; 完 là bổ ngữ kết quả.
+5|grammar|路上堵车了，___我迟到了二十分钟。|即使|既然|因此|除非|C|因此 nghĩa là vì vậy, nêu kết quả.
+5|grammar|他不仅会弹钢琴，___会作曲。|就|却|还|才|C|不仅…还 nghĩa là không chỉ…mà còn.
+5|reading|小林想学做饭，可是工作太忙，没时间上课。后来他在网上找了一些教学视频，下班后跟着做，半年后他已经能做十几道菜了。¶小林是怎么学会做饭的？|看网上视频|参加培训班|去饭馆打工|请朋友教|A|Ông tự học qua video trên mạng.
+5|reading|很多年轻人喜欢租房子住，因为租房比买房灵活，可以根据工作随时搬家。不过，租房也有缺点，比如房租可能会涨。¶租房的缺点是什么？|不能搬家|手续复杂|环境很差|房租可能上涨|D|Bài nói缺点是房租可能会涨.
+5|reading|这个小镇以茶叶闻名。每年春天，来自各地的游客都会来这里参观茶园，还能亲手体验采茶，带走新鲜的茶叶。¶游客来小镇可以做什么？|学习做饭|采茶|买衣服|滑雪|B|游客可以亲手体验采茶.
+5|reading|我有一个习惯：每天睡觉前写日记。写下当天发生的事和自己的想法，能让我更好地了解自己，也让心情平静下来。¶写日记有什么好处？|可以赚钱|能认识朋友|会睡得更晚|能让心情平静|D|Nhật ký giúp hiểu mình và tâm trạng bình tĩnh.
+5|reading|昨天的篮球比赛非常激烈。上半场我们队落后十分，但是下半场队员们互相配合，最后以两分的优势赢了比赛。¶比赛结果怎么样？|我们队输了|我们队赢了|比赛取消|平局|B|Cuối cùng đội ta thắng hơn hai điểm.
+5|reading|图书馆规定：借书一次最多五本，借期三十天。如果需要延长，可以在网上办理续借，但不能超过一次。¶关于续借，下面哪个正确？|不能续借|可以续借多次|可以在网上办理|必须到柜台办理|C|Có thể续借 trên mạng, nhưng tối đa một lần.
+5|reading|我的邻居是一位退休教师。他常常免费给附近的孩子们辅导功课，大家都很尊敬他。¶这位邻居为什么受人尊敬？|他免费辅导孩子|他是校长|他很有钱|他会修电脑|A|Ông miễn phí kèm cặp bài vở cho trẻ.
+5|reading|研究发现，经常和家人一起吃饭的孩子，学习成绩往往更好，也更愿意和父母交流。¶这项研究说明什么？|家庭聚餐对孩子有好处|孩子应该少吃饭|成绩与吃饭无关|父母应该多工作|A|Ăn cơm cùng gia đình có lợi cho con.
+5|reading|他性格开朗，很容易和陌生人聊起来。有一次在火车上，他和旁边的乘客聊了一路，下车时已经成了好朋友。¶他有什么特点？|性格内向|不爱说话|性格开朗|容易生气|C|“性格开朗，容易和陌生人聊起来”.
+5|reading|由于经济不好，这家工厂不得不减少工人。虽然工人们很难过，但老板保证，情况好转以后会优先请他们回来。¶老板保证了什么？|增加工资|好转后优先请他们回来|关闭工厂|搬到别的城市|B|Lời hứa: ưu tiên mời họ trở lại khi tình hình khá lên.
+5|reading|今年夏天特别热，空调的销量比去年增长了百分之三十。专家提醒大家，使用空调时温度不要调得太低，既省电又有利于健康。¶专家建议空调温度怎么样？|越低越好|调到最高|一直关着|不要太低|D|Khuyên đừng chỉnh quá thấp.
+5|reading|小美今年大学毕业，准备去西部当志愿者。父母一开始不同意，担心那里条件太差，但小美说，这是一次宝贵的经历。¶小美认为去西部当志愿者怎么样？|太辛苦了|是宝贵的经历|没有意义|很危险|B|小美 nói đó là một trải nghiệm quý báu.
+5|reading|这条街上有很多老店，有的已经开了上百年。虽然现代化的商场越来越多，但这些老店仍然有不少老顾客。¶关于这些老店，可以知道什么？|生意都很差|没有顾客|已经全部关门|有的开了上百年|D|Có tiệm đã mở hơn trăm năm.
+5|reading|为了防止孩子沉迷手机，李女士和孩子约定：写完作业后可以玩半小时，超过时间就要交出手机。¶李女士的目的是什么？|防止孩子沉迷手机|让孩子多买手机|禁止孩子写作业|让孩子早点睡|A|Mục đích là防止孩子沉迷手机.
+5|reading|很多人以为咖啡对身体有害。其实，只要适量饮用，咖啡对身体并没有太大的坏处，有的研究甚至发现它有一些好处。¶作者对咖啡的看法是什么？|喝得越多越好|一点都不能喝|适量喝没太大坏处|只有早上能喝|C|Tác giả nói uống vừa phải không hại nhiều.
+5|listen|A：小王怎么没来上课？¶B：他感冒了，发烧到三十九度，今天在家休息。|Tiểu Vương ngủ quên|Tiểu Vương đi du lịch|Tiểu Vương bị cảm, sốt cao, nghỉ ở nhà|Tiểu Vương đã thôi học|C|B nói感冒、发烧，在家休息.
+5|listen|A：这次考试你觉得难吗？¶B：比我想象的容易，不过最后一道题我没做完。|Bài thi dễ hơn tưởng tượng, nhưng chưa làm xong câu cuối|Bài thi khó hơn tưởng tượng|Anh ấy làm xong hết|Anh ấy không đi thi|A|B nói比想象的容易, nhưng最后一道题没做完.
+5|listen|A：你为什么不坐地铁去？¶B：这个时间地铁太挤了，我打算打车。|Tàu điện ngầm hỏng|Anh ấy sợ tàu điện|Anh ấy muốn đi bộ|Lúc này tàu điện quá đông nên đi taxi|D|B nói地铁太挤，打算打车.
+5|listen|A：你对这份工作满意吗？¶B：工资还可以，但是经常加班，我有点儿吃不消。|Lương quá thấp|Lương tạm được nhưng hay tăng ca, hơi quá sức|Không thích đồng nghiệp|Hài lòng hoàn toàn|B|Lương ổn nhưng tăng ca nhiều.
+5|listen|A：妈妈，我想养一只小狗。¶B：养狗需要花很多时间和精力，你能照顾好它吗？|Mẹ đã mua chó|Mẹ đồng ý ngay|Mẹ không thích động vật|Mẹ nhắc phải suy nghĩ kỹ vì nuôi chó tốn công sức|D|Mẹ đặt câu hỏi liệu con có chăm sóc nổi không.
+5|listen|A：听说你们公司下个月要搬家？¶B：对，新办公楼离地铁站很近，大家上班会方便很多。|Công ty sẽ giải thể|Công ty chuyển văn phòng mới gần tàu điện|Công ty tăng lương|Công ty mở chi nhánh|B|Văn phòng mới gần ga tàu.
+5|listen|我上个月开始学游泳，教练要求很严格。虽然很累，但我已经能游二十五米了。|Người nói đã bỏ cuộc|Người nói giỏi bơi từ trước|Người nói học bơi và đã bơi được 25 mét|Huấn luyện viên rất dễ tính|C|Người nói học bơi, đã bơi được 25 mét.
+5|listen|A：你把雨伞带来了吗？¶B：没有，我出门的时候天还是晴的。|Anh ấy không mang ô vì lúc ra khỏi nhà trời nắng|Ô bị hỏng|Anh ấy cho mượn ô|Anh ấy mang ô rồi|A|B không mang ô vì lúc đi trời còn nắng.
+5|listen|A：你周末怎么没去参加聚会？¶B：我原本打算去的，可是临时有点急事，只好取消了。|Có việc gấp đột xuất nên hủy|Anh ấy không thích tụ tập|Anh ấy quên mất|Anh ấy ngủ quên|A|B nói临时有急事，只好取消.
+5|listen|A：这个字怎么读？¶B：我也不太清楚，我们查一下词典吧。|Cả hai đều biết cách đọc|Họ hỏi giáo viên|Họ quyết định tra từ điển|Họ bỏ qua chữ này|C|B đề nghị tra từ điển.
+5|listen|A：这家餐厅的菜怎么样？¶B：味道不错，价格也合理，就是服务员有点儿忙不过来，要等很久。|Đồ ăn dở|Món ngon, giá hợp lý nhưng phải đợi lâu|Giá quá đắt|Phục vụ rất nhanh|B|Món ngon, giá hợp lý, nhưng phải chờ lâu.
+5|listen|小刘每天坚持练习书法，已经有五年了。现在他的字写得很漂亮，经常有人请他写春联。|Tiểu Lưu mới bắt đầu tập|Tiểu Lưu không thích thư pháp|Tiểu Lưu viết chữ xấu|Tiểu Lưu luyện thư pháp 5 năm, nhiều người nhờ viết câu đối|D|Luyện 5 năm, chữ đẹp, được nhờ viết câu đối.
+5|listen|A：你觉得这个城市怎么样？¶B：交通方便，生活节奏也不快，很适合退休以后居住。|Thành phố giao thông bất tiện|Thành phố hợp để nghỉ hưu sống|Thành phố nhịp sống rất nhanh|Thành phố rất đông đúc|B|B nói giao thông thuận tiện, nhịp sống chậm, hợp để về hưu.
+5|listen|A：你怎么一脸不高兴？¶B：我辛辛苦苦做的方案，被经理否定了，一点儿面子都没留。|Anh ấy được thăng chức|Anh ấy cãi nhau với bạn|Anh ấy bị mất ví|Phương án bị giám đốc phủ định nên buồn|D|Phương án bị经理否定 nên không vui.
+5|listen|A：我想订一张去上海的机票。¶B：好的，请问您想订哪一天的？现在出发的话，周五的票比较便宜。|Người nói muốn đặt vé máy bay đi Thượng Hải|Người nói muốn đặt khách sạn|Người nói muốn đặt vé tàu|Người nói muốn đổi vé|A|Đặt vé máy bay đi Thượng Hải.

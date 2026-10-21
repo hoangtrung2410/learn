@@ -1,0 +1,6 @@
+{
+  "name": "LinguaPulse - Học Tiếng Trung & Ngoại Ngữ với AI",
+  "description": "Nền tảng học Tiếng Trung HSK & Ngoại ngữ đa dạng theo lộ trình gamified Duolingo kết hợp phòng luyện nói, chỉnh âm AI chuẩn ELSA Speak.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

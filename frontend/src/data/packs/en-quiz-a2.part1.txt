@@ -1,0 +1,100 @@
+A2|grammar|Yesterday I ___ to the cinema.|went|go|gone|going|A|Quá khứ đơn của go là went.
+A2|grammar|She ___ her keys last night.|lose|lost|loses|losed|B|Lose bất quy tắc: lost.
+A2|grammar|We ___ football last Sunday.|play|plays|played|playing|C|Quá khứ đơn thêm ed.
+A2|grammar|He ___ TV yesterday evening.|doesn't watched|didn't watched|not watch|didn't watch|D|Phủ định quá khứ: didn't + động từ nguyên mẫu.
+A2|grammar|___ you see the film last night?|Did|Do|Are|Were|A|Câu hỏi quá khứ đơn dùng Did.
+A2|grammar|I ___ very tired yesterday.|am|was|were|be|B|I dùng was ở quá khứ.
+A2|grammar|They ___ at the party last night.|was|are|were|be|C|They dùng were.
+A2|grammar|The weather ___ cold last week.|were|is|be|was|D|Weather số ít dùng was.
+A2|grammar|My brother is ___ than me.|taller|tall|tallest|more tall|A|Tính từ ngắn so sánh hơn thêm er.
+A2|grammar|This book is ___ than that one.|interestinger|more interesting|most interesting|interesting|B|Tính từ dài dùng more.
+A2|grammar|She is the ___ student in our class.|good|better|best|most good|C|Good bất quy tắc: best.
+A2|grammar|Today is ___ than yesterday.|hot|hottest|more hot|hotter|D|Hot gấp đôi phụ âm: hotter.
+A2|grammar|Mount Everest is the ___ mountain in the world.|highest|high|higher|most high|A|So sánh nhất dùng the highest.
+A2|grammar|I think it ___ rain tomorrow.|is|will|did|has|B|Dự đoán dùng will.
+A2|grammar|Look at those clouds! It ___ rain.|will|did|is going to|has|C|Có dấu hiệu ở hiện tại dùng be going to.
+A2|grammar|I ___ visit my grandparents next weekend. I have already bought the ticket.|will|visit|visited|am going to|D|Kế hoạch đã định dùng going to.
+A2|grammar|She ___ never ___ sushi.|has / eaten|have / eat|is / eating|did / eat|A|Present perfect: has + quá khứ phân từ.
+A2|grammar|I ___ my homework already.|has done|have done|did done|am done|B|I dùng have + done.
+A2|grammar|We ___ in this city for five years.|live|lived|have lived|are living|C|For + khoảng thời gian dùng present perfect.
+A2|grammar|Have you ___ been to London?|never|yet|still|ever|D|Ever dùng trong câu hỏi trải nghiệm.
+A2|grammar|He has lived here ___ 2015.|since|for|from|during|A|Since + mốc thời gian.
+A2|grammar|You ___ wear a seat belt in the car. It is the law.|can|must|may not|might|B|Must diễn tả bắt buộc.
+A2|grammar|You ___ see a doctor. You look sick.|can't|mustn't|should|are|C|Should dùng để khuyên.
+A2|grammar|You ___ smoke in the hospital.|must|don't|should|mustn't|D|Mustn't nghĩa là cấm.
+A2|grammar|I ___ get up early tomorrow. I have a train at 6.|have to|has to|having to|must to|A|I dùng have to.
+A2|grammar|She ___ wear a uniform at work.|have to|has to|must to|having to|B|She dùng has to.
+A2|grammar|We don't have ___ money.|many|a few|much|few|C|Money không đếm được, dùng much trong câu phủ định.
+A2|grammar|There are ___ people in the park today.|much|a little|any|a lot of|D|A lot of dùng được với danh từ đếm được.
+A2|grammar|I have ___ friends in this city. (rất ít)|a few|a little|much|any|A|Friends đếm được, a few = một vài.
+A2|grammar|She ___ goes to the gym on Monday.|always is|always|is always|always are|B|Trạng từ tần suất đứng trước động từ thường.
+A2|grammar|He is ___ late for class.|ever|yet|never|already|C|Never đi sau be; nghĩa là không bao giờ.
+A2|grammar|She sings ___.|beautiful|beauty|beautify|beautifully|D|Trạng từ bổ nghĩa động từ: beautifully.
+A2|grammar|He drives very ___.|slowly|slow|slowness|slows|A|Trạng từ cách thức: slowly.
+A2|grammar|If it rains tomorrow, we ___ at home.|stay|will stay|stayed|would stay|B|Câu điều kiện loại 1: if + hiện tại, will + V.
+A2|grammar|If you ___ hard, you will pass the exam.|studied|will study|study|studying|C|Mệnh đề if dùng hiện tại đơn.
+A2|grammar|The man ___ lives next door is a doctor.|which|whose|what|who|D|Who thay cho người.
+A2|grammar|This is the book ___ I bought yesterday.|which|who|where|when|A|Which thay cho vật.
+A2|grammar|The room is ___ small for six people.|enough|too|very much|so|B|Too small nghĩa là quá nhỏ.
+A2|grammar|He is not old ___ to drive.|too|very|enough|much|C|Enough đứng sau tính từ.
+A2|grammar|I ___ play the guitar when I was ten.|use to|am used|was use|used to|D|Used to chỉ thói quen trong quá khứ.
+A2|grammar|She enjoys ___ novels.|reading|read|to read|reads|A|Enjoy + V-ing.
+A2|grammar|I want ___ a new job.|find|to find|finding|found|B|Want + to V.
+A2|grammar|He decided ___ abroad.|study|studying|to study|studied|C|Decide + to V.
+A2|grammar|I am ___ to the shop. Do you need anything?|go|went|gone|going|D|Am + going to: đang đi.
+A2|grammar|What ___ you doing at 8 last night?|were|are|did|do|A|Quá khứ tiếp diễn: were + V-ing.
+A2|grammar|I was cooking when the phone ___.|rings|rang|ringing|has rung|B|Hành động ngắn xen vào dùng quá khứ đơn.
+A2|grammar|She ___ TV when I arrived.|watched|watches|was watching|has watched|C|Hành động đang diễn ra lúc khác cắt vào.
+A2|grammar|My bag is ___ than yours. (nặng hơn)|heavy|heaviest|more heavy|heavier|D|Heavy đổi y thành ier.
+A2|grammar|Is this the ___ restaurant in town?|cheapest|cheap|cheaper|more cheap|A|Có the, dùng so sánh nhất.
+A2|grammar|They are not as tall ___ their father.|than|as|like|that|B|Not as ... as: không bằng.
+A2|grammar|Can you tell me ___ the station is?|where is|is where|where|what|C|Câu hỏi gián tiếp dùng trật tự khẳng định.
+A2|grammar|I'm interested ___ music.|on|at|for|in|D|Interested in là cụm cố định.
+A2|grammar|She is afraid ___ dogs.|of|from|with|to|A|Afraid of là cụm cố định.
+A2|grammar|We arrived ___ the airport at noon.|in|at|to|on|B|Arrive at + địa điểm nhỏ như sân bay.
+A2|grammar|He is ___ the bus stop, waiting for the bus.|in|on|at|to|C|At the bus stop là cụm cố định.
+A2|grammar|Would you like ___ tea?|any|an|many|some|D|Lời mời dùng some.
+A2|grammar|I haven't got ___ time today.|any|some|a|many|A|Phủ định dùng any.
+A2|grammar|This is my first time ___ sushi.|eat|to eat|ate|eating|B|The first time + to V.
+A2|grammar|"Let's go out." - "Good idea! ___ shall we go?"|What|Who|Where|Why|C|Where hỏi địa điểm.
+A2|grammar|He ___ speak French when he was young.|can|cans|is can|could|D|Quá khứ của can là could.
+A2|vocab|"Borrow" means to ___.|take something and give it back later|give something|buy|sell|A|Borrow là mượn.
+A2|vocab|Choose the synonym of "big".|tiny|large|thin|cheap|B|Large đồng nghĩa với big.
+A2|vocab|I need to ___ a taxi to the airport.|catch|make|take|do|C|Take a taxi là collocation.
+A2|vocab|"Delicious" means ___.|rất xấu|rất nóng|rất rẻ|rất ngon|D|Delicious là rất ngon.
+A2|vocab|She is ___ at math. She always gets 10.|good|bad|slow|poor|A|Điểm 10 nên good at.
+A2|vocab|The ___ is the money you pay to travel by train.|ticket|fare|menu|ring|B|Fare là tiền vé di chuyển.
+A2|vocab|"Ill" has the same meaning as ___.|angry|happy|sick|late|C|Ill đồng nghĩa sick.
+A2|vocab|I make a lot of ___ when I write in English. (lỗi)|mysteries|mails|moves|mistakes|D|Make a mistake là collocation.
+A2|vocab|The opposite of "arrive" is ___.|leave|stay|come|enter|A|Arrive đối lập leave.
+A2|vocab|Nghĩa của "neighbor" là gì?|đồng nghiệp|hàng xóm|bạn cùng lớp|họ hàng|B|Neighbor là hàng xóm.
+A2|vocab|You ___ a photo with a camera.|do|make|take|have|C|Take a photo là collocation.
+A2|vocab|"Dangerous" means ___.|an toàn|thú vị|yên tĩnh|nguy hiểm|D|Dangerous là nguy hiểm.
+A2|vocab|Please ___ the TV off. I want to sleep.|turn|make|take|put on|A|Turn off là tắt.
+A2|vocab|She is a ___ person. She always helps others.|rude|kind|lazy|noisy|B|Giúp người khác là kind.
+A2|vocab|"Boring" is the opposite of ___.|difficult|old|interesting|quiet|C|Boring đối lập interesting.
+A2|vocab|I'm looking ___ my glasses. I can't find them.|at|up|after|for|D|Look for là tìm kiếm.
+A2|vocab|The word "journey" is closest to ___.|trip|meal|lesson|price|A|Journey đồng nghĩa trip.
+A2|vocab|Chọn từ đúng: She has a ___ of 38 degrees. (sốt)|weather|temperature|season|sport|B|Have a temperature là bị sốt.
+A2|vocab|I usually ___ the bus to work.|hold|keep|catch|bring|C|Catch the bus là bắt xe buýt.
+A2|vocab|"Enormous" means ___.|rất nhỏ|rất cũ|rất nhanh|rất lớn|D|Enormous là khổng lồ.
+A2|vocab|A person who plays in a football team is a ___.|player|painter|pilot|police|A|Player là cầu thủ.
+A2|vocab|I want to ___ my English. It is not good.|invent|improve|invite|insist|B|Improve là cải thiện.
+A2|vocab|"Cheerful" means ___.|buồn bã|mệt mỏi|vui vẻ|giận dữ|C|Cheerful là vui vẻ.
+A2|vocab|We stayed in a hotel ___ the sea. (nhìn ra)|view of in|looking by|seen on|with a view of|D|With a view of là có view hướng ra.
+A2|vocab|I am ___ in Chinese food. I eat it every week.|keen|bored|afraid|angry|A|Keen on là rất thích.
+A2|vocab|I passed the exam, and I am happy with my ___.|weather|result|ticket|menu|B|Result là kết quả thi.
+A2|vocab|"Ancient" means ___.|hiện đại|mới|cổ xưa|nhanh|C|Ancient là cổ đại.
+A2|vocab|He ___ his car every Sunday.|cooks|writes|paints|washes|D|Wash a car là rửa xe.
+A2|vocab|"Suitcase" nghĩa là gì?|va li|ba lô|ví|túi mua sắm|A|Suitcase là va li.
+A2|vocab|I'm ___ because I didn't sleep well.|excited|exhausted|surprised|pleased|B|Mất ngủ nên exhausted.
+A2|vocab|The weather is ___ today. Let's wear a coat.|boiling|dry|freezing|sunny|C|Mặc áo khoác nên rất lạnh.
+A2|vocab|Chọn từ: He gave me some good ___ about my career.|advices|advise|advised|advice|D|Advice không đếm được, là danh từ.
+A2|vocab|A ___ is a place where you borrow books.|library|bakery|garage|stadium|A|Library là thư viện.
+A2|vocab|"Return" has the same meaning as ___.|go out|come back|take off|put on|B|Return là quay lại.
+A2|vocab|I forgot my umbrella, so I got ___ in the rain.|cold only|hungry|wet|lost|C|Get wet là bị ướt.
+A2|vocab|"Ordinary" means ___.|đặc biệt|đắt|nguy hiểm|bình thường|D|Ordinary là thông thường.
+A2|vocab|She ___ a lot of money on clothes.|spends|saves|earns|wastes only|A|Spend money on là tiêu tiền vào.
+A2|vocab|The ___ is a person who flies a plane.|pirate|pilot|pianist|plumber|B|Pilot là phi công.
+A2|vocab|The shop ___ at 8 p.m. every day. (đóng cửa)|opens|moves|shuts|grows|C|Shut là đóng.
+A2|vocab|We go to the ___ to see a film.|clinic|church|garage|cinema|D|Cinema là rạp phim.

@@ -1,0 +1,93 @@
+阿姨|dì, cô|Danh từ|a di|我阿姨在医院工作。|Dì của tôi làm việc ở bệnh viện.
+啊|a, nhé (trợ từ ngữ khí)|Trợ từ||今天天气真好啊！|Hôm nay thời tiết đẹp quá!
+矮|thấp, lùn|Tính từ|ải|他比我矮一点儿。|Anh ấy thấp hơn tôi một chút.
+爱好|sở thích|Danh từ|ái hiếu|你有什么爱好？|Bạn có sở thích gì?
+安静|yên tĩnh|Tính từ|an tĩnh|图书馆里很安静。|Trong thư viện rất yên tĩnh.
+把|đem, lấy (giới từ)|Giới từ|bả|请把门关上。|Xin hãy đóng cửa lại.
+班|lớp|Danh từ|ban|我们班有三十个学生。|Lớp chúng tôi có ba mươi học sinh.
+搬|dọn, khiêng, chuyển|Động từ|ban|他想搬到新家去。|Anh ấy muốn chuyển đến nhà mới.
+半|một nửa, rưỡi|Số từ|bán|现在是三点半。|Bây giờ là ba giờ rưỡi.
+办法|cách, biện pháp|Danh từ|biện pháp|我想到一个好办法。|Tôi nghĩ ra một cách hay.
+办公室|văn phòng|Danh từ|biện công thất|老师在办公室里。|Thầy giáo đang ở trong văn phòng.
+帮忙|giúp đỡ|Động từ|bang mang|你能帮我一个忙吗？|Bạn có thể giúp tôi một việc không?
+包|túi, gói; bọc|Danh từ|bao|我的包里有一本书。|Trong túi của tôi có một quyển sách.
+饱|no|Tính từ|bão|我已经吃饱了。|Tôi đã ăn no rồi.
+北方|phương bắc, miền bắc|Danh từ|bắc phương|北方的冬天很冷。|Mùa đông ở phương bắc rất lạnh.
+被|bị, được (câu bị động)|Giới từ|bị|我的手机被他拿走了。|Điện thoại của tôi bị anh ấy lấy đi rồi.
+鼻子|mũi|Danh từ|tị tử|他的鼻子很高。|Mũi của anh ấy rất cao.
+比较|tương đối; so sánh|Phó từ|tỉ giảo|这个房间比较大。|Căn phòng này tương đối rộng.
+比赛|cuộc thi, trận đấu|Danh từ|tỉ tái|明天有足球比赛。|Ngày mai có trận bóng đá.
+笔记本|vở ghi chép; laptop|Danh từ|bút ký bản|我买了一个新笔记本。|Tôi đã mua một cuốn vở mới.
+必须|phải, nhất định phải|Phó từ|tất tu|你必须按时完成作业。|Bạn phải hoàn thành bài tập đúng giờ.
+变化|biến đổi, thay đổi|Danh từ|biến hóa|这个城市变化很大。|Thành phố này thay đổi rất lớn.
+别人|người khác|Đại từ|biệt nhân|不要总是看别人。|Đừng cứ nhìn người khác mãi.
+冰箱|tủ lạnh|Danh từ|băng tương|牛奶在冰箱里。|Sữa ở trong tủ lạnh.
+才|mới, vừa mới|Phó từ|tài|他十点才起床。|Mười giờ anh ấy mới thức dậy.
+菜单|thực đơn|Danh từ|thái đơn|请给我看一下菜单。|Xin cho tôi xem thực đơn.
+参加|tham gia|Động từ|tham gia|我想参加这次比赛。|Tôi muốn tham gia cuộc thi lần này.
+草|cỏ|Danh từ|thảo|草地上有很多花。|Trên bãi cỏ có rất nhiều hoa.
+层|tầng, lớp|Lượng từ|tầng|我家住在五层。|Nhà tôi ở tầng năm.
+差|kém, thiếu|Tính từ|sai|他的成绩不差。|Thành tích của anh ấy không kém.
+超市|siêu thị|Danh từ|siêu thị|我去超市买水果。|Tôi đi siêu thị mua hoa quả.
+衬衫|áo sơ mi|Danh từ|sấn sam|这件衬衫很好看。|Chiếc áo sơ mi này rất đẹp.
+成绩|thành tích, kết quả|Danh từ|thành tích|他的成绩越来越好。|Thành tích của anh ấy ngày càng tốt.
+城市|thành phố|Danh từ|thành thị|北京是一个大城市。|Bắc Kinh là một thành phố lớn.
+迟到|đến muộn|Động từ|trì đáo|今天我上班迟到了。|Hôm nay tôi đi làm muộn.
+出现|xuất hiện|Động từ|xuất hiện|天上出现了一道彩虹。|Trên trời xuất hiện một cầu vồng.
+除了|ngoài ra, trừ|Giới từ|trừ liễu|除了他，大家都来了。|Trừ anh ấy ra, mọi người đều đến rồi.
+船|thuyền, tàu|Danh từ|thuyền|我们坐船去那个岛。|Chúng tôi đi thuyền đến hòn đảo đó.
+春|mùa xuân|Danh từ|xuân|春天花都开了。|Mùa xuân hoa đều nở.
+词典|từ điển|Danh từ|từ điển|我用词典查这个词。|Tôi dùng từ điển tra từ này.
+聪明|thông minh|Tính từ|thông minh|这个孩子很聪明。|Đứa trẻ này rất thông minh.
+打扫|quét dọn|Động từ|đả tảo|周末我在家打扫房间。|Cuối tuần tôi ở nhà dọn phòng.
+打算|dự định|Động từ|đả toán|你打算什么时候去？|Bạn dự định khi nào đi?
+带|mang, dẫn|Động từ|đới|出门别忘了带雨伞。|Ra ngoài đừng quên mang ô.
+担心|lo lắng|Động từ|đảm tâm|别担心，一切都会好的。|Đừng lo, mọi thứ sẽ tốt thôi.
+蛋糕|bánh gato|Danh từ|đản cao|她做的蛋糕很好吃。|Bánh gato cô ấy làm rất ngon.
+当然|đương nhiên|Phó từ|đương nhiên|你当然可以来。|Bạn đương nhiên có thể đến.
+地|một cách (trợ từ trạng ngữ)|Trợ từ||他高兴地笑了。|Anh ấy vui vẻ cười.
+灯|đèn|Danh từ|đăng|请把灯关了。|Xin hãy tắt đèn đi.
+地方|nơi, chỗ|Danh từ|địa phương|这是个很美的地方。|Đây là một nơi rất đẹp.
+地铁|tàu điện ngầm|Danh từ|địa thiết|我坐地铁去上班。|Tôi đi tàu điện ngầm đến chỗ làm.
+地图|bản đồ|Danh từ|địa đồ|我看看地图再走。|Tôi xem bản đồ rồi hãy đi.
+电梯|thang máy|Danh từ|điện thê|电梯坏了，我们走楼梯吧。|Thang máy hỏng rồi, chúng ta đi cầu thang nhé.
+电子邮件|thư điện tử, email|Danh từ|điện tử bưu kiện|我给你发了一封电子邮件。|Tôi đã gửi cho bạn một email.
+东|phía đông|Danh từ|đông|太阳从东边升起。|Mặt trời mọc từ phía đông.
+冬|mùa đông|Danh từ|đông|冬天下雪了。|Mùa đông tuyết rơi rồi.
+动物|động vật|Danh từ|động vật|我喜欢可爱的动物。|Tôi thích những con vật dễ thương.
+短|ngắn|Tính từ|đoản|这条裤子太短了。|Chiếc quần này ngắn quá.
+段|đoạn, khúc|Lượng từ|đoạn|这段路不太好走。|Đoạn đường này không dễ đi.
+锻炼|rèn luyện, tập thể dục|Động từ|đoàn luyện|他每天早上锻炼身体。|Mỗi sáng anh ấy rèn luyện thân thể.
+多么|biết bao, nhường nào|Phó từ|đa ma|这里的风景多么美啊！|Phong cảnh ở đây đẹp biết bao!
+饿|đói|Tính từ|ngạ|我很饿，想吃饭。|Tôi rất đói, muốn ăn cơm.
+耳朵|tai|Danh từ|nhĩ đóa|小猫的耳朵很小。|Tai của chú mèo con rất nhỏ.
+发|gửi, phát|Động từ|phát|我给你发个短信。|Tôi gửi cho bạn một tin nhắn.
+发烧|sốt|Động từ|phát thiêu|他发烧了，要去医院。|Anh ấy bị sốt, phải đến bệnh viện.
+发现|phát hiện|Động từ|phát hiện|我发现钱包不见了。|Tôi phát hiện ví tiền biến mất rồi.
+方便|tiện lợi|Tính từ|phương tiện|这里坐车很方便。|Ở đây đi xe rất tiện.
+放|đặt, để, thả|Động từ|phóng|请把书放在桌子上。|Xin hãy để sách trên bàn.
+放心|yên tâm|Động từ|phóng tâm|你放心，我会照顾好她。|Bạn yên tâm, tôi sẽ chăm sóc tốt cho cô ấy.
+分|phút; điểm|Lượng từ|phân|现在两点十分。|Bây giờ là hai giờ mười phút.
+附近|gần, lân cận|Danh từ|phụ cận|我家附近有一个公园。|Gần nhà tôi có một công viên.
+复习|ôn tập|Động từ|phục tập|考试前我要好好复习。|Trước kỳ thi tôi phải ôn tập thật tốt.
+干净|sạch sẽ|Tính từ|can tịnh|他的房间很干净。|Phòng của anh ấy rất sạch sẽ.
+敢|dám|Động từ|cảm|你敢一个人去吗？|Bạn dám đi một mình không?
+感冒|cảm cúm|Động từ|cảm mạo|我感冒了，头很疼。|Tôi bị cảm, đau đầu lắm.
+刚才|vừa nãy|Danh từ|cương tài|刚才有人找你。|Vừa nãy có người tìm bạn.
+根据|căn cứ, dựa theo|Giới từ|căn cứ|根据天气决定去不去。|Dựa vào thời tiết để quyết định có đi hay không.
+跟|cùng, với, theo|Giới từ|cân|我想跟你一起去。|Tôi muốn cùng bạn đi.
+更|càng, hơn nữa|Phó từ|cánh|今天比昨天更冷。|Hôm nay lạnh hơn hôm qua.
+公园|công viên|Danh từ|công viên|我们去公园散步吧。|Chúng ta đi công viên đi dạo nhé.
+故事|câu chuyện|Danh từ|cố sự|妈妈给我讲了一个故事。|Mẹ kể cho tôi một câu chuyện.
+刮风|nổi gió|Động từ|quát phong|外面刮风了，多穿点儿。|Bên ngoài có gió rồi, mặc thêm chút nhé.
+关|đóng, tắt|Động từ|quan|睡觉前要关灯。|Trước khi ngủ phải tắt đèn.
+关于|về, liên quan đến|Giới từ|quan vu|这是一本关于历史的书。|Đây là cuốn sách về lịch sử.
+国家|quốc gia|Danh từ|quốc gia|中国是一个大国家。|Trung Quốc là một quốc gia lớn.
+果汁|nước ép trái cây|Danh từ|quả trấp|我想喝一杯果汁。|Tôi muốn uống một cốc nước ép.
+过去|quá khứ; đi qua|Danh từ|quá khứ|他过去是我的老师。|Trước đây anh ấy là thầy giáo của tôi.
+还是|hay là; vẫn|Liên từ||你喝茶还是喝咖啡？|Bạn uống trà hay uống cà phê?
+海|biển|Danh từ|hải|夏天我们去海边玩。|Mùa hè chúng tôi đi chơi biển.
+害怕|sợ hãi|Động từ|hại phạ|我很害怕黑暗。|Tôi rất sợ bóng tối.
+黑板|bảng đen|Danh từ|hắc bản|老师在黑板上写字。|Thầy giáo viết chữ lên bảng.
+后来|sau đó|Danh từ|hậu lai|后来他去了北京工作。|Sau đó anh ấy đến Bắc Kinh làm việc.
+护照|hộ chiếu|Danh từ|hộ chiếu|出国要带好护照。|Ra nước ngoài phải mang theo hộ chiếu.

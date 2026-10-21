@@ -1,0 +1,26 @@
+4|grammar|___下雨,我们也要去爬山。|即使|如果|虽然|因为|A|即使…也… nghĩa là cho dù…cũng…, nhấn mạnh giả thiết nhượng bộ.
+4|grammar|他___被老师批评了。|把|被|让|给|B|Câu bị động: chủ ngữ + 被 + (tác nhân) + động từ.
+4|grammar|这个问题___复杂,___我们要认真研究。|因为 / 所以|不但 / 而且|虽然 / 但是|如果 / 就|C|虽然…但是… diễn tả quan hệ nhượng bộ chuyển ngoặt.
+4|grammar|我对中国文化很感兴趣,___想去中国留学。|只要|否则|但是|所以|D|所以 biểu thị kết quả: vì hứng thú nên muốn đi du học.
+4|grammar|他说得太快,我听___懂。|不|地|得|没|A|Bổ ngữ khả năng: 听不懂 nghĩa là nghe không hiểu.
+4|grammar|除了英语,___会说法语。|就|还|都|也|B|除了…还… nghĩa là ngoài…ra còn…
+4|grammar|___他努力学习,他才通过了考试。|只要|即使|正因为|不管|C|正因为…(所以/才)… nhấn mạnh nguyên nhân: chính vì anh ấy học chăm nên mới đỗ.
+4|grammar|请你把窗户___上。|拿|关|打|开|B|关上 nghĩa là đóng lại; 把窗户关上.
+4|vocab|“道歉”的意思是:|chào hỏi|xin lỗi|cảm ơn|tạm biệt|B|道歉 là xin lỗi.
+4|vocab|“购物”最可能发生在哪里?|教室|商场|机场|医院|B|购物 là mua sắm, thường ở trung tâm thương mại.
+4|vocab|“留学”是指:|đi công tác|ra nước ngoài du học|về nước|ra nước ngoài du lịch|B|留学 là du học.
+4|vocab|“孤单”的意思最接近:|忙碌|寂寞|热闹|紧张|B|孤单 là cô đơn, gần với 寂寞.
+4|vocab|“工资”是指:|tiền lương|tiền thưởng|tiền thuê nhà|tiền thuế|A|工资 là tiền lương.
+4|vocab|“网球”是一种:|Ăn uống|Nhạc cụ|Phương tiện|Môn thể thao|D|网球 là quần vợt, một môn thể thao.
+4|reading|我今年要去中国留学。出发前,我需要办签证、买机票,还要买一些常用药。¶出发前他不需要做什么?|买机票|买药|办签证|学开车|D|Bài đọc không nhắc đến chuyện học lái xe.
+4|reading|小李每天工作很忙,很少有时间陪家人。上个月,他决定换一份工资少一点儿但是不太累的工作。¶小李为什么换工作?|工资太少|不喜欢同事|想去国外|工作太累没时间陪家人|D|Anh ấy bận, ít thời gian cho gia đình nên đổi việc.
+4|reading|这家饭馆的菜很好吃,价格也不贵,所以每到周末都要排很长的队。¶这家饭馆的特点是什么?|地方很大|菜好吃价格便宜|在市中心|服务很差|B|Bài nói món ngon, giá không đắt.
+4|reading|爷爷已经八十岁了,可是他每天早上都去公园打太极拳。他说,运动让他觉得年轻了十岁。¶爷爷为什么每天运动?|医生要求|为了工作|觉得运动让他更年轻|没有朋友|C|Ông nói vận động khiến ông thấy trẻ hơn mười tuổi.
+4|reading|我下午三点要和客户见面,可是出门时发现下大雨了,出租车很难打到。最后我坐地铁去,还是迟到了十分钟。¶他是怎么去的?|出租车|地铁|公共汽车|走路|B|Cuối cùng anh ấy đi tàu điện ngầm.
+4|reading|这个周末公司组织大家去爬山。要求每个人自己带水和午饭,早上七点在公司门口集合。¶员工需要自己准备什么?|门票|地图|帐篷|水和午饭|D|Mỗi người tự mang nước và bữa trưa.
+4|listen|A:喂,小王,你到哪儿了?¶B:我还在路上,前面堵车了,大概二十分钟后到。|小王还要二十分钟|小王在家|小王已经到了|小王不来了|A|B nói 大概二十分钟后到.
+4|listen|A:你觉得这家餐厅怎么样?¶B:菜还可以,就是服务员的态度不太好。|服务员态度好|菜还行服务一般|餐厅很便宜|菜不好吃|B|Món tạm được, thái độ phục vụ chưa tốt.
+4|listen|A:听说你下个月要去北京出差?¶B:对,不过时间还没定,要等经理通知。|时间还没确定|已经定了时间|不去北京了|经理在北京|A|B nói 时间还没定.
+4|listen|A:这个周末你有什么打算?¶B:本来想去逛街,可是天气预报说要下雨,所以打算在家看电影。|去旅行|去逛街|在家看电影|去爬山|C|Vì dự báo có mưa nên ở nhà xem phim.
+4|listen|A:你的手机怎么了?¶B:屏幕摔坏了,我得送去修一下。|手机很贵|手机没电|手机要送去修|手机丢了|C|Màn hình vỡ, cần đưa đi sửa.
+4|listen|A:你能帮我把这些资料送到经理办公室吗?¶B:没问题,我马上去。|资料丢了|B 拒绝了|经理不在|B 会送资料|D|B nói 没问题,我马上去.

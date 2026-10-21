@@ -1,0 +1,25 @@
+# Bí mật: KHÔNG đưa lên git
+backend/.env
+.env
+.env.*
+!.env.example
+
+node_modules/
+dist/
+build/
+.dart_tool/
+app/build/
+app/.idea/
+*.log
+
+# Flutter / Android / IDE (sinh tự động hoặc riêng từng máy)
+app/android/.gradle/
+app/android/local.properties
+app/android/**/GeneratedPluginRegistrant.java
+app/.flutter-plugins-dependencies
+app/ios/Flutter/ephemeral/
+app/ios/Flutter/Generated.xcconfig
+app/ios/Flutter/flutter_export_environment.sh
+*.iml
+.idea/
+.DS_Store

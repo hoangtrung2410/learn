@@ -1,0 +1,75 @@
+5|vocab|“推迟”的意思是什么？|đẩy mạnh|hoãn lại|nhắc nhở|tiếp đón|B|推迟 nghĩa là hoãn lại, dời lại thời gian.
+5|vocab|“避免”的意思是什么？|thu hút|bỏ qua|cải thiện|tránh, phòng tránh|D|避免 nghĩa là tránh, ngăn không cho xảy ra.
+5|vocab|“吸引”的意思是什么？|từ chối|thu hút|trì hoãn|thay thế|B|吸引 nghĩa là thu hút, hấp dẫn.
+5|vocab|“缺乏”的意思是什么？|dư thừa|tiết kiệm|thiếu, thiếu thốn|tập trung|C|缺乏 nghĩa là thiếu, không đủ.
+5|vocab|“珍惜”的意思是什么？|trân trọng, quý trọng|lãng phí|so sánh|bắt chước|A|珍惜 nghĩa là trân trọng, quý trọng.
+5|vocab|“逐渐”的意思是什么？|dần dần|đột nhiên|ngay lập tức|thỉnh thoảng|A|逐渐 nghĩa là dần dần, từng bước.
+5|vocab|“抱怨”的意思是什么？|khen ngợi|cảm ơn|phàn nàn, oán trách|giải thích|C|抱怨 nghĩa là phàn nàn, than phiền.
+5|vocab|“谦虚”的意思是什么？|kiêu ngạo|khiêm tốn|tò mò|nghiêm khắc|B|谦虚 nghĩa là khiêm tốn.
+5|vocab|“估计”的意思是什么？|hủy bỏ|kiểm tra|phát minh|ước tính, đoán chừng|D|估计 nghĩa là ước tính, dự đoán.
+5|vocab|“打扰”的意思是什么？|giúp đỡ|làm phiền, quấy rầy|chào hỏi|chúc mừng|B|打扰 nghĩa là làm phiền, quấy rầy.
+5|vocab|“繁荣”的意思是什么？|suy thoái|ô nhiễm|bảo thủ|phồn vinh, thịnh vượng|D|繁荣 nghĩa là phồn vinh, thịnh vượng.
+5|vocab|这件事非常重要，请你一定要___，不要告诉别人。|保密|保护|保证|保持|A|保密 nghĩa là giữ bí mật, hợp với “không nói cho người khác”.
+5|vocab|他做事很___，从来不会马马虎虎。|随便|大概|认真|差不多|C|认真 nghĩa là nghiêm túc, cẩn thận, trái với 马马虎虎 (qua loa).
+5|vocab|为了___时间，我们决定坐飞机去上海。|浪费|拖延|节约|消费|C|节约 nghĩa là tiết kiệm; 坐飞机是để tiết kiệm thời gian.
+5|vocab|这家公司的产品质量很好，在市场上很有___。|竞争力|表情|感情|幽默|A|竞争力 nghĩa là sức cạnh tranh; hợp với “产品质量好”.
+5|vocab|“承担”的意思是什么？|từ chối|trốn tránh|cho mượn|đảm nhận, gánh vác|D|承担 nghĩa là đảm nhận, gánh vác (trách nhiệm).
+5|vocab|“细节”的意思是什么？|tổng thể|chi tiết|kết quả|phương pháp|B|细节 nghĩa là chi tiết, tình tiết nhỏ.
+5|vocab|“趁”的意思是什么？|tuy nhiên|vì|dù cho|nhân lúc, tranh thủ|D|趁 nghĩa là nhân lúc, tranh thủ, vd 趁热吃.
+5|vocab|她的建议对我很有___，我准备照着去做。|帮忙|参考价值|道理|作用力|B|参考价值 nghĩa là giá trị tham khảo; câu nói “định làm theo gợi ý”.
+5|vocab|请把这份文件___给经理，让他签字。|转告|转变|转交|转弯|C|转交 nghĩa là chuyển giao (vật) cho ai; 转告 chỉ chuyển lời.
+5|vocab|“获得”的意思是什么？|đạt được, giành được|mất đi|đòi hỏi|che giấu|A|获得 nghĩa là đạt được, giành được.
+5|vocab|“局限”的意思是什么？|giới hạn, hạn chế|mở rộng|giải phóng|so sánh|A|局限 nghĩa là giới hạn, bó hẹp trong phạm vi.
+5|grammar|___天气不好，我们也要按时出发。|既然|因为|尽管|如果|C|尽管…也/但是 diễn tả nhượng bộ: dù thời tiết xấu vẫn xuất phát.
+5|grammar|___你怎么劝他，他___不听。|虽然 / 但|无论 / 都|因为 / 所以|如果 / 就|B|无论…都 nghĩa là dù thế nào cũng, vd 无论怎么劝都不听.
+5|grammar|___你已经决定了，我就不再说什么了。|无论|即使|除非|既然|D|既然…就 nghĩa là đã…thì (căn cứ vào sự thật đã có).
+5|grammar|与其在家看电视，___出去锻炼锻炼。|还是|不如|反而|何况|B|与其…不如 nghĩa là thay vì…thì thà…còn hơn.
+5|grammar|我宁可自己累一点，___麻烦别人。|甚至|才|反正|也不|D|宁可…也不 nghĩa là thà…còn hơn là (không muốn).
+5|grammar|请你提前告诉我，___我好做准备。|以便|否则|尽管|何况|A|以便 nghĩa là để tiện cho, chỉ mục đích.
+5|grammar|快点走吧，___我们就赶不上火车了。|因此|所以|否则|而且|C|否则 nghĩa là nếu không thì, dùng nêu hậu quả.
+5|grammar|这道题连小学生___会做，你怎么不会？|倒|才|也|就是|C|连…也/都 nghĩa là ngay cả…cũng.
+5|grammar|___遇到困难，我们也不能放弃。|即使|一旦|因为|只要|A|即使…也 nghĩa là dù cho…cũng, phù hợp ý “không bỏ cuộc”.
+5|grammar|一个小孩子都知道的事情，___你呢？|何尝|况且是|何必|何况|D|何况 nghĩa là huống hồ, càng không cần nói.
+5|grammar|下面哪个句子是正确的？|我把书放桌子上在|我把书放在桌子上|我放把书在桌子上|把我书放在桌子上|B|Cấu trúc 把字句: 主语+把+宾语+động từ+在+nơi chốn.
+5|grammar|下面哪个句子是正确的？|那个杯子打破被他了|那个杯子被打破了他|被他那个杯子打破了|那个杯子被他打破了|D|被字句: 受事+被+施事+động từ+了.
+5|grammar|你___去过上海，应该知道怎么走吧？|难道|既然|不但|与其|B|既然 nghĩa là đã…thì, hợp ý “đã từng đi thì nên biết”.
+5|grammar|他的汉语说得很流利，___他从来没有去过中国。|可见|何况|其实|因此|C|其实 nghĩa là thật ra, bổ sung sự thật bất ngờ.
+5|grammar|下面哪个句子是正确的？|除非你道歉，她才会原谅你|除非你道歉，她就会原谅你|除非你不道歉，她才原谅你|如果除非你道歉，她会原谅你|A|除非…才 nghĩa là trừ phi…mới; 除非 đi với 才.
+5|grammar|这个问题太简单了，___小孩子都能回答。|简直|何必|难怪|然而|A|简直 nghĩa là quả thực, đơn giản là (nhấn mạnh).
+5|grammar|他今天没来上班，___是生病了。|难怪|未必|大概|何必|C|大概 nghĩa là có lẽ, đại khái, dùng khi phỏng đoán.
+5|grammar|你___觉得这样做不对吗？|尽管|难道|可见|凡是|B|难道…吗 là câu hỏi tu từ, nghĩa là chẳng lẽ.
+5|grammar|___出了问题，请马上给我打电话。|总之|既然|不管|万一|D|万一 nghĩa là lỡ như, nhỡ (khả năng nhỏ xấu xảy ra).
+5|grammar|他说得___很有道理，___我还是不同意。|因为 / 所以|虽然 / 但是|如果 / 就|不但 / 而且|B|虽然…但是 là cặp nhượng bộ.
+5|grammar|下面哪个句子是正确的？|比赛由于推迟下雨了|由于下雨，所以比赛推迟因为|因为由于下雨比赛推迟|由于下雨，比赛推迟了|D|由于…（所以）…chỉ nguyên nhân, câu A đúng ngữ pháp.
+5|grammar|她对工作很认真，___大家都很喜欢她。|因此|何况|否则|尽管|A|因此 nghĩa là vì vậy, nêu kết quả.
+5|reading|小王每天早上都会跑步半小时。他说，刚开始很累，但坚持一个月以后，身体变好了，精神也更好了。¶小王为什么坚持跑步？|为了减肥|为了比赛|身体和精神都变好了|为了认识朋友|C|Bài viết nói sau một tháng người khoẻ hơn, tinh thần tốt hơn.
+5|reading|明天的会议原定上午九点开始，但经理临时要出差，所以会议推迟到下午两点。请大家准时参加。¶会议现在几点开始？|上午九点|上午十点|下午两点|中午十二点|C|会议推迟到下午两点.
+5|reading|这家书店不大，但很安静。老板喜欢和顾客聊天，还会推荐好书。很多人周末都来这里看书、喝咖啡。¶关于这家书店，下面哪个正确？|环境很安静|老板不爱说话|书店很大|只卖咖啡|A|Văn bản nói书店不大，但很安静.
+5|reading|很多人认为成功需要天赋，其实努力更重要。有天赋但不努力的人，常常不如普通却坚持的人走得远。¶作者认为什么更重要？|天赋|金钱|运气|努力|D|作者nói“其实努力更重要”.
+5|reading|我刚到北京时，什么都不习惯，天气干燥，饭菜也太辣。但现在我已经爱上了这座城市，还交了很多朋友。¶“我”现在对北京的态度怎么样？|很讨厌|喜欢|没有感觉|准备离开|B|“爱上了这座城市” nghĩa là yêu thích.
+5|reading|由于最近经常下雨，山路很滑，政府提醒游客不要独自爬山，如果一定要去，请带好雨衣和手机。¶政府提醒游客什么？|不要去城市|不要带手机|不要穿雨衣|不要独自爬山|D|Nhắc nhở“不要独自爬山”.
+5|reading|小李毕业后没有马上找工作，而是先去农村当了一年老师。他说，那一年让他明白了很多道理，也更懂得珍惜现在的生活。¶那一年对小李有什么影响？|他赚了很多钱|他更懂得珍惜生活|他不想工作了|他搬到了农村|B|Ông ấy nói更懂得珍惜现在的生活.
+5|reading|网上购物很方便，但也有缺点。有时候收到的东西和照片不一样，退货又很麻烦。所以购物前最好多看看评价。¶购物前最好做什么？|问朋友借钱|直接退货|看评价|去商店|C|Cuối bài khuyên多看看评价.
+5|reading|这个城市以前很穷，后来政府修了铁路，建了工厂，人们的收入逐渐提高，城市也越来越繁荣。¶这个城市为什么变繁荣了？|交通和工业发展了|人口减少|气候变好了|旅游减少了|A|Nhờ xây đường sắt và nhà máy.
+5|reading|我的室友习惯很晚睡觉，还喜欢开着灯看书，影响了我的休息。我跟他说了几次，他都说下次注意，可是一直没改。¶“我”对室友的态度是什么？|有点不满|很感谢|很满意|很同情|A|室友影响休息又没改, nên người nói không hài lòng.
+5|reading|爷爷退休后学会了用手机。他现在每天用手机看新闻、和孙子视频聊天，还说比以前年轻多了。¶爷爷用手机不做什么？|看新闻|视频聊天|玩游戏赚钱|学习新东西|C|Văn bản không nhắc đến chơi game kiếm tiền.
+5|reading|研究表明，睡前使用手机会让人更难入睡。因为屏幕的光会让大脑以为还是白天，所以最好睡前一小时就放下手机。¶为什么睡前不要用手机？|会浪费钱|会让人难以入睡|会让手机坏|会让人变胖|B|Ánh sáng màn hình khiến khó ngủ.
+5|reading|他是一位谦虚的老师，即使学生提出的意见和他不同，他也会认真听，而不是马上反对。¶这位老师的特点是什么？|爱批评学生|不喜欢提问|常常迟到|谦虚、愿意听意见|D|Ông ấy 谦虚 và nghe ý kiến học sinh.
+5|reading|地铁里很多人低头玩手机，很少有人交谈。有人说这让人们越来越冷淡，也有人说这只是生活方式的变化。¶关于这个现象，下面哪个正确？|所有人都反对|大家看法并不一致|地铁禁止手机|人们喜欢交谈|B|Có ý kiến khác nhau (有人说…也有人说…).
+5|reading|我本来打算周末去爬山，可是天气预报说会下大雨，所以只好在家看电影了。¶“我”周末做了什么？|爬山|下雨|打扫房间|看电影|D|Do mưa nên “在家看电影”.
+5|listen|A：你怎么还没走？会议不是三点开始吗？¶B：经理说推迟到四点了，我再等一会儿。|会议改到四点|会议已经开始|会议取消了|经理迟到了|A|B nói会议推迟到四点.
+5|listen|A：这件衬衫有点儿贵，能便宜点吗？¶B：这已经是最低价了，不过我可以送你一条围巾。|bán rẻ hơn nhiều|tặng áo|không giảm giá nhưng tặng khăn|không có khăn|C|Người bán không giảm nữa, nhưng tặng khăn.
+5|listen|他本来想报名参加比赛，可是后来发现自己的时间安排不过来，只好放弃了。|他参加了比赛|他赢得了比赛|他没有时间所以放弃|他没有报名成功|C|Nội dung nói vì không sắp xếp được thời gian nên bỏ.
+5|listen|A：听说你搬家了，新家怎么样？¶B：环境不错，就是离公司太远，每天上班要两个小时。|Nhà mới môi trường tốt nhưng xa công ty|Nhà mới gần công ty|Nhà mới rất ồn|Anh ấy chưa chuyển nhà|A|B nói环境不错，就是离公司太远.
+5|listen|A：你觉得这个方案怎么样？¶B：想法很好，但是缺乏具体的细节，需要再补充一下。|Phương án hoàn hảo|Phương án bị hủy|Phương án quá đắt|Phương án thiếu chi tiết|D|缺乏具体的细节 nghĩa là thiếu chi tiết.
+5|listen|因为堵车，我迟到了二十分钟。老板虽然有点不高兴，但没有批评我。|Tôi đến sớm|Tôi đến muộn do kẹt xe|Sếp mắng nặng|Tôi bị đuổi việc|B|Do 堵车 nên muộn 20 phút.
+5|listen|A：你不是说今天要去机场接朋友吗？¶B：他的航班延误了，估计要晚上才能到。|Bạn sẽ đến sân bay sáng nay|Chuyến bay bị hủy|Bạn đã đến rồi|Chuyến bay trễ, tối mới tới|D|航班延误 nghĩa là chuyến bay bị hoãn; 晚上才能到.
+5|listen|A：这个周末你有什么安排？¶B：我打算趁天气好，带孩子去公园放风筝。|Ở nhà ngủ|Đi công viên thả diều cùng con|Đi mua sắm|Đi du lịch nước ngoài|B|B nói带孩子去公园放风筝.
+5|listen|A：我最近压力特别大，晚上总是睡不着。¶B：你应该多运动，别总想工作的事。|Khuyên đi làm thêm|Khuyên nghỉ việc|Khuyên vận động nhiều và đừng nghĩ chuyện công việc|Khuyên uống thuốc|C|B khuyên多运动，别总想工作.
+5|listen|A：这道菜怎么样？¶B：味道还可以，就是太咸了，我估计盐放多了。|Món ăn quá mặn|Món ăn quá nhạt|Món ăn quá cay|Món ăn rất ngon hoàn hảo|A|就是太咸了 nghĩa là quá mặn.
+5|listen|小张性格内向，不太爱说话，但对朋友非常真诚。大家都愿意跟他交往。|Tiểu Trương hướng nội nhưng chân thành|Tiểu Trương hay nói nhiều|Tiểu Trương hướng ngoại|Tiểu Trương không có bạn|A|性格内向 nhưng 对朋友非常真诚.
+5|listen|A：你为什么要换工作？¶B：现在的工作太稳定了，我想挑战一下自己。|Lương quá thấp|Bị công ty cho nghỉ|Muốn thử thách bản thân|Muốn đi du học|C|B nói想挑战一下自己.
+5|listen|A：这本书你看完了吗？¶B：还没有，我只看了一半，不过已经被情节吸引住了。|Đã đọc xong|Mới đọc nửa nhưng đã bị cuốn hút|Không thích cuốn sách|Chưa bắt đầu đọc|B|只看了一半 nhưng 被情节吸引.
+5|listen|A：你的手机怎么了？¶B：不小心掉在地上，屏幕坏了，我得拿去修一下。|Điện thoại bị mất|Điện thoại bị ướt|Điện thoại hết pin|Màn hình bị hỏng, cần sửa|D|屏幕坏了，拿去修.
+5|listen|A：明天的天气怎么样？¶B：天气预报说有大风，气温也会下降，你出门最好多穿点儿。|Ngày mai nóng|Ngày mai có gió lớn, nên mặc ấm|Ngày mai có tuyết|Ngày mai có nắng đẹp|B|有大风，气温下降，要多穿.
+5|vocab|“获取”的意思是什么？|từ bỏ|che đậy|trao tặng|giành được, thu nhận|D|获取 nghĩa là giành được, thu nhận (thông tin, tài nguyên).

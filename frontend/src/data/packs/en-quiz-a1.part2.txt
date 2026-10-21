@@ -1,0 +1,100 @@
+A1|vocab|"Rice" nghĩa là gì?|cơm/gạo|mì|cá|rau|A|Rice là gạo hoặc cơm.
+A1|vocab|The opposite of "open" is ___.|break|close|push|stop|B|Open đối lập với close.
+A1|vocab|"Teacher" works in a ___.|hospital|bank|school|farm|C|Giáo viên làm việc ở trường.
+A1|vocab|Nghĩa của "expensive" là gì?|rẻ|nhỏ|nhanh|đắt|D|Expensive là đắt.
+A1|vocab|I wash my hands with ___.|soap|salt|sugar|paper|A|Soap là xà phòng.
+A1|vocab|"Winter" is the ___ season.|hot|cold|wet only|summer|B|Mùa đông lạnh.
+A1|vocab|Nghĩa của "street" là gì?|cây cầu|ngôi nhà|con đường/phố|quảng trường|C|Street là đường phố.
+A1|vocab|A ___ is a person who cooks in a restaurant.|driver|nurse|pilot|chef|D|Chef là đầu bếp.
+A1|vocab|"Early" is the opposite of ___.|late|fast|soon|first|A|Early đối lập với late.
+A1|vocab|Chọn từ đúng: Tôi mua rau ở ___.|library|supermarket|cinema|airport|B|Rau mua ở siêu thị.
+A1|reading|Hello! My name is Lan. I am ten years old. I live in Hue with my parents and my brother.¶Where does Lan live?|Hanoi|Da Nang|Hue|Hoi An|C|Bài viết nói Lan sống ở Hue.
+A1|reading|Tom has a dog. The dog is brown and small. Its name is Max. Tom plays with Max every day.¶What color is the dog?|Black|White|Yellow|Brown|D|Con chó màu nâu (brown).
+A1|reading|I get up at six. I eat breakfast at seven. I go to school at half past seven.¶When does the writer eat breakfast?|At seven|At six|At eight|At half past seven|A|Ăn sáng lúc bảy giờ.
+A1|reading|Mai has a big family. She has two brothers and one sister. Her father is a driver. Her mother is a nurse.¶What is Mai's mother's job?|Driver|Nurse|Teacher|Doctor|B|Mẹ của Mai là y tá.
+A1|reading|It is Saturday. Ben does not go to work. He stays at home and watches TV with his wife.¶What does Ben do on Saturday?|Goes to work|Plays football|Watches TV|Goes shopping|C|Ben ở nhà xem TV.
+A1|reading|The cafe opens at 8 a.m. and closes at 9 p.m. It sells coffee, tea and cakes.¶What time does the cafe close?|8 a.m.|9 a.m.|8 p.m.|9 p.m.|D|Quán đóng cửa lúc 9 giờ tối.
+A1|reading|My room is small. There is a bed, a desk and a chair. There is a poster on the wall.¶What is on the wall?|A poster|A desk|A chair|A bed|A|Trên tường có áp phích.
+A1|reading|Anna likes fruit. She eats an apple every morning. She does not like bananas.¶What does Anna NOT like?|Apples|Bananas|Fruit|Oranges|B|Cô ấy không thích chuối.
+A1|reading|Today is Monday. The weather is sunny and hot. The children play in the park.¶How is the weather?|Rainy|Cold|Sunny and hot|Windy|C|Trời nắng và nóng.
+A1|reading|Peter is a student. He has English on Tuesday and Thursday. He has Math on Wednesday.¶When does Peter have Math?|Tuesday|Thursday|Friday|Wednesday|D|Toán vào thứ Tư.
+A1|reading|This is my school bag. It is blue. There are two books, a pen and a ruler in it.¶How many books are in the bag?|Two|One|Three|Four|A|Có hai quyển sách.
+A1|reading|Lisa goes to the market with her mother on Sunday. They buy fish, rice and vegetables.¶Who goes to the market with Lisa?|Her father|Her mother|Her sister|Her friend|B|Lisa đi chợ cùng mẹ.
+A1|reading|Minh and Hoa are friends. They walk to school together. School starts at 7:30.¶How do they go to school?|By bus|By bike|On foot|By car|C|Walk nghĩa là đi bộ.
+A1|reading|My grandfather is 70 years old. He lives in the countryside. He has a small garden and many flowers.¶How old is the grandfather?|60|65|75|70|D|Ông 70 tuổi.
+A1|reading|I have a new phone. It is red. It was a gift from my uncle for my birthday.¶Who gave the phone?|His uncle|His father|His friend|His teacher|A|Quà từ chú/cậu.
+A1|reading|The bookshop is next to the bank. It is opposite the post office. It is open every day.¶Where is the bookshop?|Behind the bank|Next to the bank|Next to the school|In the bank|B|Hiệu sách ở cạnh ngân hàng.
+A1|reading|Sam likes sports. He plays tennis on Monday and swims on Friday. On Sunday he rests.¶When does Sam swim?|Monday|Wednesday|Friday|Sunday|C|Sam bơi vào thứ Sáu.
+A1|reading|We have lunch at twelve. Today we have rice, chicken and soup. The soup is hot.¶What is hot?|The rice|The chicken|The tea|The soup|D|Món súp nóng.
+A1|reading|Kate is from England. She is a teacher in Vietnam. She likes Vietnamese food very much.¶Where is Kate from?|England|Vietnam|America|Australia|A|Kate đến từ nước Anh.
+A1|reading|There is a park near my house. In the park there are many trees and a small lake. I walk there in the evening.¶When does the writer walk in the park?|In the morning|In the evening|At noon|At night only|B|Đi dạo vào buổi tối.
+A1|reading|Dear Tom, I am in Da Lat. The weather is cool. The hotel is nice. See you soon! Nam¶Who wrote the card?|Tom|The hotel|Nam|Da Lat|C|Người ký tên là Nam.
+A1|reading|Nick has three sisters. Their names are Ann, Beth and Cara. Cara is the youngest.¶Who is the youngest sister?|Ann|Beth|Nick|Cara|D|Cara là em út.
+A1|reading|The shop sells shoes. A pair of white shoes is 20 dollars. A pair of black shoes is 25 dollars.¶How much are the white shoes?|20 dollars|15 dollars|25 dollars|30 dollars|A|Giày trắng 20 đô.
+A1|reading|Linh is tired. She goes to bed at nine o'clock every night and sleeps for eight hours.¶How long does Linh sleep?|Six hours|Eight hours|Seven hours|Nine hours|B|Ngủ tám tiếng.
+A1|reading|My cat sleeps on the sofa all day. At night it plays with a ball. It likes fish.¶What does the cat like to eat?|Meat|Rice|Fish|Milk only|C|Mèo thích cá.
+A1|reading|The library is closed on Sunday. It opens from Monday to Saturday, 8 a.m. to 5 p.m.¶When is the library closed?|Saturday|Monday|Friday|Sunday|D|Đóng cửa vào Chủ nhật.
+A1|reading|Mr. Brown is a taxi driver. He works at night. In the day he sleeps and has lunch with his family.¶When does Mr. Brown work?|At night|In the morning|In the afternoon|At noon|A|Làm việc ban đêm.
+A1|listen|A: What is your name?¶B: My name is Linh.¶Q: What is the girl's name?|Lan|Linh|Lily|Lisa|B|Cô gái nói tên là Linh.
+A1|listen|A: Is this your bag?¶B: No, it isn't. It is Tom's.¶Q: Whose bag is it?|The woman's|The man's|Tom's|The teacher's|C|Chiếc túi là của Tom.
+A1|listen|A: What time is it?¶B: It is half past three.¶Q: What time is it?|2:30|3:00|4:30|3:30|D|Half past three là 3:30.
+A1|listen|A: Do you like pizza?¶B: Yes, I love it!¶Q: Does B like pizza?|Yes|No|Not sure|Only a little|A|B nói yêu thích pizza.
+A1|listen|A: Where is the bank?¶B: It is next to the supermarket.¶Q: Where is the bank?|Behind the school|Next to the supermarket|In front of the park|Near the hotel|B|Ngân hàng cạnh siêu thị.
+A1|listen|I get up at six o'clock every day.¶Q: When does the speaker get up?|At five|At seven|At six|At eight|C|Dậy lúc sáu giờ.
+A1|listen|A: How old is your brother?¶B: He is twelve.¶Q: How old is B's brother?|Ten|Eleven|Thirteen|Twelve|D|Em trai mười hai tuổi.
+A1|listen|A: Can you swim?¶B: No, I can't, but I can ride a bike.¶Q: What can B do?|Ride a bike|Swim|Sing|Dance|A|B biết đi xe đạp.
+A1|listen|A: What do you want to drink?¶B: A glass of orange juice, please.¶Q: What does B want?|Tea|Orange juice|Coffee|Milk|B|B muốn nước cam.
+A1|listen|It is Wednesday today. Tomorrow is Thursday.¶Q: What day is tomorrow?|Tuesday|Wednesday|Thursday|Friday|C|Ngày mai là thứ Năm.
+A1|listen|A: Where are you from?¶B: I am from Japan.¶Q: Where is B from?|China|Korea|Thailand|Japan|D|B đến từ Nhật Bản.
+A1|listen|A: How much is this shirt?¶B: It is ten dollars.¶Q: How much is the shirt?|Ten dollars|Five dollars|Fifteen dollars|Twenty dollars|A|Áo giá mười đô.
+A1|listen|My mother is a nurse. She works in a hospital.¶Q: Where does the mother work?|In a school|In a hospital|In a bank|In a shop|B|Mẹ làm ở bệnh viện.
+A1|listen|A: Is there a bank near here?¶B: Yes, go straight and turn left.¶Q: Where should A turn?|Right|Back|Left|Nowhere|C|Rẽ trái.
+A1|listen|A: Do you have a pet?¶B: Yes, I have two cats.¶Q: How many cats does B have?|One|Three|None|Two|D|Hai con mèo.
+A1|listen|The weather today is rainy. Take an umbrella.¶Q: What should you take?|An umbrella|A hat|A coat|Sunglasses|A|Trời mưa nên mang ô.
+A1|listen|A: Good morning, Mr. Lee.¶B: Good morning, Anna.¶Q: What time of day is it?|Afternoon|Morning|Evening|Night|B|Good morning là buổi sáng.
+A1|listen|A: What is your favorite color?¶B: I like green.¶Q: What is B's favorite color?|Red|Blue|Green|Pink|C|B thích màu xanh lá.
+A1|listen|A: Where is my phone?¶B: It is on the table.¶Q: Where is the phone?|Under the bed|In the bag|On the chair|On the table|D|Điện thoại ở trên bàn.
+A1|listen|My birthday is in July. I am nine years old.¶Q: When is the speaker's birthday?|July|June|August|September|A|Sinh nhật tháng Bảy.
+A1|listen|A: Do you have any brothers?¶B: No, but I have a sister.¶Q: What does B have?|A brother|A sister|Two brothers|No siblings|B|B có một chị/em gái.
+A1|listen|A: How do you go to school?¶B: I go by bike.¶Q: How does B go to school?|By bus|By car|By bike|On foot|C|Đi bằng xe đạp.
+A1|listen|The class starts at eight and finishes at eleven.¶Q: When does the class finish?|At eight|At nine|At ten|At eleven|D|Lớp kết thúc lúc mười một giờ.
+A1|listen|A: Can I have some water?¶B: Sure, here you are.¶Q: What does A want?|Water|Food|Tea|A book|A|A xin một ít nước.
+A1|listen|A: Is Anna at home?¶B: No, she is at school.¶Q: Where is Anna?|At home|At school|At work|At the park|B|Anna ở trường.
+A1|listen|I have lunch at noon. I usually eat rice and fish.¶Q: What does the speaker eat?|Bread and eggs|Noodles|Rice and fish|Soup only|C|Ăn cơm và cá.
+A1|listen|A: What do you do?¶B: I am a driver.¶Q: What is B's job?|Teacher|Doctor|Cook|Driver|D|B là tài xế.
+A1|listen|A: Are you hungry?¶B: Yes, I am. Let's eat.¶Q: What does B want to do?|Eat|Sleep|Play|Study|A|B đói và muốn ăn.
+A1|listen|There are twenty students in my class. Ten are boys.¶Q: How many students are girls?|Five|Ten|Fifteen|Twenty|B|20 trừ 10 boys còn 10 girls.
+A1|listen|A: See you tomorrow!¶B: Goodbye!¶Q: What are they doing?|Meeting|Eating|Saying goodbye|Shopping|C|Họ đang chào tạm biệt.
+A1|toeic|A: Good morning. Can I help you?¶B: Yes. I have a meeting with Mr. Park at ten.¶Q: Why is B here?|To buy a ticket|To see a doctor|To eat lunch|To meet Mr. Park|D|B có cuộc họp với ông Park.
+A1|toeic|The office opens at 9 a.m. and ___ at 5 p.m.|closes|open|opens|closing|A|Văn phòng đóng cửa lúc 5 giờ chiều, dùng closes.
+A1|toeic|Please ___ your name on this form.|writes|write|wrote|writing|B|Mệnh lệnh dùng động từ nguyên mẫu.
+A1|toeic|My manager ___ in room 204.|am|are|is|be|C|Manager số ít dùng is.
+A1|toeic|A: Is Ms. Lee in her office?¶B: No, she is in a meeting.¶Q: Where is Ms. Lee?|In her office|At home|At lunch|In a meeting|D|Cô ấy đang họp.
+A1|toeic|The meeting is ___ Monday at 2 p.m.|on|in|at|to|A|Thứ dùng on.
+A1|toeic|I need a ___ to write the report. (máy tính)|kitchen|computer|bicycle|garden|B|Viết báo cáo cần computer.
+A1|toeic|Mr. Tan is our new ___. He works with customers.|farmer|singer|salesperson|pilot|C|Salesperson làm việc với khách hàng.
+A1|toeic|A: What time is the meeting?¶B: At three o'clock.¶Q: When is the meeting?|At two|At four|At five|At three|D|Họp lúc ba giờ.
+A1|toeic|Please send me an ___ today. (thư điện tử)|email|egg|ear|exit|A|Email là thư điện tử.
+A1|toeic|The company ___ 50 workers.|have|has|are|is|B|Company số ít dùng has.
+A1|toeic|Our office is ___ the first floor.|in|at the|on|to|C|Tầng dùng on the first floor.
+A1|toeic|A: Where is the printer?¶B: It is next to the door.¶Q: Where is the printer?|Under the desk|In the kitchen|On the wall|Next to the door|D|Máy in cạnh cửa.
+A1|toeic|Ms. Kim ___ English and Korean.|speaks|speak|speaking|speakings|A|Ms. Kim ngôi ba số ít thêm s.
+A1|toeic|Please ___ the door. It is cold.|closes|close|closed|closing|B|Mệnh lệnh dùng close.
+A1|toeic|A: Do you work here?¶B: Yes. I work in the sales department.¶Q: Where does B work?|Bank|School|Sales department|Hospital|C|B làm ở phòng kinh doanh.
+A1|toeic|The store is ___ from Monday to Saturday.|opens|opening|opened|open|D|Be + tính từ open.
+A1|toeic|I ___ a new job in Hanoi.|have|has|am|do|A|I dùng have.
+A1|toeic|Mr. Smith is not here. He is ___ lunch.|in|at|on|to|B|At lunch là cụm cố định.
+A1|toeic|A: Can you help me?¶B: Of course.¶Q: What does B say?|He is busy|He cannot help|He will help|He is late|C|Of course là đồng ý giúp.
+A1|toeic|Your ___ is on the desk. It is from the bank. (thư)|leg|lamp only|lemon|letter|D|Letter là lá thư.
+A1|toeic|We ___ a meeting every Friday.|have|has|is|are|A|We dùng have.
+A1|toeic|The price of this pen is two ___.|dollar|dollars|dollares|dollaring|B|Số nhiều dollars.
+A1|toeic|A: Is the boss in?¶B: Yes, but he is on the phone.¶Q: What is the boss doing?|Eating|Sleeping|Talking on the phone|Writing|C|Sếp đang nói chuyện điện thoại.
+A1|toeic|Welcome to our company! Please ___ down.|sits|sat|sitting|sit|D|Mệnh lệnh dùng sit.
+A1|toeic|There ___ ten desks in the office.|are|is|am|be|A|Desks số nhiều dùng are.
+A1|toeic|I go to work ___ bus.|on|by|in|at|B|Phương tiện dùng by.
+A1|toeic|A: What is your phone number?¶B: It is 0912 345 678.¶Q: What does A ask for?|Address|Name|Phone number|Email|C|A hỏi số điện thoại.
+A1|toeic|The ___ is at the front desk. She answers the phone. (lễ tân)|dentist|artist|tourist|receptionist|D|Receptionist là lễ tân.
+A1|toeic|Thank you for your help. - ___.|You're welcome|Good night|I'm fine|See you|A|You're welcome đáp lại lời cảm ơn.
+A1|reading|Jack is a waiter. He works in a restaurant near the station. He starts work at 10 a.m.¶What is Jack's job?|Cook|Waiter|Driver|Teacher|B|Jack là bồi bàn.
+A1|reading|My friend Hoa has long black hair and brown eyes. She is thin and tall. She wears glasses.¶What does Hoa wear?|A hat|A scarf|Glasses|Gloves|C|Hoa đeo kính.
+A1|reading|We go to the beach in summer. The water is warm. We swim and play volleyball.¶When do they go to the beach?|In winter|In spring|In autumn|In summer|D|Họ đi biển vào mùa hè.

@@ -1,0 +1,17 @@
+宾馆|khách sạn, nhà khách|Danh từ|tân quán|我们住在市中心的一家宾馆。|Chúng tôi ở một khách sạn ở trung tâm thành phố.
+电子|điện tử|Danh từ|điện tử|现在的电子产品更新很快。|Sản phẩm điện tử hiện nay đổi mới rất nhanh.
+刮|thổi (gió), cạo|Động từ|quát|外面刮大风了。|Bên ngoài gió thổi mạnh rồi.
+关系|quan hệ, mối quan hệ|Danh từ|quan hệ|他和同事的关系很好。|Quan hệ giữa anh ấy và đồng nghiệp rất tốt.
+关心|quan tâm|Động từ|quan tâm|谢谢你对我的关心。|Cảm ơn bạn đã quan tâm đến tôi.
+河|sông|Danh từ|hà|这条河很长。|Con sông này rất dài.
+花园|vườn hoa|Danh từ|hoa viên|奶奶在花园里种了很多花。|Bà trồng rất nhiều hoa trong vườn.
+马|ngựa|Danh từ|mã|他会骑马。|Anh ấy biết cưỡi ngựa.
+鞋|giày|Danh từ|hài|这双鞋穿着很舒服。|Đôi giày này mang rất thoải mái.
+信|thư, lá thư|Danh từ|tín|我给朋友写了一封信。|Tôi đã viết một lá thư cho bạn.
+兴趣|hứng thú, sở thích|Danh từ|hứng thú|我对音乐很有兴趣。|Tôi rất có hứng thú với âm nhạc.
+以后|sau này, sau đó|Danh từ|dĩ hậu|以后你要多锻炼身体。|Sau này bạn nên rèn luyện sức khỏe nhiều hơn.
+着急|sốt ruột, lo lắng|Tính từ|trước cấp|别着急,时间还早。|Đừng sốt ruột, vẫn còn sớm.
+只|chỉ, chỉ có|Phó từ|chỉ|我只会说一点儿汉语。|Tôi chỉ biết nói một chút tiếng Trung.
+中间|ở giữa, chính giữa|Danh từ|trung gian|桌子中间放着一束花。|Giữa bàn đặt một bó hoa.
+祝|chúc|Động từ|chúc|祝你生日快乐!|Chúc bạn sinh nhật vui vẻ!
+字典|từ điển chữ Hán|Danh từ|tự điển|不认识的字可以查字典。|Chữ không biết có thể tra từ điển.

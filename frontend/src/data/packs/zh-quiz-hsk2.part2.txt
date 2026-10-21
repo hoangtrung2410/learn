@@ -1,0 +1,50 @@
+2|vocab|“公司” có nghĩa là gì?|Trường học|Bệnh viện|Ngân hàng|Công ty|D|公司 nghĩa là công ty.
+2|vocab|“问题” có nghĩa là gì?|Vấn đề, câu hỏi|Đáp án|Bài học|Thời gian|A|问题 nghĩa là vấn đề, câu hỏi.
+2|vocab|“药” có nghĩa là gì?|Nước|Thuốc|Trà|Kẹo|B|药 nghĩa là thuốc.
+2|vocab|“经常” có nghĩa là gì?|Hiếm khi|Chưa bao giờ|Thường xuyên|Đôi khi|C|经常 nghĩa là thường xuyên.
+2|vocab|“外面” có nghĩa là gì?|Bên trong|Phía sau|Phía trên|Bên ngoài|D|外面 nghĩa là bên ngoài.
+2|vocab|Trong câu “我家离学校很近”, chữ “离” có nghĩa là gì?|Cách (khoảng cách tới)|Rời đi|Đến|Từ|A|离 chỉ khoảng cách giữa hai địa điểm: cách.
+2|vocab|“司机” có nghĩa là gì?|Giáo viên|Tài xế|Bác sĩ|Công nhân|B|司机 nghĩa là tài xế.
+2|vocab|“介绍” có nghĩa là gì?|Giải thích|Đồng ý|Giới thiệu|Hỏi|C|介绍 nghĩa là giới thiệu.
+2|vocab|“帮助” có nghĩa là gì?|Quên|Đưa|Cần|Giúp đỡ|D|帮助 nghĩa là giúp đỡ.
+2|vocab|“事情” có nghĩa là gì?|Việc, sự việc|Người|Chỗ|Đồ vật|A|事情 nghĩa là sự việc.
+2|vocab|“懂” có nghĩa là gì?|Quên|Hiểu|Học|Nghe|B|懂 nghĩa là hiểu.
+2|vocab|“笑” có nghĩa là gì?|Khóc|Hát|Cười|Chạy|C|笑 nghĩa là cười.
+2|vocab|“关门” có nghĩa là gì?|Mở cửa|Đẩy cửa|Gõ cửa|Đóng cửa|D|关 nghĩa là đóng, tắt.
+2|vocab|“白” là màu gì?|Trắng|Đen|Đỏ|Vàng|A|白 nghĩa là trắng.
+2|vocab|Từ trái nghĩa với “远” là?|高|近|大|快|B|远 (xa) trái nghĩa với 近 (gần).
+2|grammar|她唱歌唱____很好听。|的|得|地|着|B|Bổ ngữ trạng thái: động từ + 得 + tính từ.
+2|grammar|我们先吃饭，____看电影。|都|又|再|也|C|“先...再...” chỉ thứ tự: trước... rồi mới...
+2|grammar|他会说汉语，____会说日语。|很|在|没|也|D|“也” nghĩa là cũng: 也会说日语.
+2|grammar|我____没吃早饭。|还|才|再|就|A|“还没” nghĩa là vẫn chưa.
+2|grammar|请说慢____。|有点儿|一点儿|不太|太|B|“Tính từ + 一点儿” dùng khi yêu cầu: 说慢一点儿.
+2|grammar|我____小王去商店。|在|给|和|把|C|“和” nghĩa là cùng với: 我和小王去商店.
+2|grammar|妈妈____我去买菜。|给|对|把|让|D|“让 + người + động từ” nghĩa là bảo, cho ai làm gì.
+2|grammar|我们班有二十____学生。|个|本|只|张|A|Lượng từ của người là 个.
+2|grammar|桌子上有两____书。|个|本|只|口|B|Lượng từ của sách là 本.
+2|grammar|这个问题很难，我不____回答。|是|在|会|去|C|“不会 + động từ” nghĩa là không biết, không thể.
+2|grammar|他一____走路一边看手机。|就|又|也|边|D|Cấu trúc 一边...一边... chỉ hai hành động đồng thời.
+2|grammar|你____去北京，还是去上海？|想|有|很|个|A|“想 + động từ” nghĩa là muốn: 你想去北京，还是去上海？
+2|grammar|哪个句子是对的？|我昨天去了商店买东西了三次|我昨天去商店买了东西|我昨天买东西了去商店|昨天我去了商店买了东西了|B|Câu B đúng trật tự: thời gian + động từ + 了 + tân ngữ.
+2|grammar|哪个句子是对的？|他比我不高|他比我很高|他没有我高|他比我没高|C|Phủ định so sánh dùng 没有: A 没有 B + tính từ.
+2|grammar|把词语排成句子：正 / 他 / 在 / 房间里 / 看书|他在正房间里看书|正他在房间里看书|他房间里在正看书|他正在房间里看书|D|“正在” chỉ đang diễn ra, đứng trước động từ.
+2|reading|我家离学校不远，我每天走路去学校，大概十五分钟。下雨的时候，爸爸开车送我。¶下雨的时候，谁送他去学校？|妈妈|哥哥|爸爸|朋友|C|Bài đọc: 下雨的时候，爸爸开车送我.
+2|reading|这个星期我很忙，每天都工作到很晚。我想下个星期去旅游，休息休息。¶他下星期想做什么？|工作|学习|上课|去旅游|D|Bài đọc: 我想下个星期去旅游.
+2|reading|小张：你的汉语说得真好！小王：哪里哪里，我学了两年了，还有很多不懂的地方。¶小王学汉语多长时间了？|两年|一年|三年|半年|A|Bài đọc: 我学了两年了.
+2|reading|商店里的西瓜很便宜，一斤才两块钱，我买了五斤。¶他一共买了几斤西瓜？|两斤|五斤|十斤|一斤|B|Bài đọc: 我买了五斤.
+2|reading|今天是晴天，很热。我穿了一件白色的衣服，还喝了很多水。¶今天天气怎么样？|下雨|很冷|晴天很热|有风|C|Bài đọc: 今天是晴天，很热.
+2|reading|我的朋友小李昨天没来上班，因为他的孩子生病了。他要在医院陪孩子。¶小李昨天为什么没来？|他生病了|他去旅游|他很忙|孩子生病了|D|Bài đọc: 因为他的孩子生病了.
+2|reading|我喜欢在晚上看书，因为晚上很安静。早上我喜欢跑步。¶他为什么晚上看书？|很安静|很凉快|没有时间|眼睛好|A|Bài đọc: 因为晚上很安静.
+2|reading|你好，我想买一杯咖啡，不要牛奶，要大杯的。¶他要什么？|牛奶咖啡|不加牛奶的大杯咖啡|小杯咖啡|茶|B|Bài đọc: 不要牛奶，要大杯的.
+2|reading|小丽的妈妈是老师，爸爸是司机。小丽的哥哥在国外学习，他一年回家一次。¶哥哥多久回家一次？|每天|每月|一年一次|两年一次|C|Bài đọc: 他一年回家一次.
+2|reading|去机场坐出租车要一个小时，坐地铁要一个半小时，但是地铁便宜很多。¶坐什么最快？|走路|公共汽车|地铁|出租车|D|Taxi mất 1 giờ, tàu điện ngầm 1,5 giờ, nên taxi nhanh nhất.
+2|listen|A: 你想吃什么？¶B: 我想吃鸡蛋面条。|Cơm gà|Mì thịt dê|Bánh ngọt|Mì trứng|D|鸡蛋面条 là mì trứng.
+2|listen|A: 你的手表真漂亮！在哪儿买的？¶B: 是我姐姐送给我的。|Chị gái tặng|Tự mua|Mẹ tặng|Mua ở cửa hàng|A|是我姐姐送给我的: do chị gái tặng.
+2|listen|今天太冷了，我要多穿一件衣服。|Trời nóng, mặc ít|Trời lạnh, mặc thêm áo|Trời mưa, mang ô|Gió to|B|太冷了 là quá lạnh, 多穿一件衣服 là mặc thêm một cái áo.
+2|listen|A: 你们公司在哪儿？¶B: 在火车站旁边。|Cạnh sân bay|Cạnh trường học|Cạnh ga tàu|Cạnh bệnh viện|C|火车站旁边 là cạnh ga tàu.
+2|listen|我问了老师三个问题，老师都回答了。|Hỏi hai câu|Hỏi ba câu, thầy không trả lời|Thầy hỏi tôi ba câu|Hỏi thầy ba câu, thầy đều trả lời|D|三个问题 là ba câu, 都回答了 là đều trả lời.
+2|listen|A: 你为什么不去？¶B: 因为我还有很多工作。|Vì còn nhiều việc|Vì bị ốm|Vì trời mưa|Vì mệt|A|因为我还有很多工作: vì tôi còn nhiều việc.
+2|listen|他走路去学校，十分钟就到了。|Đi xe 10 phút|Đi bộ 10 phút|Đi bộ 20 phút|Đi xe buýt 15 phút|B|走路 là đi bộ, 十分钟 là 10 phút.
+2|listen|A: 这个药怎么吃？¶B: 一天三次，一次两片。|Ngày 2 lần|Ngày 3 lần, mỗi lần 1 viên|Ngày 3 lần, mỗi lần 2 viên|Ngày 2 lần, mỗi lần 3 viên|C|一天三次 là ngày 3 lần, 一次两片 là mỗi lần 2 viên.
+2|listen|A: 你会游泳吗？¶B: 会，我游得很好。|Không biết bơi|Biết nhưng bơi kém|Đang học bơi|Biết bơi và bơi giỏi|D|会 là biết, 游得很好 là bơi rất giỏi.
+2|listen|请关上门，外面太吵了。|Đóng cửa vì bên ngoài ồn|Mở cửa|Bên ngoài lạnh|Đóng cửa vì gió|A|关上门 là đóng cửa, 太吵了 là quá ồn.

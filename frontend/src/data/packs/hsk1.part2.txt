@@ -1,0 +1,30 @@
+些|một vài, những|Lượng từ|ta|我买了一些水果。|Tôi mua một ít trái cây.
+写|viết|Động từ|tả|请写你的名字。|Hãy viết tên của bạn.
+谢谢|cảm ơn|Động từ|tạ tạ|谢谢你的帮助。|Cảm ơn sự giúp đỡ của bạn.
+星期|tuần, thứ|Danh từ|tinh kì|今天星期几？|Hôm nay thứ mấy?
+学生|học sinh, sinh viên|Danh từ|học sinh|他是大学学生。|Anh ấy là sinh viên đại học.
+学习|học, học tập|Động từ|học tập|我在学习汉语。|Tôi đang học tiếng Trung.
+学校|trường học|Danh từ|học hiệu|我的学校很大。|Trường của tôi rất lớn.
+一|một|Số từ|nhất|我有一个哥哥。|Tôi có một người anh.
+一点儿|một chút|Số từ||我会说一点儿汉语。|Tôi biết nói một chút tiếng Trung.
+衣服|quần áo|Danh từ|y phục|这件衣服很漂亮。|Bộ quần áo này rất đẹp.
+医生|bác sĩ|Danh từ|y sinh|我妈妈是医生。|Mẹ tôi là bác sĩ.
+医院|bệnh viện|Danh từ|y viện|他在医院工作。|Anh ấy làm việc ở bệnh viện.
+椅子|cái ghế|Danh từ|ỷ tử|椅子在桌子下面。|Cái ghế ở dưới bàn.
+有|có|Động từ|hữu|我有一个朋友。|Tôi có một người bạn.
+月|tháng|Danh từ|nguyệt|一年有十二个月。|Một năm có mười hai tháng.
+再见|tạm biệt|Động từ|tái kiến|老师，再见！|Thầy ơi, tạm biệt!
+在|ở, đang|Động từ|tại|我在家看电视。|Tôi ở nhà xem ti vi.
+怎么|thế nào, làm sao|Đại từ|chẩm ma|这个字怎么读？|Chữ này đọc thế nào?
+怎么样|như thế nào|Đại từ|chẩm ma dạng|你的工作怎么样？|Công việc của bạn thế nào?
+这|đây, này|Đại từ|giá|这是我的家。|Đây là nhà của tôi.
+中国|Trung Quốc|Danh từ|Trung Quốc|我想去中国学习。|Tôi muốn sang Trung Quốc học.
+中午|buổi trưa|Danh từ|trung ngọ|中午我吃米饭。|Buổi trưa tôi ăn cơm.
+住|ở, cư trú|Động từ|trú|你住在哪儿？|Bạn sống ở đâu?
+桌子|cái bàn|Danh từ|trác tử|桌子上有一本书。|Trên bàn có một quyển sách.
+字|chữ|Danh từ|tự|这个字怎么写？|Chữ này viết thế nào?
+昨天|hôm qua|Danh từ|tạc thiên|昨天我没去学校。|Hôm qua tôi không đến trường.
+坐|ngồi; đi (phương tiện)|Động từ|tọa|请坐在这儿。|Mời ngồi ở đây.
+做|làm|Động từ|tố|你在做什么？|Bạn đang làm gì?
+买|mua|Động từ|mãi|我想买一些水果。|Tôi muốn mua một ít trái cây.
+猫|con mèo|Danh từ|miêu|我家有一只小猫。|Nhà tôi có một con mèo nhỏ.

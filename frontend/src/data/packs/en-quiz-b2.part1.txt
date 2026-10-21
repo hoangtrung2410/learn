@@ -1,0 +1,50 @@
+B2|grammar|If I ___ you, I would accept the offer.|am|was|were|will be|C|Câu điều kiện loại 2 dùng "were" cho mọi ngôi trong mệnh đề if.
+B2|grammar|By the time we arrived, the film ___.|has already started|was already starting|already started|had already started|D|Hành động xảy ra trước một mốc quá khứ dùng quá khứ hoàn thành.
+B2|grammar|She suggested ___ the meeting until Monday.|to postpone|postpone|postponing|to postponing|C|Sau suggest dùng V-ing.
+B2|grammar|He is the man ___ car was stolen.|who|which|whom|whose|D|Dùng "whose" để chỉ sở hữu (xe của người đàn ông).
+B2|grammar|I wish I ___ more time to study last night.|had had|had|have|would have|A|Ước muốn về quá khứ dùng "wish + had + V3".
+B2|grammar|Neither of the students ___ the answer.|know|are knowing|have known|knows|D|"Neither of" đi với động từ số ít trong văn phong chuẩn.
+B2|grammar|The report must ___ by Friday.|finish|be finished|being finished|have finish|B|Câu bị động với động từ khuyết thiếu: must + be + V3.
+B2|grammar|She asked me where ___.|did I live|do I live|I lived|I do live|C|Câu hỏi gián tiếp dùng trật tự câu khẳng định và lùi thì: I lived.
+B2|grammar|___ the heavy rain, the match went ahead.|Because of|Although|However|Despite|D|Despite + cụm danh từ diễn tả sự nhượng bộ.
+B2|grammar|I'm not used to ___ up so early.|getting|get|got|have got|A|Be used to + V-ing nghĩa là quen với việc gì.
+B2|grammar|He denied ___ the window.|to break|break|breaking|to have broke|C|Sau deny dùng V-ing.
+B2|grammar|By next year, she ___ here for ten years.|will have worked|will work|is working|has worked|A|Tương lai hoàn thành diễn tả khoảng thời gian tính đến mốc tương lai.
+B2|grammar|Hardly ___ the house when it started to rain.|he had left|had he left|he left|did he leave|B|Hardly đứng đầu câu thì đảo ngữ: had + S + V3.
+B2|grammar|You ___ have told me earlier; now it's too late.|must|can|should|would|C|Should have + V3 diễn tả lẽ ra nên làm nhưng đã không.
+B2|grammar|The more you practise, ___ you become.|the good|better|the best|the better|D|So sánh kép: the more..., the better.
+B2|vocab|The word "reluctant" is closest in meaning to:|eager|unwilling|certain|angry|B|Reluctant nghĩa là miễn cưỡng, không sẵn lòng.
+B2|vocab|Which word is closest in meaning to "abandon"?|desert|protect|gather|examine|A|Abandon = desert: bỏ rơi, từ bỏ.
+B2|vocab|Please ___ attention to the instructions.|give|make|pay|take|C|Collocation: pay attention.
+B2|vocab|His ___ to the company is well known.|loyal|loyalty|loyally|loyalness|B|Cần danh từ sau sở hữu cách: loyalty.
+B2|vocab|What does "break the ice" mean?|end an argument|start a conversation at a social event|damage something|feel very cold|B|Break the ice là phá vỡ sự ngượng ngùng ban đầu.
+B2|vocab|We must ___ the deadline.|touch|catch|reach|meet|D|Collocation: meet the deadline.
+B2|vocab|Which word is closest in meaning to "mandatory"?|compulsory|optional|rare|rapid|A|Mandatory = compulsory: bắt buộc.
+B2|vocab|She spoke ___ about her experience.|enthusiasm|enthusiastic|enthusiastically|enthuse|C|Cần trạng từ bổ nghĩa cho động từ spoke.
+B2|vocab|What does "put off" mean in "They put off the trip"?|cancel|attend|remember|postpone|D|Put off = postpone: trì hoãn.
+B2|vocab|The company's profits have ___ sharply this year.|raised|risen|rose|arisen|B|Rise là nội động từ, hiện tại hoàn thành dùng risen.
+B2|vocab|If a statement is "ambiguous", it is:|clear|dangerous|open to more than one interpretation|very important|C|Ambiguous là mơ hồ, có thể hiểu nhiều nghĩa.
+B2|vocab|The ___ of the bridge took two years.|construct|constructive|constructed|construction|D|Cần danh từ sau "the": construction.
+B2|reading|Maria moved to Hanoi last year to teach English. At first she found the traffic and noise overwhelming, but she has gradually grown fond of the city's street food and friendly neighbours. Now she says she can't imagine living anywhere else. ¶How does Maria feel about Hanoi now?|She regrets moving there.|She plans to leave soon.|She has come to like it.|She still finds it overwhelming.|C|Bài nói cô đã dần yêu thích thành phố và không thể tưởng tượng sống nơi khác.
+B2|reading|The library will extend its opening hours during the exam period. From 1 to 20 June it will open at 7 a.m. and close at midnight. However, the cafe inside will keep its normal hours, closing at 6 p.m. ¶What will NOT change during the exam period?|The cafe's closing time|The library's opening time|The library's closing time|The length of the exam period|A|Quán cà phê giữ giờ thường lệ, còn giờ thư viện thay đổi.
+B2|reading|Many people believe that multitasking makes them more productive. However, research suggests the opposite: switching between tasks costs the brain time and reduces accuracy. Experts recommend focusing on one task at a time and taking short breaks. ¶What does the research suggest about multitasking?|It improves accuracy.|It saves a lot of time.|It is only useful for short tasks.|It can make work less efficient.|D|Nghiên cứu cho thấy chuyển đổi nhiệm vụ tốn thời gian và giảm độ chính xác.
+B2|reading|Solar panels have become much cheaper over the past decade. As a result, more households are installing them, even in countries with less sunshine. Nevertheless, the initial cost is still a barrier for low-income families. ¶What is still a problem for poorer families?|The lack of sunshine|The upfront cost|The maintenance work|A shortage of panels|B|Bài nêu chi phí ban đầu vẫn là rào cản.
+B2|reading|Dear residents, the water supply will be cut off on Tuesday from 9 a.m. to 1 p.m. for repair work on the main pipe. We advise you to store enough water in advance. We apologise for any inconvenience. ¶Why will the water be cut off?|Because of a drought|To lower costs|To test a new system|To repair the main pipe|D|Nước bị cắt để sửa đường ống chính.
+B2|reading|Tom's first novel was rejected by twelve publishers. Instead of giving up, he rewrote it twice and finally found an editor who believed in it. The book sold over a million copies. ¶What does the story mainly show?|Persistence can lead to success.|Publishers rarely read novels.|Rewriting is a waste of time.|First novels are always successful.|A|Tom kiên trì viết lại và cuối cùng thành công.
+B2|reading|In some countries, the four-day work week is being tested. Employees work fewer hours for the same pay. Early results show that productivity stayed the same, while stress levels fell. ¶According to early results, what happened to productivity?|It fell.|It rose sharply.|It stayed the same.|It was not measured.|C|Bài nói năng suất giữ nguyên.
+B2|reading|Although the museum is free on Sundays, visitors must book tickets online because the number of places is limited. Those who arrive without a booking may be refused entry. ¶What must visitors do on Sundays?|Pay at the door|Reserve tickets in advance|Arrive before noon|Bring identification|B|Khách phải đặt vé trực tuyến trước.
+B2|listen|A: Excuse me, does this bus go to the airport? ¶B: No, you need the number 12. It leaves from the stop across the road. ¶Q: What should Speaker A do?|Cross the road and take bus 12|Wait for this bus|Take a taxi|Walk to the airport|A|Người B bảo đi xe số 12 ở trạm bên kia đường.
+B2|listen|A: I'm sorry I'm late. The train was delayed. ¶B: Don't worry, the meeting hasn't started yet. ¶Q: Why was Speaker A late?|They overslept.|The weather was bad.|The meeting was cancelled.|The train was late.|D|A nói tàu bị trễ.
+B2|listen|A: Would you like to try the soup of the day? ¶B: I'd love to, but I'm allergic to shellfish. ¶Q: What problem does Speaker B mention?|The soup is too hot.|They have an allergy.|They are on a diet.|They dislike soup.|B|B nói bị dị ứng hải sản có vỏ.
+B2|listen|Attention passengers. Flight 208 to Singapore has been delayed by one hour due to technical problems. The new departure time is 4:30 p.m. ¶Q: When will the flight leave?|At 3:30 p.m.|At 4:00 p.m.|At 4:30 p.m.|At 5:30 p.m.|C|Giờ khởi hành mới là 4:30 chiều.
+B2|listen|A: How about going to the cinema tonight? ¶B: I'd rather stay in. I have an early start tomorrow. ¶Q: What does Speaker B mean?|They would prefer to stay at home.|They have seen the film already.|They want to go later.|They are going out tomorrow.|A|I'd rather stay in nghĩa là thích ở nhà hơn.
+B2|listen|A: Have you finished the sales report? ¶B: Almost. I just need to add the figures for March. ¶Q: What is left to do?|Send the report|Print the report|Add the figures for March|Rewrite the introduction|C|B chỉ còn cần thêm số liệu tháng Ba.
+B2|listen|A: I heard you're moving. ¶B: Yes, next month. The new flat is smaller, but it's much closer to my office. ¶Q: What is an advantage of the new flat?|It is bigger.|It is cheaper.|It has a garden.|It is closer to work.|D|Căn hộ mới gần văn phòng hơn.
+B2|listen|A: Could you lend me your pen? ¶B: Sure, but I'll need it back; it was a gift. ¶Q: Why does Speaker B want the pen back?|It is very expensive.|It was given to them as a present.|They need it for work.|It belongs to a friend.|B|B nói đó là quà tặng.
+B2|toeic|Ms. Park will ___ the new marketing strategy at tomorrow's meeting.|present|presence|presently|presentable|A|Sau will cần động từ nguyên mẫu: present.
+B2|toeic|All employees must submit their expense reports ___ the end of the month.|during|by|since|while|B|By + mốc thời gian nghĩa là chậm nhất vào lúc đó.
+B2|toeic|The manager was pleased with the ___ of the new team.|perform|performer|performance|performing|C|Sau "the" và giới từ của cần danh từ: performance.
+B2|toeic|Please ___ me know if you are unable to attend the training session.|tell|say|make|let|D|Cụm cố định: let me know.
+B2|toeic|Dear Mr. Lee, Thank you for your application. We are pleased to ___ you an interview on 5 May.|refuse|borrow|offer|rent|C|Offer someone an interview: mời phỏng vấn.
+B2|toeic|Due to unexpected demand, the shipment will be ___ by two days.|delaying|delayed|delay|delays|B|Bị động: will be + V3.
+B2|toeic|The conference room is fully ___, so please use Room B.|booked|booking|book|books|A|Tính từ/phân từ bị động: fully booked (đã kín lịch).

@@ -1,0 +1,50 @@
+2|vocab|“旁边” có nghĩa là gì?|Bên cạnh|Phía trước|Phía sau|Bên trong|A|旁边 nghĩa là bên cạnh.
+2|vocab|“便宜” có nghĩa là gì?|Đắt|Rẻ|Mới|Cũ|B|便宜 nghĩa là rẻ.
+2|vocab|“非常” có nghĩa là gì?|Hơi|Không|Rất, vô cùng|Cũng|C|非常 nghĩa là rất, vô cùng.
+2|vocab|“告诉” có nghĩa là gì?|Hỏi|Nghe|Quên|Nói cho biết|D|告诉 nghĩa là nói cho biết.
+2|vocab|“觉得” có nghĩa là gì?|Cảm thấy, thấy rằng|Biết|Muốn|Quên|A|觉得 nghĩa là cảm thấy, cho rằng.
+2|vocab|“回答” có nghĩa là gì?|Hỏi|Trả lời|Viết|Đọc|B|回答 nghĩa là trả lời.
+2|vocab|“机场” có nghĩa là gì?|Nhà ga|Bến xe|Sân bay|Bệnh viện|C|机场 nghĩa là sân bay.
+2|vocab|“手表” có nghĩa là gì?|Điện thoại|Máy tính|Cái ví|Đồng hồ đeo tay|D|手表 nghĩa là đồng hồ đeo tay.
+2|vocab|“眼睛” có nghĩa là gì?|Mắt|Tai|Mũi|Miệng|A|眼睛 nghĩa là mắt.
+2|vocab|Từ trái nghĩa với “新” là?|远|旧|慢|贵|B|新 (mới) trái nghĩa với 旧 (cũ).
+2|vocab|“生病” có nghĩa là gì?|Khỏe|Chạy|Bị ốm|Đói|C|生病 nghĩa là bị ốm.
+2|vocab|“休息” có nghĩa là gì?|Làm việc|Học|Chơi|Nghỉ ngơi|D|休息 nghĩa là nghỉ ngơi.
+2|vocab|“跑步” có nghĩa là gì?|Chạy bộ|Đi bộ|Bơi|Nhảy|A|跑步 nghĩa là chạy bộ.
+2|vocab|这个题很____，我不会做。|好|难|白|新|B|Không biết làm nên đề phải khó: 难 (khó).
+2|vocab|“颜色” có nghĩa là gì?|Âm thanh|Mùi vị|Màu sắc|Hình dạng|C|颜色 nghĩa là màu sắc.
+2|grammar|他比我____。|高|很高|非常高|太高|A|Câu so sánh 比 không dùng 很/非常/太 trước tính từ: 他比我高.
+2|grammar|我从来没去____北京。|了|过|着|得|B|“没 + động từ + 过” chỉ chưa từng làm: 没去过.
+2|grammar|他跑____很快。|的|地|得|着|C|Bổ ngữ trạng thái dùng 得: 跑得很快.
+2|grammar|弟弟____在睡觉。|才|很|都|正|D|“正在 + động từ” chỉ hành động đang diễn ra.
+2|grammar|你喜欢喝茶____咖啡？|还是|或者|和|但|A|Câu hỏi lựa chọn dùng 还是 (hay là).
+2|grammar|因为下雨，____我们不去了。|但是|所以|而且|还是|B|Cặp 因为...所以... chỉ nguyên nhân kết quả.
+2|grammar|从我家____学校很近。|在|给|到|对|C|“从...到...” nghĩa là từ... đến...
+2|grammar|请____我一杯水。|对|跟|把|给|D|“给 + người + vật” nghĩa là đưa cho: 请给我一杯水.
+2|grammar|火车____要开了。|就|才|还|都|A|“就要...了” chỉ sắp xảy ra.
+2|grammar|这件衣服____那件贵。|和|比|跟|对|B|Câu so sánh: A 比 B + tính từ.
+2|grammar|你说得太快了，请再说一____。|本|个|遍|口|C|“遍” là lượng từ chỉ số lần của một hành động từ đầu đến cuối.
+2|grammar|你____帮我一下吗？|是|有|在|能|D|“能 + động từ” dùng để nhờ vả, hỏi khả năng.
+2|grammar|哪个句子是对的？|我哥哥比我大两岁|我哥哥比我很大两岁|我哥哥很比我大|我哥哥比我大了很|A|Cấu trúc: A 比 B + tính từ + số lượng: 比我大两岁.
+2|grammar|他____没回来。|就|还|才|再|B|“还没 + động từ” nghĩa là vẫn chưa.
+2|grammar|把词语排成句子：我 / 昨天 / 看了 / 电影|我昨天电影看了|看了昨天我电影|我昨天看了电影|昨天了我看电影|C|Trật tự: Chủ ngữ + thời gian + động từ + 了 + tân ngữ.
+2|reading|我的房间不大，但是很干净。房间里有一张床、一张桌子和一把椅子。¶他的房间怎么样？|很大很脏|很小很脏|很大|不大但很干净|D|Bài đọc: 不大，但是很干净.
+2|reading|昨天我生病了，没去上班，在家休息了一天。今天好一点儿了。¶他昨天为什么没去上班？|生病了|去旅游|很忙|下雨了|A|Bài đọc: 昨天我生病了，没去上班.
+2|reading|小李每天坐公共汽车去公司，要四十分钟。他说坐地铁比较快，但是地铁站离他家很远。¶小李为什么坐公共汽车？|公共汽车更快|地铁站离家很远|地铁很贵|不喜欢地铁|B|Bài đọc: 地铁站离他家很远.
+2|reading|我有一个新手机，是爸爸给我买的。它很漂亮，可是有点儿贵。¶手机是谁买的？|我|妈妈|爸爸|朋友|C|Bài đọc: 是爸爸给我买的.
+2|reading|今天是我的生日，朋友们送给我一个蛋糕。我们一起唱歌，玩得很高兴。¶朋友们送他什么？|手表|衣服|书|蛋糕|D|Bài đọc: 送给我一个蛋糕.
+2|reading|张先生六点下班，六点半到家，七点吃晚饭。¶张先生几点到家？|六点半|六点|七点|七点半|A|Bài đọc: 六点半到家.
+2|reading|周末我们一家人去公园玩。爸爸跑步，妈妈看书，我和弟弟踢足球。¶谁在看书？|爸爸|妈妈|我|弟弟|B|Bài đọc: 妈妈看书.
+2|reading|我不喜欢吃羊肉，我喜欢吃鱼。今天妈妈做了鱼，我吃了很多。¶今天他吃了什么？|羊肉|鸡蛋|鱼|面条|C|Bài đọc: 妈妈做了鱼，我吃了很多.
+2|reading|小王在外面等你，他说他在你家门口。¶小王在哪儿？|在家里|在公司|在学校|在外面|D|Bài đọc: 小王在外面等你 (ở bên ngoài).
+2|reading|小明的汉语考试得了九十分，他很高兴。他说他每天都练习说汉语。¶小明为什么考得好？|每天练习|老师帮忙|很聪明|看很多电影|A|Bài đọc: 他每天都练习说汉语.
+2|listen|A: 请问，去机场怎么走？¶B: 一直往前走，然后右拐，就到了。|Rẽ trái|Đi thẳng rồi rẽ phải|Đi taxi|Đi ngược lại|B|一直往前走，然后右拐: đi thẳng rồi rẽ phải.
+2|listen|A: 你怎么了？¶B: 我头疼，可能生病了。|Đói|Mệt|Đau đầu|Buồn|C|头疼 nghĩa là đau đầu.
+2|listen|这件衣服太贵了，我想买便宜一点儿的。|Muốn mua đắt hơn|Rất thích bộ này|Bộ này rẻ|Bộ này quá đắt, muốn mua rẻ hơn|D|太贵了 là quá đắt, 便宜一点儿的 là loại rẻ hơn.
+2|listen|A: 你周末做什么？¶B: 我想去游泳，你呢？|B muốn đi bơi|B muốn ngủ|B muốn đi xem phim|B muốn đi mua sắm|A|想去游泳: muốn đi bơi.
+2|listen|他每天早上跑步，所以身体很好。|Mỗi tối chạy bộ|Mỗi sáng chạy bộ nên khỏe|Không tập thể dục nhưng khỏe|Mỗi sáng bơi|B|每天早上跑步 là chạy bộ mỗi sáng, 所以 là vì thế.
+2|listen|A: 你喜欢什么运动？¶B: 我喜欢打篮球。|Bóng đá|Bơi|Bóng rổ|Chạy bộ|C|打篮球 là chơi bóng rổ.
+2|listen|现在是八点一刻，我们快点儿走吧。|8:30|8:10|9:15|8:15|D|一刻 là 15 phút nên 八点一刻 là 8 giờ 15.
+2|listen|A: 这个苹果真好吃！¶B: 是吗？我也想吃一个。|B cũng muốn ăn một quả|B không thích|B đã ăn rồi|B muốn mua|A|我也想吃一个: tôi cũng muốn ăn một quả.
+2|listen|妹妹比我小三岁，她今年十五岁。|Tôi 15 tuổi|Tôi 18 tuổi|Tôi 12 tuổi|Tôi 20 tuổi|B|Em nhỏ hơn 3 tuổi và 15 tuổi nên tôi 18 tuổi.
+2|listen|A: 你的书在哪儿？¶B: 在桌子上，手机旁边。|Dưới bàn|Cạnh cốc|Trên bàn, cạnh điện thoại|Trong túi|C|在桌子上 là trên bàn, 手机旁边 là cạnh điện thoại.

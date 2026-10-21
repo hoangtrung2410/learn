@@ -1,0 +1,120 @@
+software|/ˈsɔːftwer/|Danh từ|B1|Công nghệ|phần mềm|install software|You need to install the software before you can log in.|Bạn cần cài phần mềm trước khi đăng nhập được.
+hardware|/ˈhɑːrdwer/|Danh từ|B2|Công nghệ|phần cứng|computer hardware|The company sells computer hardware and accessories.|Công ty bán phần cứng máy tính và phụ kiện.
+application|/ˌæplɪˈkeɪʃn/|Danh từ|B1|Công nghệ|ứng dụng|a mobile application|The application lets users order food from their phones.|Ứng dụng cho phép người dùng đặt đồ ăn bằng điện thoại.
+database|/ˈdeɪtəbeɪs/|Danh từ|B2|Công nghệ|cơ sở dữ liệu|update the database|The database stores information on all our customers.|Cơ sở dữ liệu lưu thông tin mọi khách hàng của chúng tôi.
+server|/ˈsɜːrvər/|Danh từ|B2|Công nghệ|máy chủ|a web server|The server crashed and the website went offline.|Máy chủ bị sập và trang web ngừng hoạt động.
+network|/ˈnetwɜːrk/|Danh từ|B1|Công nghệ|mạng|a wireless network|The office network was down for most of the morning.|Mạng văn phòng bị gián đoạn gần hết buổi sáng.
+bandwidth|/ˈbændwɪdθ/|Danh từ|C1|Công nghệ|băng thông|limited bandwidth|Video calls need a lot of bandwidth.|Cuộc gọi video cần nhiều băng thông.
+firewall|/ˈfaɪərwɔːl/|Danh từ|C1|Công nghệ|tường lửa|a network firewall|A firewall protects the system from outside attacks.|Tường lửa bảo vệ hệ thống khỏi các cuộc tấn công bên ngoài.
+password|/ˈpæswɜːrd/|Danh từ|B1|Công nghệ|mật khẩu|reset a password|Please choose a strong password with numbers and symbols.|Vui lòng chọn mật khẩu mạnh có số và ký hiệu.
+username|/ˈjuːzərneɪm/|Danh từ|B1|Công nghệ|tên đăng nhập|enter a username|Enter your username and password to continue.|Nhập tên đăng nhập và mật khẩu để tiếp tục.
+log in|/lɔːɡ ɪn/|Cụm động từ|B1|Công nghệ|đăng nhập|log in to an account|I can't log in to my account this morning.|Sáng nay tôi không đăng nhập được vào tài khoản.
+log out|/lɔːɡ aʊt/|Cụm động từ|B1|Công nghệ|đăng xuất|log out of a system|Remember to log out when you finish using the computer.|Nhớ đăng xuất khi dùng máy tính xong.
+sign up|/saɪn ʌp/|Cụm động từ|B1|Công nghệ|đăng ký|sign up for a service|Sign up today and get one month free.|Đăng ký hôm nay để được miễn phí một tháng.
+download|/ˈdaʊnloʊd/|Động từ|B1|Công nghệ|tải xuống|download a file|You can download the form from our website.|Bạn có thể tải biểu mẫu từ trang web của chúng tôi.
+upload|/ˈʌploʊd/|Động từ|B1|Công nghệ|tải lên|upload a document|Please upload your photo to the system.|Vui lòng tải ảnh của bạn lên hệ thống.
+backup|/ˈbækʌp/|Danh từ|B2|Công nghệ|bản sao lưu|make a backup|Always make a backup of important files.|Luôn tạo bản sao lưu cho các tệp quan trọng.
+encrypt|/ɪnˈkrɪpt/|Động từ|C1|Công nghệ|mã hóa|encrypt data|The bank encrypts all customer data for security.|Ngân hàng mã hóa mọi dữ liệu khách hàng để bảo mật.
+cybersecurity|/ˌsaɪbərsɪˈkjʊrəti/|Danh từ|C1|Công nghệ|an ninh mạng|strengthen cybersecurity|The firm spends heavily on cybersecurity every year.|Công ty chi nhiều cho an ninh mạng mỗi năm.
+hacker|/ˈhækər/|Danh từ|B2|Công nghệ|tin tặc|a computer hacker|A hacker broke into the company's system last night.|Một tin tặc đã đột nhập hệ thống công ty đêm qua.
+virus|/ˈvaɪrəs/|Danh từ|B1|Công nghệ|vi-rút|a computer virus|Our antivirus program removed the virus automatically.|Chương trình diệt vi-rút đã tự động xóa con vi-rút.
+malware|/ˈmælwer/|Danh từ|C1|Công nghệ|phần mềm độc hại|detect malware|The scan detected malware on three office computers.|Quá trình quét phát hiện phần mềm độc hại trên ba máy tính.
+phishing|/ˈfɪʃɪŋ/|Danh từ|C1|Công nghệ|lừa đảo qua email|a phishing email|Never click links in a suspicious phishing email.|Đừng bao giờ bấm liên kết trong email lừa đảo đáng ngờ.
+spam|/spæm/|Danh từ|B2|Công nghệ|thư rác|a spam filter|My spam folder is full of advertising emails.|Thư mục thư rác của tôi đầy email quảng cáo.
+glitch|/ɡlɪtʃ/|Danh từ|C1|Công nghệ|trục trặc nhỏ|a software glitch|A software glitch caused the payment to fail.|Một lỗi phần mềm nhỏ khiến thanh toán thất bại.
+bug|/bʌɡ/|Danh từ|B2|Công nghệ|lỗi phần mềm|fix a bug|The developers fixed several bugs in the latest update.|Các lập trình viên đã sửa vài lỗi trong bản cập nhật mới nhất.
+crash|/kræʃ/|Động từ|B2|Công nghệ|bị treo, sập|the system crashed|My laptop crashed while I was writing the report.|Máy tính xách tay của tôi bị treo khi tôi đang viết báo cáo.
+freeze|/friːz/|Động từ|B2|Công nghệ|bị đứng|the screen froze|The screen froze, so I had to restart the computer.|Màn hình bị đứng nên tôi phải khởi động lại máy.
+reboot|/ˌriːˈbuːt/|Động từ|C1|Công nghệ|khởi động lại|reboot a computer|Try to reboot the router if the Wi-Fi is slow.|Hãy thử khởi động lại bộ định tuyến nếu Wi-Fi chậm.
+restart|/ˌriːˈstɑːrt/|Động từ|B1|Công nghệ|khởi động lại|restart the system|You must restart the system after the update.|Bạn phải khởi động lại hệ thống sau khi cập nhật.
+troubleshoot|/ˈtrʌblʃuːt/|Động từ|C1|Công nghệ|xử lý sự cố|troubleshoot a problem|The IT team will troubleshoot the printer problem.|Nhóm CNTT sẽ xử lý sự cố máy in.
+update|/ˈʌpdeɪt/|Động từ|B1|Công nghệ|cập nhật|update software|Remember to update your software regularly.|Hãy nhớ cập nhật phần mềm thường xuyên.
+configure|/kənˈfɪɡjər/|Động từ|C1|Công nghệ|cấu hình|configure a device|The technician configured the new router for us.|Kỹ thuật viên đã cấu hình bộ định tuyến mới cho chúng tôi.
+compatible|/kəmˈpætəbl/|Tính từ|C1|Công nghệ|tương thích|compatible with|This printer is compatible with both Windows and Mac.|Máy in này tương thích với cả Windows và Mac.
+wireless|/ˈwaɪərləs/|Tính từ|B1|Công nghệ|không dây|a wireless mouse|A wireless keyboard keeps my desk clean and tidy.|Bàn phím không dây giúp bàn làm việc của tôi gọn gàng.
+portable|/ˈpɔːrtəbl/|Tính từ|B2|Công nghệ|xách tay, gọn nhẹ|a portable charger|A portable charger is useful when you travel a lot.|Sạc dự phòng rất hữu ích khi bạn đi nhiều.
+digital|/ˈdɪdʒɪtl/|Tính từ|B1|Công nghệ|kỹ thuật số|a digital camera|The company is moving all its records to digital format.|Công ty đang chuyển mọi hồ sơ sang định dạng số.
+virtual|/ˈvɜːrtʃuəl/|Tính từ|B2|Công nghệ|ảo, trực tuyến|a virtual meeting|We held a virtual meeting with our partners in Seoul.|Chúng tôi họp trực tuyến với đối tác ở Seoul.
+online|/ˌɑːnˈlaɪn/|Tính từ|B1|Công nghệ|trực tuyến|an online course|She is taking an online course in graphic design.|Cô ấy đang học một khóa thiết kế đồ họa trực tuyến.
+offline|/ˌɔːfˈlaɪn/|Tính từ|B2|Công nghệ|ngoại tuyến|work offline|You can read the document offline once it is downloaded.|Bạn có thể đọc tài liệu ngoại tuyến sau khi tải xuống.
+interface|/ˈɪntərfeɪs/|Danh từ|C1|Công nghệ|giao diện|a user-friendly interface|The app has a clean and user-friendly interface.|Ứng dụng có giao diện gọn gàng và dễ dùng.
+feature|/ˈfiːtʃər/|Danh từ|B1|Công nghệ|tính năng|a new feature|The latest update adds a useful search feature.|Bản cập nhật mới nhất thêm một tính năng tìm kiếm hữu ích.
+function|/ˈfʌŋkʃn/|Danh từ|B2|Công nghệ|chức năng|a basic function|The calculator has many advanced functions.|Máy tính này có nhiều chức năng nâng cao.
+icon|/ˈaɪkɑːn/|Danh từ|B1|Công nghệ|biểu tượng|click on the icon|Click the icon on the desktop to open the program.|Bấm vào biểu tượng trên màn hình nền để mở chương trình.
+menu|/ˈmenjuː/|Danh từ|B1|Công nghệ|trình đơn|a drop-down menu|Select Print from the menu at the top of the screen.|Chọn In từ trình đơn ở đầu màn hình.
+toolbar|/ˈtuːlbɑːr/|Danh từ|C1|Công nghệ|thanh công cụ|the toolbar at the top|The save button is on the toolbar at the top.|Nút lưu nằm trên thanh công cụ phía trên.
+cursor|/ˈkɜːrsər/|Danh từ|B2|Công nghệ|con trỏ|move the cursor|Move the cursor over the text and click twice.|Di chuyển con trỏ lên văn bản và nhấp hai lần.
+keyboard|/ˈkiːbɔːrd/|Danh từ|B1|Công nghệ|bàn phím|type on a keyboard|He types very fast on his mechanical keyboard.|Anh ấy gõ rất nhanh trên bàn phím cơ.
+printer|/ˈprɪntər/|Danh từ|B1|Công nghệ|máy in|a laser printer|The printer ran out of ink in the middle of the job.|Máy in hết mực giữa chừng công việc.
+scanner|/ˈskænər/|Danh từ|B2|Công nghệ|máy quét|a document scanner|Use the scanner to save the contract as a PDF.|Dùng máy quét để lưu hợp đồng dạng PDF.
+projector|/prəˈdʒektər/|Danh từ|B2|Công nghệ|máy chiếu|set up a projector|The projector in the meeting room isn't working.|Máy chiếu ở phòng họp không hoạt động.
+cable|/ˈkeɪbl/|Danh từ|B1|Công nghệ|dây cáp|a charging cable|Plug the cable into the back of the monitor.|Cắm dây cáp vào mặt sau màn hình.
+socket|/ˈsɑːkɪt/|Danh từ|B2|Công nghệ|ổ cắm|an electrical socket|There is no socket near my desk.|Không có ổ cắm gần bàn của tôi.
+battery|/ˈbætəri/|Danh từ|B1|Công nghệ|pin|the battery life|The battery lasts about ten hours on a full charge.|Pin dùng được khoảng mười tiếng khi sạc đầy.
+charger|/ˈtʃɑːrdʒər/|Danh từ|B1|Công nghệ|bộ sạc|a phone charger|Did you bring your laptop charger to the meeting?|Bạn có mang bộ sạc máy tính xách tay đến cuộc họp không?
+USB drive|/ˌjuː es ˈbiː draɪv/|Danh từ|B2|Công nghệ|ổ USB|save to a USB drive|Save the file on a USB drive and bring it along.|Hãy lưu tệp vào ổ USB và mang theo.
+cloud storage|/klaʊd ˈstɔːrɪdʒ/|Danh từ|B2|Công nghệ|lưu trữ đám mây|use cloud storage|We keep our documents in secure cloud storage.|Chúng tôi lưu tài liệu trong kho đám mây an toàn.
+spreadsheet|/ˈspredʃiːt/|Danh từ|B2|Công nghệ|bảng tính|create a spreadsheet|She made a spreadsheet to track the monthly expenses.|Cô ấy lập bảng tính để theo dõi chi phí hằng tháng.
+template|/ˈtempleɪt/|Danh từ|B2|Công nghệ|mẫu|use a template|You can use this template to write your report.|Bạn có thể dùng mẫu này để viết báo cáo.
+slideshow|/ˈslaɪdʃoʊ/|Danh từ|B2|Công nghệ|trình chiếu|a slideshow presentation|He prepared a slideshow with charts for the meeting.|Anh ấy chuẩn bị một bản trình chiếu có biểu đồ cho cuộc họp.
+document|/ˈdɑːkjumənt/|Danh từ|B1|Công nghệ|tài liệu|an important document|Please save the document before closing the window.|Vui lòng lưu tài liệu trước khi đóng cửa sổ.
+folder|/ˈfoʊldər/|Danh từ|B1|Công nghệ|thư mục|create a folder|I put all the invoices in a shared folder.|Tôi để mọi hóa đơn trong một thư mục dùng chung.
+file|/faɪl/|Danh từ|B1|Công nghệ|tệp|open a file|The file is too large to send by email.|Tệp quá lớn nên không gửi qua email được.
+shortcut|/ˈʃɔːrtkʌt/|Danh từ|B2|Công nghệ|phím tắt|a keyboard shortcut|Use this shortcut to copy and paste faster.|Dùng phím tắt này để sao chép và dán nhanh hơn.
+copy|/ˈkɑːpi/|Động từ|B1|Công nghệ|sao chép|copy a file|Copy the file to your desktop before editing it.|Sao chép tệp ra màn hình nền trước khi chỉnh sửa.
+paste|/peɪst/|Động từ|B2|Công nghệ|dán|paste text|Paste the address into the box below.|Dán địa chỉ vào ô bên dưới.
+delete|/dɪˈliːt/|Động từ|B1|Công nghệ|xóa|delete a file|Do not delete any file without asking the manager.|Đừng xóa bất kỳ tệp nào khi chưa hỏi quản lý.
+highlight|/ˈhaɪlaɪt/|Động từ|B2|Công nghệ|đánh dấu nổi bật|highlight text|Highlight the key points in yellow.|Hãy đánh dấu các ý chính bằng màu vàng.
+format|/ˈfɔːrmæt/|Động từ|B2|Công nghệ|định dạng|format a document|I need to format the report before printing it.|Tôi cần định dạng báo cáo trước khi in.
+attach|/əˈtætʃ/|Động từ|B1|Công nghệ|đính kèm|attach a file|I attached the invoice to this email.|Tôi đã đính kèm hóa đơn vào email này.
+subscribe|/səbˈskraɪb/|Động từ|B2|Công nghệ|đăng ký nhận tin|subscribe to a channel|Subscribe to our channel for weekly business tips.|Hãy đăng ký kênh của chúng tôi để nhận mẹo kinh doanh hằng tuần.
+unsubscribe|/ˌʌnsəbˈskraɪb/|Động từ|C1|Công nghệ|hủy đăng ký|unsubscribe from a list|Click here if you want to unsubscribe from the list.|Bấm vào đây nếu bạn muốn hủy đăng ký khỏi danh sách.
+stream|/striːm/|Động từ|B2|Công nghệ|phát trực tuyến|stream a video|The conference was streamed live to thousands of viewers.|Hội nghị được phát trực tiếp cho hàng nghìn người xem.
+browse|/braʊz/|Động từ|B2|Công nghệ|duyệt web|browse a website|Customers can browse our products without creating an account.|Khách có thể xem sản phẩm mà không cần tạo tài khoản.
+search engine|/ˈsɜːrtʃ ˈendʒɪn/|Danh từ|B2|Công nghệ|công cụ tìm kiếm|use a search engine|Most people use a search engine to find information.|Hầu hết mọi người dùng công cụ tìm kiếm để tìm thông tin.
+website|/ˈwebsaɪt/|Danh từ|B1|Công nghệ|trang web|visit a website|Visit our website for more details about the event.|Hãy truy cập trang web của chúng tôi để biết thêm chi tiết sự kiện.
+webpage|/ˈwebpeɪdʒ/|Danh từ|B1|Công nghệ|trang web đơn|load a webpage|The webpage takes too long to load on my phone.|Trang web tải quá lâu trên điện thoại của tôi.
+hyperlink|/ˈhaɪpərlɪŋk/|Danh từ|C1|Công nghệ|liên kết siêu văn bản|click a hyperlink|Click the hyperlink to read the full article.|Bấm vào liên kết để đọc toàn bộ bài viết.
+domain|/doʊˈmeɪn/|Danh từ|C1|Công nghệ|tên miền|register a domain|We registered a new domain for our online shop.|Chúng tôi đăng ký tên miền mới cho cửa hàng trực tuyến.
+bookmark|/ˈbʊkmɑːrk/|Danh từ|B2|Công nghệ|dấu trang|add a bookmark|I added the page to my bookmarks for later.|Tôi thêm trang đó vào dấu trang để xem sau.
+browser|/ˈbraʊzər/|Danh từ|B1|Công nghệ|trình duyệt|open a browser|Open your browser and go to the company site.|Mở trình duyệt và vào trang của công ty.
+broadband|/ˈbrɔːdbænd/|Danh từ|C1|Công nghệ|băng thông rộng|a broadband connection|The office has a fast broadband connection.|Văn phòng có kết nối băng thông rộng nhanh.
+router|/ˈruːtər/|Danh từ|B2|Công nghệ|bộ định tuyến|restart the router|Restart the router if the connection is unstable.|Hãy khởi động lại bộ định tuyến nếu kết nối không ổn định.
+signal|/ˈsɪɡnəl/|Danh từ|B1|Công nghệ|tín hiệu|a weak signal|The signal is weak in the basement.|Tín hiệu yếu ở tầng hầm.
+coverage|/ˈkʌvərɪdʒ/|Danh từ|B2|Công nghệ|vùng phủ sóng|network coverage|There is no mobile coverage in the mountains.|Không có vùng phủ sóng di động trên núi.
+voicemail|/ˈvɔɪsmeɪl/|Danh từ|B2|Công nghệ|hộp thư thoại|leave a voicemail|Please leave a voicemail and I will call you back.|Vui lòng để lại thư thoại và tôi sẽ gọi lại cho bạn.
+extension|/ɪkˈstenʃn/|Danh từ|B2|Công nghệ|số máy lẻ|extension number|Please dial extension 305 to reach the accounting office.|Vui lòng quay số máy lẻ 305 để gặp phòng kế toán.
+hotline|/ˈhɑːtlaɪn/|Danh từ|B2|Công nghệ|đường dây nóng|call the hotline|Call the hotline if you notice any problems.|Hãy gọi đường dây nóng nếu bạn thấy bất kỳ vấn đề nào.
+videoconference|/ˈvɪdioʊˌkɑːnfərəns/|Danh từ|C1|Công nghệ|hội nghị truyền hình|hold a videoconference|The board held a videoconference with the Tokyo office.|Hội đồng quản trị họp truyền hình với văn phòng Tokyo.
+webinar|/ˈwebɪnɑːr/|Danh từ|C1|Công nghệ|hội thảo trực tuyến|attend a webinar|I attended a webinar on digital marketing last Friday.|Thứ Sáu tuần trước tôi dự hội thảo trực tuyến về marketing số.
+algorithm|/ˈælɡərɪðəm/|Danh từ|C1|Công nghệ|thuật toán|a search algorithm|The algorithm suggests products based on your past orders.|Thuật toán gợi ý sản phẩm dựa trên các đơn trước của bạn.
+artificial intelligence|/ˌɑːrtɪfɪʃl ɪnˈtelɪdʒəns/|Danh từ|B2|Công nghệ|trí tuệ nhân tạo|artificial intelligence tools|Artificial intelligence is changing how companies handle customer service.|Trí tuệ nhân tạo đang thay đổi cách công ty xử lý chăm sóc khách hàng.
+robot|/ˈroʊbɑːt/|Danh từ|B1|Công nghệ|người máy|an industrial robot|A robot now packs the boxes in our warehouse.|Một người máy giờ đóng gói các hộp trong kho của chúng tôi.
+sensor|/ˈsensər/|Danh từ|C1|Công nghệ|cảm biến|a motion sensor|A motion sensor turns on the lights automatically.|Cảm biến chuyển động tự bật đèn.
+gadget|/ˈɡædʒɪt/|Danh từ|B2|Công nghệ|thiết bị nhỏ|a useful gadget|He loves buying new gadgets every few months.|Anh ấy thích mua thiết bị mới vài tháng một lần.
+innovation|/ˌɪnəˈveɪʃn/|Danh từ|B2|Công nghệ|sự đổi mới|technological innovation|Innovation is the key to staying ahead of competitors.|Đổi mới là chìa khóa để dẫn trước đối thủ.
+breakthrough|/ˈbreɪkθruː/|Danh từ|C1|Công nghệ|bước đột phá|a scientific breakthrough|Researchers announced a breakthrough in battery technology.|Các nhà nghiên cứu công bố một bước đột phá về công nghệ pin.
+obsolete|/ˌɑːbsəˈliːt/|Tính từ|C1|Công nghệ|lỗi thời|become obsolete|Typewriters became obsolete when computers arrived.|Máy đánh chữ trở nên lỗi thời khi máy tính xuất hiện.
+cutting-edge|/ˌkʌtɪŋ ˈedʒ/|Tính từ|C1|Công nghệ|tiên tiến nhất|cutting-edge technology|The lab uses cutting-edge technology to analyze samples.|Phòng thí nghiệm dùng công nghệ tiên tiến để phân tích mẫu.
+user-friendly|/ˌjuːzər ˈfrendli/|Tính từ|B2|Công nghệ|dễ sử dụng|a user-friendly design|The new website is more user-friendly than the old one.|Trang web mới dễ dùng hơn trang cũ.
+tech-savvy|/ˈtek ˌsævi/|Tính từ|C1|Công nghệ|thông thạo công nghệ|a tech-savvy generation|Younger staff are generally more tech-savvy than older ones.|Nhân viên trẻ nhìn chung thông thạo công nghệ hơn người lớn tuổi.
+automated|/ˈɔːtəmeɪtɪd/|Tính từ|C1|Công nghệ|được tự động hóa|an automated system|An automated system sorts the parcels by destination.|Một hệ thống tự động phân loại bưu kiện theo điểm đến.
+data|/ˈdeɪtə/|Danh từ|B1|Công nghệ|dữ liệu|collect data|We collect data from customers to improve our services.|Chúng tôi thu thập dữ liệu khách hàng để cải thiện dịch vụ.
+analytics|/ˌænəˈlɪtɪks/|Danh từ|C1|Công nghệ|phân tích dữ liệu|web analytics|Web analytics show which pages visitors like most.|Phân tích web cho thấy khách thích trang nào nhất.
+dashboard|/ˈdæʃbɔːrd/|Danh từ|C1|Công nghệ|bảng điều khiển|a sales dashboard|The dashboard displays our sales figures in real time.|Bảng điều khiển hiển thị số liệu bán hàng theo thời gian thực.
+patch|/pætʃ/|Danh từ|C1|Công nghệ|bản vá lỗi|install a patch|Install the security patch as soon as it is released.|Hãy cài bản vá bảo mật ngay khi nó được phát hành.
+open-source|/ˌoʊpən ˈsɔːrs/|Tính từ|C1|Công nghệ|mã nguồn mở|open-source software|The team uses open-source software to cut costs.|Nhóm dùng phần mềm mã nguồn mở để giảm chi phí.
+source code|/ˈsɔːrs koʊd/|Danh từ|C1|Công nghệ|mã nguồn|write source code|The developer shared the source code on a public site.|Lập trình viên chia sẻ mã nguồn trên một trang công khai.
+developer|/dɪˈveləpər/|Danh từ|B2|Công nghệ|lập trình viên|a software developer|A developer fixed the error within an hour.|Một lập trình viên sửa lỗi trong vòng một giờ.
+programmer|/ˈproʊɡræmər/|Danh từ|B2|Công nghệ|lập trình viên|a computer programmer|The programmer wrote a tool to sort the data.|Lập trình viên viết một công cụ để sắp xếp dữ liệu.
+coding|/ˈkoʊdɪŋ/|Danh từ|B2|Công nghệ|việc viết mã|learn coding|Many children now learn coding at primary school.|Nhiều trẻ giờ học lập trình ở tiểu học.
+prototype app|/ˈproʊtətaɪp æp/|Danh từ|C1|Công nghệ|ứng dụng mẫu|test a prototype app|We tested a prototype app with fifty users.|Chúng tôi thử một ứng dụng mẫu với năm mươi người dùng.
+online security|/ˌɑːnlaɪn sɪˈkjʊrəti/|Danh từ|B2|Công nghệ|an toàn trực tuyến|improve online security|Two-step login improves your online security.|Đăng nhập hai bước làm tăng an toàn trực tuyến của bạn.
+access|/ˈækses/|Danh từ|B1|Công nghệ|quyền truy cập|gain access|Only managers have access to the payroll files.|Chỉ quản lý mới có quyền truy cập tệp bảng lương.
+authenticate|/ɔːˈθentɪkeɪt/|Động từ|C1|Công nghệ|xác thực|authenticate a user|The system will authenticate you with a fingerprint.|Hệ thống sẽ xác thực bạn bằng vân tay.
+verification|/ˌverɪfɪˈkeɪʃn/|Danh từ|C1|Công nghệ|sự xác minh|a verification code|A verification code was sent to my phone.|Một mã xác minh đã được gửi vào điện thoại tôi.
+data breach|/ˈdeɪtə briːtʃ/|Danh từ|C1|Công nghệ|vụ rò rỉ dữ liệu|suffer a data breach|The retailer suffered a data breach affecting millions of customers.|Nhà bán lẻ bị rò rỉ dữ liệu ảnh hưởng hàng triệu khách.
+cache|/kæʃ/|Danh từ|C1|Công nghệ|bộ nhớ đệm|clear the cache|Clear your browser's cache if the page won't load.|Hãy xóa bộ nhớ đệm trình duyệt nếu trang không tải.
+storage space|/ˈstɔːrɪdʒ speɪs/|Danh từ|B2|Công nghệ|dung lượng lưu trữ|run out of storage space|My phone has run out of storage space again.|Điện thoại của tôi lại hết dung lượng lưu trữ.
+touchscreen|/ˈtʌtʃskriːn/|Danh từ|B2|Công nghệ|màn hình cảm ứng|a touchscreen display|The kiosk has a large touchscreen for ordering.|Ki-ốt có màn hình cảm ứng lớn để gọi món.
+headset|/ˈhedset/|Danh từ|B2|Công nghệ|tai nghe có micro|wear a headset|Call center staff wear a headset all day.|Nhân viên tổng đài đeo tai nghe cả ngày.

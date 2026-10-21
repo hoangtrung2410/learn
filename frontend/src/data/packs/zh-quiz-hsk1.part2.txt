@@ -1,0 +1,50 @@
+1|vocab|“水果” có nghĩa là gì?|Rau|Trái cây|Thịt|Cá|B|水果 nghĩa là trái cây.
+1|vocab|“米饭” có nghĩa là gì?|Mì|Bánh|Cơm|Cháo|C|米饭 nghĩa là cơm.
+1|vocab|“电话” có nghĩa là gì?|Máy tính|Tivi|Đồng hồ|Điện thoại|D|电话 nghĩa là điện thoại.
+1|vocab|“汽车” có nghĩa là gì?|Ô tô|Tàu hỏa|Máy bay|Xe đạp|A|汽车 nghĩa là ô tô.
+1|vocab|“钱” có nghĩa là gì?|Thời gian|Tiền|Sách|Nước|B|钱 nghĩa là tiền.
+1|vocab|我是____人。|吃|看|中国|喝|C|Cần danh từ chỉ quốc tịch: 中国人 (người Trung Quốc).
+1|vocab|“学习” có nghĩa là gì?|Làm việc|Ngủ|Chơi|Học|D|学习 nghĩa là học tập.
+1|vocab|“工作” có nghĩa là gì?|Làm việc|Học|Nghỉ|Ăn|A|工作 nghĩa là làm việc, công việc.
+1|vocab|“睡觉” có nghĩa là gì?|Thức dậy|Ngủ|Tắm|Ăn cơm|B|睡觉 nghĩa là ngủ.
+1|vocab|“下雨” có nghĩa là gì?|Có gió|Có tuyết|Trời mưa|Trời nắng|C|下雨 nghĩa là trời mưa.
+1|vocab|“漂亮” có nghĩa là gì?|Xấu|Cũ|Lạnh|Đẹp|D|漂亮 nghĩa là đẹp, xinh.
+1|vocab|“认识” có nghĩa là gì?|Quen biết|Quên|Muốn|Gặp lại|A|认识 nghĩa là quen biết, biết (người).
+1|vocab|你叫什么____？|家|名字|学校|朋友|B|Hỏi tên: 你叫什么名字？
+1|vocab|我____在北京。|看|买|家|喝|C|我家在北京: nhà tôi ở Bắc Kinh.
+1|vocab|“高兴” có nghĩa là gì?|Buồn|Giận|Mệt|Vui|D|高兴 nghĩa là vui, vui mừng.
+1|grammar|我有一____书。|本|个|只|杯|A|Lượng từ của sách là 本: 一本书.
+1|grammar|我有一____猫。|个|只|本|杯|B|Lượng từ của con vật nhỏ là 只: 一只猫.
+1|grammar|我想喝一____水。|本|只|杯|个|C|Lượng từ của đồ uống đựng trong cốc là 杯: 一杯水.
+1|grammar|我____喜欢这个。|在|有|个|很|D|“很 + động từ tâm lý” như 很喜欢 (rất thích).
+1|grammar|他____说汉语。|会|是|有|在|A|“会 + động từ” nghĩa là biết làm gì: 他会说汉语.
+1|grammar|你____去商店吗？|在|想|是|有|B|“想 + động từ” nghĩa là muốn làm gì: 想去.
+1|grammar|他们都____学生。|叫|在|是|有|C|“是” nối danh từ: 他们都是学生.
+1|grammar|天气____冷。|是|有|在|很|D|Tính từ đi với 很: 天气很冷 (trời rất lạnh).
+1|grammar|把词语排成句子：不 / 喜欢 / 我 / 他|我不喜欢他|我喜欢不他|不我喜欢他|我他不喜欢|A|不 đứng trước động từ: 我不喜欢他.
+1|grammar|哪个句子是对的？|我不吃了没|我没有吃饭|我吃饭没有|我有没吃饭|B|Phủ định quá khứ dùng 没(有) trước động từ: 我没有吃饭.
+1|grammar|我们____去商店吧。|在|是|一起|有|C|“一起 + động từ” nghĩa là cùng làm: 一起去商店.
+1|grammar|现在____八点。|有|在|很|是|D|“现在是八点” là cách nói giờ với 是.
+1|grammar|那是你的书，这____我的。|是|有|在|会|A|Dùng 是 để nối: 这是我的.
+1|grammar|你爸爸今年多____？|小|大|高|好|B|Hỏi tuổi người lớn: 多大 (bao nhiêu tuổi).
+1|grammar|你喜欢哪个？我喜欢____个。|哪|谁|这|多|C|“这个” nghĩa là cái này, dùng để trả lời câu hỏi chọn lựa.
+1|reading|我家在北京。我家有一只狗，它很大。我每天和它玩。¶我每天做什么？|和狗玩|看书|去学校|睡觉|A|Bài đọc: 我每天和它玩 (hằng ngày chơi với chó).
+1|reading|小李是我的同学，他喜欢踢足球。每个星期六，他和朋友一起踢。¶小李喜欢什么？|看书|踢足球|喝茶|看电影|B|Bài đọc: 他喜欢踢足球.
+1|reading|今天很冷，我不去外面，在家看电视。¶今天天气怎么样？|很热|下雨|很冷|很好|C|Bài đọc: 今天很冷 (hôm nay rất lạnh).
+1|reading|我想买一个杯子。这个杯子八块钱，那个杯子十块钱。我买这个。¶他买的杯子多少钱？|十块|两块|十八块|八块|D|Anh ấy mua cái này, giá 八块 (8 đồng).
+1|reading|我今年二十岁，是大学生。我学习汉语。¶他今年多大？|二十岁|十二岁|三十岁|二十二岁|A|Bài đọc: 我今年二十岁.
+1|reading|昨天我和朋友去饭店吃饭，菜很好吃，我很高兴。¶他觉得菜怎么样？|不好吃|很好吃|很贵|太少|B|Bài đọc: 菜很好吃 (món ăn rất ngon).
+1|reading|她在医院工作，她是医生。她不在家。¶她在哪儿工作？|学校|商店|医院|家|C|Bài đọc: 她在医院工作.
+1|reading|我想去中国学汉语。我现在每天学习两个小时。¶他想去哪儿？|美国|日本|英国|中国|D|Bài đọc: 我想去中国学汉语.
+1|reading|桌子上有一本书和一个杯子。书是我的，杯子是我妈妈的。¶杯子是谁的？|妈妈的|我的|老师的|朋友的|A|Bài đọc: 杯子是我妈妈的.
+1|reading|我早上喝牛奶，中午吃米饭，晚上吃面条。¶他中午吃什么？|面条|米饭|牛奶|苹果|B|Bài đọc: 中午吃米饭 (trưa ăn cơm).
+1|listen|A: 你好吗？¶B: 我很好，谢谢，你呢？|B không khỏe|B xin lỗi|B khỏe, cảm ơn và hỏi lại|B nói tạm biệt|C|B nói 我很好 (tôi khỏe), 谢谢 (cảm ơn), 你呢 (còn bạn).
+1|listen|我喜欢吃面条，不喜欢吃米饭。|Thích cơm, không thích mì|Thích cả hai|Không thích gì|Thích mì, không thích cơm|D|喜欢吃面条 là thích mì, 不喜欢吃米饭 là không thích cơm.
+1|listen|A: 你在做什么？¶B: 我在看电视。|Đang xem tivi|Đang đọc sách|Đang ngủ|Đang làm việc|A|在看电视 là đang xem tivi.
+1|listen|今天星期三，明天星期四。|Hôm nay thứ ba, ngày mai thứ tư|Hôm nay thứ tư, ngày mai thứ năm|Hôm nay thứ năm|Hôm nay thứ tư, ngày mai thứ ba|B|星期三 là thứ tư, 星期四 là thứ năm.
+1|listen|A: 这是你的手机吗？¶B: 不是，是我哥哥的。|Của B|Của bạn bè|Của anh trai B|Của giáo viên|C|不是，是我哥哥的: không phải, là của anh trai tôi.
+1|listen|我每天六点起床。|5 giờ|7 giờ|8 giờ|6 giờ|D|六点 là 6 giờ.
+1|listen|A: 你家在哪儿？¶B: 我家在上海。|Thượng Hải|Bắc Kinh|Hà Nội|Quảng Châu|A|在上海: ở Thượng Hải.
+1|listen|我有两个姐姐，没有哥哥。|Có 2 anh trai|Có 2 chị gái, không có anh trai|Có 1 chị gái|Có 2 em gái|B|两个姐姐 là hai chị gái, 没有哥哥 là không có anh trai.
+1|listen|A: 这个杯子多少钱？¶B: 十二块。|2 đồng|20 đồng|12 đồng|10 đồng|C|十二块 là 12 đồng.
+1|listen|他不在家，他在学校。|Anh ấy ở nhà|Anh ấy ở bệnh viện|Anh ấy ở công ty|Anh ấy ở trường|D|不在家 là không ở nhà, 在学校 là ở trường.

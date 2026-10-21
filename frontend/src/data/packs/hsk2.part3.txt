@@ -1,0 +1,5 @@
+公斤|ki-lô-gam, cân|Lượng từ|công cân|这些苹果一共三公斤。|Chỗ táo này tổng cộng ba ki-lô-gam.
+男人|đàn ông|Danh từ|nam nhân|那个男人是我的邻居。|Người đàn ông đó là hàng xóm của tôi.
+女人|phụ nữ|Danh từ|nữ nhân|这个女人是一位医生。|Người phụ nữ này là một bác sĩ.
+踢|đá (bóng, chân)|Động từ||他每个周末都去踢球。|Cuối tuần nào anh ấy cũng đi đá bóng.
+元|đồng (đơn vị tiền Trung Quốc)|Lượng từ|nguyên|这本书二十元。|Cuốn sách này hai mươi đồng.

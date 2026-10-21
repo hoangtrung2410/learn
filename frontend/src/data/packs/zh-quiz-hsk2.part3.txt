@@ -1,0 +1,50 @@
+2|vocab|“西瓜” có nghĩa là gì?|Dưa chuột|Cà chua|Dưa hấu|Dưa vàng|C|西瓜 nghĩa là dưa hấu.
+2|vocab|“牛奶” có nghĩa là gì?|Nước cam|Trà|Cà phê|Sữa bò|D|牛奶 nghĩa là sữa bò.
+2|vocab|“羊肉” có nghĩa là gì?|Thịt dê, cừu|Thịt heo|Thịt bò|Thịt gà|A|羊肉 nghĩa là thịt dê, thịt cừu.
+2|vocab|“蛋糕” có nghĩa là gì?|Bánh mì|Bánh ngọt|Bánh bao|Kẹo|B|蛋糕 nghĩa là bánh gato, bánh ngọt.
+2|vocab|“比赛” có nghĩa là gì?|Học tập|Du lịch|Thi đấu|Nghỉ ngơi|C|比赛 nghĩa là thi đấu, cuộc thi.
+2|vocab|“唱歌” có nghĩa là gì?|Nhảy múa|Vẽ tranh|Đọc sách|Hát|D|唱歌 nghĩa là hát.
+2|vocab|“游泳” có nghĩa là gì?|Bơi|Chạy|Leo núi|Đạp xe|A|游泳 nghĩa là bơi.
+2|vocab|“教室” có nghĩa là gì?|Thư viện|Phòng học|Phòng ngủ|Nhà ăn|B|教室 nghĩa là phòng học.
+2|vocab|“火车站” có nghĩa là gì?|Bến xe buýt|Sân bay|Ga tàu hỏa|Bến tàu thủy|C|火车站 nghĩa là ga tàu hỏa.
+2|vocab|“跳舞” có nghĩa là gì?|Hát|Chạy|Viết|Nhảy múa|D|跳舞 nghĩa là nhảy múa.
+2|vocab|“旅游” có nghĩa là gì?|Du lịch|Làm việc|Ôn tập|Mua sắm|A|旅游 nghĩa là du lịch.
+2|vocab|“报纸” có nghĩa là gì?|Tạp chí|Báo|Thư|Sách|B|报纸 nghĩa là tờ báo.
+2|vocab|“腿” có nghĩa là gì?|Tay|Đầu|Chân|Mắt|C|腿 nghĩa là chân (cẳng chân).
+2|vocab|“左边” có nghĩa là gì?|Bên phải|Phía trước|Phía sau|Bên trái|D|左边 nghĩa là bên trái.
+2|vocab|“孩子” có nghĩa là gì?|Trẻ con, con cái|Người già|Thầy giáo|Bạn bè|A|孩子 nghĩa là trẻ con, con cái.
+2|grammar|我____没见过他。|刚才|正在|从来|一起|C|“从来没...过” nghĩa là chưa bao giờ.
+2|grammar|我____在北京工作了三年。|将|刚|正|已经|D|“已经...了” chỉ việc đã xảy ra, đã kéo dài.
+2|grammar|他吃____饭就去上班了。|了|吗|吧|的|A|“了” sau động từ chỉ hoàn thành: 吃了饭就...
+2|grammar|我们学校____你们学校大。|和|比|跟|对|B|Câu so sánh dùng 比: A 比 B + tính từ.
+2|grammar|你应该____休息一下。|不|太|好好|很|C|“好好 + động từ” nghĩa là hãy làm cho tốt: 好好休息.
+2|grammar|外面下着雨，你____带伞。|在|是|有|要|D|“要 + động từ” ở đây nghĩa là nên, cần: 你要带伞.
+2|grammar|他唱歌____好听了。|太|很|非常|真|A|Cấu trúc “太...了” nhấn mạnh mức độ cao.
+2|grammar|你能____我介绍一下吗？|把|给|在|对|B|“给 + người + động từ” nghĩa là làm giúp cho ai: 给我介绍.
+2|grammar|你____告诉我火车站怎么走吗？|在|有|能|是|C|“能 + động từ” dùng để nhờ vả lịch sự.
+2|grammar|我____看过这个电影，非常好看。|明天|现在|马上|以前|D|“Động từ + 过” chỉ kinh nghiệm trong quá khứ nên đi với 以前.
+2|grammar|哪个句子是对的？|我没有去过上海|我没去过了上海|我去过没上海|我不去过上海|A|Phủ định kinh nghiệm: 没(有) + động từ + 过.
+2|grammar|哪个句子是对的？|他在教室里正看书|他正在教室里看书|他正在看书教室里|他教室里在正看书|B|Trật tự: 他 + 正在 + địa điểm + động từ.
+2|grammar|我跟你一样____。|更高|很高|高|比高|C|“A 跟 B 一样 + tính từ” không thêm 很/更.
+2|grammar|老师说得太快，我____听懂。|不|别|很|没|D|“没听懂” là không nghe hiểu được (kết quả đã xảy ra).
+2|grammar|把词语排成句子：我 / 一个 / 买了 / 蛋糕|我买了一个蛋糕|买了我一个蛋糕|我一个买了蛋糕|一个我买了蛋糕|A|Trật tự: Chủ ngữ + động từ + 了 + số lượng + danh từ.
+2|reading|我的爷爷今年七十岁了，身体很好。他每天早上六点起床，去公园走路，晚上九点睡觉。¶爷爷今年多大了？|六十|七十|八十|九十|B|Bài đọc: 今年七十岁了.
+2|reading|小明，下午我有个会，不能和你一起去踢球了。明天可以吗？¶说话人为什么不能去？|生病了|要休息|要开会|要去旅游|C|Bài đọc: 下午我有个会 (chiều có cuộc họp).
+2|reading|我最喜欢的运动是游泳。夏天我常常去游泳，冬天太冷，我就在家看书。¶冬天他常常做什么？|游泳|跑步|唱歌|看书|D|Bài đọc: 冬天...我就在家看书.
+2|reading|这家饭店的菜很好吃，价格也不贵，所以每天都有很多人。¶为什么这家饭店人很多？|菜好吃又不贵|离家近|服务好|很新|A|Bài đọc: 菜很好吃，价格也不贵.
+2|reading|我在左边的教室上课，你在右边的教室。下课以后我们在门口见。¶他们在哪儿见面？|教室里|门口|公司|商店|B|Bài đọc: 我们在门口见.
+2|reading|弟弟喜欢跳舞，姐姐喜欢唱歌，我喜欢看书。我们家每个人的爱好不一样。¶姐姐喜欢什么？|跳舞|看书|唱歌|游泳|C|Bài đọc: 姐姐喜欢唱歌.
+2|reading|她买了一个蛋糕，打算给妈妈过生日。她让我星期六下午去她家。¶星期六下午要做什么？|学习|工作|比赛|给妈妈过生日|D|Bài đọc: 给妈妈过生日 (mừng sinh nhật mẹ).
+2|reading|小王每天都坐地铁上班，从家到公司要三十分钟。今天地铁出了问题，他走路去，一个小时才到。¶今天他怎么去公司？|走路|地铁|开车|出租车|A|Bài đọc: 他走路去.
+2|reading|这个星期六有一场足球比赛，我很想去看，可是票太贵了，要三百块。¶他为什么不去看比赛？|没时间|票太贵|生病|不喜欢足球|B|Bài đọc: 可是票太贵了.
+2|reading|老师说明天考试，让我们今天晚上好好复习。¶明天会有什么？|比赛|旅游|考试|唱歌|C|Bài đọc: 明天考试.
+2|listen|我的腿很疼，不能去跑步了。|Đau tay|Chân đau, không đi chạy được|Muốn đi chạy|Đau đầu|B|腿很疼 là chân đau, 不能去跑步 là không thể đi chạy.
+2|listen|A: 听说你要去旅游？¶B: 对，下个月去北京。|Tháng này đi Thượng Hải|Tháng sau đi Thượng Hải|Tháng sau đi Bắc Kinh|Năm sau đi Bắc Kinh|C|下个月 là tháng sau, 去北京 là đi Bắc Kinh.
+2|listen|我弟弟很爱吃西瓜，每天都吃一个。|Ghét ăn dưa hấu|Mỗi tuần ăn một quả|Thích ăn táo|Rất thích dưa hấu, mỗi ngày ăn một quả|D|很爱吃西瓜 là rất thích dưa hấu, 每天 là mỗi ngày.
+2|listen|A: 比赛几点开始？¶B: 下午三点。|3 giờ chiều|2 giờ chiều|5 giờ chiều|3 giờ sáng|A|下午三点 là 3 giờ chiều.
+2|listen|教室在二楼，左边第三个门。|Tầng 3|Tầng 2, cửa thứ ba bên trái|Tầng 2, bên phải|Tầng 1|B|二楼 là tầng 2, 左边第三个门 là cửa thứ ba bên trái.
+2|listen|A: 要不要喝点儿牛奶？¶B: 不了，我喝咖啡。|Uống sữa|Uống trà|Uống cà phê|Không uống gì|C|B từ chối sữa và chọn 咖啡 (cà phê).
+2|listen|我们坐火车去北京，大概需要五个小时。|Đi máy bay 5 giờ|Đi tàu 3 giờ|Đi xe 5 giờ|Đi tàu hỏa khoảng 5 giờ|D|坐火车 là đi tàu hỏa, 五个小时 là 5 giờ.
+2|listen|A: 你怎么哭了？¶B: 我的手机找不到了。|Mất điện thoại|Bị ốm|Bị mắng|Thi trượt|A|手机找不到了 là không tìm thấy điện thoại.
+2|listen|这个蛋糕是我妈妈做的，你尝一尝。|Mua ở cửa hàng|Mẹ làm, mời nếm thử|Chị gái làm|Mời mua|B|我妈妈做的 là do mẹ làm, 尝一尝 là nếm thử.
+2|listen|A: 你喜欢唱歌还是跳舞？¶B: 我都喜欢，但是更喜欢跳舞。|Chỉ thích hát|Chỉ thích nhảy|Thích cả hai, thích nhảy hơn|Không thích gì|C|都喜欢 là thích cả hai, 更喜欢跳舞 là thích nhảy hơn.

@@ -1,0 +1,115 @@
+mother|/ˈmʌðər/|Danh từ|A1|Gia đình & Con người|mẹ|my mother|My mother cooks dinner every day.|Mẹ tôi nấu bữa tối mỗi ngày.
+father|/ˈfɑːðər/|Danh từ|A1|Gia đình & Con người|bố, cha|my father|My father works in a bank.|Bố tôi làm việc ở ngân hàng.
+brother|/ˈbrʌðər/|Danh từ|A1|Gia đình & Con người|anh/em trai|older brother|I have one older brother.|Tôi có một anh trai.
+sister|/ˈsɪstər/|Danh từ|A1|Gia đình & Con người|chị/em gái|younger sister|My younger sister is ten years old.|Em gái tôi mười tuổi.
+son|/sʌn/|Danh từ|A1|Gia đình & Con người|con trai|her son|Her son plays football.|Con trai cô ấy chơi bóng đá.
+daughter|/ˈdɔːtər/|Danh từ|A1|Gia đình & Con người|con gái|their daughter|Their daughter is a nurse.|Con gái họ là y tá.
+parent|/ˈpeərənt/|Danh từ|A2|Gia đình & Con người|cha hoặc mẹ|single parent|Both parents came to the meeting.|Cả hai phụ huynh đều đến cuộc họp.
+grandmother|/ˈɡrænmʌðər/|Danh từ|A1|Gia đình & Con người|bà|visit grandmother|I visit my grandmother on Sundays.|Tôi thăm bà vào Chủ nhật.
+grandfather|/ˈɡrænfɑːðər/|Danh từ|A1|Gia đình & Con người|ông|old grandfather|My grandfather tells great stories.|Ông tôi kể chuyện rất hay.
+uncle|/ˈʌŋkl/|Danh từ|A1|Gia đình & Con người|chú, bác, cậu|my uncle|My uncle lives in Canada.|Chú tôi sống ở Canada.
+aunt|/ænt/|Danh từ|A1|Gia đình & Con người|cô, dì, thím|my aunt|My aunt is a teacher.|Dì tôi là giáo viên.
+cousin|/ˈkʌzn/|Danh từ|A2|Gia đình & Con người|anh chị em họ|my cousin|My cousin is visiting us this summer.|Anh họ tôi sẽ đến thăm chúng tôi mùa hè này.
+husband|/ˈhʌzbənd/|Danh từ|A1|Gia đình & Con người|chồng|her husband|Her husband is a driver.|Chồng cô ấy là tài xế.
+wife|/waɪf/|Danh từ|A1|Gia đình & Con người|vợ|his wife|His wife works at a school.|Vợ anh ấy làm việc ở trường học.
+baby|/ˈbeɪbi/|Danh từ|A1|Gia đình & Con người|em bé|a newborn baby|The baby is sleeping.|Em bé đang ngủ.
+child|/tʃaɪld/|Danh từ|A1|Gia đình & Con người|đứa trẻ|a young child|The child is playing in the garden.|Đứa trẻ đang chơi trong vườn.
+boy|/bɔɪ/|Danh từ|A1|Gia đình & Con người|cậu bé|a little boy|The boy is reading a book.|Cậu bé đang đọc sách.
+girl|/ɡɜːrl/|Danh từ|A1|Gia đình & Con người|cô bé|a little girl|The girl has a red bag.|Cô bé có một chiếc túi đỏ.
+man|/mæn/|Danh từ|A1|Gia đình & Con người|người đàn ông|a tall man|That man is my teacher.|Người đàn ông đó là thầy giáo của tôi.
+woman|/ˈwʊmən/|Danh từ|A1|Gia đình & Con người|người phụ nữ|a young woman|The woman is waiting for a bus.|Người phụ nữ đang đợi xe buýt.
+people|/ˈpiːpl/|Danh từ|A1|Gia đình & Con người|mọi người|many people|Many people live in this city.|Nhiều người sống ở thành phố này.
+person|/ˈpɜːrsn/|Danh từ|A1|Gia đình & Con người|một người|a nice person|She is a very kind person.|Cô ấy là người rất tốt bụng.
+head|/hed/|Danh từ|A1|Cơ thể|đầu|shake your head|My head hurts.|Tôi bị đau đầu.
+face|/feɪs/|Danh từ|A1|Cơ thể|khuôn mặt|wash your face|She has a round face.|Cô ấy có khuôn mặt tròn.
+hair|/her/|Danh từ|A1|Cơ thể|tóc|long hair|She has long black hair.|Cô ấy có mái tóc dài đen.
+ear|/ɪr/|Danh từ|A1|Cơ thể|tai|left ear|I can't hear well in my left ear.|Tôi nghe không rõ ở tai trái.
+nose|/noʊz/|Danh từ|A1|Cơ thể|mũi|a runny nose|He has a big nose.|Anh ấy có chiếc mũi to.
+mouth|/maʊθ/|Danh từ|A1|Cơ thể|miệng|open your mouth|Open your mouth, please.|Làm ơn há miệng ra.
+tooth|/tuːθ/|Danh từ|A1|Cơ thể|răng|brush your teeth|I brush my teeth twice a day.|Tôi đánh răng hai lần một ngày.
+arm|/ɑːrm/|Danh từ|A1|Cơ thể|cánh tay|break an arm|He hurt his arm playing tennis.|Anh ấy bị đau tay khi chơi tennis.
+leg|/leɡ/|Danh từ|A1|Cơ thể|chân (cẳng)|a broken leg|My legs are tired after the walk.|Chân tôi mỏi sau chuyến đi bộ.
+finger|/ˈfɪŋɡər/|Danh từ|A1|Cơ thể|ngón tay|point a finger|She cut her finger with a knife.|Cô ấy cắt vào ngón tay bằng dao.
+back|/bæk/|Danh từ|A1|Cơ thể|lưng|back pain|My back hurts after sitting all day.|Lưng tôi đau sau khi ngồi cả ngày.
+stomach|/ˈstʌmək/|Danh từ|A2|Cơ thể|dạ dày, bụng|an empty stomach|I have a pain in my stomach.|Tôi bị đau bụng.
+heart|/hɑːrt/|Danh từ|A2|Cơ thể|trái tim|a kind heart|His heart beats fast when he runs.|Tim anh ấy đập nhanh khi chạy.
+one|/wʌn/|Số từ|A1|Số đếm & Thời gian|một|one day|I have one brother.|Tôi có một anh trai.
+two|/tuː/|Số từ|A1|Số đếm & Thời gian|hai|two years|There are two cats in the house.|Có hai con mèo trong nhà.
+three|/θriː/|Số từ|A1|Số đếm & Thời gian|ba|three times|She has three children.|Cô ấy có ba đứa con.
+four|/fɔːr/|Số từ|A1|Số đếm & Thời gian|bốn|four seasons|We have four chairs.|Chúng tôi có bốn chiếc ghế.
+five|/faɪv/|Số từ|A1|Số đếm & Thời gian|năm (5)|five minutes|Wait five minutes, please.|Làm ơn đợi năm phút.
+ten|/ten/|Số từ|A1|Số đếm & Thời gian|mười|ten dollars|The ticket costs ten dollars.|Vé giá mười đô la.
+twenty|/ˈtwenti/|Số từ|A1|Số đếm & Thời gian|hai mươi|twenty years old|He is twenty years old.|Anh ấy hai mươi tuổi.
+hundred|/ˈhʌndrəd/|Số từ|A1|Số đếm & Thời gian|một trăm|a hundred people|About a hundred people came.|Khoảng một trăm người đã đến.
+thousand|/ˈθaʊznd/|Số từ|A2|Số đếm & Thời gian|một nghìn|a thousand miles|The book has a thousand pages.|Cuốn sách có một nghìn trang.
+first|/fɜːrst/|Số từ|A1|Số đếm & Thời gian|thứ nhất, đầu tiên|first time|This is my first visit to Japan.|Đây là lần đầu tôi đến Nhật.
+second|/ˈsekənd/|Số từ|A1|Số đếm & Thời gian|thứ hai; giây|second floor|My room is on the second floor.|Phòng tôi ở tầng hai.
+third|/θɜːrd/|Số từ|A1|Số đếm & Thời gian|thứ ba|third place|She finished in third place.|Cô ấy về đích thứ ba.
+last|/læst/|Tính từ|A1|Số đếm & Thời gian|cuối cùng, vừa rồi|last week|I saw him last week.|Tôi gặp anh ấy tuần trước.
+next|/nekst/|Tính từ|A1|Số đếm & Thời gian|tiếp theo|next month|See you next Monday.|Hẹn gặp lại bạn thứ Hai tới.
+minute|/ˈmɪnɪt/|Danh từ|A1|Số đếm & Thời gian|phút|wait a minute|The bus comes in ten minutes.|Xe buýt đến sau mười phút.
+hour|/ˈaʊər/|Danh từ|A1|Số đếm & Thời gian|giờ, tiếng|half an hour|The film lasts two hours.|Bộ phim kéo dài hai tiếng.
+day|/deɪ/|Danh từ|A1|Số đếm & Thời gian|ngày|every day|I study English every day.|Tôi học tiếng Anh mỗi ngày.
+week|/wiːk/|Danh từ|A1|Số đếm & Thời gian|tuần|next week|I work five days a week.|Tôi làm việc năm ngày một tuần.
+month|/mʌnθ/|Danh từ|A1|Số đếm & Thời gian|tháng|last month|My birthday is next month.|Sinh nhật tôi vào tháng sau.
+year|/jɪr/|Danh từ|A1|Số đếm & Thời gian|năm|this year|I started learning English last year.|Tôi bắt đầu học tiếng Anh vào năm ngoái.
+tomorrow|/təˈmɑːroʊ/|Trạng từ|A1|Số đếm & Thời gian|ngày mai|see you tomorrow|We have a test tomorrow.|Ngày mai chúng tôi có bài kiểm tra.
+yesterday|/ˈjestərdeɪ/|Trạng từ|A1|Số đếm & Thời gian|hôm qua|yesterday evening|I was at home yesterday.|Hôm qua tôi ở nhà.
+now|/naʊ/|Trạng từ|A1|Số đếm & Thời gian|bây giờ|right now|I am busy now.|Bây giờ tôi đang bận.
+soon|/suːn/|Trạng từ|A1|Số đếm & Thời gian|sớm, chẳng bao lâu|very soon|The train will arrive soon.|Tàu sẽ đến sớm thôi.
+early|/ˈɜːrli/|Tính từ|A1|Số đếm & Thời gian|sớm|get up early|I get up early every morning.|Tôi dậy sớm mỗi sáng.
+late|/leɪt/|Tính từ|A1|Số đếm & Thời gian|muộn, trễ|arrive late|Sorry, I am late.|Xin lỗi, tôi đến muộn.
+always|/ˈɔːlweɪz/|Trạng từ|A1|Số đếm & Thời gian|luôn luôn|always happy|She always smiles.|Cô ấy luôn mỉm cười.
+usually|/ˈjuːʒuəli/|Trạng từ|A2|Số đếm & Thời gian|thường thường|usually eat|I usually have tea in the morning.|Tôi thường uống trà vào buổi sáng.
+often|/ˈɔːfn/|Trạng từ|A1|Số đếm & Thời gian|thường xuyên|very often|We often go to the park.|Chúng tôi thường đi công viên.
+sometimes|/ˈsʌmtaɪmz/|Trạng từ|A1|Số đếm & Thời gian|thỉnh thoảng|sometimes happen|Sometimes I walk to school.|Thỉnh thoảng tôi đi bộ đến trường.
+never|/ˈnevər/|Trạng từ|A1|Số đếm & Thời gian|không bao giờ|never mind|I never drink coffee at night.|Tôi không bao giờ uống cà phê vào buổi tối.
+red|/red/|Tính từ|A1|Màu sắc & Hình dạng|màu đỏ|a red car|She wore a red dress.|Cô ấy mặc một chiếc váy đỏ.
+blue|/bluː/|Tính từ|A1|Màu sắc & Hình dạng|màu xanh dương|blue sky|The sky is blue today.|Hôm nay bầu trời xanh.
+green|/ɡriːn/|Tính từ|A1|Màu sắc & Hình dạng|màu xanh lá|green tea|The grass is green.|Cỏ màu xanh lá.
+yellow|/ˈjeloʊ/|Tính từ|A1|Màu sắc & Hình dạng|màu vàng|yellow flowers|He has a yellow bag.|Anh ấy có một chiếc túi vàng.
+black|/blæk/|Tính từ|A1|Màu sắc & Hình dạng|màu đen|black coffee|I like black coffee.|Tôi thích cà phê đen.
+white|/waɪt/|Tính từ|A1|Màu sắc & Hình dạng|màu trắng|white shirt|She has a white cat.|Cô ấy có một con mèo trắng.
+brown|/braʊn/|Tính từ|A1|Màu sắc & Hình dạng|màu nâu|brown eyes|He has brown hair.|Anh ấy có tóc nâu.
+pink|/pɪŋk/|Tính từ|A1|Màu sắc & Hình dạng|màu hồng|pink dress|She loves pink flowers.|Cô ấy thích hoa màu hồng.
+orange|/ˈɔːrɪndʒ/|Tính từ|A1|Màu sắc & Hình dạng|màu cam|orange juice|The sunset was orange.|Hoàng hôn có màu cam.
+purple|/ˈpɜːrpl/|Tính từ|A2|Màu sắc & Hình dạng|màu tím|purple flowers|She bought a purple scarf.|Cô ấy mua một chiếc khăn tím.
+gray|/ɡreɪ/|Tính từ|A2|Màu sắc & Hình dạng|màu xám|gray clouds|The sky is gray today.|Hôm nay trời xám xịt.
+big|/bɪɡ/|Tính từ|A1|Màu sắc & Hình dạng|to, lớn|a big house|They live in a big house.|Họ sống trong một ngôi nhà lớn.
+small|/smɔːl/|Tính từ|A1|Màu sắc & Hình dạng|nhỏ|a small room|This room is too small.|Căn phòng này quá nhỏ.
+long|/lɔːŋ/|Tính từ|A1|Màu sắc & Hình dạng|dài|a long road|It is a long river.|Đó là một con sông dài.
+short|/ʃɔːrt/|Tính từ|A1|Màu sắc & Hình dạng|ngắn, thấp|short hair|He has short hair.|Anh ấy có tóc ngắn.
+tall|/tɔːl/|Tính từ|A1|Màu sắc & Hình dạng|cao|tall building|My brother is very tall.|Anh trai tôi rất cao.
+old|/oʊld/|Tính từ|A1|Màu sắc & Hình dạng|già, cũ|old man|This is an old building.|Đây là một tòa nhà cũ.
+young|/jʌŋ/|Tính từ|A1|Màu sắc & Hình dạng|trẻ|young people|She is young and energetic.|Cô ấy trẻ và tràn đầy năng lượng.
+new|/nuː/|Tính từ|A1|Màu sắc & Hình dạng|mới|a new phone|I bought a new phone.|Tôi đã mua một chiếc điện thoại mới.
+good|/ɡʊd/|Tính từ|A1|Tính từ thông dụng|tốt|good idea|This is a good book.|Đây là một cuốn sách hay.
+bad|/bæd/|Tính từ|A1|Tính từ thông dụng|xấu, tệ|bad weather|The weather is bad today.|Hôm nay thời tiết xấu.
+hot|/hɑːt/|Tính từ|A1|Tính từ thông dụng|nóng|hot water|It is very hot in summer.|Mùa hè rất nóng.
+cold|/koʊld/|Tính từ|A1|Tính từ thông dụng|lạnh|cold water|The water is too cold.|Nước lạnh quá.
+warm|/wɔːrm/|Tính từ|A1|Tính từ thông dụng|ấm áp|warm day|It is warm in the room.|Trong phòng rất ấm.
+cool|/kuːl/|Tính từ|A2|Tính từ thông dụng|mát; ngầu|cool breeze|The evening is cool.|Buổi tối trời mát.
+easy|/ˈiːzi/|Tính từ|A1|Tính từ thông dụng|dễ|easy question|The test was easy.|Bài kiểm tra rất dễ.
+hard|/hɑːrd/|Tính từ|A1|Tính từ thông dụng|khó; cứng|hard work|This exercise is hard.|Bài tập này khó.
+fast|/fæst/|Tính từ|A1|Tính từ thông dụng|nhanh|fast car|He runs very fast.|Anh ấy chạy rất nhanh.
+slow|/sloʊ/|Tính từ|A1|Tính từ thông dụng|chậm|slow train|The internet is slow today.|Hôm nay mạng chậm.
+beautiful|/ˈbjuːtɪfl/|Tính từ|A1|Tính từ thông dụng|đẹp|beautiful view|What a beautiful garden!|Khu vườn đẹp quá!
+ugly|/ˈʌɡli/|Tính từ|A2|Tính từ thông dụng|xấu xí|ugly color|I think that building is ugly.|Tôi nghĩ tòa nhà đó xấu.
+clean|/kliːn/|Tính từ|A1|Tính từ thông dụng|sạch|clean room|Please keep the room clean.|Hãy giữ phòng sạch sẽ.
+dirty|/ˈdɜːrti/|Tính từ|A1|Tính từ thông dụng|bẩn|dirty hands|My shoes are dirty.|Giày tôi bẩn.
+full|/fʊl/|Tính từ|A1|Tính từ thông dụng|đầy|full of water|The bus is full.|Xe buýt đã đầy.
+empty|/ˈempti/|Tính từ|A1|Tính từ thông dụng|trống rỗng|empty bottle|The room is empty.|Căn phòng trống.
+heavy|/ˈhevi/|Tính từ|A1|Tính từ thông dụng|nặng|heavy bag|This box is very heavy.|Cái hộp này rất nặng.
+light|/laɪt/|Tính từ|A2|Tính từ thông dụng|nhẹ; sáng|light bag|The bag is light.|Chiếc túi nhẹ.
+dark|/dɑːrk/|Tính từ|A1|Tính từ thông dụng|tối|dark room|It is dark outside.|Bên ngoài trời tối.
+bright|/braɪt/|Tính từ|A2|Tính từ thông dụng|sáng, thông minh|bright light|The room is bright and clean.|Căn phòng sáng sủa và sạch sẽ.
+right|/raɪt/|Tính từ|A1|Tính từ thông dụng|đúng; bên phải|turn right|Your answer is right.|Câu trả lời của bạn đúng.
+wrong|/rɔːŋ/|Tính từ|A1|Tính từ thông dụng|sai|wrong answer|I took the wrong bus.|Tôi đã đi nhầm xe buýt.
+same|/seɪm/|Tính từ|A1|Tính từ thông dụng|giống nhau|the same|We have the same teacher.|Chúng tôi có cùng một giáo viên.
+different|/ˈdɪfrənt/|Tính từ|A1|Tính từ thông dụng|khác biệt|very different|These two bags are different.|Hai chiếc túi này khác nhau.
+busy|/ˈbɪzi/|Tính từ|A1|Tính từ thông dụng|bận|a busy day|I am busy on Monday.|Tôi bận vào thứ Hai.
+free|/friː/|Tính từ|A1|Tính từ thông dụng|rảnh; miễn phí|free time|Are you free tonight?|Tối nay bạn rảnh không?
+ready|/ˈredi/|Tính từ|A1|Tính từ thông dụng|sẵn sàng|get ready|Dinner is ready.|Bữa tối đã sẵn sàng.
+important|/ɪmˈpɔːrtnt/|Tính từ|A2|Tính từ thông dụng|quan trọng|important meeting|Health is very important.|Sức khỏe rất quan trọng.
+dangerous|/ˈdeɪndʒərəs/|Tính từ|A2|Tính từ thông dụng|nguy hiểm|dangerous road|It is dangerous to swim here.|Bơi ở đây rất nguy hiểm.
+safe|/seɪf/|Tính từ|A2|Tính từ thông dụng|an toàn|safe place|The city is very safe.|Thành phố này rất an toàn.

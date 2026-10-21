@@ -1,0 +1,120 @@
+insurance|/ɪnˈʃʊrəns/|Danh từ|B1|Bảo hiểm & Y tế|bảo hiểm|health insurance|Does your insurance cover dental treatment?|Bảo hiểm của bạn có chi trả điều trị răng không?
+insure|/ɪnˈʃʊr/|Động từ|B2|Bảo hiểm & Y tế|mua bảo hiểm|insure a car|You should insure your house against fire.|Bạn nên mua bảo hiểm cháy cho ngôi nhà.
+policyholder|/ˈpɑːləsihoʊldər/|Danh từ|C1|Bảo hiểm & Y tế|người mua bảo hiểm|a policyholder|Policyholders will receive a letter about the new rates.|Người mua bảo hiểm sẽ nhận thư về mức phí mới.
+claim|/kleɪm/|Danh từ|B2|Bảo hiểm & Y tế|yêu cầu bồi thường|file a claim|She filed a claim after the car accident.|Cô ấy nộp yêu cầu bồi thường sau vụ tai nạn xe.
+deductible|/dɪˈdʌktəbl/|Danh từ|C1|Bảo hiểm & Y tế|mức miễn thường|pay the deductible|You must pay a deductible of one hundred dollars first.|Bạn phải trả trước mức miễn thường một trăm đô la.
+beneficiary|/ˌbenɪˈfɪʃieri/|Danh từ|C1|Bảo hiểm & Y tế|người thụ hưởng|name a beneficiary|He named his wife as the beneficiary of the policy.|Ông ấy chỉ định vợ là người thụ hưởng hợp đồng.
+accident|/ˈæksɪdənt/|Danh từ|B1|Bảo hiểm & Y tế|tai nạn|have an accident|He had an accident on his way to work.|Anh ấy gặp tai nạn trên đường đi làm.
+injury|/ˈɪndʒəri/|Danh từ|B1|Bảo hiểm & Y tế|chấn thương|a serious injury|The worker suffered a serious injury to his back.|Công nhân bị chấn thương nặng ở lưng.
+symptom|/ˈsɪmptəm/|Danh từ|B2|Bảo hiểm & Y tế|triệu chứng|a common symptom|A high fever is a common symptom of the flu.|Sốt cao là triệu chứng thường gặp của bệnh cúm.
+diagnosis|/ˌdaɪəɡˈnoʊsɪs/|Danh từ|C1|Bảo hiểm & Y tế|chẩn đoán|make a diagnosis|The doctor made a quick and accurate diagnosis.|Bác sĩ chẩn đoán nhanh và chính xác.
+treatment|/ˈtriːtmənt/|Danh từ|B2|Bảo hiểm & Y tế|điều trị|receive treatment|She is receiving treatment at a local hospital.|Cô ấy đang được điều trị ở bệnh viện địa phương.
+prescription|/prɪˈskrɪpʃn/|Danh từ|B2|Bảo hiểm & Y tế|đơn thuốc|a doctor's prescription|You need a prescription to buy this medicine.|Bạn cần có đơn thuốc để mua loại thuốc này.
+pharmacy|/ˈfɑːrməsi/|Danh từ|B1|Bảo hiểm & Y tế|hiệu thuốc|go to the pharmacy|I'll stop by the pharmacy to pick up your medicine.|Tôi sẽ ghé hiệu thuốc lấy thuốc cho bạn.
+pharmacist|/ˈfɑːrməsɪst/|Danh từ|B2|Bảo hiểm & Y tế|dược sĩ|ask a pharmacist|The pharmacist explained how to take the tablets.|Dược sĩ giải thích cách uống thuốc viên.
+dosage|/ˈdoʊsɪdʒ/|Danh từ|C1|Bảo hiểm & Y tế|liều lượng|the recommended dosage|Do not exceed the recommended dosage on the label.|Không dùng quá liều khuyến cáo trên nhãn.
+side effect|/ˈsaɪd ɪfekt/|Danh từ|B2|Bảo hiểm & Y tế|tác dụng phụ|a common side effect|Drowsiness is a common side effect of this medicine.|Buồn ngủ là tác dụng phụ thường gặp của thuốc này.
+surgery|/ˈsɜːrdʒəri/|Danh từ|B2|Bảo hiểm & Y tế|phẫu thuật|undergo surgery|He underwent surgery on his knee last month.|Anh ấy phẫu thuật đầu gối tháng trước.
+surgeon|/ˈsɜːrdʒən/|Danh từ|B2|Bảo hiểm & Y tế|bác sĩ phẫu thuật|a skilled surgeon|The surgeon explained the risks of the operation.|Bác sĩ phẫu thuật giải thích rủi ro của ca mổ.
+physician|/fɪˈzɪʃn/|Danh từ|C1|Bảo hiểm & Y tế|bác sĩ nội khoa|a family physician|Please consult your physician before starting the program.|Vui lòng hỏi bác sĩ trước khi bắt đầu chương trình.
+specialist|/ˈspeʃəlɪst/|Danh từ|B2|Bảo hiểm & Y tế|chuyên gia|see a specialist|My doctor referred me to a heart specialist.|Bác sĩ của tôi giới thiệu tôi đến chuyên gia tim mạch.
+paramedic|/ˌpærəˈmedɪk/|Danh từ|C1|Bảo hiểm & Y tế|nhân viên cấp cứu|call a paramedic|Paramedics reached the scene within five minutes.|Nhân viên cấp cứu đến hiện trường trong vòng năm phút.
+ambulance|/ˈæmbjələns/|Danh từ|B1|Bảo hiểm & Y tế|xe cứu thương|call an ambulance|Someone called an ambulance when he collapsed.|Có người gọi xe cứu thương khi anh ấy ngã gục.
+emergency|/ɪˈmɜːrdʒənsi/|Danh từ|B1|Bảo hiểm & Y tế|tình huống khẩn cấp|an emergency exit|In an emergency, use the stairs instead of the elevator.|Khi khẩn cấp, hãy dùng cầu thang thay vì thang máy.
+clinic|/ˈklɪnɪk/|Danh từ|B1|Bảo hiểm & Y tế|phòng khám|a medical clinic|The clinic opens at eight and closes at six.|Phòng khám mở cửa lúc tám giờ và đóng lúc sáu giờ.
+checkup|/ˈtʃekʌp/|Danh từ|B2|Bảo hiểm & Y tế|khám sức khỏe|a regular checkup|You should have a medical checkup every year.|Bạn nên khám sức khỏe mỗi năm.
+vaccination|/ˌvæksɪˈneɪʃn/|Danh từ|B2|Bảo hiểm & Y tế|việc tiêm chủng|a flu vaccination|Staff are offered a free flu vaccination each autumn.|Nhân viên được tiêm phòng cúm miễn phí mỗi mùa thu.
+infection|/ɪnˈfekʃn/|Danh từ|B2|Bảo hiểm & Y tế|nhiễm trùng|a throat infection|He stayed home because of a throat infection.|Anh ấy ở nhà vì bị nhiễm trùng họng.
+allergy|/ˈælərdʒi/|Danh từ|B2|Bảo hiểm & Y tế|dị ứng|a food allergy|She has an allergy to peanuts and shellfish.|Cô ấy bị dị ứng đậu phộng và hải sản có vỏ.
+chronic|/ˈkrɑːnɪk/|Tính từ|C1|Bảo hiểm & Y tế|mãn tính|a chronic illness|He suffers from a chronic back problem.|Anh ấy mắc bệnh lưng mãn tính.
+recovery|/rɪˈkʌvəri/|Danh từ|B2|Bảo hiểm & Y tế|sự hồi phục|a quick recovery|We wish you a quick recovery after your operation.|Chúc bạn mau hồi phục sau ca mổ.
+nutrition|/nuˈtrɪʃn/|Danh từ|B2|Bảo hiểm & Y tế|dinh dưỡng|good nutrition|Good nutrition is essential for healthy growth.|Dinh dưỡng tốt là thiết yếu cho sự phát triển khỏe mạnh.
+ingredient|/ɪnˈɡriːdiənt/|Danh từ|B1|Bảo hiểm & Y tế|thành phần|a main ingredient|The label lists all the ingredients used in the sauce.|Nhãn liệt kê mọi thành phần dùng trong nước sốt.
+mortgage lender|/ˈmɔːrɡɪdʒ ˈlendər/|Danh từ|C1|Bất động sản|bên cho vay thế chấp|a mortgage lender|A mortgage lender will check your income and savings.|Bên cho vay thế chấp sẽ kiểm tra thu nhập và tiền tiết kiệm của bạn.
+real estate|/ˈriːəl ɪsteɪt/|Danh từ|B2|Bất động sản|bất động sản|a real estate agent|He works as a real estate agent in the city center.|Anh ấy làm môi giới bất động sản ở trung tâm thành phố.
+realtor|/ˈriːəltər/|Danh từ|C1|Bất động sản|nhà môi giới nhà đất|hire a realtor|A realtor showed us five apartments in one afternoon.|Nhà môi giới dẫn chúng tôi xem năm căn hộ trong một buổi chiều.
+apartment|/əˈpɑːrtmənt/|Danh từ|B1|Bất động sản|căn hộ|rent an apartment|They rent a two-bedroom apartment near the park.|Họ thuê căn hộ hai phòng ngủ gần công viên.
+condominium|/ˌkɑːndəˈmɪniəm/|Danh từ|C1|Bất động sản|căn hộ chung cư sở hữu riêng|buy a condominium|They bought a condominium overlooking the river.|Họ mua một căn hộ chung cư nhìn ra sông.
+furnished|/ˈfɜːrnɪʃt/|Tính từ|B2|Bất động sản|có sẵn nội thất|a furnished apartment|We are looking for a furnished apartment for six months.|Chúng tôi tìm một căn hộ có nội thất thuê sáu tháng.
+spacious|/ˈspeɪʃəs/|Tính từ|B2|Bất động sản|rộng rãi|a spacious room|The office has a spacious meeting room on the top floor.|Văn phòng có phòng họp rộng rãi ở tầng trên cùng.
+cozy|/ˈkoʊzi/|Tính từ|B2|Bất động sản|ấm cúng|a cozy cafe|We found a cozy cafe on a quiet street.|Chúng tôi tìm thấy một quán cà phê ấm cúng trên con phố yên tĩnh.
+suburb|/ˈsʌbɜːrb/|Danh từ|B2|Bất động sản|vùng ngoại ô|live in the suburbs|Many families prefer living in the suburbs.|Nhiều gia đình thích sống ở ngoại ô.
+neighborhood|/ˈneɪbərhʊd/|Danh từ|B1|Bất động sản|khu dân cư|a quiet neighborhood|It is a safe neighborhood with several good schools.|Đây là khu dân cư an toàn có vài trường học tốt.
+utilities|/juːˈtɪlətiz/|Danh từ|B2|Bất động sản|tiện ích (điện nước)|pay the utilities|Rent includes all utilities except the internet.|Tiền thuê đã gồm mọi tiện ích trừ internet.
+appliance|/əˈplaɪəns/|Danh từ|B2|Bất động sản|đồ gia dụng|a kitchen appliance|The kitchen comes with all the major appliances.|Nhà bếp có sẵn mọi đồ gia dụng chính.
+plumber|/ˈplʌmər/|Danh từ|B2|Bất động sản|thợ sửa ống nước|call a plumber|We called a plumber to fix the leaking pipe.|Chúng tôi gọi thợ sửa ống nước để vá đường ống bị rò.
+electrician|/ɪˌlekˈtrɪʃn/|Danh từ|B2|Bất động sản|thợ điện|hire an electrician|An electrician checked the wiring in the old house.|Thợ điện kiểm tra hệ thống dây trong căn nhà cũ.
+leak|/liːk/|Động từ|B2|Bất động sản|rò rỉ|a leaking pipe|The roof began to leak during the storm.|Mái nhà bắt đầu dột trong cơn bão.
+renovation|/ˌrenəˈveɪʃn/|Danh từ|C1|Bất động sản|việc cải tạo|home renovation|The renovation of the kitchen took six weeks.|Việc cải tạo nhà bếp mất sáu tuần.
+checkbook|/ˈtʃekbʊk/|Danh từ|C1|Ngân hàng|sổ séc|balance a checkbook|He keeps his checkbook in the desk drawer.|Anh ấy cất sổ séc trong ngăn kéo bàn.
+savings account|/ˈseɪvɪŋz əˈkaʊnt/|Danh từ|B2|Ngân hàng|tài khoản tiết kiệm|open a savings account|She opened a savings account for her daughter.|Cô ấy mở tài khoản tiết kiệm cho con gái.
+joint account|/ˌdʒɔɪnt əˈkaʊnt/|Danh từ|B2|Ngân hàng|tài khoản chung|a joint account|The couple share a joint account for household bills.|Cặp vợ chồng dùng chung tài khoản cho hóa đơn gia đình.
+credit card|/ˈkredɪt kɑːrd/|Danh từ|B1|Ngân hàng|thẻ tín dụng|pay by credit card|Can I pay by credit card at this restaurant?|Tôi trả bằng thẻ tín dụng ở nhà hàng này được không?
+credit limit|/ˈkredɪt ˈlɪmɪt/|Danh từ|C1|Ngân hàng|hạn mức tín dụng|exceed a credit limit|Her credit limit was raised to five thousand dollars.|Hạn mức tín dụng của cô ấy được nâng lên năm nghìn đô la.
+account number|/əˈkaʊnt ˈnʌmbər/|Danh từ|B1|Ngân hàng|số tài khoản|an account number|Please write your account number on the transfer form.|Vui lòng ghi số tài khoản vào phiếu chuyển khoản.
+online banking|/ˌɑːnlaɪn ˈbæŋkɪŋ/|Danh từ|B2|Ngân hàng|ngân hàng trực tuyến|use online banking|Most customers now use online banking for daily payments.|Hầu hết khách hàng giờ dùng ngân hàng trực tuyến để thanh toán hằng ngày.
+direct debit|/dəˌrekt ˈdebɪt/|Danh từ|C1|Ngân hàng|ghi nợ trực tiếp|pay by direct debit|I pay my electricity bill by direct debit.|Tôi trả hóa đơn điện bằng ghi nợ trực tiếp.
+standing order|/ˌstændɪŋ ˈɔːrdər/|Danh từ|C1|Ngân hàng|lệnh chuyển tiền định kỳ|set up a standing order|He set up a standing order to pay his rent.|Anh ấy cài lệnh chuyển tiền định kỳ để trả tiền thuê.
+wire transfer|/ˈwaɪər ˈtrænsfɜːr/|Danh từ|B2|Ngân hàng|chuyển khoản điện tử|send a wire transfer|The payment was made by wire transfer yesterday.|Khoản thanh toán đã được chuyển khoản điện tử hôm qua.
+routing number|/ˈruːtɪŋ ˈnʌmbər/|Danh từ|C1|Ngân hàng|mã định tuyến ngân hàng|a bank routing number|Enter the routing number of your bank in this box.|Hãy nhập mã định tuyến của ngân hàng bạn vào ô này.
+credit score|/ˈkredɪt skɔːr/|Danh từ|C1|Ngân hàng|điểm tín dụng|a good credit score|A good credit score helps you get a better loan.|Điểm tín dụng tốt giúp bạn vay được lãi tốt hơn.
+creditor|/ˈkredɪtər/|Danh từ|C1|Ngân hàng|chủ nợ|pay a creditor|The company owes money to several creditors.|Công ty nợ tiền nhiều chủ nợ.
+debtor|/ˈdetər/|Danh từ|C1|Ngân hàng|con nợ|a debtor|The debtor promised to pay back the full amount.|Con nợ hứa sẽ trả lại toàn bộ số tiền.
+guarantor|/ˌɡærənˈtɔːr/|Danh từ|C1|Ngân hàng|người bảo lãnh|act as a guarantor|My father agreed to act as a guarantor for the loan.|Cha tôi đồng ý làm người bảo lãnh cho khoản vay.
+default|/dɪˈfɔːlt/|Động từ|C1|Ngân hàng|vỡ nợ|default on a loan|Many borrowers defaulted on their loans during the crisis.|Nhiều người vay vỡ nợ trong cuộc khủng hoảng.
+refinance|/ˌriːˈfaɪnæns/|Động từ|C1|Ngân hàng|tái tài trợ|refinance a mortgage|They refinanced their mortgage to get a lower rate.|Họ tái tài trợ khoản thế chấp để có lãi suất thấp hơn.
+stock market|/ˈstɑːk ˈmɑːrkɪt/|Danh từ|B2|Ngân hàng|thị trường chứng khoán|the stock market|The stock market closed higher for the third day.|Thị trường chứng khoán đóng cửa cao hơn ngày thứ ba liên tiếp.
+broker|/ˈbroʊkər/|Danh từ|C1|Ngân hàng|nhà môi giới|a stock broker|A broker advised him to buy shares in the energy sector.|Một nhà môi giới khuyên anh ấy mua cổ phiếu ngành năng lượng.
+hedge fund|/ˈhedʒ fʌnd/|Danh từ|C1|Ngân hàng|quỹ phòng hộ|a hedge fund manager|He manages a hedge fund with billions in assets.|Ông ấy quản lý một quỹ phòng hộ có hàng tỷ tài sản.
+IPO|/ˌaɪ piː ˈoʊ/|Danh từ|C1|Ngân hàng|phát hành cổ phiếu lần đầu|launch an IPO|The tech firm will launch its IPO next spring.|Công ty công nghệ sẽ phát hành cổ phiếu lần đầu vào mùa xuân tới.
+volatile|/ˈvɑːlətl/|Tính từ|C1|Ngân hàng|biến động mạnh|a volatile market|Oil prices have been volatile for the past six months.|Giá dầu biến động mạnh trong sáu tháng qua.
+lucrative offer|/ˈluːkrətɪv ˈɔːfər/|Danh từ|C1|Ngân hàng|lời đề nghị béo bở|a lucrative offer|She turned down a lucrative offer from a rival bank.|Cô ấy từ chối lời đề nghị béo bở từ ngân hàng đối thủ.
+supermarket|/ˈsuːpərmɑːrkɪt/|Danh từ|B1|Mua sắm & Đời sống|siêu thị|go to the supermarket|I do my weekly shopping at the supermarket.|Tôi mua sắm hằng tuần ở siêu thị.
+grocery|/ˈɡroʊsəri/|Danh từ|B1|Mua sắm & Đời sống|hàng tạp hóa|a grocery store|She bought some groceries on her way home.|Cô ấy mua ít đồ tạp hóa trên đường về nhà.
+shopping mall|/ˈʃɑːpɪŋ mɔːl/|Danh từ|B1|Mua sắm & Đời sống|trung tâm thương mại|visit a shopping mall|The new shopping mall has over two hundred stores.|Trung tâm thương mại mới có hơn hai trăm cửa hàng.
+trolley|/ˈtrɑːli/|Danh từ|B2|Mua sắm & Đời sống|xe đẩy hàng|push a trolley|Please return your trolley after you finish shopping.|Vui lòng trả xe đẩy sau khi mua sắm xong.
+fitting room|/ˈfɪtɪŋ ruːm/|Danh từ|B2|Mua sắm & Đời sống|phòng thử đồ|use a fitting room|The fitting rooms are at the back of the store.|Phòng thử đồ nằm ở cuối cửa hàng.
+exchange|/ɪksˈtʃeɪndʒ/|Động từ|B1|Mua sắm & Đời sống|đổi hàng|exchange an item|I'd like to exchange this shirt for a larger size.|Tôi muốn đổi chiếc áo này sang cỡ lớn hơn.
+out of order|/aʊt əv ˈɔːrdər/|Tính từ|B1|Mua sắm & Đời sống|bị hỏng|be out of order|The ticket machine is out of order today.|Hôm nay máy bán vé bị hỏng.
+fragile|/ˈfrædʒl/|Tính từ|B2|Mua sắm & Đời sống|dễ vỡ|a fragile item|Please handle this fragile package with great care.|Vui lòng xử lý gói hàng dễ vỡ này thật cẩn thận.
+bulk|/bʌlk/|Danh từ|C1|Mua sắm & Đời sống|số lượng lớn|buy in bulk|It's cheaper to buy rice in bulk.|Mua gạo số lượng lớn thì rẻ hơn.
+refill|/ˈriːfɪl/|Danh từ|B2|Mua sắm & Đời sống|lần đổ đầy lại|a free refill|The cafe offers free refills on all coffee drinks.|Quán cà phê cho đổ đầy lại miễn phí mọi loại cà phê.
+takeaway|/ˈteɪkəweɪ/|Danh từ|B1|Mua sắm & Đời sống|đồ ăn mang đi|order a takeaway|We ordered a takeaway because we were too tired to cook.|Chúng tôi gọi đồ mang đi vì quá mệt không nấu nổi.
+delivery fee|/dɪˈlɪvəri fiː/|Danh từ|B2|Mua sắm & Đời sống|phí giao hàng|a delivery fee|There is no delivery fee for orders over fifty dollars.|Không mất phí giao hàng cho đơn trên năm mươi đô la.
+courtesy bus|/ˈkɜːrtəsi bʌs/|Danh từ|C1|Mua sắm & Đời sống|xe buýt đưa đón miễn phí|a courtesy bus|A courtesy bus runs between the hotel and the airport.|Một xe buýt miễn phí chạy giữa khách sạn và sân bay.
+gym|/dʒɪm/|Danh từ|B1|Mua sắm & Đời sống|phòng tập thể hình|a gym membership|He goes to the gym three times a week after work.|Anh ấy đến phòng tập ba lần mỗi tuần sau giờ làm.
+membership|/ˈmembərʃɪp/|Danh từ|B2|Mua sắm & Đời sống|tư cách hội viên|renew a membership|Your membership expires at the end of this month.|Tư cách hội viên của bạn hết hạn vào cuối tháng này.
+volunteer|/ˌvɑːlənˈtɪr/|Danh từ|B1|Mua sắm & Đời sống|tình nguyện viên|a volunteer worker|Volunteers helped clean the beach on Sunday.|Các tình nguyện viên giúp dọn bãi biển vào Chủ nhật.
+charity|/ˈtʃerəti/|Danh từ|B2|Mua sắm & Đời sống|tổ chức từ thiện|raise money for charity|The staff raised money for a children's charity.|Nhân viên quyên tiền cho một tổ chức từ thiện trẻ em.
+fundraiser|/ˈfʌndreɪzər/|Danh từ|C1|Mua sắm & Đời sống|sự kiện gây quỹ|hold a fundraiser|The school held a fundraiser to buy new computers.|Trường tổ chức sự kiện gây quỹ để mua máy tính mới.
+community|/kəˈmjuːnəti/|Danh từ|B1|Mua sắm & Đời sống|cộng đồng|a local community|The firm supports the local community through scholarships.|Công ty hỗ trợ cộng đồng địa phương qua học bổng.
+neighbor|/ˈneɪbər/|Danh từ|B1|Mua sắm & Đời sống|hàng xóm|a friendly neighbor|Our neighbor watered the plants while we were away.|Người hàng xóm tưới cây giúp khi chúng tôi đi vắng.
+tuition center|/tuˈɪʃn ˈsentər/|Danh từ|B2|Mua sắm & Đời sống|trung tâm dạy thêm|attend a tuition center|She attends a tuition center to prepare for her exam.|Cô ấy học ở trung tâm dạy thêm để chuẩn bị thi.
+enrollment|/ɪnˈroʊlmənt/|Danh từ|C1|Mua sắm & Đời sống|việc ghi danh|open enrollment|Enrollment for the new term starts on September first.|Việc ghi danh học kỳ mới bắt đầu từ ngày một tháng Chín.
+scholarship|/ˈskɑːlərʃɪp/|Danh từ|B2|Mua sắm & Đời sống|học bổng|win a scholarship|She won a scholarship to study in Australia.|Cô ấy giành học bổng du học Úc.
+graduate|/ˈɡrædʒuət/|Danh từ|B1|Mua sắm & Đời sống|người tốt nghiệp|a college graduate|The firm hires many graduates from local universities.|Công ty tuyển nhiều sinh viên tốt nghiệp từ các trường đại học địa phương.
+curriculum|/kəˈrɪkjələm/|Danh từ|C1|Mua sắm & Đời sống|chương trình học|the school curriculum|The curriculum includes business English and accounting.|Chương trình học gồm tiếng Anh thương mại và kế toán.
+tutor|/ˈtuːtər/|Danh từ|B2|Mua sắm & Đời sống|gia sư|hire a tutor|Her parents hired a tutor to help with math.|Bố mẹ cô ấy thuê gia sư giúp môn toán.
+certification|/ˌsɜːrtɪfɪˈkeɪʃn/|Danh từ|C1|Mua sắm & Đời sống|chứng chỉ|a professional certification|He earned a certification in project management.|Anh ấy lấy chứng chỉ về quản lý dự án.
+diploma|/dɪˈploʊmə/|Danh từ|B2|Mua sắm & Đời sống|văn bằng|a high school diploma|A high school diploma is required for this job.|Công việc này yêu cầu bằng tốt nghiệp trung học.
+deadline extension|/ˈdedlaɪn ɪkˈstenʃn/|Danh từ|C1|Mua sắm & Đời sống|sự gia hạn thời hạn|request a deadline extension|He requested a deadline extension for his thesis.|Anh ấy xin gia hạn thời hạn nộp luận văn.
+punctuality|/ˌpʌŋktʃuˈæləti/|Danh từ|C1|Mua sắm & Đời sống|sự đúng giờ|value punctuality|The company values punctuality and hard work.|Công ty coi trọng sự đúng giờ và chăm chỉ.
+etiquette|/ˈetɪkət/|Danh từ|C1|Mua sắm & Đời sống|phép xã giao|business etiquette|Learning business etiquette is important for young professionals.|Học phép xã giao kinh doanh là quan trọng với người trẻ đi làm.
+dress code|/ˈdres koʊd/|Danh từ|B2|Mua sắm & Đời sống|quy định trang phục|follow the dress code|The dress code requires a jacket and tie.|Quy định trang phục yêu cầu mặc áo khoác và đeo cà vạt.
+uniform|/ˈjuːnɪfɔːrm/|Danh từ|B1|Mua sắm & Đời sống|đồng phục|wear a uniform|Hotel staff wear a blue uniform with a name badge.|Nhân viên khách sạn mặc đồng phục xanh có thẻ tên.
+badge|/bædʒ/|Danh từ|B2|Mua sắm & Đời sống|thẻ nhân viên|show a badge|Please show your badge at the security desk.|Vui lòng xuất trình thẻ nhân viên ở quầy bảo vệ.
+security guard|/sɪˈkjʊrəti ɡɑːrd/|Danh từ|B2|Mua sắm & Đời sống|nhân viên bảo vệ|a night security guard|A security guard patrols the parking lot at night.|Nhân viên bảo vệ tuần tra bãi đậu xe vào ban đêm.
+janitor|/ˈdʒænɪtər/|Danh từ|C1|Mua sắm & Đời sống|nhân viên vệ sinh tòa nhà|the school janitor|The janitor cleans all the offices after six.|Nhân viên vệ sinh dọn mọi văn phòng sau sáu giờ.
+stethoscope|/ˈsteθəskoʊp/|Danh từ|C1|Bảo hiểm & Y tế|ống nghe|use a stethoscope|The doctor placed a stethoscope on his chest.|Bác sĩ đặt ống nghe lên ngực anh ấy.
+patient|/ˈpeɪʃnt/|Danh từ|B1|Bảo hiểm & Y tế|bệnh nhân|a hospital patient|The patient was discharged after two days.|Bệnh nhân được xuất viện sau hai ngày.
+nurse|/nɜːrs/|Danh từ|B1|Bảo hiểm & Y tế|y tá|a night nurse|A nurse checked his blood pressure every hour.|Y tá kiểm tra huyết áp của anh ấy mỗi giờ.
+ward|/wɔːrd/|Danh từ|B2|Bảo hiểm & Y tế|khoa bệnh viện|a hospital ward|She works in the children's ward of the hospital.|Cô ấy làm ở khoa nhi của bệnh viện.
+admit|/ədˈmɪt/|Động từ|B2|Bảo hiểm & Y tế|nhập viện|be admitted to hospital|He was admitted to hospital with chest pains.|Ông ấy nhập viện vì đau ngực.
+discharge|/dɪsˈtʃɑːrdʒ/|Động từ|C1|Bảo hiểm & Y tế|cho xuất viện|be discharged|She was discharged from hospital on Friday.|Cô ấy được xuất viện vào thứ Sáu.
+appointment slot|/əˈpɔɪntmənt slɑːt/|Danh từ|B2|Bảo hiểm & Y tế|khung giờ hẹn|an available slot|The clinic has an appointment slot on Tuesday morning.|Phòng khám còn một khung giờ hẹn sáng thứ Ba.
+medical record|/ˈmedɪkl ˈrekərd/|Danh từ|B2|Bảo hiểm & Y tế|hồ sơ bệnh án|a medical record|Your medical records are kept strictly confidential.|Hồ sơ bệnh án của bạn được giữ bí mật tuyệt đối.
+outpatient|/ˈaʊtpeɪʃnt/|Danh từ|C1|Bảo hiểm & Y tế|bệnh nhân ngoại trú|outpatient care|Most treatments can now be done on an outpatient basis.|Hầu hết các điều trị giờ có thể làm ngoại trú.
+travel agency|/ˈtrævl ˈeɪdʒənsi/|Danh từ|B1|Du lịch & Khách sạn|đại lý du lịch|book through a travel agency|We booked the package through a local travel agency.|Chúng tôi đặt gói du lịch qua một đại lý địa phương.
+sightseer|/ˈsaɪtsiːər/|Danh từ|C1|Du lịch & Khách sạn|khách tham quan|crowds of sightseers|Crowds of sightseers gathered around the old temple.|Đám đông khách tham quan tụ tập quanh ngôi đền cổ.
+parcel|/ˈpɑːrsl/|Danh từ|B2|Sản xuất|bưu kiện|send a parcel|I need to send this parcel to my sister in Canada.|Tôi cần gửi bưu kiện này cho chị gái ở Canada.
+webcam|/ˈwebkæm/|Danh từ|B2|Công nghệ|camera máy tính|turn on the webcam|Please turn on your webcam during the interview.|Vui lòng bật camera trong buổi phỏng vấn.

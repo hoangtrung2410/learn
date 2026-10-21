@@ -1,0 +1,100 @@
+A1|grammar|I ___ a student.|am|is|are|be|A|Chủ ngữ I đi với am.
+A1|grammar|She ___ my sister.|am|is|are|be|B|She đi với is.
+A1|grammar|They ___ from Vietnam.|is|am|are|be|C|They đi với are.
+A1|grammar|He ___ a teacher.|are|am|be|is|D|He đi với is.
+A1|grammar|We ___ at home now.|are|is|am|be|A|We đi với are.
+A1|grammar|This is ___ apple.|a|an|the one|some|B|Apple bắt đầu bằng nguyên âm nên dùng an.
+A1|grammar|She has ___ cat.|an|two|a|many|C|Cat bắt đầu bằng phụ âm nên dùng a.
+A1|grammar|I have two ___.|book|a book|bookes|books|D|Số nhiều của book là books.
+A1|grammar|There are three ___ in the room.|boxes|box|boxs|a box|A|Danh từ tận cùng x thêm es: boxes.
+A1|grammar|My mother has two ___.|babys|babies|babyes|baby|B|Phụ âm + y đổi thành ies: babies.
+A1|grammar|Look at that man. ___ is my father.|She|It|He|They|C|Man là nam, dùng He.
+A1|grammar|___ is my pen. (gần tôi, số ít)|These|Those|Them|This|D|This dùng cho vật số ít ở gần.
+A1|grammar|___ are my shoes. (gần tôi, số nhiều)|These|This|That|It|A|These dùng cho vật số nhiều ở gần.
+A1|grammar|That is ___ bag.|I|my|me|mine|B|Tính từ sở hữu my đứng trước danh từ.
+A1|grammar|This is Anna. ___ brother is tall.|She|Hers|Her|He|C|Her là tính từ sở hữu đứng trước brother.
+A1|grammar|They love ___ new house.|they|them|theirs|their|D|Their đứng trước danh từ house.
+A1|grammar|I ___ coffee every morning.|drink|drinks|drinking|am drink|A|Chủ ngữ I dùng động từ nguyên mẫu không thêm s.
+A1|grammar|He ___ football on Sundays.|play|plays|playing|is play|B|Chủ ngữ He thêm s ở thì hiện tại đơn.
+A1|grammar|She ___ to school by bus.|go|gos|goes|going|C|Go thêm es khi chủ ngữ ngôi thứ ba số ít.
+A1|grammar|My father ___ English.|teach|teachs|teaching|teaches|D|Động từ tận cùng ch thêm es.
+A1|grammar|I ___ like fish.|don't|doesn't|isn't|not|A|Chủ ngữ I phủ định bằng don't.
+A1|grammar|She ___ like milk.|don't|doesn't|isn't|not|B|She phủ định bằng doesn't.
+A1|grammar|___ you speak English?|Are|Does|Do|Is|C|Câu hỏi thì hiện tại đơn với you dùng Do.
+A1|grammar|___ he live in Hanoi?|Do|Is|Are|Does|D|He dùng Does trong câu hỏi.
+A1|grammar|There ___ a book on the table.|is|are|am|be|A|Book số ít nên dùng there is.
+A1|grammar|There ___ two chairs in the room.|is|are|am|be|B|Chairs số nhiều nên dùng there are.
+A1|grammar|I ___ swim very well.|cans|am can|can|do can|C|Can + động từ nguyên mẫu, không đổi theo chủ ngữ.
+A1|grammar|She can ___ the piano.|plays|playing|to play|play|D|Sau can dùng động từ nguyên mẫu không to.
+A1|grammar|The cat is ___ the table. (bên dưới)|under|on|in|at|A|Under nghĩa là bên dưới.
+A1|grammar|I get up ___ 6 o'clock.|in|at|on|to|B|Giờ cụ thể dùng at.
+A1|grammar|My birthday is ___ May.|on|at|in|to|C|Tháng dùng in.
+A1|grammar|We have English class ___ Monday.|in|at|to|on|D|Thứ trong tuần dùng on.
+A1|grammar|___ is your name?|What|Where|Who|When|A|Hỏi tên dùng What.
+A1|grammar|___ do you live? In Da Nang.|What|Where|Who|Why|B|Hỏi nơi chốn dùng Where.
+A1|grammar|___ is that woman? She is my aunt.|What|Where|Who|How|C|Hỏi người dùng Who.
+A1|grammar|___ old are you? I am ten.|What|Who|Where|How|D|How old hỏi tuổi.
+A1|grammar|___ the door, please.|Open|Opens|Opening|To open|A|Câu mệnh lệnh dùng động từ nguyên mẫu.
+A1|grammar|___ run in the classroom!|Not|Don't|Doesn't|No|B|Mệnh lệnh phủ định dùng Don't.
+A1|grammar|She ___ a book now.|reads|read|is reading|reading|C|Hành động đang xảy ra dùng am/is/are + V-ing.
+A1|grammar|They ___ TV at the moment.|watch|watches|is watching|are watching|D|They dùng are + V-ing.
+A1|grammar|I ___ my homework now.|am doing|do|does|doing|A|I dùng am + V-ing.
+A1|grammar|He ___ a car. (có)|have got|has got|have|is got|B|He dùng has got.
+A1|grammar|I ___ got a new phone.|has|am|have|do|C|I dùng have got.
+A1|grammar|I like ___ music.|listen|listens|listen to|listening to|D|Sau like dùng V-ing: listening to.
+A1|grammar|There aren't ___ eggs in the fridge.|any|some|a|an|A|Câu phủ định dùng any.
+A1|grammar|I want ___ water, please.|any|some|an|many|B|Câu đề nghị/khẳng định dùng some.
+A1|grammar|How ___ apples do you have?|much|a lot|many|long|C|Danh từ đếm được số nhiều dùng How many.
+A1|grammar|How ___ milk do you want?|many|long|old|much|D|Danh từ không đếm được dùng How much.
+A1|grammar|Are you a doctor? Yes, I ___.|am|are|do|is|A|Trả lời ngắn Yes, I am.
+A1|grammar|Is she your friend? No, she ___.|aren't|isn't|doesn't|don't|B|Trả lời ngắn No, she isn't.
+A1|grammar|My brother ___ not tall.|am|are|is|do|C|Brother số ít dùng is not.
+A1|grammar|Tom and Anna ___ students.|is|am|be|are|D|Hai chủ ngữ dùng are.
+A1|grammar|This book is ___.|mine|I|me|my|A|Mine là đại từ sở hữu đứng một mình.
+A1|grammar|Please help ___.|I|me|my|mine|B|Tân ngữ của I là me.
+A1|grammar|I see ___ every day. (my friends)|they|their|them|theirs|C|Tân ngữ của they là them.
+A1|grammar|She ___ up at 7 every day.|get|getting|is get|gets|D|She thêm s: gets.
+A1|grammar|My sister ___ TV in the evening.|watches|watchs|watch|watching|A|Watch thêm es: watches.
+A1|grammar|The lesson starts ___ nine.|in|at|on|for|B|Giờ dùng at.
+A1|grammar|He is good ___ English.|in|on|at|to|C|Good at là cụm cố định.
+A1|grammar|Is this ___ umbrella?|a|the one|some|an|D|Umbrella bắt đầu bằng nguyên âm: an.
+A1|vocab|What does "happy" mean?|vui|buồn|giận|mệt|A|Happy nghĩa là vui.
+A1|vocab|"Big" is the opposite of ___.|tall|small|new|long|B|Big đối lập với small.
+A1|vocab|Chọn nghĩa của "water".|lửa|đất|nước|gió|C|Water là nước.
+A1|vocab|A ___ is an animal that says meow.|dog|bird|fish|cat|D|Cat kêu meow.
+A1|vocab|Nghĩa của "mother" là gì?|mẹ|bố|anh trai|bà|A|Mother là mẹ.
+A1|vocab|The color of the sun is ___.|blue|yellow|green|black|B|Mặt trời màu vàng, yellow.
+A1|vocab|"Thursday" là ngày nào?|thứ Hai|thứ Ba|thứ Năm|thứ Tư|C|Thursday là thứ Năm.
+A1|vocab|Five plus five is ___.|six|eight|twelve|ten|D|5 cộng 5 bằng 10.
+A1|vocab|I eat breakfast in the ___.|morning|night|evening|afternoon only|A|Breakfast ăn vào buổi sáng, morning.
+A1|vocab|"School" nghĩa là gì?|bệnh viện|trường học|nhà hàng|cửa hàng|B|School là trường học.
+A1|vocab|A ___ has pages and you read it.|chair|door|book|bed|C|Book là sách.
+A1|vocab|"Hot" is the opposite of ___.|warm|big|slow|cold|D|Hot đối lập với cold.
+A1|vocab|Tôi ngủ trong ___.|bedroom|kitchen|garden|bathroom|A|Bedroom là phòng ngủ.
+A1|vocab|"Father" and "mother" are your ___.|children|parents|friends|teachers|B|Father và mother là parents (bố mẹ).
+A1|vocab|Nghĩa của "doctor" là gì?|giáo viên|công nhân|bác sĩ|đầu bếp|C|Doctor là bác sĩ.
+A1|vocab|Apple, banana and orange are ___.|animals|colors|drinks|fruits|D|Chúng là các loại trái cây.
+A1|vocab|"Goodbye" means ___.|tạm biệt|xin chào|cảm ơn|xin lỗi|A|Goodbye là tạm biệt.
+A1|vocab|My brother's son is my ___.|uncle|nephew|cousin|father|B|Con trai của anh/em là nephew.
+A1|vocab|We drink ___ in the morning. (a hot drink)|rice|bread|tea|meat|C|Tea là thức uống nóng.
+A1|vocab|"Window" nghĩa là gì?|cửa ra vào|tường|sàn nhà|cửa sổ|D|Window là cửa sổ.
+A1|vocab|Twelve months make one ___.|year|week|day|hour|A|12 tháng là một năm.
+A1|vocab|"Fast" is the opposite of ___.|quick|slow|young|short|B|Fast đối lập với slow.
+A1|vocab|I use a ___ to write.|plate|cup|pen|key|C|Pen là bút.
+A1|vocab|Nghĩa của "sister" là gì?|chị/em trai|mẹ|cô giáo|chị/em gái|D|Sister là chị hoặc em gái.
+A1|vocab|The ___ is in the sky at night.|moon|sun|tree|river|A|Moon là mặt trăng, xuất hiện ban đêm.
+A1|vocab|"Beautiful" means ___.|xấu|đẹp|già|thấp|B|Beautiful là đẹp.
+A1|vocab|I wear ___ on my feet.|hats|gloves|shoes|shirts|C|Shoes là giày, mang ở chân.
+A1|vocab|"Market" nghĩa là gì?|bưu điện|sân bay|thư viện|chợ|D|Market là chợ.
+A1|vocab|We cook food in the ___.|kitchen|bathroom|garage|garden|A|Kitchen là bếp.
+A1|vocab|A ___ has four legs and we sit on it.|cloud|chair|window|phone|B|Chair là cái ghế.
+A1|vocab|"Left" is the opposite of ___.|up|down|right|back|C|Left đối lập với right.
+A1|vocab|Nghĩa của "milk" là gì?|nước ép|cà phê|trà|sữa|D|Milk là sữa.
+A1|vocab|The first day of the week in many calendars is ___.|Monday|Friday|Saturday|Wednesday|A|Monday là thứ Hai, ngày đầu tuần làm việc.
+A1|vocab|"Cheap" means ___.|đắt|rẻ|to|mới|B|Cheap là rẻ.
+A1|vocab|A ___ flies in the sky and has wings.|horse|cow|bird|pig|C|Bird là chim.
+A1|vocab|"Hungry" nghĩa là gì?|khát|buồn ngủ|sợ|đói|D|Hungry là đói.
+A1|vocab|I go to the ___ to buy bread.|bakery|school|bank|zoo|A|Bakery là tiệm bánh.
+A1|vocab|"Sunday" comes after ___.|Friday|Saturday|Monday|Thursday|B|Chủ nhật sau thứ Bảy.
+A1|vocab|Nghĩa của "family" là gì?|bạn bè|lớp học|gia đình|hàng xóm|C|Family là gia đình.
+A1|vocab|"Bread" nghĩa là gì?|cơm|thịt|trứng|bánh mì|D|Bread là bánh mì.

@@ -1,0 +1,100 @@
+B1|grammar|If it rains tomorrow, we ___ the picnic.|cancelled|cancel|will cancel|would cancel|C|Câu điều kiện loại 1: If + hiện tại đơn, will + động từ nguyên mẫu.
+B1|grammar|I have lived in this city ___ 2015.|for|during|from|since|D|Since + mốc thời gian (2015); for + khoảng thời gian.
+B1|grammar|She asked me where ___.|do I live|I lived|am I living|did I live|B|Câu gián tiếp dùng trật tự câu khẳng định và lùi thì: I lived.
+B1|grammar|If I ___ more money, I would buy a bigger house.|had|will have|would have|have|A|Điều kiện loại 2: If + quá khứ đơn, would + V.
+B1|grammar|The window ___ by the children yesterday.|broke|is broken|has broke|was broken|D|Bị động quá khứ đơn: was/were + V3.
+B1|grammar|He is the man ___ car was stolen.|who|which|whose|whom|C|Whose chỉ sở hữu: whose car = xe của anh ta.
+B1|grammar|I'm not used to ___ up early.|getting|get|got|to get|A|Be used to + V-ing (quen với việc gì).
+B1|grammar|You ___ smoke in the hospital. It is forbidden.|don't have to|mustn't|wouldn't|needn't|B|Mustn't = cấm; don't have to/needn't = không cần thiết.
+B1|grammar|She enjoys ___ to music in the evening.|listening|listened|listen|to listen|A|Enjoy + V-ing.
+B1|grammar|We decided ___ a taxi because it was late.|take|took|taking|to take|D|Decide + to V.
+B1|grammar|This book is ___ than that one.|the more interesting|more interesting|most interesting|interestinger|B|So sánh hơn với tính từ dài: more + adj + than.
+B1|grammar|He is the ___ student in our class.|tall|taller|tallest|most tall|C|So sánh nhất của tính từ ngắn: the tallest.
+B1|grammar|I ___ TV when the phone rang.|have watched|watched|was watching|am watching|C|Hành động đang diễn ra bị cắt ngang: quá khứ tiếp diễn.
+B1|grammar|By the time we arrived, the film ___.|already started|has already started|was already starting|had already started|D|Hành động xảy ra trước một mốc quá khứ: quá khứ hoàn thành.
+B1|grammar|There isn't ___ milk in the fridge.|any|a few|some|many|A|Câu phủ định dùng any; milk không đếm được nên không dùng many/a few.
+B1|grammar|How ___ people came to the party?|much|many|little|a little|B|People đếm được số nhiều nên dùng how many.
+B1|grammar|I wish I ___ speak French.|could|can|will|would|A|Wish + quá khứ (could) để nói về điều không có thật ở hiện tại.
+B1|grammar|She said she ___ tired.|will be|has been|is|was|D|Câu gián tiếp: lùi thì từ is sang was.
+B1|grammar|Neither Tom ___ Anna came to the party.|but|or|nor|and|C|Neither ... nor ...
+B1|grammar|I haven't seen him ___ three weeks.|ago|for|during|since|B|For + khoảng thời gian.
+B1|grammar|She is afraid ___ spiders.|with|about|from|of|D|Be afraid of.
+B1|grammar|He is very good ___ playing chess.|in|on|at|for|C|Be good at.
+B1|grammar|We arrived ___ the airport at noon.|at|on|to|in|A|Arrive at + nơi nhỏ như sân bay, ga.
+B1|grammar|I'll call you as soon as I ___ home.|would get|get|will get|got|B|Mệnh đề thời gian không dùng will: as soon as + hiện tại đơn.
+B1|grammar|If you had studied harder, you ___ the exam.|will pass|had passed|would have passed|would pass|C|Điều kiện loại 3: If + had V3, would have V3.
+B1|grammar|The book ___ I bought yesterday is great.|where|which|who|whose|B|Which thay cho vật làm tân ngữ.
+B1|grammar|It's the first time I ___ sushi.|am eating|eat|ate|have eaten|D|It's the first time + hiện tại hoàn thành.
+B1|grammar|You ___ wear a uniform at this school. It's the rule.|have to|can|might|would|A|Have to diễn tả quy định bắt buộc.
+B1|grammar|Would you mind ___ the window?|open|opening|opened|to open|B|Would you mind + V-ing.
+B1|grammar|I'm looking forward ___ you next week.|for seeing|to see|to seeing|seeing|C|Look forward to + V-ing.
+B1|grammar|She ___ in London for five years before she moved to Paris.|had lived|was living|lives|has lived|A|Quá khứ hoàn thành cho hành động xảy ra trước một hành động quá khứ khác.
+B1|grammar|He suggested ___ to the cinema.|go|went|to go|going|D|Suggest + V-ing.
+B1|grammar|My brother is not as tall ___ my father.|that|like|than|as|D|Not as ... as ... (không bằng).
+B1|grammar|I don't know ___ he lives.|which|where|that|who|B|Where hỏi về nơi chốn, dùng trong câu hỏi gián tiếp.
+B1|grammar|She has a ___ bag.|beautiful brown leather|leather brown beautiful|leather beautiful brown|brown beautiful leather|A|Thứ tự tính từ: ý kiến - màu sắc - chất liệu.
+B1|grammar|Tom usually ___ coffee, but today he is drinking tea.|is drinking|has drunk|drinks|drank|C|Thói quen: hiện tại đơn.
+B1|grammar|Look! It ___ outside.|is snowing|snows|snowed|will snow|A|Look! chỉ hành động đang xảy ra: hiện tại tiếp diễn.
+B1|grammar|She doesn't have ___ friends in this town.|little|much|a lot|many|D|Friends đếm được, câu phủ định dùng many; a lot cần có of.
+B1|grammar|I have ___ finished my homework.|since|already|yet|ago|B|Already dùng trong câu khẳng định hoàn thành.
+B1|grammar|Have you finished your homework ___?|ever|already|yet|still|C|Yet dùng trong câu hỏi và phủ định.
+B1|grammar|He ___ to the gym every day.|is go|go|goes|going|C|Chủ ngữ ngôi thứ ba số ít thêm -es.
+B1|grammar|If she ___ the truth, she would be angry.|knew|will know|had known|knows|A|Điều kiện loại 2: If + quá khứ đơn.
+B1|grammar|That's the restaurant ___ we had our first date.|who|where|whose|which|B|Where thay cho nơi chốn.
+B1|grammar|I'd rather ___ at home tonight.|stayed|staying|to stay|stay|D|Would rather + V nguyên mẫu.
+B1|grammar|She is too young ___ the car.|drive|driving|to drive|for drive|C|Too + adj + to V.
+B1|grammar|The room is big enough ___ twenty people.|for hold|to hold|hold|holding|B|Adj + enough + to V.
+B1|grammar|"I love pizza." "___ do I."|So|Too|Also|Neither|A|So + trợ động từ + chủ ngữ để đồng ý với câu khẳng định.
+B1|grammar|He told me ___ late.|to not be|not being|don't be|not to be|D|Tell + O + not to V.
+B1|grammar|He said, "I will call you." He said he ___ call me.|will|would|did|can|B|Câu gián tiếp: will chuyển thành would.
+B1|grammar|The cake ___ by my mother every Sunday.|is made|is making|makes|made|A|Bị động hiện tại đơn: is/are + V3.
+B1|grammar|English ___ all over the world.|is speaking|speaks|is spoken|spoke|C|Bị động hiện tại đơn.
+B1|grammar|I have been waiting ___ two hours.|during|from|since|for|D|For + khoảng thời gian.
+B1|grammar|Which sentence is correct?|He suggested me to go.|He suggested to go.|He suggested going.|He suggested me going.|C|Suggest + V-ing, không có tân ngữ + to V.
+B1|grammar|She is ___ honest person.|the|no article|a|an|D|Honest bắt đầu bằng âm nguyên âm /o/ nên dùng an.
+B1|grammar|___ Mount Everest is the highest mountain in the world.|The|No article|A|An|B|Tên núi riêng đơn lẻ không dùng mạo từ.
+B1|grammar|My phone is broken. I need to get it ___.|repaired|to repair|repair|repairing|A|Have/get + vật + V3 (nhờ người khác làm).
+B1|grammar|Despite ___ tired, he kept working.|being|to be|he was|of being|A|Despite + V-ing, không dùng of.
+B1|grammar|I don't mind ___ for you.|waited|wait|to wait|waiting|D|Mind + V-ing.
+B1|grammar|The lights are on, so she must ___ at home.|have|being|be|to be|C|Must + V nguyên mẫu (suy đoán chắc chắn).
+B1|grammar|If I were you, I ___ the job.|will take|would take|took|take|B|Lời khuyên với If I were you: would + V.
+B1|vocab|The word "reduce" means...|make bigger|repeat|protect|make smaller or less|D|Reduce = giảm.
+B1|vocab|Which word is closest in meaning to "huge"?|enormous|quiet|cheap|tiny|A|Huge = enormous = khổng lồ.
+B1|vocab|She ___ a mistake in the test.|did|took|made|got|C|Collocation: make a mistake.
+B1|vocab|Từ "delicious" có nghĩa là gì?|đông đúc|ngon|đắt tiền|nóng|B|Delicious = ngon.
+B1|vocab|Can I ___ your pen for a minute?|loan|rent|lend|borrow|D|Borrow = mượn từ người khác; lend = cho mượn.
+B1|vocab|Từ "employee" có nghĩa là gì?|đồng nghiệp cũ|nhân viên|ông chủ|khách hàng|B|Employee = nhân viên, người làm thuê.
+B1|vocab|The company needs more ___ workers.|skilled|skilling|skill|skillfully|A|Cần tính từ bổ nghĩa cho workers: skilled (lành nghề).
+B1|vocab|He is very ___. He never forgets to do things on time.|relative|reasonable|reliable|reluctant|C|Reliable = đáng tin cậy.
+B1|vocab|"Give up" means...|remember|continue|stop trying|start|C|Give up = từ bỏ.
+B1|vocab|"Look after" is closest in meaning to...|look up|look for|look at|take care of|D|Look after = chăm sóc.
+B1|vocab|He ___ the job offer because the salary was too low.|turned down|turned on|turned up|turned over|A|Turn down = từ chối.
+B1|vocab|What is the opposite of "ancient"?|old|modern|famous|historic|B|Ancient (cổ xưa) trái nghĩa với modern.
+B1|vocab|I'm very ___ in history. I find it fascinating.|interest|interests|interested|interesting|C|Interested = cảm thấy hứng thú (chủ thể là người).
+B1|vocab|We have run out of sugar. This means...|we have no sugar left|we bought sugar|we like sugar|we are selling sugar|A|Run out of = hết sạch.
+B1|vocab|This jacket doesn't ___ me. It's too small.|suit|fit|match|wear|B|Fit = vừa kích cỡ; suit = hợp phong cách.
+B1|vocab|How much does it ___ to rent a car for a week?|pay|spend|charge|cost|D|Cost: vật làm tốn bao nhiêu tiền.
+B1|vocab|Please ___ attention to the teacher.|pay|do|give|make|A|Collocation: pay attention.
+B1|vocab|"Exhausted" means...|very hungry|very tired|very happy|very angry|B|Exhausted = kiệt sức.
+B1|vocab|She has a good ___ of humour.|mind|mood|sense|feeling|C|Collocation: a sense of humour.
+B1|vocab|If you "avoid" something, you...|buy it|forget it|look for it|stay away from it|D|Avoid = tránh.
+B1|vocab|Air ___ has become much cheaper in recent years.|tour|trip|journey|travel|D|Air travel = di chuyển bằng đường hàng không (không đếm được).
+B1|vocab|The ___ at the hotel were friendly and helpful.|staff|stuff|stuffs|staffs|A|Staff = nhân viên; stuff = đồ đạc.
+B1|vocab|Từ "salary" có nghĩa là gì?|hóa đơn|thuế|tiền lương|tiền thưởng|C|Salary = lương.
+B1|vocab|Từ "persuade" có nghĩa là gì?|so sánh|thuyết phục|phản đối|xin lỗi|B|Persuade = thuyết phục.
+B1|vocab|She works for an ___ organization that protects forests.|environmentally|environs|environment|environmental|D|Cần tính từ bổ nghĩa cho organization.
+B1|vocab|The manager is ___ for the safety of all passengers.|responsibility|respond|responsible|responsibly|C|Be responsible for = chịu trách nhiệm về.
+B1|vocab|"Grow up" means...|become an adult|plant things|get older and sick|become taller only|A|Grow up = lớn lên, trưởng thành.
+B1|vocab|An unemployed person is someone who...|works hard|has no job|is retired by choice|owns a company|B|Unemployed = thất nghiệp.
+B1|vocab|"Rush hour" là gì?|giờ nghỉ trưa|giờ ăn tối|giờ mở cửa|giờ cao điểm|D|Rush hour = giờ cao điểm.
+B1|vocab|If you are "curious", you...|want to know more|feel afraid|feel sleepy|are very rich|A|Curious = tò mò.
+B1|vocab|She is making good ___ in English.|improving|progress|progresses|advance|B|Progress không đếm được: make progress.
+B1|vocab|To "ignore" someone means to...|call them|help them|pay no attention to them|meet them|C|Ignore = phớt lờ.
+B1|vocab|I can't ___ a new car. It's too expensive.|pay|buy for|cost|afford|D|Can't afford = không đủ tiền mua.
+B1|vocab|She apologised ___ being late.|for|about|to|of|A|Apologise for + V-ing.
+B1|vocab|Which word is closest in meaning to "fix"?|ignore|break|repair|lose|C|Fix = repair = sửa chữa.
+B1|vocab|Từ "predict" có nghĩa là gì?|tránh|dự đoán|ngăn cản|giải thích|B|Predict = dự đoán.
+B1|vocab|"Wonderful" is closest in meaning to...|terrible|great|ordinary|boring|B|Wonderful = great = tuyệt vời.
+B1|vocab|I'd like to ___ a table for two at 7 p.m.|book|borrow|lend|hire|A|Book a table = đặt bàn.
+B1|vocab|"Fed up with" means...|proud of|afraid of|interested in|tired of and annoyed by|D|Be fed up with = chán ngấy.
+B1|vocab|The storm ___ many houses in the village.|hurt|wounded|damaged|injured|C|Damage dùng cho vật; injure/hurt/wound dùng cho người.

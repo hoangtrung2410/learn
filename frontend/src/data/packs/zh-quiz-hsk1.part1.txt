@@ -1,0 +1,50 @@
+1|vocab|“朋友” có nghĩa là gì?|Bạn bè|Giáo viên|Học sinh|Bác sĩ|A|朋友 nghĩa là bạn bè.
+1|vocab|“学校” có nghĩa là gì?|Bệnh viện|Trường học|Cửa hàng|Nhà hàng|B|学校 nghĩa là trường học.
+1|vocab|“苹果” có nghĩa là gì?|Chuối|Cam|Táo|Nho|C|苹果 nghĩa là quả táo.
+1|vocab|“水” có nghĩa là gì?|Cơm|Trà|Sữa|Nước|D|水 nghĩa là nước.
+1|vocab|“医生” có nghĩa là gì?|Bác sĩ|Giáo viên|Học sinh|Đầu bếp|A|医生 nghĩa là bác sĩ.
+1|vocab|“老师” có nghĩa là gì?|Học sinh|Giáo viên|Bác sĩ|Đầu bếp|B|老师 nghĩa là giáo viên.
+1|vocab|“再见” có nghĩa là gì?|Xin chào|Cảm ơn|Tạm biệt|Xin lỗi|C|再见 nghĩa là tạm biệt.
+1|vocab|“喝” có nghĩa là gì?|Ăn|Xem|Nghe|Uống|D|喝 nghĩa là uống.
+1|vocab|“看” có nghĩa là gì?|Xem, nhìn|Nói|Viết|Mua|A|看 nghĩa là xem, nhìn.
+1|vocab|Từ trái nghĩa với “大” là?|多|小|少|好|B|大 (to) trái nghĩa với 小 (nhỏ). 多 và 少 là nhiều và ít.
+1|vocab|“买” có nghĩa là gì?|Bán|Cho|Mua|Làm|C|买 nghĩa là mua.
+1|vocab|“今天” có nghĩa là gì?|Hôm qua|Ngày mai|Năm ngoái|Hôm nay|D|今天 nghĩa là hôm nay.
+1|vocab|我____水。|喝|吃|看|听|A|Uống nước là 喝水. Các từ còn lại không đi với nước.
+1|vocab|他是我的____，我们常一起玩。|医生|朋友|学校|苹果|B|常一起玩 nên chọn 朋友 (bạn bè).
+1|vocab|Người khác nói “谢谢”, bạn đáp thế nào?|对不起|没关系|不客气|再见|C|谢谢 (cảm ơn) được đáp bằng 不客气 (đừng khách sáo).
+1|grammar|我____中国人。|是|有|在|去|A|“是” nối danh từ: 我是中国人 (tôi là người Trung Quốc).
+1|grammar|你____什么名字？|是|叫|看|做|B|Hỏi tên dùng 叫: 你叫什么名字？
+1|grammar|我家____四口人。|在|叫|有|去|C|Chỉ số lượng người trong nhà dùng 有: 我家有四口人.
+1|grammar|书____桌子上。|有|是|叫|在|D|“在” chỉ vị trí: 书在桌子上 (sách ở trên bàn).
+1|grammar|你喜欢苹果____？|吗|很|了|都|A|“吗” đặt cuối câu để tạo câu hỏi nghi vấn.
+1|grammar|他不____咖啡。|在|喝|很|是|B|“不” đứng trước động từ: 不喝 (không uống).
+1|grammar|我____三个苹果。|在|很|买|好|C|Cần động từ 买 (mua) trước tân ngữ: 我买三个苹果.
+1|grammar|这个杯子____好看。|是|在|有|很|D|Tính từ thường đi với 很: 很好看 (rất đẹp).
+1|grammar|把词语排成句子：喜欢 / 我 / 苹果|我喜欢苹果|喜欢我苹果|喜欢苹果我|我苹果喜欢|A|Trật tự: Chủ ngữ + động từ + tân ngữ, tức 我喜欢苹果.
+1|grammar|哪个句子是对的？|我不是有书|我没有书|我不有书|我有没书|B|“有” phủ định bằng 没: 我没有书.
+1|grammar|这是____书？|谁|哪里|谁的|几|C|Hỏi sở hữu dùng 谁的: 这是谁的书？(Đây là sách của ai?)
+1|grammar|现在____点？|什么|多|哪|几|D|Hỏi giờ dùng 几点: 现在几点？
+1|grammar|我们明天____看电影。|去|在|是|有|A|“去 + động từ” chỉ đi làm gì: 去看电影.
+1|grammar|他____老师，是学生。|是|不是|没|不|B|Phủ định của 是 là 不是: 他不是老师.
+1|grammar|你妈妈____哪儿工作？|是|有|在|去|C|“在哪儿工作” nghĩa là làm việc ở đâu.
+1|reading|我叫小明，我是中国学生。我家有四口人。¶小明家有几口人？|三口|五口|六口|四口|D|Bài đọc nói 我家有四口人 (nhà có bốn người).
+1|reading|今天星期六，我不去学校。我和朋友去看电影。¶他今天做什么？|看电影|去学校|买东西|工作|A|Bài đọc: 我和朋友去看电影.
+1|reading|这是我的猫。它很小，很可爱。我喜欢它。¶这只猫怎么样？|很大|很小|很老|不好|B|Bài đọc: 它很小 (nó rất nhỏ).
+1|reading|我爸爸是医生，我妈妈是老师。¶妈妈做什么工作？|医生|学生|老师|朋友|C|我妈妈是老师: mẹ là giáo viên.
+1|reading|我早上七点起床，八点去学校。¶他几点去学校？|六点|七点|九点|八点|D|八点去学校: 8 giờ đi học.
+1|reading|我喜欢喝茶，不喜欢喝咖啡。¶他喜欢什么？|茶|咖啡|水|苹果|A|喜欢喝茶: thích uống trà.
+1|reading|现在是下午三点，我在家看书。¶他现在在做什么？|吃饭|看书|睡觉|看电影|B|我在家看书: đang ở nhà đọc sách.
+1|reading|小王有一个哥哥，没有姐姐。¶小王有什么？|姐姐|妹妹|哥哥|弟弟|C|有一个哥哥: có một anh trai.
+1|reading|昨天我去商店买东西，买了苹果和水。¶他在哪儿买东西？|学校|医院|饭店|商店|D|我去商店买东西: mua đồ ở cửa hàng.
+1|reading|我的汉语老师是北京人，她很好。¶老师是哪里人？|北京人|美国人|英国人|日本人|A|老师是北京人: người Bắc Kinh.
+1|listen|A: 你叫什么名字？¶B: 我叫王明，我是学生。|B tên Vương Minh, là giáo viên|B tên Vương Minh, là học sinh|B tên Lý Minh, là học sinh|B tên Vương Minh, là bác sĩ|B|B nói 我叫王明 (tên là Vương Minh) và 我是学生 (là học sinh).
+1|listen|我今天不去学校，我在家看书。|Hôm nay đi học|Ở nhà xem phim|Hôm nay ở nhà đọc sách|Đi thư viện|C|不去学校 là không đi học, 在家看书 là ở nhà đọc sách.
+1|listen|A: 你喝什么？¶B: 我喝茶。|B uống cà phê|B uống nước|B không uống gì|B uống trà|D|B nói 我喝茶: uống trà.
+1|listen|A: 这个多少钱？¶B: 五块钱。|Năm đồng|Mười đồng|Hai đồng|Ba đồng|A|五块钱 là năm đồng (tệ).
+1|listen|A: 现在几点？¶B: 现在两点。|1 giờ|2 giờ|3 giờ|12 giờ|B|两点 là 2 giờ.
+1|listen|我家有五口人，爸爸、妈妈、哥哥、妹妹和我。|Nhà có 4 người|Nhà có 6 người|Nhà có 5 người|Nhà có 3 người|C|五口人 là năm người.
+1|listen|A: 你去哪儿？¶B: 我去医院。|Trường học|Nhà hàng|Cửa hàng|Bệnh viện|D|医院 là bệnh viện.
+1|listen|明天我和朋友去商店买东西。|Ngày mai đi cửa hàng mua đồ cùng bạn|Ngày mai đi học|Hôm qua đi mua đồ|Ngày mai đi xem phim một mình|A|明天 là ngày mai, 和朋友 là cùng bạn, 去商店买东西 là đi cửa hàng mua đồ.
+1|listen|我爸爸今年五十岁。|40 tuổi|50 tuổi|15 tuổi|55 tuổi|B|五十岁 là 50 tuổi.
+1|listen|A: 你会说汉语吗？¶B: 我会说一点儿。|Không biết nói|Nói rất giỏi|Biết nói một chút|Muốn học|C|会说一点儿 nghĩa là biết nói một chút.

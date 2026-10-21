@@ -1,0 +1,100 @@
+A2|vocab|"Rent" a flat means ___.|pay to use it|buy it|sell it|build it|A|Rent là thuê.
+A2|vocab|A ___ is a person you work with.|stranger|colleague|guest|customer|B|Colleague là đồng nghiệp.
+A2|vocab|Nghĩa của "lonely" là gì?|vui vẻ|nổi tiếng|cô đơn|giàu có|C|Lonely là cô đơn.
+A2|vocab|"Reply" is closest in meaning to ___.|ask|refuse|forget|answer|D|Reply là trả lời.
+A2|vocab|The hotel was full, so we couldn't ___ a room.|book|cook|look|hook|A|Book a room là đặt phòng.
+A2|vocab|"Increase" is the opposite of ___.|grow|decrease|rise|improve|B|Increase đối lập decrease.
+A2|vocab|I need to ___ some money from the bank.|put out|cut out|take out|give out|C|Take out money là rút tiền.
+A2|vocab|"Habit" nghĩa là gì?|sở thích|nghề nghiệp|kỳ nghỉ|thói quen|D|Habit là thói quen.
+A2|vocab|A ___ sells medicine.|pharmacy|bakery|stadium|museum|A|Pharmacy là hiệu thuốc.
+A2|vocab|She felt ___ when she heard the good news.|disappointed|delighted|terrified|annoyed|B|Tin tốt nên delighted (rất vui).
+A2|reading|Last summer, Tam went to Nha Trang with his family. They stayed in a small hotel near the beach. They swam every morning and ate seafood every night.¶What did Tam do every morning?|Ate seafood|Went shopping|Swam|Played football|C|Họ bơi mỗi sáng.
+A2|reading|Dear Mai, thanks for your invitation. I'd love to come to your party on Saturday, but I have to work until 8 p.m. I will arrive late. Is that OK? Best, Huy¶Why will Huy arrive late?|He is ill|He has no ticket|He forgot|He has to work|D|Huy phải làm việc đến 8 giờ tối.
+A2|reading|The new shopping center opens next Friday. It has 80 shops, a cinema and a food court. Parking is free for the first two hours.¶What is free?|Parking for two hours|The cinema|Food|All shops|A|Đỗ xe miễn phí hai giờ đầu.
+A2|reading|Anna usually walks to work, but today it is raining, so she is taking the bus. The bus is slow because of the traffic.¶Why is Anna taking the bus?|She is late|It is raining|She is tired|Her car is broken|B|Vì trời mưa.
+A2|reading|Our school library has more than 5,000 books. Students can borrow three books for two weeks. If you return a book late, you pay one dollar for each week.¶How many books can a student borrow?|Two|Five|Three|Ten|C|Mượn tối đa ba quyển.
+A2|reading|I started learning guitar when I was twelve. At first, it was difficult and my fingers hurt. Now I play in a small band with my friends.¶How did the writer feel about guitar at first?|It was easy|It was boring|It was cheap|It was difficult|D|Lúc đầu thấy khó.
+A2|reading|The Green Cafe is looking for a part-time waiter. You must be over 18. You will work in the evenings from Thursday to Sunday. No experience is needed.¶What is required?|Being over 18|Experience|A car|A degree|A|Phải trên 18 tuổi.
+A2|reading|Linh's flat is on the fifth floor. There is no lift, so she walks up the stairs every day. She says it is good exercise.¶What does Linh think about the stairs?|They are dangerous|They are good exercise|They are boring|They are too long|B|Cô cho rằng đó là bài tập tốt.
+A2|reading|Tom wanted to buy a jacket. The first shop had nice jackets, but they were too expensive. In the second shop, he found a cheaper one and bought it.¶Why didn't Tom buy a jacket in the first shop?|No size|Ugly color|Too expensive|The shop was closed|C|Quá đắt.
+A2|reading|Vietnam is famous for its coffee. Many tourists drink egg coffee in Hanoi and iced coffee with milk in Ho Chi Minh City.¶What do tourists drink in Hanoi?|Iced tea|Milk tea|Hot chocolate|Egg coffee|D|Cà phê trứng ở Hà Nội.
+A2|reading|Notice: The swimming pool will be closed on Monday for cleaning. It will open again on Tuesday at 7 a.m.¶When will the pool open again?|Tuesday at 7 a.m.|Monday morning|Tuesday night|Wednesday|A|Mở lại thứ Ba lúc 7 giờ.
+A2|reading|My cousin lives in Canada. He moved there three years ago for work. He misses Vietnamese food, so he cooks pho every weekend.¶Why did he move to Canada?|For study|For work|For holiday|For marriage|B|Anh chuyển đi vì công việc.
+A2|reading|Sophie has a busy week. On Monday she has a dentist appointment. On Wednesday she meets her friends. On Friday she flies to Paris.¶What does Sophie do on Wednesday?|Sees the dentist|Flies to Paris|Meets friends|Works late|C|Thứ Tư gặp bạn bè.
+A2|reading|Be careful with your phone in crowded places. Thieves often take phones from pockets and bags. Keep your phone in a front pocket.¶What is the advice?|Do not use phones|Buy a new phone|Leave it at home|Keep your phone in a front pocket|D|Cất điện thoại ở túi trước.
+A2|reading|The train to Da Nang leaves at 6:15 p.m. and arrives at 5:45 a.m. A ticket in a sleeper cabin costs 70 dollars.¶When does the train arrive?|5:45 a.m.|6:15 p.m.|5:45 p.m.|6:15 a.m.|A|Tàu đến lúc 5:45 sáng.
+A2|reading|I don't like big cities. They are noisy and crowded. I prefer small towns because people are friendly and life is quiet.¶Why does the writer like small towns?|They are cheap|They are quiet and friendly|They are big|They have many jobs|B|Yên tĩnh và thân thiện.
+A2|reading|Ben played tennis for two hours yesterday. He was very tired in the evening, so he went to bed early and slept for ten hours.¶How long did Ben sleep?|Two hours|Eight hours|Ten hours|Twelve hours|C|Ngủ mười tiếng.
+A2|reading|The museum is open from Tuesday to Sunday. Tickets cost 5 dollars for adults and 2 dollars for children. Children under five are free.¶How much is a child ticket?|1 dollar|5 dollars|Free for all|2 dollars|D|Vé trẻ em 2 đô.
+A2|reading|I want to lose weight, so I stopped drinking soda. I also walk 30 minutes every day. After two months, I feel healthier.¶What did the writer stop doing?|Drinking soda|Walking|Working|Sleeping|A|Bỏ uống nước ngọt có ga.
+A2|reading|Hi Sam, I'm at the airport now. My flight is delayed by one hour, so I will call you when I arrive. Don't wait for me at the station. Dan¶What is Dan's problem?|He lost his bag|His flight is late|He missed his flight|He is ill|B|Chuyến bay bị hoãn một giờ.
+A2|reading|In my town, there is a market every Saturday. Farmers sell fresh fruit and vegetables. Prices are lower than in the supermarket.¶Why do people like the market?|It is bigger|It opens every day|Prices are lower|It sells clothes|C|Giá thấp hơn siêu thị.
+A2|reading|Mrs. Green teaches Spanish at a language school. Her classes are small, with only eight students. She gives homework every day.¶How many students are in her class?|Six|Ten|Twelve|Eight|D|Mỗi lớp tám học viên.
+A2|reading|Last night there was a power cut in our street. We lit candles and played cards. It was fun, but we couldn't cook dinner.¶What couldn't they do?|Cook dinner|Play cards|Light candles|Talk|A|Không nấu được bữa tối.
+A2|reading|The film was long, about three hours, but I enjoyed it. The story was exciting and the actors were great.¶How did the writer feel about the film?|Bored|Pleased|Angry|Scared|B|Tác giả thích bộ phim.
+A2|reading|The weather in Sapa is cool all year. In winter it can be very cold, and sometimes it snows. Many people visit in spring when the flowers are out.¶When do many people visit Sapa?|Winter|Summer|Spring|Autumn|C|Nhiều người đến vào mùa xuân.
+A2|reading|Nga bought a bicycle two months ago. She rides it to school every day. It is cheaper than the bus and good for the environment.¶Why does Nga ride a bike?|It is faster than a car|It is new|It is a gift|It is cheaper|D|Rẻ hơn xe buýt.
+A2|reading|Sorry I missed your call. I was in a meeting. Can you call me back after 3 p.m.? I will be free then. Thanks, Kate¶When is Kate free?|After 3 p.m.|Before 3 p.m.|At noon|Tomorrow|A|Rảnh sau 3 giờ chiều.
+A2|reading|My neighbor has a big garden. He grows tomatoes, beans and carrots. Sometimes he gives some to us.¶What does the neighbor give?|Money|Vegetables|Flowers|Books|B|Cho rau củ.
+A2|reading|Lan is 22. She works as a graphic designer in a small company. She likes her job because her boss is kind, but she doesn't like working on weekends.¶What does Lan dislike?|Her boss|Her colleagues|Working weekends|Her salary|C|Không thích làm cuối tuần.
+A2|listen|A: Excuse me, how do I get to the post office?¶B: Go straight for two blocks, then turn right. It is opposite the bank.¶Q: Where is the post office?|Next to the school|Behind the park|Near the station|Opposite the bank|D|Bưu điện đối diện ngân hàng.
+A2|listen|A: Did you enjoy the concert?¶B: Yes, it was fantastic, but the tickets were really expensive.¶Q: What was the problem?|The tickets were expensive|The music|The seats|The weather|A|Vé rất đắt.
+A2|listen|A: I'm going to the supermarket. Do you need anything?¶B: Yes, please buy some eggs and a loaf of bread.¶Q: What does B want?|Milk and rice|Eggs and bread|Fruit|Cheese and butter|B|Cần trứng và bánh mì.
+A2|listen|A: Why were you late for school?¶B: My bus broke down.¶Q: Why was B late?|He woke up late|He was ill|His bus broke down|He lost his bag|C|Xe buýt bị hỏng.
+A2|listen|A: What are you doing this weekend?¶B: I'm going to visit my grandparents in the countryside.¶Q: What will B do this weekend?|Study|Go shopping|Watch a film|Visit grandparents|D|Thăm ông bà.
+A2|listen|A: Is the Italian restaurant open on Mondays?¶B: No, it's closed on Mondays, but it opens from Tuesday to Sunday.¶Q: When is the restaurant closed?|Monday|Sunday|Tuesday|Saturday|A|Đóng thứ Hai.
+A2|listen|A: How was your holiday in Da Lat?¶B: It was great, but it rained a lot.¶Q: What was the weather like?|Sunny|Rainy|Snowy|Hot|B|Mưa nhiều.
+A2|listen|A: Would you like tea or coffee?¶B: Tea, please, with no sugar.¶Q: What does B want?|Coffee with sugar|Tea with sugar|Tea without sugar|Nothing|C|Trà không đường.
+A2|listen|A: I have a headache.¶B: You should take a rest and drink some water.¶Q: What does B suggest?|Go to work|See a dentist|Eat more|Rest and drink water|D|Khuyên nghỉ và uống nước.
+A2|listen|A: How much is the ticket to Hue?¶B: It's fifteen dollars one way, or twenty-five for a return.¶Q: How much is a return ticket?|25 dollars|15 dollars|20 dollars|30 dollars|A|Vé khứ hồi 25 đô.
+A2|listen|A: Can I speak to Mr. Hung, please?¶B: I'm sorry, he's out of the office. Can I take a message?¶Q: Where is Mr. Hung?|In a meeting|Out of the office|At home|On holiday|B|Ông ra ngoài văn phòng.
+A2|listen|I usually get up at seven, but on Sundays I stay in bed until ten.¶Q: When does the speaker get up on Sundays?|At seven|At eight|At ten|At nine|C|Chủ nhật ngủ đến mười giờ.
+A2|listen|A: Let's meet at the cinema at half past six.¶B: OK, but the film starts at seven, so let's meet earlier. At six.¶Q: When will they meet?|At 5:30|At 6:30|At 7:00|At 6:00|D|Họ đồng ý gặp lúc 6 giờ.
+A2|listen|A: Is this seat free?¶B: Sorry, it is taken. My friend is coming back soon.¶Q: Why can't A sit there?|Someone is using it|It's broken|It's dirty|It's reserved for staff|A|Ghế đã có người.
+A2|listen|A: Do you want to go out tonight?¶B: I can't. I have to finish my report.¶Q: Why can't B go out?|She is ill|She has to finish a report|She has no money|She is traveling|B|Phải hoàn thành báo cáo.
+A2|listen|A: What did you do yesterday?¶B: I stayed at home and cleaned my room, then I cooked dinner.¶Q: What did B do after cleaning?|Slept|Went out|Cooked dinner|Studied|C|Sau đó nấu bữa tối.
+A2|listen|A: Which is cheaper, the blue shirt or the red one?¶B: The red one is ten dollars less than the blue.¶Q: Which shirt is cheaper?|The blue one|Both same|Neither|The red one|D|Áo đỏ rẻ hơn.
+A2|listen|A: Have you ever been to Japan?¶B: No, never, but I'm going there next year.¶Q: Has B been to Japan?|No, never|Yes, once|Yes, twice|Yes, last year|A|B chưa từng đến.
+A2|listen|Attention, please. The train to Hanoi will leave from platform 3 in ten minutes.¶Q: Which platform does the train leave from?|Platform 1|Platform 3|Platform 2|Platform 10|B|Sân ga số 3.
+A2|listen|A: My phone doesn't work.¶B: Maybe the battery is dead. Try charging it.¶Q: What does B suggest?|Buy a new phone|Call a shop|Charge the phone|Restart the computer|C|Đề nghị sạc điện thoại.
+A2|listen|A: What's your brother like?¶B: He is tall and funny. He likes telling jokes.¶Q: What is B's brother like?|Shy and quiet|Short and serious|Rude|Tall and funny|D|Anh cao và hài hước.
+A2|listen|A: How often do you play tennis?¶B: Twice a week, on Tuesdays and Saturdays.¶Q: How often does B play tennis?|Twice a week|Once a week|Every day|Once a month|A|Hai lần mỗi tuần.
+A2|listen|A: Could you open the window, please?¶B: Sure. It is a bit hot in here.¶Q: Why does A want the window open?|It's noisy|It's hot|It's dark|It's dirty|B|Trong phòng hơi nóng.
+A2|listen|A: I lost my wallet on the bus.¶B: Go to the bus station and ask at the lost property office.¶Q: What did A lose?|A phone|A bag|A wallet|Keys|C|Mất ví.
+A2|listen|A: Are you free on Friday afternoon?¶B: I'm afraid not. I have a dentist appointment at three.¶Q: Why is B busy on Friday?|Work|Party|Exam|Dentist appointment|D|Hẹn nha sĩ.
+A2|listen|A: Shall we take a taxi or the bus?¶B: The bus is cheaper, but the taxi is faster. We're late, so let's take a taxi.¶Q: What will they take?|A taxi|The bus|A train|A bike|A|Vì trễ nên đi taxi.
+A2|listen|A: How long have you lived in this city?¶B: For about six years. I came here to study.¶Q: Why did B come to the city?|To work|To study|To visit family|To travel|B|Đến để học.
+A2|listen|A: Is the hotel near the beach?¶B: Yes, it takes five minutes to walk there.¶Q: How far is the beach?|Five minutes by car|Fifteen minutes on foot|Five minutes on foot|One hour|C|Đi bộ năm phút.
+A2|listen|A: What would you like for lunch?¶B: I'd like a chicken salad and a glass of water.¶Q: What does B order?|Beef soup|Fish and chips|Pizza|A chicken salad|D|Gọi salad gà.
+A2|listen|A: I'm sorry I'm late.¶B: Don't worry. The meeting has just started.¶Q: Did A miss much of the meeting?|Yes, a lot|No, it just started|The meeting is over|It was cancelled|B|Cuộc họp vừa mới bắt đầu.
+A2|toeic|A: Could you send me the report by Friday?¶B: Sure, I'll email it to you tomorrow.¶Q: When will B send the report?|Today|Friday|Tomorrow|Next week|C|B sẽ gửi vào ngày mai.
+A2|toeic|Our company ___ office supplies to many schools.|sell|selling|sold to|sells|D|Company số ít nên sells.
+A2|toeic|Please ___ the form and return it to the manager.|fill out|fill in on|fill up with|fill off|A|Fill out the form là điền vào mẫu.
+A2|toeic|The meeting has been ___ because the manager is sick.|cancel|cancelled|cancelling|cancels|B|Bị động: has been cancelled.
+A2|toeic|Ms. Lopez is responsible ___ training new staff.|to|at|for|on|C|Responsible for là cụm cố định.
+A2|toeic|A: Is the conference room available at 2?¶B: No, it's booked until 3.¶Q: When will the room be free?|At 2|At 4|Tomorrow|At 3|D|Phòng đặt đến 3 giờ.
+A2|toeic|The ___ of this laptop is 800 dollars. (giá)|price|prize|pride|praise|A|Price là giá.
+A2|toeic|All employees must ___ their ID cards at work.|wore|wear|wears|wearing|B|Must + V nguyên mẫu.
+A2|toeic|Dear Customer, your order will ___ in three days.|arrives|arrived|arrive|arriving|C|Will + V nguyên mẫu.
+A2|toeic|Mr. Chen ___ in the accounting department for five years.|works|worked|is working|has worked|D|For five years dùng present perfect.
+A2|toeic|To: All staff. The office will be closed on Monday because of a public ___.|holiday|hobby|habit|height|A|Public holiday là ngày lễ.
+A2|toeic|A: Why was the delivery late?¶B: There was heavy traffic on the highway.¶Q: Why was the delivery late?|Bad weather|Heavy traffic|A broken truck|Wrong address|B|Do kẹt xe.
+A2|toeic|Please ___ me know if you can attend the meeting.|make|have|let|get|C|Let me know là báo cho tôi biết.
+A2|toeic|The new manager is very ___. He always listens to staff.|friend|friendship|friendly to|friendly|D|Be + tính từ friendly.
+A2|toeic|We would like to ___ you for the interview on Monday. (mời)|invite|inform only|invent|insist|A|Invite sb for an interview.
+A2|toeic|I'm sorry, Mr. Kim is not ___ right now. He is in a meeting.|available to|available|avail|availably|B|Be available là có mặt, sẵn sàng.
+A2|toeic|The store offers a 20% ___ on all shoes this week.|discover|distance|discount|dish|C|Discount là giảm giá.
+A2|toeic|A: I'd like to make a reservation for Friday night.¶B: For how many people?¶Q: What does A want to do?|Cancel a table|Order food|Pay a bill|Book a table|D|A muốn đặt bàn.
+A2|toeic|The company plans to ___ ten new workers next month.|hire|hiring|hired|hires|A|Plans to + V nguyên mẫu: hire.
+A2|toeic|The factory produces 500 cars ___ month.|all|every|any|each of|B|Every month nghĩa là mỗi tháng.
+A2|toeic|Please ___ your seat belts during takeoff.|fast|fasting|fasten|fastly|C|Fasten là thắt.
+A2|toeic|Mr. Lee is ___ than Mr. Park at using computers.|good|best|well|better|D|Hơn nên dùng better.
+A2|toeic|Thank you for your email. I will ___ you as soon as possible.|contact|contract|content|context|A|Contact là liên hệ.
+A2|toeic|A: Do you have any experience in sales?¶B: Yes, I worked in a shop for two years.¶Q: What is B's experience?|Cooking|Working in a shop|Teaching|Driving|B|Làm ở cửa hàng hai năm.
+A2|toeic|The bank is ___ Main Street, next to the library.|in|to|on|from|C|Tên đường dùng on.
+A2|toeic|Customers can pay by cash or ___ card.|creditor|crediting|creditable|credit|D|Credit card là thẻ tín dụng.
+A2|toeic|The meeting will start ___ 9 a.m. sharp.|at|in|on|for|A|Giờ cụ thể dùng at.
+A2|toeic|She ___ a presentation at the moment.|gives|is giving|give|has given yesterday|B|At the moment dùng hiện tại tiếp diễn.
+A2|toeic|A: Could I speak to the manager?¶B: One moment, please. I'll put you through.¶Q: What will B do?|Hang up|Take a message|Connect the call|Call back later|C|Put through là nối máy.
+A2|toeic|You can find more information on our ___.|webcam|weekend|weather|website|D|Website là trang web.
+A2|reading|Hoa wants to improve her English, so she watches a film in English every Saturday with subtitles. She says her listening is much better now.¶How does Hoa practise English?|By reading novels|By watching films|By singing songs|By writing emails|B|Hoa xem phim tiếng Anh mỗi thứ Bảy.

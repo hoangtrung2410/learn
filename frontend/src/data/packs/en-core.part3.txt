@@ -1,0 +1,92 @@
+dog|/dɔːɡ/|Danh từ|A1|Động vật & Thiên nhiên|con chó|walk the dog|My dog likes to run.|Con chó của tôi thích chạy.
+cat|/kæt/|Danh từ|A1|Động vật & Thiên nhiên|con mèo|a black cat|The cat is on the sofa.|Con mèo đang ở trên ghế sofa.
+horse|/hɔːrs/|Danh từ|A1|Động vật & Thiên nhiên|con ngựa|ride a horse|He can ride a horse.|Anh ấy biết cưỡi ngựa.
+cow|/kaʊ/|Danh từ|A1|Động vật & Thiên nhiên|con bò|milk a cow|The cow eats grass.|Con bò ăn cỏ.
+pig|/pɪɡ/|Danh từ|A1|Động vật & Thiên nhiên|con heo|a fat pig|The farmer has ten pigs.|Người nông dân có mười con heo.
+sheep|/ʃiːp/|Danh từ|A2|Động vật & Thiên nhiên|con cừu|a flock of sheep|The sheep are on the hill.|Những con cừu ở trên đồi.
+rabbit|/ˈræbɪt/|Danh từ|A2|Động vật & Thiên nhiên|con thỏ|a white rabbit|The rabbit eats carrots.|Con thỏ ăn cà rốt.
+mouse|/maʊs/|Danh từ|A2|Động vật & Thiên nhiên|con chuột|a small mouse|A mouse ran across the floor.|Một con chuột chạy ngang sàn nhà.
+tiger|/ˈtaɪɡər/|Danh từ|A2|Động vật & Thiên nhiên|con hổ|a wild tiger|Tigers live in forests.|Hổ sống trong rừng.
+elephant|/ˈelɪfənt/|Danh từ|A2|Động vật & Thiên nhiên|con voi|a big elephant|The elephant is very big.|Con voi rất to.
+monkey|/ˈmʌŋki/|Danh từ|A2|Động vật & Thiên nhiên|con khỉ|a funny monkey|The monkey ate a banana.|Con khỉ ăn một quả chuối.
+duck|/dʌk/|Danh từ|A2|Động vật & Thiên nhiên|con vịt|a duck pond|Ducks swim on the lake.|Vịt bơi trên hồ.
+grass|/ɡræs/|Danh từ|A1|Động vật & Thiên nhiên|cỏ|green grass|The cows are eating grass.|Những con bò đang ăn cỏ.
+leaf|/liːf/|Danh từ|A2|Động vật & Thiên nhiên|chiếc lá|a green leaf|The leaves turn yellow in autumn.|Lá vàng đi vào mùa thu.
+spring|/sprɪŋ/|Danh từ|A1|Thời tiết & Mùa|mùa xuân|in spring|Flowers bloom in spring.|Hoa nở vào mùa xuân.
+summer|/ˈsʌmər/|Danh từ|A1|Thời tiết & Mùa|mùa hè|summer holiday|It is very hot in summer.|Mùa hè rất nóng.
+autumn|/ˈɔːtəm/|Danh từ|A1|Thời tiết & Mùa|mùa thu|in autumn|Leaves fall in autumn.|Lá rơi vào mùa thu.
+winter|/ˈwɪntər/|Danh từ|A1|Thời tiết & Mùa|mùa đông|cold winter|It snows in winter.|Trời có tuyết vào mùa đông.
+sunny|/ˈsʌni/|Tính từ|A1|Thời tiết & Mùa|có nắng|sunny day|It is sunny today.|Hôm nay trời nắng.
+rainy|/ˈreɪni/|Tính từ|A1|Thời tiết & Mùa|có mưa|rainy day|It is a rainy day.|Hôm nay trời mưa.
+windy|/ˈwɪndi/|Tính từ|A1|Thời tiết & Mùa|có gió|windy weather|It's too windy to go out.|Gió to quá không đi ra ngoài được.
+cloudy|/ˈklaʊdi/|Tính từ|A1|Thời tiết & Mùa|nhiều mây|cloudy sky|It is cloudy this morning.|Sáng nay trời nhiều mây.
+temperature|/ˈtemprətʃər/|Danh từ|A2|Thời tiết & Mùa|nhiệt độ|high temperature|The temperature is thirty degrees.|Nhiệt độ là ba mươi độ.
+hospital|/ˈhɑːspɪtl/|Danh từ|A1|Địa điểm & Giao thông|bệnh viện|go to the hospital|He works in a hospital.|Anh ấy làm việc ở bệnh viện.
+bank|/bæŋk/|Danh từ|A1|Địa điểm & Giao thông|ngân hàng|go to the bank|The bank opens at eight.|Ngân hàng mở cửa lúc tám giờ.
+supermarket|/ˈsuːpərmɑːrkɪt/|Danh từ|A1|Địa điểm & Giao thông|siêu thị|go to the supermarket|We buy food at the supermarket.|Chúng tôi mua thức ăn ở siêu thị.
+post office|/ˈpoʊst ɔːfɪs/|Danh từ|A1|Địa điểm & Giao thông|bưu điện|at the post office|The post office is near the bank.|Bưu điện ở gần ngân hàng.
+station|/ˈsteɪʃn/|Danh từ|A1|Địa điểm & Giao thông|nhà ga, trạm|train station|The station is five minutes away.|Nhà ga cách đây năm phút.
+street|/striːt/|Danh từ|A1|Địa điểm & Giao thông|đường phố|a busy street|I live on this street.|Tôi sống ở con phố này.
+road|/roʊd/|Danh từ|A1|Địa điểm & Giao thông|con đường|cross the road|Be careful when you cross the road.|Hãy cẩn thận khi băng qua đường.
+bridge|/brɪdʒ/|Danh từ|A2|Địa điểm & Giao thông|cây cầu|cross a bridge|The bridge is very old.|Cây cầu này rất cũ.
+park|/pɑːrk/|Danh từ|A1|Địa điểm & Giao thông|công viên|in the park|We walk in the park.|Chúng tôi đi dạo trong công viên.
+village|/ˈvɪlɪdʒ/|Danh từ|A2|Địa điểm & Giao thông|ngôi làng|a small village|She grew up in a small village.|Cô ấy lớn lên ở một ngôi làng nhỏ.
+farm|/fɑːrm/|Danh từ|A2|Địa điểm & Giao thông|nông trại|a big farm|They live on a farm.|Họ sống ở một nông trại.
+bicycle|/ˈbaɪsɪkl/|Danh từ|A1|Địa điểm & Giao thông|xe đạp|ride a bicycle|I go to school by bicycle.|Tôi đi học bằng xe đạp.
+motorbike|/ˈmoʊtərbaɪk/|Danh từ|A2|Địa điểm & Giao thông|xe máy|ride a motorbike|He rides a motorbike to work.|Anh ấy chạy xe máy đi làm.
+car|/kɑːr/|Danh từ|A1|Địa điểm & Giao thông|xe hơi|drive a car|My father has a new car.|Bố tôi có một chiếc ô tô mới.
+boat|/boʊt/|Danh từ|A1|Địa điểm & Giao thông|chiếc thuyền|a small boat|We crossed the river by boat.|Chúng tôi qua sông bằng thuyền.
+ship|/ʃɪp/|Danh từ|A2|Địa điểm & Giao thông|con tàu|a large ship|The ship left the port.|Con tàu rời cảng.
+ticket|/ˈtɪkɪt/|Danh từ|A1|Địa điểm & Giao thông|vé|buy a ticket|I bought two tickets.|Tôi đã mua hai chiếc vé.
+left|/left/|Tính từ|A1|Địa điểm & Giao thông|bên trái|turn left|Turn left at the corner.|Rẽ trái ở góc đường.
+straight|/streɪt/|Trạng từ|A2|Địa điểm & Giao thông|thẳng|go straight|Go straight for two blocks.|Hãy đi thẳng hai dãy phố.
+near|/nɪr/|Giới từ|A1|Địa điểm & Giao thông|gần|near here|The bank is near the station.|Ngân hàng ở gần nhà ga.
+far|/fɑːr/|Tính từ|A1|Địa điểm & Giao thông|xa|far away|My school is not far from here.|Trường tôi không xa đây.
+between|/bɪˈtwiːn/|Giới từ|A2|Địa điểm & Giao thông|ở giữa|between two places|The shop is between the bank and the bakery.|Cửa hàng ở giữa ngân hàng và tiệm bánh.
+behind|/bɪˈhaɪnd/|Giới từ|A2|Địa điểm & Giao thông|phía sau|behind the door|The garden is behind the house.|Khu vườn ở phía sau ngôi nhà.
+opposite|/ˈɑːpəzɪt/|Giới từ|A2|Địa điểm & Giao thông|đối diện|opposite the bank|The cafe is opposite the park.|Quán cà phê đối diện công viên.
+next to|/ˈnekst tuː/|Giới từ|A1|Địa điểm & Giao thông|bên cạnh|next to the door|She sits next to me.|Cô ấy ngồi cạnh tôi.
+under|/ˈʌndər/|Giới từ|A1|Địa điểm & Giao thông|bên dưới|under the table|The cat is under the table.|Con mèo ở dưới bàn.
+above|/əˈbʌv/|Giới từ|A2|Địa điểm & Giao thông|phía trên|above the door|There is a clock above the door.|Có một chiếc đồng hồ phía trên cửa.
+who|/huː/|Đại từ|A1|Từ để hỏi|ai|who is that|Who is your teacher?|Giáo viên của bạn là ai?
+what|/wɑːt/|Đại từ|A1|Từ để hỏi|cái gì|what time|What is your name?|Tên bạn là gì?
+where|/wer/|Trạng từ|A1|Từ để hỏi|ở đâu|where is|Where do you live?|Bạn sống ở đâu?
+when|/wen/|Trạng từ|A1|Từ để hỏi|khi nào|when does|When does the class start?|Lớp học bắt đầu khi nào?
+why|/waɪ/|Trạng từ|A1|Từ để hỏi|tại sao|why not|Why are you late?|Sao bạn đến muộn?
+how|/haʊ/|Trạng từ|A1|Từ để hỏi|như thế nào|how much|How are you today?|Hôm nay bạn thế nào?
+which|/wɪtʃ/|Đại từ|A1|Từ để hỏi|cái nào|which one|Which color do you like?|Bạn thích màu nào?
+because|/bɪˈkɔːz/|Liên từ|A1|Từ nối thông dụng|bởi vì|because of|I stayed home because it rained.|Tôi ở nhà vì trời mưa.
+but|/bʌt/|Liên từ|A1|Từ nối thông dụng|nhưng|but also|I like tea but not coffee.|Tôi thích trà nhưng không thích cà phê.
+and|/ænd/|Liên từ|A1|Từ nối thông dụng|và|and then|I like tea and coffee.|Tôi thích trà và cà phê.
+or|/ɔːr/|Liên từ|A1|Từ nối thông dụng|hoặc|tea or coffee|Do you want tea or coffee?|Bạn muốn trà hay cà phê?
+so|/soʊ/|Liên từ|A1|Từ nối thông dụng|vì vậy|so that|It was cold, so I wore a coat.|Trời lạnh nên tôi mặc áo khoác.
+if|/ɪf/|Liên từ|A1|Từ nối thông dụng|nếu|if you want|If it rains, we will stay home.|Nếu trời mưa, chúng tôi sẽ ở nhà.
+then|/ðen/|Trạng từ|A1|Từ nối thông dụng|sau đó|and then|First eat, then study.|Trước tiên ăn, sau đó học.
+also|/ˈɔːlsoʊ/|Trạng từ|A1|Từ nối thông dụng|cũng|also like|She is also a teacher.|Cô ấy cũng là giáo viên.
+very|/ˈveri/|Trạng từ|A1|Từ nối thông dụng|rất|very good|It is very cold today.|Hôm nay trời rất lạnh.
+too|/tuː/|Trạng từ|A1|Từ nối thông dụng|quá; cũng|too much|This bag is too heavy.|Chiếc túi này nặng quá.
+really|/ˈriːəli/|Trạng từ|A1|Từ nối thông dụng|thật sự|really good|I really like this song.|Tôi thật sự thích bài hát này.
+only|/ˈoʊnli/|Trạng từ|A1|Từ nối thông dụng|chỉ|only one|I have only one brother.|Tôi chỉ có một anh trai.
+again|/əˈɡen/|Trạng từ|A1|Từ nối thông dụng|lại, lần nữa|try again|Please say it again.|Làm ơn nói lại lần nữa.
+together|/təˈɡeðər/|Trạng từ|A1|Từ nối thông dụng|cùng nhau|work together|Let's study together.|Chúng ta cùng học nhé.
+alone|/əˈloʊn/|Tính từ|A2|Từ nối thông dụng|một mình|live alone|She lives alone in the city.|Cô ấy sống một mình ở thành phố.
+enough|/ɪˈnʌf/|Tính từ|A2|Từ nối thông dụng|đủ|enough time|I don't have enough money.|Tôi không có đủ tiền.
+many|/ˈmeni/|Tính từ|A1|Từ nối thông dụng|nhiều (đếm được)|many people|There are many books here.|Có nhiều sách ở đây.
+much|/mʌtʃ/|Tính từ|A1|Từ nối thông dụng|nhiều (không đếm được)|how much|I don't have much time.|Tôi không có nhiều thời gian.
+some|/sʌm/|Tính từ|A1|Từ nối thông dụng|một vài|some water|I need some help.|Tôi cần chút giúp đỡ.
+any|/ˈeni/|Tính từ|A1|Từ nối thông dụng|bất kỳ|any questions|Do you have any questions?|Bạn có câu hỏi nào không?
+every|/ˈevri/|Tính từ|A1|Từ nối thông dụng|mỗi, mọi|every day|I walk every morning.|Tôi đi bộ mỗi sáng.
+all|/ɔːl/|Tính từ|A1|Từ nối thông dụng|tất cả|all day|All the students are here.|Tất cả học sinh đều ở đây.
+other|/ˈʌðər/|Tính từ|A1|Từ nối thông dụng|khác|the other day|I have two brothers. The other is a doctor.|Tôi có hai anh trai. Người còn lại là bác sĩ.
+holiday|/ˈhɑːlədeɪ/|Danh từ|A1|Giải trí & Sở thích|kỳ nghỉ|summer holiday|We went on holiday in July.|Chúng tôi đi nghỉ vào tháng Bảy.
+party|/ˈpɑːrti/|Danh từ|A1|Giải trí & Sở thích|bữa tiệc|birthday party|She invited me to her party.|Cô ấy mời tôi đến bữa tiệc.
+birthday|/ˈbɜːrθdeɪ/|Danh từ|A1|Giải trí & Sở thích|sinh nhật|happy birthday|Today is my birthday.|Hôm nay là sinh nhật tôi.
+present|/ˈpreznt/|Danh từ|A1|Giải trí & Sở thích|món quà|birthday present|I bought her a present.|Tôi mua cho cô ấy một món quà.
+music|/ˈmjuːzɪk/|Danh từ|A1|Giải trí & Sở thích|âm nhạc|listen to music|I listen to music every day.|Tôi nghe nhạc mỗi ngày.
+song|/sɔːŋ/|Danh từ|A1|Giải trí & Sở thích|bài hát|sing a song|This is my favorite song.|Đây là bài hát yêu thích của tôi.
+movie|/ˈmuːvi/|Danh từ|A1|Giải trí & Sở thích|bộ phim|watch a movie|We watched a movie last night.|Tối qua chúng tôi xem một bộ phim.
+football|/ˈfʊtbɔːl/|Danh từ|A1|Giải trí & Sở thích|bóng đá|play football|He plays football every Sunday.|Anh ấy chơi bóng đá mỗi Chủ nhật.
+basketball|/ˈbæskɪtbɔːl/|Danh từ|A1|Giải trí & Sở thích|bóng rổ|play basketball|They play basketball after school.|Họ chơi bóng rổ sau giờ học.
+tennis|/ˈtenɪs/|Danh từ|A1|Giải trí & Sở thích|quần vợt|play tennis|She plays tennis on Saturdays.|Cô ấy chơi tennis vào thứ Bảy.
+photo|/ˈfoʊtoʊ/|Danh từ|A1|Giải trí & Sở thích|bức ảnh|take a photo|Can you take a photo of us?|Bạn chụp giúp chúng tôi một tấm ảnh được không?
+shopping|/ˈʃɑːpɪŋ/|Danh từ|A1|Giải trí & Sở thích|việc mua sắm|go shopping|I go shopping on Sundays.|Tôi đi mua sắm vào Chủ nhật.

@@ -1,0 +1,527 @@
+[
+ {
+  "level": "A2",
+  "title": "Present continuous for future arrangements – Hiện tại tiếp diễn chỉ kế hoạch",
+  "formula": "S + am/is/are + V-ing + thời gian tương lai",
+  "explanation": "Dùng hiện tại tiếp diễn để nói về sự sắp xếp chắc chắn trong tương lai gần, thường đã có lịch hẹn hoặc đã đặt chỗ. Cần có từ chỉ thời gian tương lai (tomorrow, next week). Tiếng Việt chỉ dùng 'sẽ' hoặc 'ngày mai' nên người học thường dùng will.",
+  "commonMistake": "Dùng hiện tại đơn hoặc will cho lịch hẹn cá nhân: *I will meet my dentist at 5 (tự nhiên hơn: I'm meeting my dentist at 5). Bỏ từ chỉ thời gian khiến câu thành 'đang'.",
+  "examples": [
+   {
+    "en": "I am meeting Anna at six tomorrow.",
+    "vi": "Ngày mai tôi sẽ gặp Anna lúc sáu giờ."
+   },
+   {
+    "en": "We are flying to Seoul next Monday.",
+    "vi": "Thứ Hai tới chúng tôi bay đi Seoul."
+   },
+   {
+    "en": "What are you doing this weekend?",
+    "vi": "Cuối tuần này bạn làm gì?"
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Present perfect continuous – Hiện tại hoàn thành tiếp diễn",
+  "formula": "S + have/has been + V-ing (+ for/since)",
+  "explanation": "Nhấn mạnh quá trình kéo dài từ quá khứ đến hiện tại, hoặc hành động vừa dừng nhưng còn dấu vết. Dùng khi quan tâm đến thời gian, hoạt động; present perfect đơn nhấn mạnh kết quả, số lượng. Không dùng với động từ trạng thái (know, like).",
+  "commonMistake": "Dùng thì đơn với for/since cho hành động kéo dài: *I learn English for 3 years (đúng: I have been learning English for 3 years). Dùng với động từ trạng thái: *I have been knowing him.",
+  "examples": [
+   {
+    "en": "I have been studying English for three years.",
+    "vi": "Tôi học tiếng Anh được ba năm rồi."
+   },
+   {
+    "en": "She is tired because she has been working all day.",
+    "vi": "Cô ấy mệt vì đã làm việc suốt cả ngày."
+   },
+   {
+    "en": "How long have you been waiting?",
+    "vi": "Bạn đã đợi bao lâu rồi?"
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Past perfect – Quá khứ hoàn thành",
+  "formula": "S + had + V3",
+  "explanation": "Diễn tả hành động xảy ra trước một hành động hoặc mốc thời gian khác trong quá khứ. Thường đi với before, after, by the time, already. Tiếng Việt nói 'đã... trước khi...' nên cần xác định rõ hành động nào xảy ra trước.",
+  "commonMistake": "Dùng quá khứ đơn cho cả hai hành động khi cần làm rõ thứ tự: *When I arrived, the film started (nếu phim đã bắt đầu trước: the film had started). Dùng had + V2: *had went.",
+  "examples": [
+   {
+    "en": "When I arrived, the train had already left.",
+    "vi": "Khi tôi đến, tàu đã rời đi rồi."
+   },
+   {
+    "en": "She had never seen snow before she moved to Canada.",
+    "vi": "Cô ấy chưa từng thấy tuyết trước khi chuyển đến Canada."
+   },
+   {
+    "en": "After he had finished his work, he went home.",
+    "vi": "Sau khi làm xong việc, anh ấy về nhà."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Second conditional – Câu điều kiện loại 2",
+  "formula": "If + S + V2 / were, S + would/could/might + V",
+  "explanation": "Diễn tả tình huống không có thật hoặc khó xảy ra ở hiện tại/tương lai ('nếu... thì...'). Động từ be trong mệnh đề if thường dùng were cho mọi ngôi (If I were you...). Khác loại 1 ở chỗ giả định, không thực tế.",
+  "commonMistake": "Dùng would trong mệnh đề if: *If I would have money, I would buy it (đúng: If I had money, I would buy it). Dùng loại 1 cho điều không thật.",
+  "examples": [
+   {
+    "en": "If I had a million dollars, I would travel the world.",
+    "vi": "Nếu tôi có một triệu đô, tôi sẽ đi du lịch vòng quanh thế giới."
+   },
+   {
+    "en": "If I were you, I would accept the offer.",
+    "vi": "Nếu tôi là bạn, tôi sẽ nhận lời đề nghị đó."
+   },
+   {
+    "en": "What would you do if you lost your passport?",
+    "vi": "Bạn sẽ làm gì nếu mất hộ chiếu?"
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Zero conditional – Câu điều kiện loại 0",
+  "formula": "If/When + present simple, present simple",
+  "explanation": "Diễn tả sự thật hiển nhiên, quy luật khoa học, hoặc thói quen luôn đúng. Có thể thay if bằng when mà nghĩa gần như không đổi. Cả hai mệnh đề đều dùng hiện tại đơn.",
+  "commonMistake": "Dùng will trong mệnh đề chính: *If you heat ice, it will melt khi nói quy luật chung (đúng: it melts). Nhầm với loại 1 là dự đoán cụ thể.",
+  "examples": [
+   {
+    "en": "If you heat water to 100 degrees, it boils.",
+    "vi": "Nếu đun nước đến 100 độ thì nó sôi."
+   },
+   {
+    "en": "When I am tired, I drink green tea.",
+    "vi": "Mỗi khi mệt, tôi uống trà xanh."
+   },
+   {
+    "en": "If you mix red and blue, you get purple.",
+    "vi": "Trộn đỏ với xanh dương thì ra màu tím."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Passive voice (present and past simple) – Câu bị động đơn",
+  "formula": "S + am/is/are/was/were + V3 (+ by agent)",
+  "explanation": "Dùng khi hành động quan trọng hơn người thực hiện, hoặc khi không biết/không cần nói người thực hiện. Tân ngữ của câu chủ động thành chủ ngữ của câu bị động. Tiếng Việt dùng 'bị' (tiêu cực) hoặc 'được' (tích cực), còn tiếng Anh dùng be + V3 trung tính.",
+  "commonMistake": "Dùng V-ing hoặc thiếu be: *The room cleaned every day, *The window broke by Tom (đúng: was broken). Dùng bị động cho nội động từ: *It was happened.",
+  "examples": [
+   {
+    "en": "English is spoken all over the world.",
+    "vi": "Tiếng Anh được nói trên khắp thế giới."
+   },
+   {
+    "en": "The bridge was built in 1990.",
+    "vi": "Cây cầu được xây vào năm 1990."
+   },
+   {
+    "en": "These products are made in Vietnam.",
+    "vi": "Những sản phẩm này được sản xuất tại Việt Nam."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Reported speech (statements) – Câu tường thuật",
+  "formula": "S + said (that) + S + V lùi thì (present -> past, will -> would, past -> past perfect)",
+  "explanation": "Khi tường thuật lại lời nói, thường lùi thì một bậc và đổi đại từ, trạng từ thời gian/nơi chốn (now -> then, today -> that day, here -> there). Tell cần tân ngữ (tell her), say thì không. Tiếng Việt không đổi thì nên rất dễ quên.",
+  "commonMistake": "Không lùi thì: *He said he is tired (đúng: was). Dùng say với tân ngữ: *He said me (đúng: He told me / He said to me).",
+  "examples": [
+   {
+    "en": "She said she was very busy.",
+    "vi": "Cô ấy nói rằng cô ấy rất bận."
+   },
+   {
+    "en": "He told me that he would call me later.",
+    "vi": "Anh ấy bảo tôi là anh ấy sẽ gọi lại sau."
+   },
+   {
+    "en": "They said they had already eaten.",
+    "vi": "Họ nói họ đã ăn rồi."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Reported questions and commands – Câu hỏi và mệnh lệnh tường thuật",
+  "formula": "asked + (if/whether | wh-word) + S + V (không đảo); told + O + (not) to + V",
+  "explanation": "Câu hỏi tường thuật dùng trật tự câu khẳng định, không có trợ động từ do/does/did và không dấu hỏi. Câu hỏi Yes/No dùng if/whether. Mệnh lệnh tường thuật dùng told/asked + tân ngữ + to V.",
+  "commonMistake": "Giữ trật tự đảo: *He asked me where did I live (đúng: where I lived). Quên if/whether ở câu Yes/No.",
+  "examples": [
+   {
+    "en": "She asked me where I lived.",
+    "vi": "Cô ấy hỏi tôi sống ở đâu."
+   },
+   {
+    "en": "He asked if I could help him.",
+    "vi": "Anh ấy hỏi liệu tôi có thể giúp anh ấy không."
+   },
+   {
+    "en": "The teacher told us not to talk.",
+    "vi": "Giáo viên bảo chúng tôi không được nói chuyện."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Defining relative clauses – Mệnh đề quan hệ xác định",
+  "formula": "N + who/that (người) / which/that (vật) / whose / where / when + mệnh đề",
+  "explanation": "Mệnh đề quan hệ xác định cung cấp thông tin cần thiết để biết đang nói đến ai/cái gì, không có dấu phẩy. Who cho người, which cho vật, that cho cả hai. Khi đại từ quan hệ là tân ngữ, có thể bỏ đi. Tương ứng 'mà, người mà' trong tiếng Việt.",
+  "commonMistake": "Lặp đại từ: *The man who he lives next door... (đúng: The man who lives next door). Dùng what thay which: *the book what I read.",
+  "examples": [
+   {
+    "en": "The woman who lives next door is a doctor.",
+    "vi": "Người phụ nữ sống cạnh nhà là bác sĩ."
+   },
+   {
+    "en": "This is the book that I told you about.",
+    "vi": "Đây là cuốn sách mà tôi đã kể với bạn."
+   },
+   {
+    "en": "That is the school where I studied.",
+    "vi": "Đó là ngôi trường nơi tôi đã học."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Non-defining relative clauses – Mệnh đề quan hệ không xác định",
+  "formula": "N, who/which/whose + mệnh đề, ...",
+  "explanation": "Cung cấp thông tin thêm, không cần thiết để xác định danh từ, luôn đặt giữa hai dấu phẩy. Không dùng that và không được bỏ đại từ quan hệ. Which có thể chỉ cả mệnh đề phía trước.",
+  "commonMistake": "Dùng that: *My brother, that lives in Hue... (đúng: who). Quên dấu phẩy khiến nghĩa thay đổi.",
+  "examples": [
+   {
+    "en": "My brother, who lives in Hue, is a teacher.",
+    "vi": "Anh trai tôi, người sống ở Huế, là giáo viên."
+   },
+   {
+    "en": "The Eiffel Tower, which was built in 1889, is very famous.",
+    "vi": "Tháp Eiffel, được xây năm 1889, rất nổi tiếng."
+   },
+   {
+    "en": "He passed the exam, which surprised everyone.",
+    "vi": "Anh ấy đã đậu kỳ thi, điều khiến mọi người ngạc nhiên."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Gerund vs infinitive – Danh động từ và động từ nguyên mẫu",
+  "formula": "enjoy/avoid/finish/suggest + V-ing; want/decide/hope/plan + to V; modal + V",
+  "explanation": "Mỗi động từ đi với một dạng nhất định phải học thuộc. Giới từ luôn đi với V-ing (interested in learning). Một số động từ đi được với cả hai dạng nhưng nghĩa khác (stop, remember, forget, try).",
+  "commonMistake": "*I enjoy to swim, *She suggested to go (đúng: swimming, going). *I look forward to see you (đúng: to seeing).",
+  "examples": [
+   {
+    "en": "I enjoy cooking for my family.",
+    "vi": "Tôi thích nấu ăn cho gia đình."
+   },
+   {
+    "en": "He decided to study abroad.",
+    "vi": "Anh ấy quyết định đi du học."
+   },
+   {
+    "en": "She is good at solving problems.",
+    "vi": "Cô ấy giỏi giải quyết vấn đề."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Used to + V – Thói quen trong quá khứ",
+  "formula": "S + used to + V (không còn nữa); did not use to + V",
+  "explanation": "Used to diễn tả thói quen hoặc trạng thái trong quá khứ nay không còn. Tương ứng 'ngày trước hay, từng'. Phủ định/nghi vấn dùng did + use to (bỏ -d).",
+  "commonMistake": "Giữ -d trong câu hỏi/phủ định: *Did you used to...? (đúng: Did you use to...?). Nhầm với be used to + V-ing.",
+  "examples": [
+   {
+    "en": "I used to play football every weekend.",
+    "vi": "Trước đây cuối tuần nào tôi cũng đá bóng."
+   },
+   {
+    "en": "She didn't use to like coffee.",
+    "vi": "Trước đây cô ấy không thích cà phê."
+   },
+   {
+    "en": "Did you use to live in this city?",
+    "vi": "Trước đây bạn có sống ở thành phố này không?"
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Be used to / get used to + V-ing – Quen với",
+  "formula": "be/get used to + V-ing / N",
+  "explanation": "Be used to nghĩa là đã quen với việc gì; get used to nghĩa là đang dần quen. Sau to là danh từ hoặc V-ing (to là giới từ). Khác hoàn toàn với used to + V (thói quen quá khứ).",
+  "commonMistake": "Dùng nguyên mẫu: *I am used to get up early (đúng: getting up). Nhầm với used to + V.",
+  "examples": [
+   {
+    "en": "I am used to getting up early.",
+    "vi": "Tôi đã quen dậy sớm."
+   },
+   {
+    "en": "It took her a month to get used to the climate.",
+    "vi": "Cô ấy mất một tháng để quen với khí hậu."
+   },
+   {
+    "en": "He isn't used to driving on the left.",
+    "vi": "Anh ấy chưa quen lái xe bên trái."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Modals of deduction (must, might, can't) – Phỏng đoán ở hiện tại",
+  "formula": "must/might/may/could/can't + V (hiện tại)",
+  "explanation": "Must dùng khi rất chắc chắn là đúng, can't khi rất chắc chắn là không đúng, might/may/could khi chưa chắc. Không dùng mustn't để phỏng đoán phủ định, dùng can't. Tiếng Việt dịch là 'chắc hẳn, có lẽ'.",
+  "commonMistake": "Dùng mustn't để phỏng đoán: *He mustn't be at home (đúng: He can't be at home). Dùng can thay could: *It can be true.",
+  "examples": [
+   {
+    "en": "He must be tired after the long flight.",
+    "vi": "Anh ấy chắc hẳn mệt sau chuyến bay dài."
+   },
+   {
+    "en": "That can't be her car; she doesn't drive.",
+    "vi": "Đó không thể là xe của cô ấy; cô ấy không lái xe."
+   },
+   {
+    "en": "It might rain this afternoon.",
+    "vi": "Chiều nay có thể trời sẽ mưa."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Question tags – Câu hỏi đuôi",
+  "formula": "Câu khẳng định + trợ động từ phủ định + đại từ?; câu phủ định + trợ động từ khẳng định + đại từ?",
+  "explanation": "Câu hỏi đuôi dùng để xác nhận thông tin hoặc mời đồng tình. Khẳng định thì đuôi phủ định và ngược lại, dùng cùng trợ động từ với câu chính. Ngoại lệ: I am -> aren't I; Let's -> shall we; imperative -> will you.",
+  "commonMistake": "Dùng 'right?' hoặc 'isn't it?' cho mọi trường hợp: *You like it, isn't it? (đúng: don't you?). Lặp cả khẳng định hoặc phủ định.",
+  "examples": [
+   {
+    "en": "You live in Hanoi, don't you?",
+    "vi": "Bạn sống ở Hà Nội, đúng không?"
+   },
+   {
+    "en": "She isn't coming, is she?",
+    "vi": "Cô ấy không đến, phải không?"
+   },
+   {
+    "en": "Let's go, shall we?",
+    "vi": "Chúng ta đi nhé?"
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Future time clauses (when, as soon as, until, before) – Mệnh đề thời gian tương lai",
+  "formula": "when/as soon as/until/before/after + present simple, S + will + V",
+  "explanation": "Trong mệnh đề thời gian chỉ tương lai, dùng hiện tại đơn (hoặc hiện tại hoàn thành) chứ không dùng will. Tiếng Việt dùng 'sẽ' cả hai vế nên dễ bị ảnh hưởng.",
+  "commonMistake": "Dùng will sau when: *When I will arrive, I will call you (đúng: When I arrive).",
+  "examples": [
+   {
+    "en": "I will call you when I arrive.",
+    "vi": "Tôi sẽ gọi cho bạn khi tôi đến nơi."
+   },
+   {
+    "en": "She will wait until he comes back.",
+    "vi": "Cô ấy sẽ đợi cho đến khi anh ấy quay lại."
+   },
+   {
+    "en": "As soon as I finish, I'll send you the file.",
+    "vi": "Ngay khi xong, tôi sẽ gửi cho bạn tập tin."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "So and such – Quá... đến nỗi",
+  "formula": "so + adj/adv (+ that); such (+ a/an) + (adj) + N (+ that)",
+  "explanation": "So đứng trước tính từ/trạng từ, such đứng trước cụm danh từ. Cấu trúc so/such... that chỉ kết quả ('đến nỗi mà'). Tiếng Việt dùng 'quá... đến nỗi'.",
+  "commonMistake": "Dùng so trước danh từ: *so a nice day (đúng: such a nice day). Dùng such trước tính từ đơn: *such nice.",
+  "examples": [
+   {
+    "en": "The film was so boring that I fell asleep.",
+    "vi": "Bộ phim chán đến nỗi tôi ngủ gật."
+   },
+   {
+    "en": "It was such a hot day that we stayed inside.",
+    "vi": "Hôm ấy nóng đến nỗi chúng tôi ở trong nhà."
+   },
+   {
+    "en": "I am so happy to see you.",
+    "vi": "Tôi rất vui khi gặp bạn."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Causative have/get something done – Thể truyền khiến",
+  "formula": "have/get + O + V3",
+  "explanation": "Dùng khi ai đó làm việc gì cho mình (thuê, nhờ), không phải tự làm. Tiếng Việt thường nói 'đi cắt tóc', 'đem xe đi sửa', trong khi tiếng Anh dùng cấu trúc riêng. Get mang tính thân mật hơn.",
+  "commonMistake": "Dùng chủ động: *I cut my hair at the salon (đúng: I had my hair cut). Chia sai V2 thay V3.",
+  "examples": [
+   {
+    "en": "I had my car repaired yesterday.",
+    "vi": "Hôm qua tôi đã đem xe đi sửa."
+   },
+   {
+    "en": "She is getting her hair cut tomorrow.",
+    "vi": "Ngày mai cô ấy sẽ đi cắt tóc."
+   },
+   {
+    "en": "We are having the house painted.",
+    "vi": "Chúng tôi đang thuê người sơn nhà."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Both / either / neither – Cả hai, một trong hai, không cái nào",
+  "formula": "both A and B; either A or B; neither A nor B",
+  "explanation": "Both... and chỉ cả hai, either... or chỉ chọn một trong hai, neither... nor là cả hai đều không. Neither đã mang nghĩa phủ định nên động từ ở dạng khẳng định. Động từ hòa hợp với danh từ gần nhất ở either/neither.",
+  "commonMistake": "Phủ định kép: *Neither of them doesn't know (đúng: knows). Dùng both với phủ định: *Both of them don't (đúng: Neither of them).",
+  "examples": [
+   {
+    "en": "Both my parents are teachers.",
+    "vi": "Cả bố và mẹ tôi đều là giáo viên."
+   },
+   {
+    "en": "You can have either tea or coffee.",
+    "vi": "Bạn có thể uống trà hoặc cà phê."
+   },
+   {
+    "en": "Neither Tom nor Mai was at the party.",
+    "vi": "Cả Tom lẫn Mai đều không có ở bữa tiệc."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Although / though / despite / in spite of – Liên từ nhượng bộ cơ bản",
+  "formula": "although/though + S + V; despite/in spite of + N / V-ing",
+  "explanation": "Although và despite đều diễn tả sự đối lập ('mặc dù'), nhưng although đi với mệnh đề, còn despite/in spite of đi với danh từ hoặc V-ing. Không dùng but trong cùng câu với although.",
+  "commonMistake": "Dùng despite + mệnh đề: *Despite it rained... (đúng: Despite the rain / Although it rained). Dùng although... but: *Although he is poor, but he is happy.",
+  "examples": [
+   {
+    "en": "Although it was raining, we went out.",
+    "vi": "Mặc dù trời mưa, chúng tôi vẫn ra ngoài."
+   },
+   {
+    "en": "Despite the traffic, she arrived on time.",
+    "vi": "Mặc dù kẹt xe, cô ấy vẫn đến đúng giờ."
+   },
+   {
+    "en": "In spite of being tired, he kept working.",
+    "vi": "Dù mệt, anh ấy vẫn tiếp tục làm việc."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Comparisons with modifiers and as...as – So sánh nâng cao",
+  "formula": "much/far/a lot/slightly/a bit + comparative; as + adj + as; the same as; different from",
+  "explanation": "Có thể nhấn mạnh mức độ so sánh bằng much, far, a lot (chênh lệch lớn) hoặc slightly, a bit (chênh lệch nhỏ). Very không dùng trước comparative. Dùng different from/than, the same as.",
+  "commonMistake": "Dùng very với comparative: *very better (đúng: much better). Dùng *the same like (đúng: the same as).",
+  "examples": [
+   {
+    "en": "This laptop is much faster than my old one.",
+    "vi": "Chiếc laptop này nhanh hơn nhiều so với cái cũ của tôi."
+   },
+   {
+    "en": "She is slightly taller than her brother.",
+    "vi": "Cô ấy cao hơn anh trai một chút."
+   },
+   {
+    "en": "His opinion is the same as mine.",
+    "vi": "Ý kiến của anh ấy giống với của tôi."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Indirect questions – Câu hỏi gián tiếp lịch sự",
+  "formula": "Could you tell me / Do you know / I wonder + wh-word/if + S + V",
+  "explanation": "Câu hỏi gián tiếp lịch sự hơn, trật tự từ như câu khẳng định (không đảo trợ động từ). Dùng if/whether cho câu Yes/No. Rất phổ biến khi hỏi người lạ hoặc trong bài thi nói.",
+  "commonMistake": "Giữ đảo ngữ: *Do you know where is the bank? (đúng: where the bank is). Thêm dấu hỏi sau mệnh đề gián tiếp khi mở đầu bằng I wonder.",
+  "examples": [
+   {
+    "en": "Could you tell me where the station is?",
+    "vi": "Bạn có thể cho tôi biết nhà ga ở đâu không?"
+   },
+   {
+    "en": "Do you know what time the shop opens?",
+    "vi": "Bạn có biết cửa hàng mở cửa lúc mấy giờ không?"
+   },
+   {
+    "en": "I wonder if she will come.",
+    "vi": "Tôi tự hỏi liệu cô ấy có đến không."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "So do I / Neither do I – Đồng tình ngắn gọn",
+  "formula": "So + trợ động từ + S (đồng tình khẳng định); Neither/Nor + trợ động từ + S (đồng tình phủ định)",
+  "explanation": "Dùng để nói 'tôi cũng vậy'. Trợ động từ phải khớp thì và động từ của câu trước (be, do/does/did, have, can...). Sau neither/nor trợ động từ để ở dạng khẳng định.",
+  "commonMistake": "Dùng sai trợ động từ: *I like tea. So I do. Phủ định kép: *Neither don't I.",
+  "examples": [
+   {
+    "en": "I love pizza. So do I.",
+    "vi": "Tôi thích pizza. Tôi cũng vậy."
+   },
+   {
+    "en": "I can't swim. Neither can I.",
+    "vi": "Tôi không biết bơi. Tôi cũng không."
+   },
+   {
+    "en": "She has finished. So have we.",
+    "vi": "Cô ấy làm xong rồi. Chúng tôi cũng vậy."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Phrasal verbs (basic) – Cụm động từ cơ bản",
+  "formula": "V + particle (up, out, on, off, in, away); tách được: V + O + particle; không tách: V + particle + O",
+  "explanation": "Cụm động từ gồm động từ và tiểu từ tạo nghĩa mới thường khác nghĩa gốc (give up = từ bỏ). Cụm tách được cho phép tân ngữ xen giữa; nếu tân ngữ là đại từ thì bắt buộc đặt giữa. Phải học theo cụm thay vì theo từng từ.",
+  "commonMistake": "Đặt đại từ sai: *turn off it (đúng: turn it off). Đoán nghĩa từng từ: *give up = cho lên.",
+  "examples": [
+   {
+    "en": "Please turn it off before you leave.",
+    "vi": "Hãy tắt nó trước khi bạn đi."
+   },
+   {
+    "en": "She gave up smoking last year.",
+    "vi": "Năm ngoái cô ấy đã bỏ thuốc lá."
+   },
+   {
+    "en": "I am looking for my keys.",
+    "vi": "Tôi đang tìm chìa khóa."
+   }
+  ]
+ },
+ {
+  "level": "B1",
+  "title": "Could vs was able to – Khả năng trong quá khứ",
+  "formula": "could + V (khả năng chung trong quá khứ); was/were able to + V (đạt được một lần cụ thể)",
+  "explanation": "Could diễn tả khả năng nói chung trong quá khứ (I could swim when I was five). Khi nói thành công trong một tình huống cụ thể, dùng was/were able to (managed to), không dùng could ở khẳng định. Ở phủ định couldn't dùng cho cả hai trường hợp.",
+  "commonMistake": "Dùng could cho sự kiện một lần: *I could finish the report yesterday (đúng: I was able to finish).",
+  "examples": [
+   {
+    "en": "I could read when I was four.",
+    "vi": "Tôi biết đọc từ lúc bốn tuổi."
+   },
+   {
+    "en": "The firefighters were able to save the child.",
+    "vi": "Lính cứu hỏa đã cứu được đứa trẻ."
+   },
+   {
+    "en": "I couldn't open the door.",
+    "vi": "Tôi không thể mở được cửa."
+   }
+  ]
+ }
+]

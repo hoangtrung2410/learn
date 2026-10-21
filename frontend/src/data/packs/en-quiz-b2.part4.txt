@@ -1,0 +1,50 @@
+B2|grammar|By the end of this week, I ___ the project.|will finish|will have finished|finished|have finished|B|By + mốc tương lai dùng tương lai hoàn thành.
+B2|grammar|He's looking forward to ___ his old friends.|see|saw|seeing|seen|C|Look forward to + V-ing.
+B2|grammar|I wish I ___ speak French.|can|would|will|could|D|Wish + could diễn tả ước muốn về khả năng ở hiện tại.
+B2|grammar|If you heat ice, it ___.|melts|will melted|would melted|melting|A|Điều kiện loại 0 diễn tả sự thật hiển nhiên.
+B2|grammar|The film was ___ boring that we left early.|such|so|too|very|B|So + tính từ + that.
+B2|grammar|The woman ___ is talking to Tom is my aunt.|whose|whom|who|which|C|Who làm chủ ngữ thay cho người.
+B2|grammar|She hasn't decided ___ to accept the offer or not.|whether|if only|that|what|A|Whether ... or not diễn tả sự lựa chọn.
+B2|grammar|He ___ for the company for 20 years when he retired.|worked|has worked|was working|had been working|D|Quá khứ hoàn thành tiếp diễn nhấn mạnh khoảng thời gian trước mốc quá khứ.
+B2|grammar|You'd better ___ a doctor.|to see|see|seeing|saw|B|Had better + V nguyên mẫu không to.
+B2|grammar|This book is ___ than the one I read last month.|more interesting|most interesting|interestinger|as interesting|A|So sánh hơn của tính từ dài: more + adj + than.
+B2|grammar|I'm not sure, but he ___ be at the library.|must|can|might|shall|C|Might diễn tả khả năng không chắc chắn.
+B2|grammar|Having finished his homework, ___.|the TV was turned on by him|the TV was watched|watching TV began|he watched TV|D|Chủ ngữ của mệnh đề chính phải là người hoàn thành bài tập.
+B2|grammar|She is the kind of person who always ___ on time.|arrive|arrives|arriving|to arrive|B|Chủ ngữ who thay cho person, số ít nên arrives.
+B2|grammar|Look at those clouds. It ___ rain.|will|shall|is going to|would|C|Dự đoán dựa trên bằng chứng hiện tại dùng be going to.
+B2|grammar|Unless you ___ hard, you will fail.|study|don't study|won't study|studied|A|Unless đã mang nghĩa phủ định nên động từ ở dạng khẳng định.
+B2|vocab|Which word is closest in meaning to "inevitable"?|unavoidable|unlikely|unusual|unclear|A|Inevitable = unavoidable: không thể tránh khỏi.
+B2|vocab|If someone was "fired", they were:|hired|dismissed|promoted|praised|B|Fired = bị sa thải.
+B2|vocab|It was a real ___ of luck that we found the keys.|part|hit|stroke|beat|C|Cụm cố định: a stroke of luck.
+B2|vocab|What does "get along with" someone mean?|quarrel with|depend on|look for|have a friendly relationship with|D|Get along with = hòa hợp với.
+B2|vocab|Tickets are no longer ___.|availability|available|avail|availably|B|Be + tính từ: available.
+B2|vocab|The word "approximately" means:|roughly|exactly|quickly|rarely|A|Approximately = xấp xỉ, khoảng.
+B2|vocab|She ___ a living as a translator.|does|wins|earns|gets|C|Collocation: earn a living.
+B2|vocab|What does "run into" mean in "I ran into an old friend"?|avoid|chase|pay|meet unexpectedly|D|Run into = tình cờ gặp.
+B2|vocab|Which word is closest in meaning to "sceptical"?|doubtful|enthusiastic|angry|tired|A|Sceptical = hoài nghi.
+B2|vocab|She managed to ___ her fear of flying.|overtake|overcome|overlook|overdo|B|Overcome = vượt qua.
+B2|vocab|Her ___ in English improved a lot last year.|fluent|fluently|fluency|fluence|C|Cần danh từ sau sở hữu cách: fluency.
+B2|vocab|If you are "keen on" music, you are:|angry about it|afraid of it|tired of it|enthusiastic about it|D|Keen on = say mê, hứng thú.
+B2|vocab|What does "turn down an offer" mean?|reject it|accept it|lower it|discuss it|A|Turn down = từ chối.
+B2|reading|Since opening in March, the new café on Park Street has become popular with students. It offers free Wi-Fi, cheap coffee and long opening hours, staying open until midnight. Some residents, however, have complained about the noise late at night. ¶Why do some residents complain?|The prices are high.|The service is poor.|The café makes noise at night.|The café is too crowded.|C|Cư dân phàn nàn về tiếng ồn ban đêm.
+B2|reading|Researchers found that people who keep a diary of things they are grateful for tend to feel happier and sleep better. The effect appeared after only three weeks of writing for five minutes a day. ¶How long did it take for the effect to appear?|About three weeks|One year|Five days|A single night|A|Hiệu quả xuất hiện sau ba tuần.
+B2|reading|To apply for the scholarship, students must submit two letters of recommendation, an essay and proof of income. Applications received after 30 April will not be considered, regardless of circumstances. ¶What will happen to a late application?|The student will be charged a fee.|It will get lower priority.|It will not be reviewed.|It will be accepted with a letter.|C|Đơn nộp sau 30/4 sẽ không được xem xét.
+B2|reading|Many cities are replacing diesel buses with electric ones. Electric buses are quieter and produce no exhaust gases in the streets. However, they cost more to buy, and charging stations must be built first. ¶What is one disadvantage of electric buses?|They are noisy.|They pollute the streets.|They are slow.|They are more expensive to buy.|D|Nhược điểm nêu rõ là giá mua cao hơn.
+B2|reading|When I first visited Japan, I was struck by how polite everyone was. Strangers bowed, shops wrapped purchases carefully, and trains ran precisely on time. I realised how much small acts of consideration improve daily life. ¶What did the writer notice in Japan?|Trains were often late.|Everyone was very courteous.|Shops were often closed.|Strangers ignored each other.|B|Tác giả ấn tượng vì mọi người rất lịch sự.
+B2|reading|The annual company picnic, originally planned for Saturday, has been moved to Sunday because of the weather forecast. Staff who cannot attend should inform HR by Thursday. ¶Why was the picnic rescheduled?|Because of the forecast|Because few people could attend|Because HR was busy|Because the venue was unavailable|A|Dời sang Chủ nhật do dự báo thời tiết.
+B2|reading|Zoe wanted to save money for a laptop. She stopped buying lunch at work and brought sandwiches from home instead. After four months, she had saved enough, with some left over for a case. ¶How did Zoe save money?|Working extra hours|Selling her old phone|Borrowing from a friend|Making her own lunch|D|Cô mang bánh mì tự làm từ nhà thay vì mua bữa trưa.
+B2|listen|A: Excuse me, where's the nearest pharmacy? ¶B: Go straight, take the second left, and it's next to the bank. ¶Q: Where is the pharmacy?|Next to the bank|Opposite the park|On the first left|Behind the station|A|Hiệu thuốc nằm cạnh ngân hàng.
+B2|listen|A: Why don't we eat out tonight? ¶B: Good idea. I'm tired of cooking. ¶Q: What does Speaker B think?|They want to cook.|They like the idea of eating out.|They are not hungry.|They dislike restaurants.|B|B đồng ý vì chán nấu ăn.
+B2|listen|A: How much is this jacket? ¶B: It's normally eighty dollars, but it's thirty percent off today. ¶Q: How much is the jacket today?|24 dollars|50 dollars|56 dollars|80 dollars|C|Giảm 30% của 80 là 24, giá còn 56 đô.
+B2|listen|A: I'm afraid the manager is in a meeting right now. Would you like to leave a message? ¶B: Yes, please ask her to call me back after two. ¶Q: What does the caller want?|To speak to the manager now|To cancel a meeting|To book a meeting|The manager to phone back later|D|Người gọi nhờ gọi lại sau hai giờ.
+B2|listen|A: My phone keeps freezing. ¶B: Have you tried turning it off and on again? ¶A: Not yet. ¶Q: What does Speaker B suggest?|Restarting the phone|Buying a new one|Deleting apps|Charging it|A|B gợi ý tắt rồi mở lại máy.
+B2|listen|A: Did you enjoy the lecture? ¶B: Honestly, I found it a bit hard to follow, but the examples were helpful. ¶Q: What does Speaker B say about the lecture?|It was too short.|It was difficult but had useful examples.|It was boring and useless.|It was very easy.|B|B nói hơi khó theo dõi nhưng ví dụ hữu ích.
+B2|listen|Announcement: The 9:15 train to Hue will depart from platform 4, not platform 2 as previously announced. ¶Q: Which platform will the train leave from?|Platform 2|Platform 9|Platform 4|Platform 15|C|Tàu sẽ khởi hành từ sân ga số 4.
+B2|listen|A: Are you coming to the party on Saturday? ¶B: I'd love to, but I have to look after my little brother. ¶Q: Why can't Speaker B come?|They are ill.|They have an exam.|They are working.|They must take care of a sibling.|D|B phải trông em trai.
+B2|toeic|Customers are advised to read the instructions ___ before using the device.|careful|carefully|care|caring|B|Cần trạng từ bổ nghĩa cho động từ read.
+B2|toeic|The firm has hired a consultant to ___ its financial problems.|accompany|assume|address|assist|C|Address a problem = giải quyết vấn đề.
+B2|toeic|Please ___ the attached document and return it by Friday.|sign|signature|signing|signed|A|Câu mệnh lệnh cần động từ nguyên mẫu.
+B2|toeic|Neither the manager nor the employees ___ aware of the change.|was|is|be|were|D|Với neither...nor, động từ hòa hợp với chủ ngữ gần nhất (employees).
+B2|toeic|The ___ of the new branch will take place next month.|open|opening|opened|opens|B|Cần danh từ sau "the": opening.
+B2|toeic|I am writing to ___ about the status of my order.|inquiry|inquiring|inquire|inquired|C|Sau to cần động từ nguyên mẫu: inquire.
+B2|toeic|Sales figures were ___ than expected.|higher|high|highest|more high|A|So sánh hơn với than: higher.

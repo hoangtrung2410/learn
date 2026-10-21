@@ -1,0 +1,42 @@
+B1|toeic|Please send the invoice ___ email so we can process it today.|at|on|by|for|C|By email: gửi bằng phương tiện email (by + phương tiện).
+B1|toeic|The meeting has been ___ until next Monday because the director is away.|advanced|postponed|finished|cancelled|B|Postpone = hoãn lại; "until next Monday" chỉ thời điểm mới.
+B1|toeic|All visitors must ___ at the front desk before entering the building.|sign in|sign off|sign for|sign up|A|Sign in: đăng ký, ký tên khi vào tòa nhà.
+B1|toeic|Our company offers a wide ___ of services to small businesses.|line|row|range|level|C|A wide range of: nhiều loại, đa dạng.
+B1|toeic|Ms. Lee is responsible ___ training new employees.|to|for|with|of|B|Responsible for + V-ing: chịu trách nhiệm về.
+B1|toeic|The sales report is due ___ Friday at noon.|by on|in|on|at|C|Dùng on trước thứ trong tuần: on Friday.
+B1|toeic|We regret to ___ you that your application was unsuccessful.|say|inform|speak|tell|B|Inform someone that…: thông báo cho ai rằng…
+B1|toeic|Please keep your receipt as ___ of purchase.|proof|proving|proven|prove|A|Sau as cần danh từ: proof of purchase = bằng chứng mua hàng.
+B1|toeic|The new software is ___ easier to use than the old version.|very|much|too|so|B|Much đứng trước so sánh hơn (easier) để nhấn mạnh.
+B1|toeic|Mr. Chen has worked here ___ ten years.|during|from|since|for|D|For + khoảng thời gian (ten years); since + mốc thời gian.
+B1|toeic|The hotel provides free ___ to the airport for all guests.|transporting|transport to|transported|transportation|D|Cần danh từ không đếm được: transportation (dịch vụ đưa đón).
+B1|toeic|Please ___ the form and return it to the HR department.|fill in to|fill out|fill up|fill with|B|Fill out the form: điền vào biểu mẫu.
+B1|toeic|Our flight was delayed ___ bad weather.|because of|so|although|because|A|Because of + danh từ; because + mệnh đề.
+B1|toeic|He asked me ___ I could attend the conference.|whether|what|which|that|A|Whether = liệu có hay không, dùng với câu hỏi gián tiếp yes/no.
+B2|toeic|The company's profits have risen ___ over the past three years.|steadily|steadier|steady|steadiness|A|Cần trạng từ bổ nghĩa cho động từ rise: steadily.
+B2|toeic|Employees are encouraged to take ___ of the free training programs.|benefit up|profit|advantage|use up|C|Take advantage of: tận dụng.
+B2|toeic|The contract will ___ if both parties do not sign by June 30.|expand|expire|explore|expel|B|Expire: hết hạn.
+B2|toeic|___ the heavy traffic, the delegates arrived on time.|Although|However|Despite|Because|C|Despite + cụm danh từ; although cần mệnh đề.
+B2|toeic|The manager asked that all reports ___ submitted by noon.|were|are|being|be|D|Sau động từ yêu cầu (ask that) dùng dạng nguyên mẫu (subjunctive): be submitted.
+B2|toeic|Customers who ___ the survey will receive a discount coupon.|complete|completes|completing|completion|A|Chủ ngữ số nhiều (customers) + who + động từ nguyên mẫu; complete.
+B2|toeic|The proposal was rejected ___ it was too expensive.|because|so that|despite|due|A|Because + mệnh đề: bị từ chối vì quá đắt.
+B2|toeic|We are looking for someone who is ___ in project management.|experience|experiences|experienced|experiencing|C|Tính từ experienced (có kinh nghiệm) đi với be + in.
+B2|toeic|Neither the manager ___ his assistants were informed of the change.|and|but|or|nor|D|Neither…nor… nghĩa là không…cũng không…
+B2|toeic|The conference ___ at the Grand Hotel next week.|is holding|will be held|holds|will hold|B|Câu bị động tương lai: will be held.
+B2|toeic|The new policy takes ___ on January 1.|effectively|effective|effect|affect|C|Take effect: có hiệu lực.
+B2|toeic|If the shipment ___ by Friday, we will cancel the order.|hasn't arrived by|won't arrive|doesn't arrive|didn't arrive|C|Câu điều kiện loại 1: If + hiện tại đơn, will + V.
+C1|toeic|The board has agreed to ___ the merger pending regulatory approval.|process to|precede|proceed to with|proceed with|D|Proceed with = tiếp tục tiến hành.
+C1|toeic|Sales figures have ___ expectations for the third consecutive quarter.|exceeded to|excelled|exceeded|expected|C|Exceed expectations: vượt kỳ vọng.
+C1|toeic|The firm's decision to relocate was ___ by rising rental costs.|promoted|prevented|proposed|prompted|D|Prompt = thúc đẩy, khiến phải làm gì.
+C1|toeic|Applicants must demonstrate ___ in at least two foreign languages.|proficient|proficiency|profession|proficiently|B|Cần danh từ sau demonstrate: proficiency (sự thành thạo).
+C1|toeic|The company is committed to ___ its carbon footprint by 2030.|reduce|reducing|reduction of|reduced|B|Be committed to + V-ing.
+C1|toeic|Under no circumstances ___ employees disclose confidential information.|they should|are|do|should|D|Đảo ngữ sau Under no circumstances: should + chủ ngữ.
+C1|toeic|The auditors found several ___ in the financial statements.|discreet|discrepancies|discrepancy to|discrepant|B|Discrepancy = sự sai lệch, mâu thuẫn số liệu.
+C1|toeic|Having reviewed the proposal, the committee ___ to approve it.|decided|was decided|deciding|has decide|A|Phân từ hoàn thành Having reviewed… cùng chủ ngữ the committee + decided.
+C1|toeic|The negotiations stalled ___ a disagreement over pricing.|owing to|owing|according|in spite|A|Owing to + danh từ: do, bởi vì.
+C1|toeic|Candidates are expected to ___ with company regulations at all times.|complete|comply|compare|complain|B|Comply with = tuân thủ.
+C1|toeic|The warranty is ___ to defects in materials and workmanship only.|limited|limitation|limit|limiting|A|Be limited to: chỉ giới hạn trong.
+C1|toeic|Please ___ the attached document and let us know if you have any questions.|revise to|review|reverse|revive|B|Review = xem xét lại văn bản đính kèm.
+B2|toeic|Passengers are requested to ___ their seat belts during take-off.|fasten|fix|tie up|close|A|Fasten seat belts: thắt dây an toàn.
+B2|toeic|The store will remain open ___ 10 p.m. during the holiday season.|at|until|by|since|B|Until = cho đến, chỉ thời điểm kết thúc của trạng thái kéo dài (remain open).
+B1|toeic|Thank you for your ___ response to our inquiry.|prompt|promptly|promptness|prompting|A|Cần tính từ trước danh từ response: prompt response.
+B1|toeic|The training session will begin ___ 9:00 a.m. sharp.|on|by|in|at|D|At + giờ cụ thể: at 9:00 a.m.

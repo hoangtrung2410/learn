@@ -1,0 +1,50 @@
+1|vocab|“对不起” có nghĩa là gì?|Cảm ơn|Không sao|Xin lỗi|Không có gì|C|对不起 nghĩa là xin lỗi.
+1|vocab|“衣服” có nghĩa là gì?|Giày|Mũ|Túi|Quần áo|D|衣服 nghĩa là quần áo.
+1|vocab|“电影” có nghĩa là gì?|Phim|Nhạc|Sách|Tranh|A|电影 nghĩa là phim, điện ảnh.
+1|vocab|“儿子” có nghĩa là gì?|Con gái|Con trai|Cháu|Em trai|B|儿子 nghĩa là con trai.
+1|vocab|“女儿” có nghĩa là gì?|Con trai|Mẹ|Con gái|Chị gái|C|女儿 nghĩa là con gái.
+1|vocab|“桌子” có nghĩa là gì?|Ghế|Cửa|Giường|Bàn|D|桌子 nghĩa là cái bàn.
+1|vocab|“椅子” có nghĩa là gì?|Ghế|Bàn|Sách|Cốc|A|椅子 nghĩa là cái ghế.
+1|vocab|“天气” có nghĩa là gì?|Thời gian|Thời tiết|Năm|Ngày|B|天气 nghĩa là thời tiết.
+1|vocab|“打电话” có nghĩa là gì?|Gửi thư|Xem phim|Gọi điện thoại|Nói chuyện trực tiếp|C|打电话 nghĩa là gọi điện thoại.
+1|vocab|“狗” có nghĩa là gì?|Mèo|Cá|Chim|Chó|D|狗 nghĩa là con chó.
+1|vocab|“猫” có nghĩa là gì?|Mèo|Chó|Gà|Heo|A|猫 nghĩa là con mèo.
+1|vocab|“星期” có nghĩa là gì?|Ngày|Tuần, thứ|Tháng|Năm|B|星期 nghĩa là tuần, thứ trong tuần.
+1|vocab|我想看____。|水|米饭|电影|杯子|C|Chỉ 电影 (phim) đi với động từ 看 (xem).
+1|vocab|“北京” là thành phố nào?|Thượng Hải|Quảng Châu|Thâm Quyến|Bắc Kinh|D|北京 là Bắc Kinh.
+1|vocab|A: 对不起。B: ____。|没关系|谢谢|再见|你好|A|Đáp lại 对不起 (xin lỗi) là 没关系 (không sao).
+1|grammar|我昨天看____一个电影。|吗|了|呢|吧|B|“了” sau động từ chỉ hành động đã hoàn thành: 看了.
+1|grammar|我____是学生。|在|有|也|去|C|“也” nghĩa là cũng: 我也是学生.
+1|grammar|他们____在看书。|有|是|会|都|D|“都” nghĩa là đều: 他们都在看书.
+1|grammar|我____去北京。|想|很|是|有|A|“想 + động từ” nghĩa là muốn: 想去北京.
+1|grammar|你____哪国人？|在|是|有|会|B|Hỏi quốc tịch: 你是哪国人？
+1|grammar|这____杯子是我的。|本|只|个|口|C|Lượng từ của cốc là 个: 这个杯子.
+1|grammar|你在做____？|谁|哪|几|什么|D|Hỏi việc đang làm dùng 什么: 你在做什么？
+1|grammar|我在____学汉语。|北京|很|好|喜欢|A|“在 + địa điểm” chỉ nơi chốn: 在北京学汉语.
+1|grammar|把词语排成句子：在 / 我 / 家 / 看书|我家在看书|我在家看书|看书在我家|我看书在家|B|Trật tự: Chủ ngữ + 在 + địa điểm + động từ: 我在家看书.
+1|grammar|哪个句子是对的？|我去学校不|我不去学校吗了|我不去学校|我去不学校|C|Phủ định: 不 đứng trước động từ 去: 我不去学校.
+1|grammar|我们____学校在北京。|很|在|是|的|D|“的” chỉ sở hữu: 我们的学校 (trường của chúng tôi).
+1|grammar|你有哥哥____？|吗|很|了|都|A|“吗” tạo câu hỏi có/không: 你有哥哥吗？
+1|grammar|他们在____？|谁|哪儿|几|多少|B|Hỏi nơi chốn dùng 哪儿: 他们在哪儿？
+1|grammar|我弟弟____七岁。|在|去|今年|有|C|“今年” nghĩa là năm nay: 我弟弟今年七岁.
+1|grammar|____，我是王老师。|谢|对|再|你好|D|你好 là lời chào mở đầu: 你好，我是王老师.
+1|reading|小红有一个妹妹，妹妹今年五岁。她们都喜欢小猫。¶妹妹几岁？|三岁|四岁|五岁|六岁|C|Bài đọc: 妹妹今年五岁.
+1|reading|我和我的同学在一个学校学习。我们一起吃饭，一起去商店。¶他们在哪儿学习？|不同的学校|在商店|在家|在一个学校|D|Bài đọc: 在一个学校学习 (học cùng một trường).
+1|reading|下午我去朋友家，她给我做了米饭和菜。很好吃。¶谁做的饭？|朋友|妈妈|我|老师|A|Bài đọc: 她给我做了米饭和菜, 她 là bạn.
+1|reading|这本书五块，那本书十块。我只有七块钱，所以我买这本。¶他买了哪本？|那本|这本|两本|都不买|B|Anh ấy chỉ có 7 đồng nên mua cuốn 5 đồng, tức 这本.
+1|reading|现在是晚上九点，爸爸还在工作，妈妈已经睡觉了。¶谁在睡觉？|爸爸|我|妈妈|哥哥|C|Bài đọc: 妈妈已经睡觉了 (mẹ đã ngủ rồi).
+1|reading|我的朋友是美国人，他会说一点儿汉语。我们用汉语说话。¶他的朋友是哪国人？|中国|英国|日本|美国|D|Bài đọc: 我的朋友是美国人.
+1|reading|小狗在椅子下面。猫在桌子上面。¶猫在哪儿？|桌子上|椅子下|椅子上|桌子下|A|Bài đọc: 猫在桌子上面 (mèo ở trên bàn).
+1|reading|明天是星期天，我不工作，想和家人去看电影。¶明天他想做什么？|工作|看电影|学习|买衣服|B|Bài đọc: 想和家人去看电影.
+1|reading|小明，你好！我在北京学习汉语。这里天气很好，人很多，我很喜欢。¶这里的天气怎么样？|很冷|很热|很好|不好|C|Bài đọc: 这里天气很好.
+1|reading|我八点上课，十二点吃饭，下午五点回家。¶他几点回家？|十二点|八点|四点|五点|D|Bài đọc: 下午五点回家 (5 giờ chiều về nhà).
+1|listen|A: 你有几个孩子？¶B: 我有两个，一个儿子，一个女儿。|Một con trai và một con gái|Hai con trai|Hai con gái|Một con|A|一个儿子，一个女儿 là một con trai, một con gái.
+1|listen|我今天很累，想睡觉。|Hôm nay vui, muốn đi chơi|Hôm nay mệt, muốn ngủ|Hôm nay đói, muốn ăn|Hôm nay bận, muốn làm việc|B|很累 là rất mệt, 想睡觉 là muốn ngủ.
+1|listen|A: 你会开车吗？¶B: 不会。|Biết lái xe|Thích lái xe|Không biết lái xe|Đang lái xe|C|不会 nghĩa là không biết.
+1|listen|苹果三块钱，水两块钱。|Táo 2 đồng, nước 3 đồng|Táo 3 đồng, nước 3 đồng|Táo 5 đồng|Táo 3 đồng, nước 2 đồng|D|苹果三块 là táo 3 đồng, 水两块 là nước 2 đồng.
+1|listen|A: 你现在在哪儿？¶B: 我在学校，你呢？¶A: 我在家。|A ở nhà, B ở trường|Cả hai ở trường|A ở trường, B ở nhà|Cả hai ở nhà|A|B ở 学校 (trường), A ở 家 (nhà).
+1|listen|下雨了，我们不出去了。|Trời nắng, đi chơi|Trời mưa, không ra ngoài|Trời lạnh|Trời mưa nhưng vẫn đi|B|下雨了 là trời mưa, 不出去 là không ra ngoài.
+1|listen|我喜欢我的老师，她很好，也很漂亮。|Tôi không thích cô giáo|Thầy giáo là nam|Cô giáo tốt và xinh|Cô giáo còn trẻ|C|她很好，也很漂亮: cô ấy tốt và cũng xinh.
+1|listen|A: 请问，医院在哪儿？¶B: 在前面。|Phía sau|Bên trái|Bên cạnh|Phía trước|D|前面 nghĩa là phía trước.
+1|listen|明天上午九点，我们在学校见。|9 giờ sáng mai gặp ở trường|9 giờ tối mai gặp ở trường|8 giờ sáng mai gặp ở trường|9 giờ sáng mai gặp ở nhà|A|明天上午九点 là 9 giờ sáng mai, 在学校见 là gặp ở trường.
+1|listen|A: 喂，你是谁？¶B: 我是小王。|Tiểu Lý|Tiểu Vương|Tiểu Trương|Tiểu Lưu|B|我是小王: tôi là Tiểu Vương.

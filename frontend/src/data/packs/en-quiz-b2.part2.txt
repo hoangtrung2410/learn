@@ -1,0 +1,50 @@
+B2|grammar|She ___ in London since 2018.|lives|has lived|lived|is living|B|Since + mốc thời gian dùng hiện tại hoàn thành.
+B2|grammar|I'd rather you ___ smoke in here.|don't|didn't|won't|not|B|Would rather + S + quá khứ đơn để nói về mong muốn hiện tại.
+B2|grammar|Not only ___ late, but he also forgot the documents.|was he|he was|he is|is he|A|Not only đứng đầu câu thì đảo ngữ.
+B2|grammar|If she had studied harder, she ___ the exam.|would pass|will pass|would have passed|had passed|C|Điều kiện loại 3: would have + V3.
+B2|grammar|The children are looking forward ___ the zoo.|to visit|visiting|for visiting|to visiting|D|Look forward to + V-ing.
+B2|grammar|This is the house ___ I grew up.|which|where|who|whose|B|Where thay cho nơi chốn.
+B2|grammar|He told me that he ___ the film the week before.|had seen|saw|has seen|sees|A|Tường thuật lùi thì: quá khứ hoàn thành.
+B2|grammar|I have ___ friends in this town, so I feel lonely.|a few|little|a little|few|D|Few mang nghĩa phủ định (rất ít) và dùng với danh từ đếm được.
+B2|grammar|The photographs ___ by a famous artist.|took|were taking|were taken|are took|C|Bị động quá khứ: were taken.
+B2|grammar|I can't stand ___ in queues.|wait|waiting|to waiting|waited|B|Can't stand + V-ing.
+B2|grammar|He ___ be at home; I saw his car outside.|can't|needn't|shouldn't|must|D|Must diễn tả suy đoán chắc chắn.
+B2|grammar|He is said ___ a fortune.|to have made|making|made|to making|A|Cấu trúc bị động: is said to have + V3.
+B2|grammar|I'll call you as soon as I ___ there.|will arrive|arrived|arrive|would arrive|C|Mệnh đề thời gian tương lai dùng hiện tại đơn.
+B2|grammar|The teacher made the students ___ the essay again.|to rewrite|rewriting|rewrote|rewrite|D|Make + O + V nguyên mẫu không to.
+B2|grammar|He is the ___ boy in the class.|taller|most tall|tallest|more tall|C|So sánh nhất của tính từ ngắn: the tallest.
+B2|vocab|Which word is closest in meaning to "thrive"?|develop well|struggle|disappear|wait|A|Thrive là phát triển mạnh, thịnh vượng.
+B2|vocab|Which word is closest in meaning to "genuine"?|fake|authentic|common|recent|B|Genuine = authentic: thật, chính hiệu.
+B2|vocab|Can I give you a ___ of advice?|item|part|piece|number|C|Advice không đếm được: a piece of advice.
+B2|vocab|She is known for being ___.|rely|reliably|reliance|reliable|D|Sau being cần tính từ: reliable.
+B2|vocab|What does "make ends meet" mean?|manage to live on little money|finish a project|join two things|solve a problem|A|Thành ngữ: xoay xở đủ sống.
+B2|vocab|Which word is the opposite of "expand"?|enlarge|shrink|increase|develop|B|Expand (mở rộng) trái nghĩa với shrink (thu hẹp).
+B2|vocab|He was ___ of stealing the money.|blamed|charged|accused|criticised|C|Accuse someone of doing something.
+B2|vocab|Could you ___ your hand if you have a question?|rise|arise|rouse|raise|D|Raise là ngoại động từ: giơ tay lên.
+B2|vocab|If a resource is "scarce", it is:|plentiful|in short supply|expensive|dangerous|B|Scarce nghĩa là khan hiếm.
+B2|vocab|What does "on the whole" mean?|in detail|at once|in general|completely|C|On the whole = nhìn chung.
+B2|vocab|I'd like to make an ___ for a check-up at the clinic.|appointment|agreement|arrangement|engagement|A|Collocation: make an appointment.
+B2|vocab|The two companies decided to ___ forces.|mix|bind|tie|join|D|Cụm cố định: join forces (hợp lực).
+B2|vocab|The ___ of the hotel was excellent.|locate|located|location|locating|C|Sau "the" cần danh từ: location.
+B2|reading|Sleep experts say teenagers need between eight and ten hours of sleep each night. Yet many get far less because of homework, late-night phone use and early school start times. Some schools have started classes later and reported better grades and fewer absences. ¶What happened in schools that started later?|Teachers worked fewer hours.|Students' results improved.|Phone use increased.|Homework was banned.|B|Bài nói điểm số tốt hơn và ít vắng mặt hơn.
+B2|reading|Hi Anna, I'm afraid I can't make it to dinner on Friday. My boss has asked me to attend a client meeting that evening. Could we meet on Saturday instead? I'll book a table at the Italian place you like. Best, Ben ¶Why can't Ben come on Friday?|He has to attend a client meeting.|He is ill.|He is travelling.|He booked another restaurant.|A|Sếp yêu cầu Ben dự cuộc họp với khách hàng.
+B2|reading|Bees play a vital role in agriculture by pollinating crops. In recent years, their numbers have dropped because of pesticides and loss of habitat. Scientists warn that if this continues, food prices could rise. ¶According to the passage, why have bee numbers fallen?|Too many beekeepers|Colder winters|Pesticides and habitat loss|Competition from birds|C|Nguyên nhân nêu rõ là thuốc trừ sâu và mất môi trường sống.
+B2|reading|When Daniel started cycling to work, he expected it to take longer than driving. To his surprise, it was faster during rush hour because he avoided traffic jams. He also saved money on petrol and parking. ¶What surprised Daniel?|Cycling was cheaper.|The bike was comfortable.|Cycling was dangerous.|Cycling was quicker in rush hour.|D|Điều bất ngờ là đạp xe nhanh hơn lúc cao điểm.
+B2|reading|The town council has proposed building a new car park near the market. Supporters say it will ease congestion, but local shop owners worry that construction noise will drive customers away. ¶Why are some shop owners against the plan?|They think car parks are ugly.|They fear losing customers during construction.|They want a bigger market.|They dislike the council.|B|Chủ tiệm lo tiếng ồn thi công làm khách bỏ đi.
+B2|reading|Learning a new language as an adult is often considered difficult, but studies show adults can be faster than children in the early stages because they understand grammar rules and use better strategies. Children, however, usually achieve a more natural accent in the long run. ¶What advantage do children have?|They develop a more natural accent.|They learn grammar faster.|They use better strategies.|They study for longer.|A|Trẻ em thường có giọng tự nhiên hơn về lâu dài.
+B2|reading|Notice: Due to renovation, the gym will be closed from 3 to 14 October. Members' fees will not be charged for this period. The swimming pool will remain open as usual. ¶Which statement is true?|Members must pay during the closure.|The pool will close too.|Gym fees are waived during the closure.|The gym will reopen on 3 October.|C|Phí hội viên không bị tính trong thời gian đóng cửa.
+B2|listen|A: Did you get the tickets for the concert? ¶B: I tried, but they sold out within minutes. ¶Q: What happened to the tickets?|They sold out quickly.|They were cancelled.|They were very cheap.|Speaker B forgot to buy them.|A|Vé bán hết trong vài phút.
+B2|listen|A: Is this seat taken? ¶B: No, go ahead. I was just about to leave. ¶Q: What will Speaker B do next?|Order food|Leave|Save the seat|Ask for identification|B|B nói sắp rời đi.
+B2|listen|Good morning, everyone. Today's weather: cloudy in the morning, with heavy rain expected after lunch. Temperatures will drop to around ten degrees by evening. Remember to take an umbrella. ¶Q: When will it rain heavily?|In the morning|At night|In the afternoon|All day|C|Mưa lớn sau bữa trưa, tức buổi chiều.
+B2|listen|A: I'm thinking of changing jobs. ¶B: Really? I thought you liked working there. ¶A: I do, but the commute is exhausting. ¶Q: Why does Speaker A want to change jobs?|They dislike their colleagues.|The salary is low.|Their boss is strict.|The commute is tiring.|D|A nói việc đi lại rất mệt.
+B2|listen|A: Can I pay by card? ¶B: I'm sorry, our machine is out of order today. We only take cash. ¶Q: What must the customer do?|Come back tomorrow|Pay with cash|Use a machine outside|Wait for repairs|B|Máy hỏng nên chỉ nhận tiền mặt.
+B2|listen|A: How was your trip to Da Nang? ¶B: Wonderful, though it rained for two of the five days. ¶Q: How long was the trip?|Two days|Three days|Five days|Seven days|C|Chuyến đi kéo dài năm ngày.
+B2|listen|A: Shall we split the bill? ¶B: Let me get this one; you paid last time. ¶Q: What does Speaker B offer to do?|Pay the whole bill|Pay half|Ask the waiter for a discount|Leave a tip only|A|Let me get this one nghĩa là để tôi trả.
+B2|toeic|The new policy will take ___ on 1 January.|affect|effect|effective|effectively|B|Cụm cố định: take effect (có hiệu lực).
+B2|toeic|Applicants should have ___ experience in project management.|previous|previously|prevent|previews|A|Cần tính từ trước danh từ experience: previous.
+B2|toeic|We regret to inform you that the position has already been ___.|fill|filling|filled|fills|C|Bị động hoàn thành: has been filled.
+B2|toeic|___ the budget cuts, the department managed to complete all of its projects.|Unless|Because|Whereas|Despite|D|Despite + cụm danh từ chỉ sự nhượng bộ.
+B2|toeic|Please find the revised contract ___ to this message.|attach|attached|attaching|attachment|B|Phân từ quá khứ đứng sau danh từ: attached to.
+B2|toeic|Mr. Tanaka is responsible ___ training new employees.|of|to|for|with|C|Be responsible for + V-ing.
+B2|toeic|The company's sales have increased ___ over the past two years.|steadily|steady|steadiness|steadier|A|Cần trạng từ bổ nghĩa cho động từ increase.
+B2|toeic|Employees are ___ to wear identification badges at all times.|requirement|requiring|require|required|D|Be required to + V: bị yêu cầu phải.

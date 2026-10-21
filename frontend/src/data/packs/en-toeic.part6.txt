@@ -1,0 +1,120 @@
+contract|/ˈkɑːntrækt/|Danh từ|B1|Hợp đồng & Pháp lý|hợp đồng|sign a contract|Both parties signed the contract on Monday morning.|Cả hai bên đã ký hợp đồng vào sáng thứ Hai.
+agreement|/əˈɡriːmənt/|Danh từ|B1|Hợp đồng & Pháp lý|thỏa thuận|reach an agreement|The two sides finally reached an agreement last night.|Hai bên cuối cùng đã đạt được thỏa thuận tối qua.
+clause|/klɔːz/|Danh từ|B2|Hợp đồng & Pháp lý|điều khoản|a termination clause|The contract contains a clause about early termination.|Hợp đồng có một điều khoản về chấm dứt sớm.
+provision|/prəˈvɪʒn/|Danh từ|C1|Hợp đồng & Pháp lý|điều khoản quy định|a legal provision|One provision requires written notice of any changes.|Một quy định yêu cầu thông báo bằng văn bản về mọi thay đổi.
+term|/tɜːrm/|Danh từ|B2|Hợp đồng & Pháp lý|điều kiện|terms and conditions|Please read the terms and conditions before you sign.|Vui lòng đọc các điều khoản và điều kiện trước khi ký.
+party|/ˈpɑːrti/|Danh từ|B2|Hợp đồng & Pháp lý|bên (trong hợp đồng)|the contracting parties|Both parties agreed to the revised terms.|Cả hai bên đồng ý với các điều khoản sửa đổi.
+signatory|/ˈsɪɡnətɔːri/|Danh từ|C1|Hợp đồng & Pháp lý|bên ký kết|an authorized signatory|Only an authorized signatory can approve this document.|Chỉ người có thẩm quyền ký mới được duyệt văn bản này.
+signature|/ˈsɪɡnətʃər/|Danh từ|B1|Hợp đồng & Pháp lý|chữ ký|require a signature|The package requires a signature on delivery.|Gói hàng yêu cầu chữ ký khi giao.
+witness|/ˈwɪtnəs/|Danh từ|B2|Hợp đồng & Pháp lý|người làm chứng|a key witness|A witness must sign the document as well.|Một người làm chứng cũng phải ký vào văn bản.
+notarize|/ˈnoʊtəraɪz/|Động từ|C1|Hợp đồng & Pháp lý|công chứng|notarize a document|You must notarize the contract before submitting it.|Bạn phải công chứng hợp đồng trước khi nộp.
+draft|/dræft/|Danh từ|B2|Hợp đồng & Pháp lý|bản thảo|a draft contract|The lawyer sent us a draft contract for review.|Luật sư gửi chúng tôi bản thảo hợp đồng để xem xét.
+amend|/əˈmend/|Động từ|C1|Hợp đồng & Pháp lý|sửa đổi|amend a contract|Both sides agreed to amend the original contract.|Hai bên đồng ý sửa đổi hợp đồng gốc.
+amendment|/əˈmendmənt/|Danh từ|C1|Hợp đồng & Pháp lý|bản sửa đổi|an amendment to the law|The committee approved an amendment to the lease.|Ủy ban đã duyệt bản sửa đổi hợp đồng thuê.
+renew|/rɪˈnuː/|Động từ|B2|Hợp đồng & Pháp lý|gia hạn|renew a contract|They agreed to renew the contract for another year.|Họ đồng ý gia hạn hợp đồng thêm một năm.
+renewal|/rɪˈnuːəl/|Danh từ|B2|Hợp đồng & Pháp lý|sự gia hạn|a contract renewal|The renewal of the lease is due next month.|Việc gia hạn hợp đồng thuê đến hạn vào tháng sau.
+expire|/ɪkˈspaɪər/|Động từ|B2|Hợp đồng & Pháp lý|hết hạn|expire next week|My driving license expires at the end of the month.|Bằng lái của tôi hết hạn vào cuối tháng.
+expiration|/ˌekspəˈreɪʃn/|Danh từ|C1|Hợp đồng & Pháp lý|sự hết hạn|an expiration date|Check the expiration date before you take the medicine.|Hãy kiểm tra hạn dùng trước khi uống thuốc.
+void|/vɔɪd/|Tính từ|C1|Hợp đồng & Pháp lý|vô hiệu|null and void|The contract is void if either party breaks the law.|Hợp đồng vô hiệu nếu một bên vi phạm pháp luật.
+valid|/ˈvælɪd/|Tính từ|B2|Hợp đồng & Pháp lý|có hiệu lực|a valid passport|This ticket is valid for three months from the date of purchase.|Vé này có hiệu lực ba tháng kể từ ngày mua.
+binding|/ˈbaɪndɪŋ/|Tính từ|C1|Hợp đồng & Pháp lý|có tính ràng buộc|legally binding|A signed agreement is legally binding on both sides.|Thỏa thuận đã ký ràng buộc pháp lý cả hai bên.
+breach|/briːtʃ/|Danh từ|C1|Hợp đồng & Pháp lý|sự vi phạm|a breach of contract|Late delivery is a breach of contract.|Giao hàng trễ là vi phạm hợp đồng.
+violate|/ˈvaɪəleɪt/|Động từ|B2|Hợp đồng & Pháp lý|vi phạm|violate a rule|The company violated environmental regulations several times.|Công ty đã nhiều lần vi phạm quy định môi trường.
+comply|/kəmˈplaɪ/|Động từ|C1|Hợp đồng & Pháp lý|tuân thủ|comply with the law|All firms must comply with the new labor law.|Mọi công ty phải tuân thủ luật lao động mới.
+enforce|/ɪnˈfɔːrs/|Động từ|C1|Hợp đồng & Pháp lý|thực thi|enforce a rule|The government promised to enforce the new traffic rules.|Chính phủ hứa thực thi quy tắc giao thông mới.
+obligation|/ˌɑːblɪˈɡeɪʃn/|Danh từ|C1|Hợp đồng & Pháp lý|nghĩa vụ|a legal obligation|Employers have a legal obligation to protect their workers.|Nhà tuyển dụng có nghĩa vụ pháp lý bảo vệ người lao động.
+liable|/ˈlaɪəbl/|Tính từ|C1|Hợp đồng & Pháp lý|có trách nhiệm pháp lý|be liable for|The owner is liable for any damage to the property.|Chủ sở hữu chịu trách nhiệm cho mọi thiệt hại tài sản.
+indemnify|/ɪnˈdemnɪfaɪ/|Động từ|C1|Hợp đồng & Pháp lý|bồi thường|indemnify against loss|The insurer will indemnify you against any financial loss.|Công ty bảo hiểm sẽ bồi thường cho bạn mọi tổn thất tài chính.
+compensation|/ˌkɑːmpenˈseɪʃn/|Danh từ|B2|Hợp đồng & Pháp lý|tiền bồi thường|claim compensation|He claimed compensation for the injury at work.|Anh ấy yêu cầu bồi thường cho vết thương khi làm việc.
+damages|/ˈdæmɪdʒɪz/|Danh từ|C1|Hợp đồng & Pháp lý|tiền bồi thường thiệt hại|pay damages|The court ordered the firm to pay damages.|Tòa án buộc công ty trả tiền bồi thường thiệt hại.
+lawsuit|/ˈlɔːsuːt/|Danh từ|B2|Hợp đồng & Pháp lý|vụ kiện|file a lawsuit|The customers filed a lawsuit against the airline.|Khách hàng nộp đơn kiện hãng hàng không.
+sue|/suː/|Động từ|B2|Hợp đồng & Pháp lý|kiện|sue a company|He threatened to sue the company for false advertising.|Anh ấy dọa kiện công ty vì quảng cáo sai sự thật.
+plaintiff|/ˈpleɪntɪf/|Danh từ|C1|Hợp đồng & Pháp lý|nguyên đơn|the plaintiff's lawyer|The plaintiff demanded compensation of fifty thousand dollars.|Nguyên đơn đòi bồi thường năm mươi nghìn đô la.
+defendant|/dɪˈfendənt/|Danh từ|C1|Hợp đồng & Pháp lý|bị đơn|the defendant pleaded|The defendant denied all the charges in court.|Bị đơn phủ nhận mọi cáo buộc trước tòa.
+attorney|/əˈtɜːrni/|Danh từ|B2|Hợp đồng & Pháp lý|luật sư|hire an attorney|She hired an attorney to handle her divorce.|Cô ấy thuê luật sư giải quyết việc ly hôn.
+lawyer|/ˈlɔɪər/|Danh từ|B1|Hợp đồng & Pháp lý|luật sư|consult a lawyer|You should consult a lawyer before signing the lease.|Bạn nên hỏi ý kiến luật sư trước khi ký hợp đồng thuê.
+judge|/dʒʌdʒ/|Danh từ|B1|Hợp đồng & Pháp lý|thẩm phán|the presiding judge|The judge dismissed the case for lack of evidence.|Thẩm phán bác vụ án vì thiếu chứng cứ.
+jury|/ˈdʒʊri/|Danh từ|B2|Hợp đồng & Pháp lý|bồi thẩm đoàn|a jury trial|The jury took three days to reach a verdict.|Bồi thẩm đoàn mất ba ngày để đưa ra phán quyết.
+verdict|/ˈvɜːrdɪkt/|Danh từ|C1|Hợp đồng & Pháp lý|phán quyết|reach a verdict|The jury reached a unanimous verdict of not guilty.|Bồi thẩm đoàn nhất trí phán quyết vô tội.
+trial|/ˈtraɪəl/|Danh từ|B2|Hợp đồng & Pháp lý|phiên xét xử|stand trial|The manager will stand trial next spring.|Người quản lý sẽ ra tòa vào mùa xuân tới.
+evidence|/ˈevɪdəns/|Danh từ|B2|Hợp đồng & Pháp lý|bằng chứng|provide evidence|The police found new evidence at the scene.|Cảnh sát tìm thấy bằng chứng mới tại hiện trường.
+testify|/ˈtestɪfaɪ/|Động từ|C1|Hợp đồng & Pháp lý|làm chứng|testify in court|She agreed to testify against her former employer.|Cô ấy đồng ý làm chứng chống lại chủ cũ.
+allege|/əˈledʒ/|Động từ|C1|Hợp đồng & Pháp lý|cáo buộc|allege fraud|The report alleges that the firm hid its losses.|Báo cáo cáo buộc công ty giấu các khoản lỗ.
+accuse|/əˈkjuːz/|Động từ|B2|Hợp đồng & Pháp lý|buộc tội|accuse someone of|He was accused of stealing confidential data.|Anh ấy bị buộc tội đánh cắp dữ liệu mật.
+convict|/kənˈvɪkt/|Động từ|C1|Hợp đồng & Pháp lý|kết tội|be convicted of|The director was convicted of tax evasion.|Giám đốc bị kết tội trốn thuế.
+acquit|/əˈkwɪt/|Động từ|C1|Hợp đồng & Pháp lý|tuyên trắng án|be acquitted|The court acquitted him of all the charges.|Tòa tuyên trắng án cho anh ấy ở mọi cáo buộc.
+penalize|/ˈpiːnəlaɪz/|Động từ|C1|Hợp đồng & Pháp lý|phạt|be penalized|Companies are penalized for dumping waste in rivers.|Các công ty bị phạt vì đổ chất thải xuống sông.
+fine|/faɪn/|Danh từ|B1|Hợp đồng & Pháp lý|tiền phạt|pay a fine|He had to pay a heavy fine for speeding.|Anh ấy phải nộp phạt nặng vì chạy quá tốc độ.
+sanction|/ˈsæŋkʃn/|Danh từ|C1|Hợp đồng & Pháp lý|biện pháp trừng phạt|impose sanctions|The country faced economic sanctions from several nations.|Quốc gia này chịu các lệnh trừng phạt kinh tế từ vài nước.
+legislation|/ˌledʒɪsˈleɪʃn/|Danh từ|C1|Hợp đồng & Pháp lý|luật pháp|new legislation|New legislation protects consumers from false advertising.|Luật mới bảo vệ người tiêu dùng khỏi quảng cáo sai sự thật.
+statute|/ˈstætʃuːt/|Danh từ|C1|Hợp đồng & Pháp lý|đạo luật|a federal statute|The statute limits how long data can be stored.|Đạo luật giới hạn thời gian lưu trữ dữ liệu.
+legal|/ˈliːɡl/|Tính từ|B1|Hợp đồng & Pháp lý|hợp pháp|legal advice|You should seek legal advice before starting a business.|Bạn nên xin tư vấn pháp lý trước khi bắt đầu kinh doanh.
+illegal|/ɪˈliːɡl/|Tính từ|B1|Hợp đồng & Pháp lý|bất hợp pháp|an illegal act|It is illegal to copy software without permission.|Sao chép phần mềm khi chưa được phép là bất hợp pháp.
+lawful|/ˈlɔːfl/|Tính từ|C1|Hợp đồng & Pháp lý|hợp pháp|a lawful order|The employee refused to follow a lawful order.|Nhân viên từ chối làm theo một mệnh lệnh hợp pháp.
+jurisdiction|/ˌdʒʊrɪsˈdɪkʃn/|Danh từ|C1|Hợp đồng & Pháp lý|thẩm quyền xét xử|fall under jurisdiction|The case falls under the jurisdiction of the federal court.|Vụ việc thuộc thẩm quyền của tòa án liên bang.
+arbitration|/ˌɑːrbɪˈtreɪʃn/|Danh từ|C1|Hợp đồng & Pháp lý|trọng tài|go to arbitration|The dispute was settled through arbitration.|Tranh chấp được giải quyết qua trọng tài.
+mediation|/ˌmiːdiˈeɪʃn/|Danh từ|C1|Hợp đồng & Pháp lý|hòa giải|use mediation|Mediation is often faster than going to court.|Hòa giải thường nhanh hơn kiện ra tòa.
+dispute|/dɪˈspjuːt/|Danh từ|B2|Hợp đồng & Pháp lý|tranh chấp|settle a dispute|They settled the dispute over payment without going to court.|Họ giải quyết tranh chấp về thanh toán mà không ra tòa.
+settlement|/ˈsetlmənt/|Danh từ|C1|Hợp đồng & Pháp lý|sự dàn xếp|an out-of-court settlement|The two firms reached an out-of-court settlement.|Hai công ty đạt dàn xếp ngoài tòa.
+copyright|/ˈkɑːpiraɪt/|Danh từ|B2|Hợp đồng & Pháp lý|bản quyền|copyright law|Copyright law protects the work of authors and artists.|Luật bản quyền bảo vệ tác phẩm của tác giả và nghệ sĩ.
+patent|/ˈpætnt/|Danh từ|C1|Hợp đồng & Pháp lý|bằng sáng chế|apply for a patent|The inventor applied for a patent on his new device.|Nhà phát minh nộp đơn xin cấp bằng sáng chế cho thiết bị mới.
+trademark|/ˈtreɪdmɑːrk/|Danh từ|C1|Hợp đồng & Pháp lý|nhãn hiệu đã đăng ký|a registered trademark|The name is a registered trademark of the company.|Cái tên là nhãn hiệu đã đăng ký của công ty.
+plagiarism|/ˈpleɪdʒərɪzəm/|Danh từ|C1|Hợp đồng & Pháp lý|đạo văn|accuse of plagiarism|The student was accused of plagiarism in his essay.|Sinh viên bị cáo buộc đạo văn trong bài luận.
+royalty|/ˈrɔɪəlti/|Danh từ|C1|Hợp đồng & Pháp lý|tiền bản quyền|earn royalties|The author earns royalties on every book sold.|Tác giả nhận tiền bản quyền trên mỗi cuốn bán ra.
+license|/ˈlaɪsns/|Danh từ|B1|Hợp đồng & Pháp lý|giấy phép|a business license|You need a license to open a restaurant here.|Bạn cần giấy phép để mở nhà hàng ở đây.
+permit|/ˈpɜːrmɪt/|Danh từ|B2|Hợp đồng & Pháp lý|giấy phép chính thức|a work permit|He applied for a work permit to stay in Canada.|Anh ấy nộp đơn xin giấy phép lao động để ở lại Canada.
+certificate|/sərˈtɪfɪkət/|Danh từ|B1|Hợp đồng & Pháp lý|giấy chứng nhận|a birth certificate|You must show a certificate of registration.|Bạn phải xuất trình giấy chứng nhận đăng ký.
+authorization|/ˌɔːθərəˈzeɪʃn/|Danh từ|C1|Hợp đồng & Pháp lý|sự ủy quyền|written authorization|You need written authorization to enter the laboratory.|Bạn cần có ủy quyền bằng văn bản để vào phòng thí nghiệm.
+consent|/kənˈsent/|Danh từ|B2|Hợp đồng & Pháp lý|sự đồng ý|written consent|Parents must give written consent for the school trip.|Phụ huynh phải đồng ý bằng văn bản cho chuyến đi của trường.
+waiver|/ˈweɪvər/|Danh từ|C1|Hợp đồng & Pháp lý|giấy miễn trừ|sign a waiver|Visitors must sign a waiver before using the climbing wall.|Khách phải ký giấy miễn trừ trước khi dùng tường leo núi.
+disclaimer|/dɪsˈkleɪmər/|Danh từ|C1|Hợp đồng & Pháp lý|tuyên bố miễn trách nhiệm|a legal disclaimer|The website has a disclaimer at the bottom of every page.|Trang web có tuyên bố miễn trách nhiệm ở cuối mỗi trang.
+confidentiality|/ˌkɑːnfɪˌdenʃiˈæləti/|Danh từ|C1|Hợp đồng & Pháp lý|tính bảo mật|a confidentiality agreement|Staff signed a confidentiality agreement on their first day.|Nhân viên ký thỏa thuận bảo mật vào ngày đầu tiên.
+disclose|/dɪsˈkloʊz/|Động từ|C1|Hợp đồng & Pháp lý|tiết lộ|disclose information|You must not disclose any client information to outsiders.|Bạn không được tiết lộ thông tin khách hàng cho người ngoài.
+privacy|/ˈpraɪvəsi/|Danh từ|B2|Hợp đồng & Pháp lý|quyền riêng tư|a privacy policy|Please read our privacy policy before using the app.|Vui lòng đọc chính sách quyền riêng tư trước khi dùng ứng dụng.
+lease|/liːs/|Danh từ|B2|Hợp đồng & Pháp lý|hợp đồng thuê|sign a lease|They signed a two-year lease for the office space.|Họ ký hợp đồng thuê hai năm cho mặt bằng văn phòng.
+landlord|/ˈlændlɔːrd/|Danh từ|B1|Hợp đồng & Pháp lý|chủ nhà|a strict landlord|The landlord raised the rent by ten percent.|Chủ nhà tăng tiền thuê lên mười phần trăm.
+tenant|/ˈtenənt/|Danh từ|B2|Hợp đồng & Pháp lý|người thuê nhà|a new tenant|The new tenant moves in at the start of next month.|Người thuê mới dọn vào đầu tháng sau.
+rent|/rent/|Danh từ|B1|Hợp đồng & Pháp lý|tiền thuê|pay the rent|I pay the rent on the first day of each month.|Tôi trả tiền thuê vào ngày đầu mỗi tháng.
+tenancy|/ˈtenənsi/|Danh từ|C1|Hợp đồng & Pháp lý|thời hạn thuê|a tenancy agreement|Our tenancy agreement ends in September.|Hợp đồng thuê của chúng tôi kết thúc vào tháng Chín.
+eviction|/ɪˈvɪkʃn/|Danh từ|C1|Hợp đồng & Pháp lý|việc đuổi khỏi nhà|face eviction|Several families face eviction because they cannot pay rent.|Vài gia đình đối mặt việc bị đuổi vì không trả nổi tiền thuê.
+property|/ˈprɑːpərti/|Danh từ|B1|Hợp đồng & Pháp lý|bất động sản|a rental property|He owns several rental properties in the suburbs.|Ông ấy sở hữu vài bất động sản cho thuê ở ngoại ô.
+deed|/diːd/|Danh từ|C1|Hợp đồng & Pháp lý|văn bản chuyển nhượng|the title deed|The title deed proves that she owns the land.|Văn bản quyền sở hữu chứng minh cô ấy sở hữu mảnh đất.
+heir|/er/|Danh từ|C1|Hợp đồng & Pháp lý|người thừa kế|the sole heir|He is the sole heir to his father's company.|Anh ấy là người thừa kế duy nhất công ty của cha.
+inherit|/ɪnˈherɪt/|Động từ|B2|Hợp đồng & Pháp lý|thừa kế|inherit property|She inherited a small farm from her grandmother.|Cô ấy thừa kế một trang trại nhỏ từ bà.
+will|/wɪl/|Danh từ|B2|Hợp đồng & Pháp lý|di chúc|make a will|It is wise to make a will while you are healthy.|Lập di chúc khi còn khỏe mạnh là điều khôn ngoan.
+guardian|/ˈɡɑːrdiən/|Danh từ|B2|Hợp đồng & Pháp lý|người giám hộ|a legal guardian|A legal guardian must sign the form for minors.|Người giám hộ hợp pháp phải ký đơn cho trẻ vị thành niên.
+citizen|/ˈsɪtɪzn/|Danh từ|B1|Hợp đồng & Pháp lý|công dân|a law-abiding citizen|Every citizen has the right to vote.|Mọi công dân đều có quyền bầu cử.
+resident|/ˈrezɪdənt/|Danh từ|B2|Hợp đồng & Pháp lý|cư dân|a permanent resident|He became a permanent resident after five years.|Anh ấy trở thành thường trú nhân sau năm năm.
+bylaw|/ˈbaɪlɔː/|Danh từ|C1|Hợp đồng & Pháp lý|quy định địa phương|a local bylaw|A local bylaw bans noisy work after ten at night.|Một quy định địa phương cấm làm việc ồn sau mười giờ đêm.
+subpoena|/səˈpiːnə/|Danh từ|C1|Hợp đồng & Pháp lý|lệnh triệu tập|receive a subpoena|The manager received a subpoena to appear in court.|Quản lý nhận lệnh triệu tập ra hầu tòa.
+affidavit|/ˌæfəˈdeɪvɪt/|Danh từ|C1|Hợp đồng & Pháp lý|bản khai có tuyên thệ|sign an affidavit|He signed an affidavit confirming his address.|Anh ấy ký bản khai tuyên thệ xác nhận địa chỉ.
+litigation|/ˌlɪtɪˈɡeɪʃn/|Danh từ|C1|Hợp đồng & Pháp lý|việc kiện tụng|costly litigation|Costly litigation forced the small firm to close.|Vụ kiện tốn kém buộc công ty nhỏ phải đóng cửa.
+negligence|/ˈneɡlɪdʒəns/|Danh từ|C1|Hợp đồng & Pháp lý|sự cẩu thả|gross negligence|The hospital was sued for medical negligence.|Bệnh viện bị kiện vì sơ suất y tế.
+bribery|/ˈbraɪbəri/|Danh từ|C1|Hợp đồng & Pháp lý|việc hối lộ|a bribery scandal|The minister resigned after the bribery scandal.|Bộ trưởng từ chức sau vụ bê bối hối lộ.
+corruption|/kəˈrʌpʃn/|Danh từ|B2|Hợp đồng & Pháp lý|tham nhũng|fight corruption|The government launched a campaign to fight corruption.|Chính phủ phát động chiến dịch chống tham nhũng.
+whistleblower|/ˈwɪslbloʊər/|Danh từ|C1|Hợp đồng & Pháp lý|người tố giác|protect a whistleblower|The law protects whistleblowers from being fired.|Luật bảo vệ người tố giác khỏi bị sa thải.
+ethics|/ˈeθɪks/|Danh từ|B2|Hợp đồng & Pháp lý|đạo đức|business ethics|Business ethics are taught in every management course.|Đạo đức kinh doanh được dạy trong mọi khóa quản lý.
+ethical|/ˈeθɪkl/|Tính từ|B2|Hợp đồng & Pháp lý|có đạo đức|ethical behavior|The company is known for its ethical sourcing practices.|Công ty nổi tiếng với cách tìm nguồn cung có đạo đức.
+transparency|/trænsˈpærənsi/|Danh từ|C1|Hợp đồng & Pháp lý|sự minh bạch|financial transparency|Investors demand greater transparency from the board.|Nhà đầu tư đòi hội đồng quản trị minh bạch hơn.
+regulatory|/ˈreɡjələtɔːri/|Tính từ|C1|Hợp đồng & Pháp lý|thuộc quản lý nhà nước|a regulatory body|A regulatory body checks the safety of all new drugs.|Một cơ quan quản lý kiểm tra an toàn của mọi thuốc mới.
+warranty claim|/ˈwɔːrənti kleɪm/|Danh từ|B2|Hợp đồng & Pháp lý|yêu cầu bảo hành|make a warranty claim|She made a warranty claim after the washer broke.|Cô ấy yêu cầu bảo hành sau khi máy giặt hỏng.
+terms of payment|/tɜːrmz əv ˈpeɪmənt/|Danh từ|B2|Hợp đồng & Pháp lý|điều khoản thanh toán|agree on terms of payment|We agreed on terms of payment of thirty days.|Chúng tôi thống nhất điều khoản thanh toán ba mươi ngày.
+exclusivity|/ˌekskluːˈsɪvəti/|Danh từ|C1|Hợp đồng & Pháp lý|quyền độc quyền|grant exclusivity|The deal gives the distributor exclusivity in Asia.|Thỏa thuận trao cho nhà phân phối quyền độc quyền ở châu Á.
+non-compete|/ˌnɑːn kəmˈpiːt/|Tính từ|C1|Hợp đồng & Pháp lý|cấm cạnh tranh|a non-compete clause|He signed a non-compete clause when he joined the firm.|Anh ấy ký điều khoản cấm cạnh tranh khi vào công ty.
+stipulate|/ˈstɪpjuleɪt/|Động từ|C1|Hợp đồng & Pháp lý|quy định rõ|stipulate conditions|The contract stipulates that payment is due in thirty days.|Hợp đồng quy định thanh toán đến hạn trong ba mươi ngày.
+specify|/ˈspesɪfaɪ/|Động từ|B2|Hợp đồng & Pháp lý|nêu cụ thể|specify requirements|Please specify the color and size you need.|Vui lòng nêu rõ màu và cỡ bạn cần.
+hereby|/hɪrˈbaɪ/|Phó từ|C1|Hợp đồng & Pháp lý|theo đây|I hereby confirm|I hereby confirm that all the information is correct.|Tôi theo đây xác nhận mọi thông tin là chính xác.
+thereafter|/ðerˈæftər/|Phó từ|C1|Hợp đồng & Pháp lý|sau đó|and thereafter|Payment is due on delivery and monthly thereafter.|Thanh toán đến hạn khi giao hàng và hằng tháng sau đó.
+undersigned|/ˌʌndərˈsaɪnd/|Danh từ|C1|Hợp đồng & Pháp lý|người ký tên dưới đây|the undersigned|The undersigned agrees to all the terms stated above.|Người ký tên dưới đây đồng ý mọi điều khoản nêu trên.
+notary|/ˈnoʊtəri/|Danh từ|C1|Hợp đồng & Pháp lý|công chứng viên|a notary public|A notary stamped and signed the document.|Công chứng viên đóng dấu và ký vào văn bản.
+power of attorney|/ˌpaʊər əv əˈtɜːrni/|Danh từ|C1|Hợp đồng & Pháp lý|giấy ủy quyền|grant power of attorney|He gave his lawyer power of attorney to sell the house.|Ông ấy trao giấy ủy quyền cho luật sư bán nhà.
+binding contract|/ˈbaɪndɪŋ ˈkɑːntrækt/|Danh từ|C1|Hợp đồng & Pháp lý|hợp đồng ràng buộc|a binding contract|A verbal promise is rarely a binding contract.|Lời hứa miệng hiếm khi là hợp đồng ràng buộc.
+oral agreement|/ˈɔːrəl əˈɡriːmənt/|Danh từ|B2|Hợp đồng & Pháp lý|thỏa thuận miệng|an oral agreement|An oral agreement is hard to prove in court.|Thỏa thuận miệng khó chứng minh trước tòa.
+fine print|/ˈfaɪn prɪnt/|Danh từ|B2|Hợp đồng & Pháp lý|điều khoản chữ nhỏ|read the fine print|Always read the fine print before you sign up.|Luôn đọc kỹ điều khoản chữ nhỏ trước khi đăng ký.
+legal counsel|/ˈliːɡl ˈkaʊnsl/|Danh từ|C1|Hợp đồng & Pháp lý|cố vấn pháp lý|seek legal counsel|The firm sought legal counsel before the merger.|Công ty tìm cố vấn pháp lý trước khi sáp nhập.
+due diligence|/ˌduː ˈdɪlɪdʒəns/|Danh từ|C1|Hợp đồng & Pháp lý|thẩm định|conduct due diligence|Investors conducted due diligence before buying the company.|Nhà đầu tư thẩm định kỹ trước khi mua công ty.
+injunction|/ɪnˈdʒʌŋkʃn/|Danh từ|C1|Hợp đồng & Pháp lý|lệnh cấm của tòa|a court injunction|A court injunction stopped the company from using the logo.|Lệnh của tòa cấm công ty dùng biểu tượng đó.
+ruling|/ˈruːlɪŋ/|Danh từ|C1|Hợp đồng & Pháp lý|phán quyết|a court ruling|The ruling surprised legal experts across the country.|Phán quyết khiến các chuyên gia pháp lý cả nước ngạc nhiên.
+prosecute|/ˈprɑːsɪkjuːt/|Động từ|C1|Hợp đồng & Pháp lý|truy tố|be prosecuted|Anyone caught stealing will be prosecuted.|Ai bị bắt quả tang trộm cắp sẽ bị truy tố.
+innocent|/ˈɪnəsnt/|Tính từ|B1|Hợp đồng & Pháp lý|vô tội|plead innocent|He pleaded innocent to all the charges.|Anh ấy tuyên bố vô tội trước mọi cáo buộc.
+guilty|/ˈɡɪlti/|Tính từ|B1|Hợp đồng & Pháp lý|có tội|found guilty|The jury found the manager guilty of fraud.|Bồi thẩm đoàn kết luận quản lý phạm tội gian lận.

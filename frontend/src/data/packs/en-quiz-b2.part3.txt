@@ -1,0 +1,50 @@
+B2|grammar|I ___ TV when the phone rang.|was watching|watched|have watched|watch|A|Hành động đang diễn ra bị cắt ngang dùng quá khứ tiếp diễn.
+B2|grammar|You can borrow my car ___ you drive carefully.|unless|in case|as long as|although|C|As long as = miễn là, chỉ điều kiện.
+B2|grammar|She has been working here ___ five years.|since|during|from|for|D|For + khoảng thời gian.
+B2|grammar|If it ___ tomorrow, we'll cancel the picnic.|will rain|rains|rained|would rain|B|Điều kiện loại 1: if + hiện tại đơn.
+B2|grammar|The room was ___ dirty that we had to clean it.|such|too|so|very|C|So + tính từ + that.
+B2|grammar|I regret ___ you that the flight is cancelled.|to tell|telling|tell|told|A|Regret to tell: tiếc phải thông báo.
+B2|grammar|She lent me the book ___ I could finish the assignment.|in order|even though|as if|so that|D|So that chỉ mục đích.
+B2|grammar|He passed the exam, ___ surprised everyone.|what|that|which|who|C|Which thay cho cả mệnh đề phía trước.
+B2|grammar|I'm looking for someone ___ can fix computers.|who|whom|whose|what|A|Who làm chủ ngữ cho mệnh đề quan hệ chỉ người.
+B2|grammar|She doesn't mind ___ late.|to work|working|work|worked|B|Mind + V-ing.
+B2|grammar|We ___ have gone out if the weather had been better.|will|had|would|can|C|Điều kiện loại 3: would have + V3.
+B2|grammar|Tom, along with his friends, ___ coming to the party.|are|were|be|is|D|Chủ ngữ chính là Tom (số ít), along with không đổi chủ ngữ.
+B2|grammar|There ___ a lot of people at the concert last night.|was|is|were|have been|C|People là số nhiều, thì quá khứ: were.
+B2|grammar|I'd like to know how much ___.|it costs|does it cost|it cost|did it cost|A|Câu hỏi gián tiếp dùng trật tự khẳng định.
+B2|grammar|Mathematics ___ my favourite subject.|are|is|were|be|B|Tên môn học tận cùng -ics là danh từ số ít.
+B2|vocab|If you "hesitate", you:|pause before acting because you are unsure|hurry|refuse loudly|agree at once|A|Hesitate là do dự.
+B2|vocab|He's very ___; he never gives up.|determination|determined|determine|determining|B|Cần tính từ sau be: determined.
+B2|vocab|What does "keep an eye on" mean?|look away from|damage|watch carefully|borrow|C|Keep an eye on = để mắt tới.
+B2|vocab|The film received ___ reviews from critics.|crowded|blended|combined|mixed|D|Collocation: mixed reviews (đánh giá trái chiều).
+B2|vocab|She was ___ to learn that she had won.|delighted|delight|delightful|delightfully|A|Be delighted to: vui mừng khi.
+B2|vocab|What does "carry out" mean in "carry out a survey"?|cancel|conduct|avoid|copy|B|Carry out = tiến hành, thực hiện.
+B2|vocab|He apologised for his ___ behaviour.|rudeness|rudely|rude|rudity|C|Cần tính từ trước danh từ behaviour: rude.
+B2|vocab|Which word is closest in meaning to "enormous"?|tiny|normal|ancient|huge|D|Enormous = huge: khổng lồ.
+B2|vocab|There was a sudden ___ of laughter from the audience.|burst|strike|break|cut|A|Collocation: a burst of laughter.
+B2|vocab|Which word is the opposite of "temporary"?|brief|permanent|short|occasional|B|Temporary (tạm thời) trái nghĩa với permanent (vĩnh viễn).
+B2|vocab|We've run ___ of sugar.|off|away|out|down|C|Run out of: cạn kiệt.
+B2|vocab|She is highly ___ for the role.|responsibly|response|responsibility|responsible|D|Be responsible for cần tính từ responsible.
+B2|reading|Jenny joined a local choir to meet new people after moving to a new city. At first she was nervous because she had never sung in public. After a few weeks, however, she felt part of the group and now looks forward to rehearsals every Thursday. ¶How does Jenny feel about the choir now?|Nervous about singing alone|Bored with the rehearsals|Keen to take part|Planning to leave|C|Looks forward to cho thấy cô rất mong đợi.
+B2|reading|Fast fashion allows consumers to buy trendy clothes cheaply, but it has a high environmental cost. Producing a single cotton T-shirt can require thousands of litres of water, and many garments end up in landfills after only a few wears. ¶What is the writer's main point?|Clothes are too expensive.|Landfills are completely full.|Cotton is the best fabric.|Cheap fashion has environmental drawbacks.|D|Ý chính là thời trang nhanh gây hại môi trường.
+B2|reading|The company's new open-plan office was designed to encourage communication. However, many employees complain that noise makes it hard to concentrate. As a result, management is considering adding quiet rooms. ¶What problem do employees report?|It is too noisy to concentrate.|The office is too small.|Few people talk to each other.|Quiet rooms are too expensive.|A|Nhân viên phàn nàn tiếng ồn khiến khó tập trung.
+B2|reading|Marathon runner Lisa trains six days a week. She eats mostly vegetables, rice and fish, and sleeps at least eight hours. She says rest is as important as training because muscles grow stronger while recovering. ¶Why does Lisa think rest is important?|It helps her lose weight.|It lets her muscles recover and grow stronger.|It saves her money.|It makes her run faster immediately.|B|Cô nói cơ bắp khỏe hơn trong lúc hồi phục.
+B2|reading|Some people prefer e-books because they are light and can hold hundreds of titles. Others prefer printed books, saying that holding a real book makes reading more enjoyable and less tiring for the eyes. ¶Why do some people prefer printed books?|They are cheaper.|They are lighter.|They find them more pleasant and easier on the eyes.|They can store more titles.|C|Bài nêu sách in dễ chịu hơn và đỡ mỏi mắt.
+B2|reading|Last week the city introduced a bicycle-sharing scheme. Users can rent a bike for 30 minutes at no cost, after which they pay a small fee. The scheme aims to reduce car use in the centre. ¶What is the purpose of the scheme?|To raise taxes|To promote tourism|To sell bicycles|To cut the number of cars in the centre|D|Mục tiêu là giảm xe hơi ở trung tâm.
+B2|reading|I used to think that visiting museums was boring. Then a friend took me to an interactive science museum where I could touch the exhibits and try experiments. I've been a fan ever since. ¶Why did the writer change his or her mind?|The museum let visitors take part in activities.|The museum was free.|A teacher recommended it.|The museum was close to home.|A|Tác giả thích vì được chạm vào hiện vật và thử thí nghiệm.
+B2|reading|Passengers are reminded that liquids over 100 ml are not permitted in hand luggage. Containers must be placed in a clear plastic bag at the security check. Items bought after security may be carried on board. ¶What may passengers take on board?|Large bottles of water from home|Liquids bought after the security check|Liquids in glass jars of 500 ml|Perfume in unmarked bags|B|Hàng mua sau khu kiểm tra an ninh được mang lên máy bay.
+B2|listen|A: You look tired. ¶B: I was up all night finishing a project. ¶Q: Why is Speaker B tired?|They were ill.|They went to a party.|They worked through the night.|They travelled all day.|C|B thức cả đêm hoàn thành dự án.
+B2|listen|Welcome to the City Museum. Guided tours start every hour on the hour. The last tour begins at four o'clock. Photography is allowed, but please do not use flash. ¶Q: What is NOT allowed?|Taking photographs|Joining a guided tour|Visiting after four|Using flash|D|Chụp ảnh được phép nhưng không dùng đèn flash.
+B2|listen|A: What time does the meeting start? ¶B: It was moved from ten to half past eleven. ¶Q: When does the meeting start now?|At 11:30|At 10:00|At 10:30|At 11:00|A|Half past eleven là 11:30.
+B2|listen|A: I can't find my wallet anywhere. ¶B: Have you checked your jacket? ¶A: Yes, and my bag. ¶B: Maybe you left it in the taxi. ¶Q: What does Speaker B suggest?|Calling the bank|The wallet may be in the taxi.|Buying a new wallet|Searching the office|B|B gợi ý có thể để quên trong taxi.
+B2|listen|A: Would you mind turning the music down? ¶B: Oh, sorry. I didn't realise it was so loud. ¶Q: What does Speaker A want?|To borrow some music|To turn the music up|To change the song|The music to be quieter|D|Turn down nghĩa là giảm âm lượng.
+B2|listen|A: How long have you lived in this neighbourhood? ¶B: About ten years. I moved here just after I got married. ¶Q: When did Speaker B move there?|About ten years ago, after getting married|Last year|Before getting married|Two years ago|A|B sống ở đó khoảng mười năm, chuyển đến sau khi kết hôn.
+B2|listen|A: I'd like to return this shirt. It's too small. ¶B: Do you have the receipt? ¶Q: What does the shop assistant ask for?|Proof of address|A different size|The receipt|A credit card|C|Người bán hỏi biên lai.
+B2|toeic|The quarterly report will be ___ to all department heads on Monday.|distributed|distribute|distributing|distribution|A|Bị động tương lai: will be + V3.
+B2|toeic|Our company is committed ___ customer satisfaction.|in|to|at|on|B|Be committed to + danh từ/V-ing.
+B2|toeic|Ms. Garcia was promoted ___ her outstanding sales record.|so|although|because of|while|C|Because of + cụm danh từ chỉ nguyên nhân.
+B2|toeic|The new software will ___ our productivity significantly.|improvement|improved|improving|improve|D|Sau will cần động từ nguyên mẫu.
+B2|toeic|We apologize for the ___ caused by the late delivery.|inconvenient|inconvenience|inconveniently|convenience|B|Cần danh từ sau "the": inconvenience.
+B2|toeic|Visitors are asked to ___ at the front desk before entering the building.|register|registry|registered|registering|A|Sau to cần động từ nguyên mẫu: register.
+B2|toeic|The workshop is open to ___ employee in the company.|all|every|both|several|B|Every đi với danh từ số ít.
+B2|toeic|She is highly ___ for the role.|qualify|qualification|qualifies|qualified|D|Be qualified for: đủ tiêu chuẩn cho.

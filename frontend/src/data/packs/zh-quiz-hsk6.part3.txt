@@ -1,0 +1,25 @@
+6|grammar|___人们的生活水平提高了,环境问题也越来越突出。|关于|至于|对于|随着|D|随着…(越来越…) nghĩa là cùng với…, diễn tả xu hướng thay đổi theo.
+6|grammar|他___有丰富的经验,___缺乏创新精神。|宁可 / 也|固然 / 但是|与其 / 不如|既然 / 就|B|固然…但是… nghĩa là đúng là…nhưng…, thừa nhận một mặt rồi chuyển ngoặt.
+6|grammar|___能按时完成任务,我们宁可加班。|即使|不管|只要|为了|D|为了 + mục đích: để kịp hoàn thành nhiệm vụ.
+6|grammar|这个计划太冒险,___放弃为好。|不但|何况|况且|不如|D|不如 + động từ nghĩa là chi bằng, tốt hơn là.
+6|grammar|大家___反对,他___坚持自己的意见。|即使 / 就|尽管 / 仍然|因为 / 所以|只要 / 就|B|尽管…仍然… nghĩa là mặc dù…vẫn…
+6|grammar|他的话___有道理,但是做起来并不容易。|固然|既然|宁可|何必|A|固然 có lý, nhưng thực hiện không dễ.
+6|grammar|___你是谁,都必须遵守规定。|无论|以免|既然|幸亏|A|无论…都… nghĩa là bất kể…đều…
+6|grammar|出发前要检查好行李,___落下重要的东西。|何况|以免|从而|何必|B|以免 nghĩa là để tránh, đừng để xảy ra điều không mong muốn.
+6|vocab|“拜托”的意思是:|xin lỗi|nhờ vả, làm ơn|cảm ơn|từ chối|B|拜托 là nhờ cậy, xin làm ơn.
+6|vocab|“对付”在“你怎么对付这个问题”里的意思是:|né tránh|giải thích|bỏ qua|xử lý, đối phó|D|对付 nghĩa là đối phó, ứng phó.
+6|vocab|“兑现”最合适的搭配是:|兑现天气|兑现衣服|兑现承诺|兑现房子|C|兑现承诺 nghĩa là thực hiện lời hứa.
+6|vocab|“掩饰”的意思是:|chúc mừng|phát hiện|che giấu|bộc lộ|C|掩饰 là che giấu, giấu giếm.
+6|vocab|“坚固”形容:|声音|天气|心情|桥梁|D|坚固 là vững chắc, dùng cho vật thể như cầu.
+6|vocab|“寂静”最接近:|拥挤|安静|热闹|明亮|B|寂静 là tĩnh lặng, gần với 安静.
+6|reading|有人认为,压力总是有害的,其实适度的压力可以激发人的潜能。关键在于如何调节,让压力成为动力,而不是负担。¶作者的观点是:|应该完全避免压力|压力越大越好|适度压力可以成为动力|压力完全有害|C|Tác giả cho rằng áp lực vừa phải có thể thành động lực.
+6|reading|传统手工艺品之所以珍贵,不仅因为材料,更因为其中凝聚着匠人的心血。在机器大量生产的今天,这种珍贵显得尤为难得。¶传统手工艺品珍贵的主要原因是:|数量很多|材料很贵|凝聚匠人心血|机器制造|C|Bài nói 凝聚着匠人的心血 (tâm huyết của thợ thủ công).
+6|reading|近年来,许多城市出现了“无人超市”。顾客扫码进门,自助选购,出门时自动结算。虽然方便,但也有人担心老年人用不惯这类设备。¶有人担心什么?|商品太少|价格太高|老年人不会用|营业时间短|C|Có người lo người già không quen dùng thiết bị.
+6|reading|语言是文化的载体。一个民族的语言消失了,这个民族独特的文化也往往随之消失。因此保护语言,就是保护文化的多样性。¶这段话的结论是:|保护语言就是保护文化多样性|文化消失无所谓|语言不会消失|语言可以不保护|A|Kết luận: bảo vệ ngôn ngữ chính là bảo vệ sự đa dạng văn hóa.
+6|reading|科学家发现,长期熬夜不仅会让人精神不振,还可能增加患心脏病的风险。所以,规律的作息对健康至关重要。¶熬夜可能带来什么后果?|精神更好|更聪明|增加心脏病风险|更长寿|C|Thức khuya làm tăng nguy cơ bệnh tim.
+6|reading|这位老教授退休后并没有闲着,他走进社区,为老人们讲解健康知识。他说:“能为大家做点事,我觉得比什么都快乐。”¶老教授退休后:|开了公司|出国旅游|在家休息|为老人讲健康知识|D|Ông giảng kiến thức sức khỏe cho người già ở khu dân cư.
+6|listen|A:这次谈判的结果怎么样?¶B:对方提出的条件太苛刻,我们还需要再商量商量。|谈判成功|条件太苛刻需再商量|对方撤退|已经签约|B|B nói điều kiện bên kia quá khắt khe, cần bàn thêm.
+6|listen|A:你对这个方案有什么意见?¶B:总体不错,不过预算方面还有待完善。|预算没问题|总体不错预算待完善|完全不同意|方案很糟|B|B nói tổng thể ổn, ngân sách còn cần hoàn thiện.
+6|listen|A:听说他被公司辞退了?¶B:不是辞退,是他主动辞职,想自己创业。|被开除|搬家了|主动辞职创业|去留学|C|B nói anh ấy tự xin nghỉ để khởi nghiệp.
+6|listen|A:你觉得这部电影怎么样?¶B:情节虽然老套,但演员的演技确实没话说。|电影很新颖|演员很差|演技很出色|情节很精彩|C|B khen diễn xuất không chê vào đâu được.
+6|listen|A:这个消息可靠吗?¶B:我也是听别人说的,在没有证实之前,先别外传。|B 亲眼看到|不要传出去|消息已证实|消息不重要|B|B dặn chưa xác thực thì đừng truyền ra ngoài.

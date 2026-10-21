@@ -1,0 +1,140 @@
+go|/ɡoʊ/|Động từ|A1|Động từ thông dụng|đi|go to school|I go to school by bike.|Tôi đi học bằng xe đạp.
+come|/kʌm/|Động từ|A1|Động từ thông dụng|đến|come here|Please come to my house.|Mời bạn đến nhà tôi.
+eat|/iːt/|Động từ|A1|Động từ thông dụng|ăn|eat lunch|We eat dinner at seven.|Chúng tôi ăn tối lúc bảy giờ.
+drink|/drɪŋk/|Động từ|A1|Động từ thông dụng|uống|drink water|I drink milk every morning.|Tôi uống sữa mỗi sáng.
+sleep|/sliːp/|Động từ|A1|Động từ thông dụng|ngủ|sleep well|I sleep eight hours a night.|Tôi ngủ tám tiếng mỗi đêm.
+wake|/weɪk/|Động từ|A2|Động từ thông dụng|thức dậy|wake up|I wake up at six.|Tôi thức dậy lúc sáu giờ.
+sit|/sɪt/|Động từ|A1|Động từ thông dụng|ngồi|sit down|Please sit down.|Xin mời ngồi.
+stand|/stænd/|Động từ|A1|Động từ thông dụng|đứng|stand up|Everyone stood up.|Mọi người đều đứng dậy.
+open|/ˈoʊpən/|Động từ|A1|Động từ thông dụng|mở|open the door|Can you open the window?|Bạn mở cửa sổ giúp tôi được không?
+close|/kloʊz/|Động từ|A1|Động từ thông dụng|đóng|close the door|Please close the door.|Làm ơn đóng cửa lại.
+give|/ɡɪv/|Động từ|A1|Động từ thông dụng|cho, tặng|give a gift|I gave her a book.|Tôi tặng cô ấy một cuốn sách.
+take|/teɪk/|Động từ|A1|Động từ thông dụng|lấy, mang|take a bus|Take an umbrella with you.|Hãy mang theo ô.
+bring|/brɪŋ/|Động từ|A2|Động từ thông dụng|mang đến|bring a friend|Please bring your passport.|Hãy mang theo hộ chiếu.
+buy|/baɪ/|Động từ|A1|Động từ thông dụng|mua|buy food|She bought a new coat.|Cô ấy đã mua một chiếc áo khoác mới.
+sell|/sel/|Động từ|A1|Động từ thông dụng|bán|sell fruit|He sells vegetables at the market.|Anh ấy bán rau ở chợ.
+make|/meɪk/|Động từ|A1|Động từ thông dụng|làm, chế tạo|make a cake|My mom makes delicious soup.|Mẹ tôi nấu súp rất ngon.
+do|/duː/|Động từ|A1|Động từ thông dụng|làm|do homework|What are you doing?|Bạn đang làm gì thế?
+have|/hæv/|Động từ|A1|Động từ thông dụng|có|have a car|I have two brothers.|Tôi có hai anh trai.
+get|/ɡet/|Động từ|A1|Động từ thông dụng|nhận, lấy|get a job|I got a letter today.|Hôm nay tôi nhận được một lá thư.
+see|/siː/|Động từ|A1|Động từ thông dụng|nhìn thấy|see a movie|I can see the mountain.|Tôi có thể nhìn thấy ngọn núi.
+look|/lʊk/|Động từ|A1|Động từ thông dụng|nhìn|look at|Look at the board.|Hãy nhìn lên bảng.
+watch|/wɑːtʃ/|Động từ|A1|Động từ thông dụng|xem|watch TV|We watch TV after dinner.|Chúng tôi xem TV sau bữa tối.
+hear|/hɪr/|Động từ|A1|Động từ thông dụng|nghe thấy|hear a noise|I can't hear you.|Tôi không nghe thấy bạn.
+say|/seɪ/|Động từ|A1|Động từ thông dụng|nói|say hello|What did he say?|Anh ấy đã nói gì?
+tell|/tel/|Động từ|A1|Động từ thông dụng|kể, bảo|tell a story|Please tell me your name.|Làm ơn cho tôi biết tên bạn.
+ask|/æsk/|Động từ|A1|Động từ thông dụng|hỏi|ask a question|Can I ask you a question?|Tôi hỏi bạn một câu được không?
+answer|/ˈænsər/|Động từ|A1|Động từ thông dụng|trả lời|answer the phone|Please answer the question.|Hãy trả lời câu hỏi.
+know|/noʊ/|Động từ|A1|Động từ thông dụng|biết|know the answer|I know her very well.|Tôi biết cô ấy rất rõ.
+think|/θɪŋk/|Động từ|A1|Động từ thông dụng|nghĩ|think about|I think it is a good idea.|Tôi nghĩ đó là ý hay.
+understand|/ˌʌndərˈstænd/|Động từ|A1|Động từ thông dụng|hiểu|understand English|I don't understand this word.|Tôi không hiểu từ này.
+remember|/rɪˈmembər/|Động từ|A2|Động từ thông dụng|nhớ|remember my name|I remember her face.|Tôi nhớ khuôn mặt cô ấy.
+forget|/fərˈɡet/|Động từ|A2|Động từ thông dụng|quên|forget a name|Don't forget your keys.|Đừng quên chìa khóa của bạn.
+want|/wɑːnt/|Động từ|A1|Động từ thông dụng|muốn|want to go|I want some water.|Tôi muốn một ít nước.
+need|/niːd/|Động từ|A1|Động từ thông dụng|cần|need help|I need a pen.|Tôi cần một cây bút.
+like|/laɪk/|Động từ|A1|Động từ thông dụng|thích|like music|I like swimming.|Tôi thích bơi lội.
+love|/lʌv/|Động từ|A1|Động từ thông dụng|yêu|love music|I love my family.|Tôi yêu gia đình mình.
+hate|/heɪt/|Động từ|A2|Động từ thông dụng|ghét|hate waiting|I hate getting up early.|Tôi ghét dậy sớm.
+use|/juːz/|Động từ|A1|Động từ thông dụng|sử dụng|use a computer|Can I use your phone?|Tôi dùng điện thoại của bạn được không?
+try|/traɪ/|Động từ|A1|Động từ thông dụng|thử, cố gắng|try again|Please try this cake.|Hãy thử chiếc bánh này.
+call|/kɔːl/|Động từ|A1|Động từ thông dụng|gọi điện|call a friend|I will call you tonight.|Tối nay tôi sẽ gọi cho bạn.
+wait|/weɪt/|Động từ|A1|Động từ thông dụng|chờ đợi|wait for|Please wait here.|Làm ơn đợi ở đây.
+stay|/steɪ/|Động từ|A1|Động từ thông dụng|ở lại|stay at home|I stayed at home yesterday.|Hôm qua tôi ở nhà.
+live|/lɪv/|Động từ|A1|Động từ thông dụng|sống|live in|I live in Hanoi.|Tôi sống ở Hà Nội.
+work|/wɜːrk/|Động từ|A1|Động từ thông dụng|làm việc|work hard|He works in a hospital.|Anh ấy làm việc ở bệnh viện.
+play|/pleɪ/|Động từ|A1|Động từ thông dụng|chơi|play football|The children are playing.|Bọn trẻ đang chơi.
+sing|/sɪŋ/|Động từ|A1|Động từ thông dụng|hát|sing a song|She sings very well.|Cô ấy hát rất hay.
+dance|/dæns/|Động từ|A1|Động từ thông dụng|nhảy múa|dance together|They dance every Friday.|Họ nhảy vào mỗi thứ Sáu.
+cook|/kʊk/|Động từ|A1|Động từ thông dụng|nấu ăn|cook dinner|My father cooks on weekends.|Bố tôi nấu ăn vào cuối tuần.
+clean|/kliːn/|Động từ|A2|Động từ thông dụng|dọn dẹp|clean the room|I clean my room every Sunday.|Tôi dọn phòng mỗi Chủ nhật.
+wash|/wɑːʃ/|Động từ|A1|Động từ thông dụng|rửa, giặt|wash your hands|Wash your hands before eating.|Hãy rửa tay trước khi ăn.
+help|/help/|Động từ|A1|Động từ thông dụng|giúp đỡ|help me|Can you help me, please?|Bạn giúp tôi được không?
+learn|/lɜːrn/|Động từ|A1|Động từ thông dụng|học|learn English|I am learning to swim.|Tôi đang học bơi.
+teach|/tiːtʃ/|Động từ|A1|Động từ thông dụng|dạy|teach English|She teaches math.|Cô ấy dạy toán.
+read|/riːd/|Động từ|A1|Động từ thông dụng|đọc|read a book|I read the news every morning.|Tôi đọc tin tức mỗi sáng.
+write|/raɪt/|Động từ|A1|Động từ thông dụng|viết|write a letter|Please write your name here.|Hãy viết tên bạn vào đây.
+draw|/drɔː/|Động từ|A2|Động từ thông dụng|vẽ|draw a picture|She likes to draw animals.|Cô ấy thích vẽ động vật.
+run|/rʌn/|Động từ|A1|Động từ thông dụng|chạy|run fast|I run in the park every morning.|Tôi chạy ở công viên mỗi sáng.
+walk|/wɔːk/|Động từ|A1|Động từ thông dụng|đi bộ|walk to school|We walk to work.|Chúng tôi đi bộ đi làm.
+drive|/draɪv/|Động từ|A1|Động từ thông dụng|lái xe|drive a car|He drives to work.|Anh ấy lái xe đi làm.
+ride|/raɪd/|Động từ|A2|Động từ thông dụng|cưỡi, đi (xe đạp)|ride a bike|I ride a bike to school.|Tôi đạp xe đến trường.
+fly|/flaɪ/|Động từ|A1|Động từ thông dụng|bay|fly a kite|Birds can fly.|Chim có thể bay.
+swim|/swɪm/|Động từ|A1|Động từ thông dụng|bơi|swim in the sea|I swim every weekend.|Tôi bơi mỗi cuối tuần.
+jump|/dʒʌmp/|Động từ|A1|Động từ thông dụng|nhảy|jump high|The cat jumped on the table.|Con mèo nhảy lên bàn.
+climb|/klaɪm/|Động từ|A2|Động từ thông dụng|leo|climb a mountain|We climbed the hill.|Chúng tôi leo lên ngọn đồi.
+carry|/ˈkæri/|Động từ|A2|Động từ thông dụng|mang, vác|carry a bag|He carries a heavy bag.|Anh ấy mang một chiếc túi nặng.
+push|/pʊʃ/|Động từ|A2|Động từ thông dụng|đẩy|push the door|Push the button.|Hãy ấn nút.
+pull|/pʊl/|Động từ|A2|Động từ thông dụng|kéo|pull the door|Pull the rope.|Hãy kéo sợi dây.
+put|/pʊt/|Động từ|A1|Động từ thông dụng|đặt, để|put on|Put the book on the table.|Hãy để cuốn sách lên bàn.
+find|/faɪnd/|Động từ|A1|Động từ thông dụng|tìm thấy|find a job|I can't find my keys.|Tôi không tìm thấy chìa khóa.
+lose|/luːz/|Động từ|A2|Động từ thông dụng|đánh mất, thua|lose weight|I lost my wallet.|Tôi làm mất ví.
+win|/wɪn/|Động từ|A2|Động từ thông dụng|thắng|win a game|Our team won the match.|Đội chúng tôi thắng trận đấu.
+meet|/miːt/|Động từ|A1|Động từ thông dụng|gặp|meet a friend|Nice to meet you.|Rất vui được gặp bạn.
+visit|/ˈvɪzɪt/|Động từ|A1|Động từ thông dụng|thăm|visit a friend|We visit our grandparents often.|Chúng tôi thường thăm ông bà.
+send|/send/|Động từ|A1|Động từ thông dụng|gửi|send an email|I sent her a message.|Tôi đã gửi tin nhắn cho cô ấy.
+bread|/bred/|Danh từ|A1|Thức ăn & Đồ uống|bánh mì|a slice of bread|I eat bread for breakfast.|Tôi ăn bánh mì vào bữa sáng.
+rice|/raɪs/|Danh từ|A1|Thức ăn & Đồ uống|cơm, gạo|cooked rice|We eat rice every day.|Chúng tôi ăn cơm mỗi ngày.
+egg|/eɡ/|Danh từ|A1|Thức ăn & Đồ uống|trứng|boiled egg|I have two eggs for breakfast.|Tôi ăn hai quả trứng vào bữa sáng.
+milk|/mɪlk/|Danh từ|A1|Thức ăn & Đồ uống|sữa|a glass of milk|She drinks milk every day.|Cô ấy uống sữa mỗi ngày.
+meat|/miːt/|Danh từ|A1|Thức ăn & Đồ uống|thịt|cooked meat|He doesn't eat meat.|Anh ấy không ăn thịt.
+chicken|/ˈtʃɪkɪn/|Danh từ|A1|Thức ăn & Đồ uống|thịt gà, con gà|fried chicken|I like fried chicken.|Tôi thích gà rán.
+beef|/biːf/|Danh từ|A2|Thức ăn & Đồ uống|thịt bò|beef soup|We had beef for dinner.|Chúng tôi ăn thịt bò vào bữa tối.
+pork|/pɔːrk/|Danh từ|A2|Thức ăn & Đồ uống|thịt heo|roast pork|She cooks pork with rice.|Cô ấy nấu thịt heo với cơm.
+fish|/fɪʃ/|Danh từ|A1|Thức ăn & Đồ uống|cá|fresh fish|We had fish for lunch.|Chúng tôi ăn cá vào bữa trưa.
+apple|/ˈæpl/|Danh từ|A1|Thức ăn & Đồ uống|quả táo|a red apple|An apple a day is healthy.|Mỗi ngày một quả táo rất tốt cho sức khỏe.
+banana|/bəˈnænə/|Danh từ|A1|Thức ăn & Đồ uống|quả chuối|ripe banana|I eat a banana every morning.|Tôi ăn một quả chuối mỗi sáng.
+orange|/ˈɔːrɪndʒ/|Danh từ|A1|Thức ăn & Đồ uống|quả cam|orange juice|She peeled an orange.|Cô ấy bóc một quả cam.
+potato|/pəˈteɪtoʊ/|Danh từ|A1|Thức ăn & Đồ uống|khoai tây|fried potato|She cooked some potatoes.|Cô ấy luộc ít khoai tây.
+tomato|/təˈmeɪtoʊ/|Danh từ|A1|Thức ăn & Đồ uống|cà chua|fresh tomato|Add two tomatoes to the salad.|Cho hai quả cà chua vào món salad.
+onion|/ˈʌnjən/|Danh từ|A2|Thức ăn & Đồ uống|hành tây|chopped onion|Chop the onion into small pieces.|Hãy cắt hành tây thành miếng nhỏ.
+salt|/sɔːlt/|Danh từ|A1|Thức ăn & Đồ uống|muối|a pinch of salt|Please pass the salt.|Làm ơn chuyền giúp lọ muối.
+sugar|/ˈʃʊɡər/|Danh từ|A1|Thức ăn & Đồ uống|đường|a spoon of sugar|I don't take sugar in my tea.|Tôi không bỏ đường vào trà.
+cheese|/tʃiːz/|Danh từ|A2|Thức ăn & Đồ uống|phô mai|cheese pizza|I like cheese sandwiches.|Tôi thích bánh sandwich phô mai.
+butter|/ˈbʌtər/|Danh từ|A2|Thức ăn & Đồ uống|bơ|bread and butter|Spread butter on the bread.|Hãy phết bơ lên bánh mì.
+soup|/suːp/|Danh từ|A1|Thức ăn & Đồ uống|súp, canh|hot soup|The soup is too hot.|Món súp nóng quá.
+salad|/ˈsæləd/|Danh từ|A2|Thức ăn & Đồ uống|salad|fresh salad|I ordered a chicken salad.|Tôi gọi một món salad gà.
+sandwich|/ˈsænwɪtʃ/|Danh từ|A1|Thức ăn & Đồ uống|bánh sandwich|ham sandwich|She made a sandwich for lunch.|Cô ấy làm một chiếc sandwich cho bữa trưa.
+breakfast|/ˈbrekfəst/|Danh từ|A1|Thức ăn & Đồ uống|bữa sáng|have breakfast|I have breakfast at seven.|Tôi ăn sáng lúc bảy giờ.
+lunch|/lʌntʃ/|Danh từ|A1|Thức ăn & Đồ uống|bữa trưa|lunch break|Let's have lunch together.|Chúng ta cùng ăn trưa nhé.
+dinner|/ˈdɪnər/|Danh từ|A1|Thức ăn & Đồ uống|bữa tối|cook dinner|Dinner is at seven o'clock.|Bữa tối lúc bảy giờ.
+juice|/dʒuːs/|Danh từ|A1|Thức ăn & Đồ uống|nước ép|orange juice|I'd like a glass of apple juice.|Tôi muốn một ly nước ép táo.
+beer|/bɪr/|Danh từ|A2|Thức ăn & Đồ uống|bia|a bottle of beer|He ordered a beer.|Anh ấy gọi một cốc bia.
+cake|/keɪk/|Danh từ|A1|Thức ăn & Đồ uống|bánh ngọt|birthday cake|She baked a chocolate cake.|Cô ấy nướng một chiếc bánh sô-cô-la.
+chocolate|/ˈtʃɔːklət/|Danh từ|A1|Thức ăn & Đồ uống|sô-cô-la|dark chocolate|Children love chocolate.|Trẻ con thích sô-cô-la.
+kitchen|/ˈkɪtʃɪn/|Danh từ|A1|Nhà cửa & Đồ vật|nhà bếp|in the kitchen|She is cooking in the kitchen.|Cô ấy đang nấu ăn trong bếp.
+bedroom|/ˈbedruːm/|Danh từ|A1|Nhà cửa & Đồ vật|phòng ngủ|my bedroom|My bedroom is on the second floor.|Phòng ngủ của tôi ở tầng hai.
+bathroom|/ˈbæθruːm/|Danh từ|A1|Nhà cửa & Đồ vật|phòng tắm|use the bathroom|Where is the bathroom?|Phòng tắm ở đâu vậy?
+living room|/ˈlɪvɪŋ ruːm/|Danh từ|A1|Nhà cửa & Đồ vật|phòng khách|in the living room|We watch TV in the living room.|Chúng tôi xem TV ở phòng khách.
+garden|/ˈɡɑːrdn/|Danh từ|A1|Nhà cửa & Đồ vật|khu vườn|a beautiful garden|There are flowers in the garden.|Có hoa trong vườn.
+floor|/flɔːr/|Danh từ|A1|Nhà cửa & Đồ vật|sàn nhà, tầng|ground floor|Don't sit on the floor.|Đừng ngồi trên sàn nhà.
+wall|/wɔːl/|Danh từ|A1|Nhà cửa & Đồ vật|bức tường|on the wall|There is a picture on the wall.|Có một bức tranh trên tường.
+roof|/ruːf/|Danh từ|A2|Nhà cửa & Đồ vật|mái nhà|a red roof|The roof is covered with snow.|Mái nhà phủ đầy tuyết.
+bed|/bed/|Danh từ|A1|Nhà cửa & Đồ vật|giường|go to bed|I go to bed at ten.|Tôi đi ngủ lúc mười giờ.
+sofa|/ˈsoʊfə/|Danh từ|A1|Nhà cửa & Đồ vật|ghế sofa|a comfortable sofa|The cat is sleeping on the sofa.|Con mèo đang ngủ trên ghế sofa.
+lamp|/læmp/|Danh từ|A2|Nhà cửa & Đồ vật|đèn bàn|turn on the lamp|Turn on the lamp, please.|Làm ơn bật đèn lên.
+key|/kiː/|Danh từ|A1|Nhà cửa & Đồ vật|chìa khóa|car key|I lost my key.|Tôi làm mất chìa khóa.
+clock|/klɑːk/|Danh từ|A1|Nhà cửa & Đồ vật|đồng hồ treo tường|wall clock|The clock says ten o'clock.|Đồng hồ chỉ mười giờ.
+watch|/wɑːtʃ/|Danh từ|A2|Nhà cửa & Đồ vật|đồng hồ đeo tay|wear a watch|He bought a new watch.|Anh ấy mua một chiếc đồng hồ mới.
+bag|/bæɡ/|Danh từ|A1|Nhà cửa & Đồ vật|túi xách|school bag|She put her books in her bag.|Cô ấy bỏ sách vào túi.
+box|/bɑːks/|Danh từ|A1|Nhà cửa & Đồ vật|cái hộp|a big box|The box is full of toys.|Chiếc hộp đầy đồ chơi.
+bottle|/ˈbɑːtl/|Danh từ|A1|Nhà cửa & Đồ vật|cái chai|a bottle of water|Please buy a bottle of water.|Hãy mua một chai nước.
+cup|/kʌp/|Danh từ|A1|Nhà cửa & Đồ vật|cái tách|a cup of tea|I'd like a cup of tea.|Tôi muốn một tách trà.
+glass|/ɡlæs/|Danh từ|A1|Nhà cửa & Đồ vật|ly, thủy tinh|a glass of water|She drank a glass of milk.|Cô ấy uống một ly sữa.
+plate|/pleɪt/|Danh từ|A1|Nhà cửa & Đồ vật|cái đĩa|a clean plate|Put the food on the plate.|Hãy đặt đồ ăn lên đĩa.
+bowl|/boʊl/|Danh từ|A1|Nhà cửa & Đồ vật|cái bát|a bowl of rice|He ate a bowl of noodles.|Anh ấy ăn một bát mì.
+knife|/naɪf/|Danh từ|A1|Nhà cửa & Đồ vật|con dao|a sharp knife|Be careful with the knife.|Hãy cẩn thận với con dao.
+fork|/fɔːrk/|Danh từ|A1|Nhà cửa & Đồ vật|cái nĩa|knife and fork|I need a fork, please.|Làm ơn cho tôi một cái nĩa.
+spoon|/spuːn/|Danh từ|A1|Nhà cửa & Đồ vật|cái muỗng|a spoon of sugar|Use a spoon to eat soup.|Hãy dùng muỗng để ăn súp.
+umbrella|/ʌmˈbrelə/|Danh từ|A1|Nhà cửa & Đồ vật|cái ô|take an umbrella|Take an umbrella; it may rain.|Hãy mang ô theo vì trời có thể mưa.
+shirt|/ʃɜːrt/|Danh từ|A1|Quần áo|áo sơ mi|a white shirt|He wears a blue shirt.|Anh ấy mặc áo sơ mi xanh.
+dress|/dres/|Danh từ|A1|Quần áo|váy liền|a long dress|She wore a beautiful dress.|Cô ấy mặc một chiếc váy đẹp.
+skirt|/skɜːrt/|Danh từ|A1|Quần áo|chân váy|a short skirt|She bought a new skirt.|Cô ấy mua một chiếc váy mới.
+pants|/pænts/|Danh từ|A1|Quần áo|quần dài|black pants|He wears black pants to work.|Anh ấy mặc quần đen đi làm.
+jeans|/dʒiːnz/|Danh từ|A1|Quần áo|quần jean|blue jeans|I love wearing jeans.|Tôi thích mặc quần jean.
+coat|/koʊt/|Danh từ|A1|Quần áo|áo khoác|winter coat|Put on your coat; it's cold.|Hãy mặc áo khoác vào, trời lạnh đấy.
+jacket|/ˈdʒækɪt/|Danh từ|A1|Quần áo|áo khoác ngắn|leather jacket|He wore a black jacket.|Anh ấy mặc áo khoác đen.
+hat|/hæt/|Danh từ|A1|Quần áo|cái mũ|wear a hat|She wore a big hat.|Cô ấy đội một chiếc mũ lớn.
+shoe|/ʃuː/|Danh từ|A1|Quần áo|chiếc giày|a pair of shoes|These shoes are too small.|Đôi giày này quá nhỏ.
+sock|/sɑːk/|Danh từ|A2|Quần áo|chiếc tất|a pair of socks|I need new socks.|Tôi cần tất mới.
+glasses|/ˈɡlæsɪz/|Danh từ|A2|Quần áo|kính mắt|wear glasses|He wears glasses to read.|Anh ấy đeo kính khi đọc sách.
+wear|/wer/|Động từ|A1|Quần áo|mặc, đeo|wear a coat|She is wearing a red scarf.|Cô ấy đang quàng khăn đỏ.

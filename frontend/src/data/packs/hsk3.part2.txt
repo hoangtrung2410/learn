@@ -1,0 +1,97 @@
+花|hoa; tiêu, tốn|Danh từ|hoa|院子里的花开了。|Hoa trong sân nở rồi.
+画|vẽ; bức tranh|Động từ|họa|她会画很漂亮的画。|Cô ấy biết vẽ những bức tranh rất đẹp.
+坏|xấu, hỏng|Tính từ|hoại|我的电脑坏了。|Máy tính của tôi hỏng rồi.
+环境|môi trường|Danh từ|hoàn cảnh|这里的环境很好。|Môi trường ở đây rất tốt.
+换|đổi|Động từ|hoán|我想换一件大一点儿的。|Tôi muốn đổi cái lớn hơn một chút.
+会议|cuộc họp|Danh từ|hội nghị|下午我们有一个会议。|Chiều nay chúng tôi có một cuộc họp.
+或者|hoặc là|Liên từ|hoặc giả|你可以坐车或者骑车。|Bạn có thể đi xe hoặc đạp xe.
+几乎|hầu như|Phó từ|ki hồ|我几乎每天都跑步。|Tôi hầu như ngày nào cũng chạy bộ.
+机会|cơ hội|Danh từ|cơ hội|这是一个很好的机会。|Đây là một cơ hội rất tốt.
+极|cực, vô cùng|Phó từ|cực|这个电影好极了。|Bộ phim này hay cực kỳ.
+记得|nhớ|Động từ|ký đắc|你还记得他的名字吗？|Bạn còn nhớ tên anh ấy không?
+季节|mùa|Danh từ|quý tiết|你最喜欢哪个季节？|Bạn thích mùa nào nhất?
+检查|kiểm tra|Động từ|kiểm tra|出门前检查一下门窗。|Trước khi ra ngoài hãy kiểm tra cửa.
+简单|đơn giản|Tính từ|giản đơn|这道题很简单。|Bài này rất đơn giản.
+健康|khỏe mạnh, sức khỏe|Tính từ|kiện khang|祝你身体健康！|Chúc bạn sức khỏe!
+见面|gặp mặt|Động từ|kiến diện|我们明天见面吧。|Ngày mai chúng ta gặp nhau nhé.
+讲|nói, kể, giảng|Động từ|giảng|老师给我们讲了一个故事。|Thầy giáo kể cho chúng tôi một câu chuyện.
+教|dạy|Động từ|giáo|他教我们汉语。|Anh ấy dạy chúng tôi tiếng Hán.
+角|hào (đơn vị tiền); góc|Lượng từ|giác|这个苹果五角钱。|Quả táo này năm hào.
+脚|bàn chân|Danh từ|cước|我的脚有点儿疼。|Chân tôi hơi đau.
+接|đón; nhận|Động từ|tiếp|我去机场接朋友。|Tôi ra sân bay đón bạn.
+街道|đường phố|Danh từ|nhai đạo|街道上人很多。|Trên đường phố có rất nhiều người.
+节目|chương trình, tiết mục|Danh từ|tiết mục|这个电视节目很有意思。|Chương trình truyền hình này rất thú vị.
+节日|ngày lễ, ngày hội|Danh từ|tiết nhật|春节是中国最大的节日。|Tết Xuân là ngày lễ lớn nhất của Trung Quốc.
+结婚|kết hôn|Động từ|kết hôn|他们去年结婚了。|Họ kết hôn năm ngoái.
+结束|kết thúc|Động từ|kết thúc|会议九点结束。|Cuộc họp kết thúc lúc chín giờ.
+解决|giải quyết|Động từ|giải quyết|这个问题解决了。|Vấn đề này đã được giải quyết.
+借|mượn, cho mượn|Động từ|tá|我想借一本书。|Tôi muốn mượn một quyển sách.
+经常|thường xuyên|Phó từ|kinh thường|他经常去图书馆。|Anh ấy thường xuyên đến thư viện.
+经过|đi qua, thông qua|Động từ|kinh quá|回家要经过一个公园。|Về nhà phải đi qua một công viên.
+经理|giám đốc, quản lý|Danh từ|kinh lý|王经理正在开会。|Giám đốc Vương đang họp.
+久|lâu|Tính từ|cửu|好久不见，你还好吗？|Lâu rồi không gặp, bạn có khỏe không?
+旧|cũ|Tính từ|cựu|这件衣服太旧了。|Chiếc áo này cũ quá.
+句子|câu|Danh từ|cú tử|请用这个词造句子。|Hãy dùng từ này đặt câu.
+决定|quyết định|Động từ|quyết định|我决定明年去中国学习。|Tôi quyết định năm sau đi Trung Quốc học.
+可爱|đáng yêu|Tính từ|khả ái|这只小狗真可爱。|Chú chó con này thật đáng yêu.
+渴|khát|Tính từ|khát|我渴了，想喝水。|Tôi khát rồi, muốn uống nước.
+刻|khắc (15 phút)|Lượng từ|khắc|现在三点一刻。|Bây giờ là ba giờ mười lăm.
+客人|khách|Danh từ|khách nhân|今天家里来了客人。|Hôm nay nhà có khách đến.
+空调|điều hòa|Danh từ|không điều|请把空调打开。|Xin hãy bật điều hòa lên.
+口|miệng; nhân khẩu|Lượng từ|khẩu|我家有四口人。|Nhà tôi có bốn người.
+哭|khóc|Động từ|khốc|孩子哭了，妈妈很着急。|Đứa bé khóc, mẹ rất sốt ruột.
+裤子|quần|Danh từ|khố tử|这条裤子多少钱？|Chiếc quần này bao nhiêu tiền?
+筷子|đũa|Danh từ|khoái tử|他很会用筷子。|Anh ấy dùng đũa rất giỏi.
+蓝|xanh lam|Tính từ|lam|天空是蓝色的。|Bầu trời màu xanh lam.
+老|già, cũ; luôn|Tính từ|lão|我爷爷已经很老了。|Ông tôi đã rất già rồi.
+离开|rời khỏi|Động từ|ly khai|他昨天离开了北京。|Hôm qua anh ấy đã rời Bắc Kinh.
+礼物|quà tặng|Danh từ|lễ vật|这是送给你的礼物。|Đây là món quà tặng bạn.
+历史|lịch sử|Danh từ|lịch sử|我对中国历史很感兴趣。|Tôi rất hứng thú với lịch sử Trung Quốc.
+脸|mặt|Danh từ|kiểm|他的脸红了。|Mặt anh ấy đỏ lên.
+练习|luyện tập; bài tập|Động từ|luyện tập|你要多练习说汉语。|Bạn cần luyện nói tiếng Hán nhiều hơn.
+辆|chiếc (xe)|Lượng từ|lượng|门口有一辆红色的车。|Ở cửa có một chiếc xe màu đỏ.
+了解|tìm hiểu, hiểu rõ|Động từ|liễu giải|我想了解一下这个公司。|Tôi muốn tìm hiểu về công ty này.
+邻居|hàng xóm|Danh từ|lân cư|我的邻居很热情。|Hàng xóm của tôi rất nhiệt tình.
+另外|ngoài ra|Liên từ|lánh ngoại|另外，我还有一个问题。|Ngoài ra, tôi còn một câu hỏi.
+留|ở lại, giữ lại|Động từ|lưu|你留在这儿等我吧。|Bạn ở lại đây đợi tôi nhé.
+楼|tòa nhà, tầng lầu|Danh từ|lâu|我家在二楼。|Nhà tôi ở tầng hai.
+绿|xanh lục|Tính từ|lục|这里的山很绿。|Núi ở đây rất xanh.
+马上|ngay lập tức|Phó từ|mã thượng|等一下，我马上就来。|Đợi chút, tôi đến ngay.
+满意|hài lòng|Tính từ|mãn ý|我对这份工作很满意。|Tôi rất hài lòng với công việc này.
+帽子|mũ|Danh từ|mạo tử|他戴着一顶黑帽子。|Anh ấy đội một chiếc mũ đen.
+米|mét; gạo|Lượng từ|mễ|他有一米八高。|Anh ấy cao một mét tám.
+面包|bánh mì|Danh từ|diện bao|我早上吃面包和牛奶。|Buổi sáng tôi ăn bánh mì và uống sữa.
+明白|hiểu, rõ ràng|Động từ|minh bạch|你明白我的意思吗？|Bạn hiểu ý của tôi không?
+拿|cầm, lấy|Động từ|noa|请帮我拿一下这个包。|Làm ơn cầm giúp tôi cái túi này.
+奶奶|bà nội|Danh từ|nãi nãi|奶奶今年七十岁了。|Bà nội năm nay bảy mươi tuổi.
+南|phía nam|Danh từ|nam|南方的冬天不太冷。|Mùa đông ở miền nam không lạnh lắm.
+难|khó|Tính từ|nan|汉字写起来有点儿难。|Viết chữ Hán hơi khó.
+难过|buồn, khó chịu|Tính từ|nan quá|听到这个消息，我很难过。|Nghe tin này, tôi rất buồn.
+年级|khối lớp, năm học|Danh từ|niên cấp|他是三年级的学生。|Cậu ấy là học sinh lớp ba.
+年轻|trẻ tuổi|Tính từ|niên khinh|她看起来很年轻。|Cô ấy trông rất trẻ.
+鸟|chim|Danh từ|điểu|树上有两只鸟。|Trên cây có hai con chim.
+努力|nỗ lực, cố gắng|Động từ|nỗ lực|只要努力，就会成功。|Chỉ cần nỗ lực thì sẽ thành công.
+爬山|leo núi|Động từ|ba sơn|周末我们去爬山吧。|Cuối tuần chúng ta đi leo núi nhé.
+盘子|cái đĩa|Danh từ|bàn tử|桌子上有三个盘子。|Trên bàn có ba cái đĩa.
+胖|béo, mập|Tính từ|bàng|他最近有点儿胖了。|Dạo này anh ấy hơi béo lên.
+皮鞋|giày da|Danh từ|bì hài|他穿了一双新皮鞋。|Anh ấy đi một đôi giày da mới.
+啤酒|bia|Danh từ|tì tửu|晚饭时他喝了一瓶啤酒。|Bữa tối anh ấy uống một chai bia.
+瓶子|cái chai, lọ|Danh từ|bình tử|瓶子里还有一点儿水。|Trong chai còn một chút nước.
+其实|thực ra|Phó từ|kỳ thực|其实这个问题不难。|Thực ra vấn đề này không khó.
+其他|khác|Đại từ|kỳ tha|其他人都回家了。|Những người khác đều về nhà rồi.
+奇怪|kỳ lạ|Tính từ|kỳ quái|这件事真奇怪。|Chuyện này thật kỳ lạ.
+骑|cưỡi, đạp (xe)|Động từ|kỵ|他每天骑自行车上班。|Anh ấy mỗi ngày đạp xe đi làm.
+起飞|cất cánh|Động từ|khởi phi|飞机马上就要起飞了。|Máy bay sắp cất cánh rồi.
+清楚|rõ ràng|Tính từ|thanh sở|我听不清楚你说什么。|Tôi nghe không rõ bạn nói gì.
+请假|xin nghỉ|Động từ|thỉnh giả|他生病了，请了两天假。|Anh ấy bị ốm, xin nghỉ hai ngày.
+秋|mùa thu|Danh từ|thu|秋天的天气很舒服。|Thời tiết mùa thu rất dễ chịu.
+裙子|váy|Danh từ|quần tử|她穿着一条白裙子。|Cô ấy mặc một chiếc váy trắng.
+然后|sau đó|Liên từ|nhiên hậu|先吃饭，然后去看电影。|Ăn cơm trước, sau đó đi xem phim.
+热情|nhiệt tình|Tính từ|nhiệt tình|大家都很热情。|Mọi người đều rất nhiệt tình.
+认为|cho rằng|Động từ|nhận vi|我认为你说得对。|Tôi cho rằng bạn nói đúng.
+认真|nghiêm túc, chăm chú|Tính từ|nhận chân|他学习很认真。|Anh ấy học tập rất nghiêm túc.
+容易|dễ|Tính từ|dung dị|这个问题很容易。|Vấn đề này rất dễ.
+如果|nếu|Liên từ|như quả|如果下雨，我们就不去了。|Nếu trời mưa thì chúng ta không đi nữa.
+伞|ô, dù|Danh từ|tản|外面下雨了，带把伞吧。|Bên ngoài mưa rồi, mang theo cái ô đi.
+上网|lên mạng|Động từ|thượng võng|我每天晚上上网看新闻。|Mỗi tối tôi lên mạng xem tin tức.
+生气|tức giận|Động từ|sinh khí|你别生气了。|Bạn đừng giận nữa.

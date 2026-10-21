@@ -1,0 +1,23 @@
+3|grammar|我___汉语学得很好。|着|得|地|的|B|Bổ ngữ trạng thái: động từ + 得 + tính từ (学得很好).
+3|grammar|他比我___三岁。|很大|更大|大|太大|C|Câu so sánh 比: A + 比 + B + tính từ + số lượng (大三岁), không dùng 很.
+3|grammar|请你___这封信寄给他。|被|给|把|对|C|Câu chữ 把: 把 + tân ngữ + động từ + thành phần khác.
+3|grammar|我家附近___一个公园。|在|有|对|是|B|Chỉ sự tồn tại của địa điểm dùng 有: nơi chốn + 有 + người/vật.
+3|grammar|他一边吃饭,___看电视。|又|也|还|一边|D|一边…一边… diễn tả hai hành động diễn ra đồng thời.
+3|grammar|这件衣服___那件好看。|比|对|跟|和|A|Câu so sánh dùng 比: A 比 B + tính từ.
+3|grammar|我已经等了你___小时了。|二个|两个|二|两|B|Số lượng 2 dùng 两 trước lượng từ: 两个小时.
+3|grammar|昨天的作业你做___了吗?|给|完|在|到|B|Bổ ngữ kết quả: 做完 nghĩa là làm xong.
+3|vocab|我想去___买一些药。|银行|学校|医院|药店|D|药店 là hiệu thuốc, nơi mua thuốc.
+3|vocab|“着急”的意思最接近:|害怕|心里不安|高兴|生气|B|着急 là sốt ruột, lo lắng, tâm trạng không yên.
+3|vocab|“信”在“我写了一封信”中的意思是:|lòng tin|tín hiệu|tin tức|lá thư|D|封 là lượng từ của 信 (thư).
+3|vocab|“鞋”是穿在___上的。|手|腿|脚|头|C|鞋 là giày, mang ở chân.
+3|vocab|“河”最可能出现在哪里?|厨房|床上|地图|教室|C|河 là sông, thường thấy trên bản đồ, trong phong cảnh.
+3|vocab|“祝你生日快乐”里“祝”的意思是:|nhớ|chúc|hỏi|tặng|B|祝 nghĩa là chúc.
+3|reading|小明喜欢踢足球。每个周六下午,他都和同学去学校的操场踢球。¶小明什么时候踢足球?|每天早上|周六下午|周日下午|周五晚上|B|Bài đọc nói 每个周六下午.
+3|reading|我家有四口人:爸爸、妈妈、哥哥和我。爸爸是医生,妈妈是老师。¶谁是老师?|妈妈|爸爸|我|哥哥|A|妈妈是老师.
+3|reading|今天天气很冷,还刮着大风。我穿了羽绒服,可是还是觉得冷。¶今天天气怎么样?|很凉快|很热|又冷又刮风|下雨|C|Bài đọc nói trời rất lạnh và gió to.
+3|reading|小王的宾馆在公园旁边。从宾馆走到地铁站只要五分钟。¶宾馆在哪儿?|学校旁边|公园旁边|商店旁边|地铁站旁边|B|Bài đọc nói 宾馆在公园旁边.
+3|listen|A:你想喝茶还是咖啡?¶B:我不喝咖啡,来杯茶吧。|B 想喝水|B 想喝咖啡|B 什么都不喝|B 想喝茶|D|B nói 不喝咖啡,来杯茶.
+3|listen|A:电影几点开始?¶B:七点半,我们六点五十在门口见。|七点五十见面|在学校见面|电影七点半开始|电影六点开始|C|Phim bắt đầu lúc 七点半.
+3|listen|A:你怎么没去上课?¶B:我感冒了,头疼,医生让我在家休息。|B 迟到了|B 生病在家|B 去旅游了|B 在上班|B|B bị cảm, đau đầu, bác sĩ bảo ở nhà nghỉ.
+3|listen|A:这双鞋多少钱?¶B:一百八十元。¶A:太贵了,便宜一点儿吧。|A 觉得鞋太贵|B 不卖鞋|鞋很便宜|鞋一百元|A|A nói 太贵了 (đắt quá).
+3|listen|A:你在做什么呢?¶B:我正在给朋友写信。|B 在写信|B 在打电话|B 在看电视|B 在吃饭|A|B nói 正在给朋友写信.
