@@ -1,6 +1,6 @@
 export interface HskVocabItem {
   id: string;
-  level: number; // 1 to 6
+  level: number; // 1 to 7 (7 = HSK 7-9)
   hanzi: string;
   pinyin: string;
   sinoViet?: string;

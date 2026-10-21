@@ -48,7 +48,7 @@ export async function loadZhVocab(): Promise<HskVocabItem[]> {
   if (zhVocabCache) return zhVocabCache;
   const out: HskVocabItem[] = [];
   const seen = new Set<string>();
-  for (let level = 1; level <= 6; level++) {
+  for (let level = 1; level <= 7; level++) {
     const lines = await readTxt(`hsk${level}`);
     let n = 0;
     for (const line of lines) {

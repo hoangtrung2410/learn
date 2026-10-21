@@ -1,0 +1,259 @@
+道家|Đạo gia, Đạo giáo (học phái)|Danh từ|đạo gia|道家主张顺应自然、无为而治。|Đạo gia chủ trương thuận theo tự nhiên, vô vi mà trị.
+墨家|Mặc gia|Danh từ|mặc gia|墨家提倡兼爱和非攻。|Mặc gia đề xướng kiêm ái và phi công.
+法家|Pháp gia|Danh từ|pháp gia|法家主张以严刑峻法治理国家。|Pháp gia chủ trương dùng hình pháp nghiêm khắc để trị quốc.
+诸子百家|Chư tử bách gia|Danh từ|chư tử bách gia|诸子百家的思想奠定了中国文化的基础。|Tư tưởng chư tử bách gia đặt nền móng cho văn hóa Trung Quốc.
+孔子|Khổng Tử|Danh từ|khổng tử|孔子是中国古代伟大的思想家和教育家。|Khổng Tử là nhà tư tưởng và nhà giáo dục vĩ đại thời cổ Trung Quốc.
+老子|Lão Tử|Danh từ|lão tử|老子的《道德经》只有五千多字。|Cuốn Đạo Đức Kinh của Lão Tử chỉ có hơn năm nghìn chữ.
+庄子|Trang Tử|Danh từ|trang tử|庄子梦见自己变成了蝴蝶。|Trang Tử mơ thấy mình hóa thành con bướm.
+孟子|Mạnh Tử|Danh từ|mạnh tử|孟子主张人性本善。|Mạnh Tử chủ trương bản tính con người vốn thiện.
+荀子|Tuân Tử|Danh từ|tuân tử|荀子认为人性本恶,需要后天教化。|Tuân Tử cho rằng bản tính con người vốn ác, cần giáo hóa về sau.
+论语|Luận Ngữ|Danh từ|luận ngữ|《论语》记录了孔子及其弟子的言行。|Luận Ngữ ghi chép lời nói và việc làm của Khổng Tử và các đệ tử.
+道德经|Đạo Đức Kinh|Danh từ|đạo đức kinh|《道德经》被翻译成多种语言。|Đạo Đức Kinh đã được dịch ra nhiều thứ tiếng.
+易经|Kinh Dịch|Danh từ|dịch kinh|《易经》是中国最古老的哲学典籍之一。|Kinh Dịch là một trong những điển tịch triết học cổ nhất Trung Quốc.
+诗经|Kinh Thi|Danh từ|thi kinh|《诗经》是中国最早的诗歌总集。|Kinh Thi là tổng tập thơ ca sớm nhất của Trung Quốc.
+楚辞|Sở từ|Danh từ|sở từ|屈原是《楚辞》的代表作家。|Khuất Nguyên là tác giả tiêu biểu của Sở từ.
+唐诗|Thơ Đường|Danh từ|đường thi|唐诗是中国古典文学的瑰宝。|Thơ Đường là báu vật của văn học cổ điển Trung Quốc.
+宋词|Từ đời Tống|Danh từ|tống từ|苏轼的宋词豪放洒脱。|Từ đời Tống của Tô Thức hào phóng phóng khoáng.
+元曲|Khúc đời Nguyên|Danh từ|nguyên khúc|关汉卿是元曲四大家之一。|Quan Hán Khanh là một trong bốn đại gia của khúc đời Nguyên.
+律诗|Thơ luật|Danh từ|luật thi|律诗对平仄和对仗有严格的要求。|Thơ luật có yêu cầu nghiêm ngặt về bằng trắc và đối ngẫu.
+绝句|Thơ tuyệt cú|Danh từ|tuyệt cú|这首绝句只有四句,却意境深远。|Bài tuyệt cú này chỉ có bốn câu nhưng ý cảnh sâu xa.
+对仗|Đối ngẫu, đối xứng|Danh từ|đối trượng|这副对联对仗工整。|Đôi câu đối này đối ngẫu chỉnh tề.
+平仄|Bằng trắc|Danh từ|bình trắc|写格律诗必须讲究平仄。|Làm thơ cách luật phải chú trọng bằng trắc.
+意境|Ý cảnh, ý tứ và cảnh giới|Danh từ|ý cảnh|这幅山水画意境悠远。|Bức tranh sơn thủy này có ý cảnh xa xăm.
+韵味|Dư vị, hương vị|Danh từ|vận vị|这首古诗韵味无穷。|Bài thơ cổ này có dư vị vô tận.
+风骨|Phong cốt, khí chất|Danh từ|phong cốt|他的文章很有风骨。|Văn chương của ông ấy rất có phong cốt.
+神韵|Thần vận, thần thái|Danh từ|thần vận|这幅画抓住了人物的神韵。|Bức tranh nắm bắt được thần thái của nhân vật.
+意象|Ý tượng, hình tượng|Danh từ|ý tượng|月亮是古诗中常见的意象。|Mặt trăng là ý tượng thường gặp trong thơ cổ.
+典故|Điển tích|Danh từ|điển cố|这句诗用了一个历史典故。|Câu thơ này dùng một điển tích lịch sử.
+典籍|Điển tịch, sách cổ|Danh từ|điển tịch|他一生研读古代典籍。|Ông cả đời nghiên cứu điển tịch cổ.
+古籍|Cổ tịch, sách cổ|Danh từ|cổ tịch|图书馆收藏了大量珍贵的古籍。|Thư viện lưu giữ một lượng lớn cổ tịch quý hiếm.
+名著|Danh tác|Danh từ|danh trứ|四大名著家喻户晓。|Bốn bộ danh tác ai ai cũng biết.
+红楼梦|Hồng Lâu Mộng|Danh từ|hồng lâu mộng|《红楼梦》描写了一个大家族的兴衰。|Hồng Lâu Mộng miêu tả sự hưng suy của một đại gia tộc.
+西游记|Tây Du Ký|Danh từ|tây du ký|《西游记》讲述了唐僧师徒取经的故事。|Tây Du Ký kể chuyện thầy trò Đường Tăng đi thỉnh kinh.
+水浒传|Thủy Hử|Danh từ|thủy hử truyện|《水浒传》塑造了一百零八位好汉。|Thủy Hử khắc họa một trăm lẻ tám vị hảo hán.
+三国演义|Tam Quốc Diễn Nghĩa|Danh từ|tam quốc diễn nghĩa|《三国演义》描写了魏蜀吴三国的争斗。|Tam Quốc Diễn Nghĩa miêu tả cuộc tranh đấu của ba nước Ngụy, Thục, Ngô.
+史记|Sử Ký|Danh từ|sử ký|司马迁用十几年写成了《史记》。|Tư Mã Thiên dùng hơn mười năm để viết nên Sử Ký.
+春秋|Xuân Thu|Danh từ|xuân thu|《春秋》是孔子修订的编年史。|Xuân Thu là bộ biên niên sử do Khổng Tử hiệu đính.
+战国|Chiến Quốc|Danh từ|chiến quốc|战国时期七雄并立。|Thời Chiến Quốc bảy nước hùng mạnh cùng tồn tại.
+秦朝|Triều Tần|Danh từ|tần triều|秦朝统一了文字和度量衡。|Triều Tần thống nhất văn tự và đo lường.
+汉朝|Triều Hán|Danh từ|hán triều|丝绸之路在汉朝开通。|Con đường tơ lụa được khai thông vào đời Hán.
+唐朝|Triều Đường|Danh từ|đường triều|唐朝是中国历史上最繁荣的时代之一。|Triều Đường là một trong những thời đại phồn thịnh nhất lịch sử Trung Quốc.
+宋朝|Triều Tống|Danh từ|tống triều|宋朝的经济和文化十分发达。|Kinh tế và văn hóa triều Tống rất phát triển.
+明朝|Triều Minh|Danh từ|minh triều|故宫建于明朝。|Cố Cung được xây vào đời Minh.
+清朝|Triều Thanh|Danh từ|thanh triều|清朝是中国最后一个封建王朝。|Triều Thanh là vương triều phong kiến cuối cùng của Trung Quốc.
+帝王|Đế vương|Danh từ|đế vương|这座陵墓里安葬着一位帝王。|Trong lăng mộ này an táng một vị đế vương.
+太子|Thái tử|Danh từ|thái tử|太子是皇位的继承人。|Thái tử là người kế thừa ngôi vua.
+宰相|Tể tướng|Danh từ|tể tướng|宰相辅佐皇帝处理朝政。|Tể tướng giúp hoàng đế xử lý triều chính.
+科举|Khoa cử|Danh từ|khoa cử|古代读书人通过科举考试做官。|Người đọc sách thời xưa làm quan nhờ thi khoa cử.
+状元|Trạng nguyên|Danh từ|trạng nguyên|他在殿试中考中了状元。|Ông đỗ trạng nguyên trong kỳ thi đình.
+进士|Tiến sĩ (thời xưa)|Danh từ|tiến sĩ|他二十岁就中了进士。|Ông đỗ tiến sĩ khi mới hai mươi tuổi.
+书院|Thư viện (trường học xưa)|Danh từ|thư viện|白鹿洞书院是著名的古代学府。|Thư viện Bạch Lộc Động là học phủ cổ nổi tiếng.
+私塾|Tư thục|Danh từ|tư thục|他小时候在私塾里读书。|Hồi nhỏ ông học ở trường tư thục.
+太学|Thái học|Danh từ|thái học|汉代设立太学培养人才。|Đời Hán lập Thái học để bồi dưỡng nhân tài.
+宗法|Tông pháp|Danh từ|tông pháp|宗法制度影响了中国社会数千年。|Chế độ tông pháp ảnh hưởng xã hội Trung Quốc hàng nghìn năm.
+宗族|Tông tộc, dòng họ|Danh từ|tông tộc|宗族观念在农村依然很强。|Quan niệm dòng họ ở nông thôn vẫn còn rất mạnh.
+祠堂|Từ đường, nhà thờ họ|Danh từ|từ đường|村里的祠堂供奉着祖先的牌位。|Từ đường trong làng thờ bài vị tổ tiên.
+族谱|Gia phả, tộc phổ|Danh từ|tộc phổ|他翻开族谱寻找祖先的名字。|Anh mở gia phả tìm tên tổ tiên.
+祭祀|Tế tự, cúng tế|Động từ|tế tự|古人定期祭祀天地和祖先。|Người xưa định kỳ cúng tế trời đất và tổ tiên.
+祭祖|Cúng tổ tiên|Động từ|tế tổ|春节前全家回乡祭祖。|Trước Tết cả nhà về quê cúng tổ tiên.
+祭坛|Tế đàn|Danh từ|tế đàn|天坛是明清皇帝祭天的祭坛。|Thiên Đàn là tế đàn nơi hoàng đế Minh Thanh tế trời.
+牌位|Bài vị|Danh từ|bài vị|供桌上摆着祖先的牌位。|Trên bàn thờ đặt bài vị của tổ tiên.
+香火|Hương khói|Danh từ|hương hỏa|这座古庙香火很旺。|Ngôi chùa cổ này hương khói rất thịnh.
+庙会|Hội chùa, chợ phiên đền|Danh từ|miếu hội|春节期间庙会非常热闹。|Dịp Tết hội chùa rất náo nhiệt.
+佛教|Phật giáo|Danh từ|phật giáo|佛教在汉代传入中国。|Phật giáo du nhập vào Trung Quốc từ đời Hán.
+道教|Đạo giáo|Danh từ|đạo giáo|道教是中国本土的宗教。|Đạo giáo là tôn giáo bản địa của Trung Quốc.
+基督教|Kitô giáo, Cơ Đốc giáo|Danh từ|cơ đốc giáo|基督教有两千多年的历史。|Kitô giáo có lịch sử hơn hai nghìn năm.
+伊斯兰教|Hồi giáo|Danh từ|y tư lan giáo|伊斯兰教在唐代传入中国。|Hồi giáo truyền vào Trung Quốc từ đời Đường.
+天主教|Công giáo, Thiên Chúa giáo|Danh từ|thiên chúa giáo|这座天主教堂已有百年历史。|Nhà thờ Công giáo này đã có lịch sử trăm năm.
+教义|Giáo lý|Danh từ|giáo nghĩa|他深入研究了佛教的教义。|Ông nghiên cứu sâu giáo lý Phật giáo.
+教徒|Tín đồ|Danh từ|giáo đồ|虔诚的教徒每天都会祈祷。|Tín đồ sùng đạo ngày nào cũng cầu nguyện.
+僧侣|Tăng lữ, nhà sư|Danh từ|tăng lữ|僧侣们在山上的寺庙里修行。|Các nhà sư tu hành trong ngôi chùa trên núi.
+和尚|Hòa thượng, nhà sư|Danh từ|hòa thượng|小和尚每天早起扫地。|Chú tiểu mỗi ngày dậy sớm quét sân.
+尼姑|Ni cô|Danh từ|ni cô|她出家当了尼姑。|Cô ấy xuất gia làm ni cô.
+道士|Đạo sĩ|Danh từ|đạo sĩ|道士在道观里诵经。|Đạo sĩ tụng kinh trong đạo quán.
+道观|Đạo quán|Danh từ|đạo quan|武当山上有许多道观。|Trên núi Võ Đang có nhiều đạo quán.
+佛经|Kinh Phật|Danh từ|phật kinh|玄奘从印度带回了大量佛经。|Huyền Trang mang về nhiều kinh Phật từ Ấn Độ.
+禅宗|Thiền tông|Danh từ|thiền tông|禅宗强调顿悟。|Thiền tông nhấn mạnh sự đốn ngộ.
+禅意|Thiền ý|Danh từ|thiền ý|这间茶室充满了禅意。|Gian trà thất này đầy thiền ý.
+修行|Tu hành|Động từ|tu hành|他隐居深山潜心修行。|Ông ở ẩn trong núi sâu chuyên tâm tu hành.
+轮回|Luân hồi|Danh từ|luân hồi|佛教相信生死轮回。|Phật giáo tin vào luân hồi sinh tử.
+因果|Nhân quả|Danh từ|nhân quả|善有善报是因果的体现。|Ở hiền gặp lành là sự thể hiện của nhân quả.
+报应|Báo ứng|Danh từ|báo ứng|作恶多端的人终会遭到报应。|Kẻ làm nhiều điều ác cuối cùng sẽ bị báo ứng.
+缘分|Duyên phận|Danh từ|duyên phận|能成为朋友是我们的缘分。|Có thể làm bạn là duyên phận của chúng ta.
+超度|Siêu độ|Động từ|siêu độ|法师为亡灵超度。|Pháp sư làm lễ siêu độ cho vong linh.
+涅槃|Niết bàn|Danh từ|niết bàn|佛教徒追求达到涅槃的境界。|Phật tử mong đạt tới cảnh giới niết bàn.
+菩萨|Bồ Tát|Danh từ|bồ tát|观音菩萨以慈悲著称。|Quán Âm Bồ Tát nổi tiếng vì lòng từ bi.
+佛祖|Phật Tổ|Danh từ|phật tổ|信徒们向佛祖虔诚礼拜。|Các tín đồ thành kính lễ bái Phật Tổ.
+成语典故|Điển tích thành ngữ|Danh từ|thành ngữ điển cố|每个成语背后几乎都有一个典故。|Phía sau mỗi thành ngữ hầu như đều có một điển tích.
+谚语|Tục ngữ|Danh từ|ngạn ngữ|谚语是人民智慧的结晶。|Tục ngữ là kết tinh trí tuệ của nhân dân.
+歇后语|Câu nói lái nghĩa kiểu hiệt hậu ngữ|Danh từ|yết hậu ngữ|歇后语幽默风趣,常用于口语。|Hiết hậu ngữ hài hước thú vị, thường dùng trong khẩu ngữ.
+春联|Câu đối Tết|Danh từ|xuân liên|红红的春联增添了节日气氛。|Câu đối Tết đỏ rực làm tăng không khí lễ hội.
+灯谜|Câu đố đèn lồng|Danh từ|đăng mê|孩子们在灯会上猜灯谜。|Bọn trẻ đoán câu đố đèn lồng ở hội hoa đăng.
+楷书|Chữ khải|Danh từ|khải thư|楷书笔画端正,适合初学者。|Chữ khải nét viết ngay ngắn, thích hợp cho người mới học.
+行书|Chữ hành|Danh từ|hành thư|王羲之的行书堪称一绝。|Chữ hành của Vương Hy Chi có thể gọi là tuyệt phẩm.
+草书|Chữ thảo|Danh từ|thảo thư|草书笔走龙蛇,不易辨认。|Chữ thảo bút đi như rồng rắn, khó nhận ra.
+篆书|Chữ triện|Danh từ|triện thư|印章上刻的多是篆书。|Con dấu phần lớn khắc chữ triện.
+隶书|Chữ lệ|Danh từ|lệ thư|汉碑多用隶书书写。|Bia đời Hán phần nhiều viết bằng chữ lệ.
+笔墨|Bút mực|Danh từ|bút mặc|他的字笔墨酣畅。|Chữ của ông bút mực phóng khoáng đầm đìa.
+文房四宝|Văn phòng tứ bảo|Danh từ|văn phòng tứ bảo|笔墨纸砚被称为文房四宝。|Bút, mực, giấy, nghiên được gọi là văn phòng tứ bảo.
+砚台|Nghiên mực|Danh từ|nghiễn đài|端砚是中国著名的砚台。|Nghiên Đoan là loại nghiên mực nổi tiếng của Trung Quốc.
+宣纸|Giấy Tuyên|Danh từ|tuyên chỉ|宣纸柔韧细腻,适合书画。|Giấy Tuyên mềm dai mịn màng, thích hợp cho thư họa.
+水墨画|Tranh thủy mặc|Danh từ|thủy mặc họa|他擅长画水墨画。|Ông giỏi vẽ tranh thủy mặc.
+国画|Quốc họa|Danh từ|quốc họa|国画讲究留白和意境。|Quốc họa chú trọng để trống và ý cảnh.
+山水画|Tranh sơn thủy|Danh từ|sơn thủy họa|这幅山水画气势磅礴。|Bức tranh sơn thủy này khí thế hùng vĩ.
+工笔|Công bút|Danh từ|công bút|工笔画线条细腻,色彩艳丽。|Tranh công bút nét vẽ tinh tế, màu sắc rực rỡ.
+写意|Tả ý|Danh từ|tả ý|写意画不求形似,但求神似。|Tranh tả ý không cầu giống hình mà cầu giống thần.
+留白|Để trống (trong tranh)|Động từ|lưu bạch|国画中的留白给人无限想象。|Khoảng để trống trong quốc họa cho người xem tưởng tượng vô hạn.
+篆刻|Khắc triện|Danh từ|triện khắc|篆刻是集书法与雕刻于一体的艺术。|Khắc triện là nghệ thuật kết hợp thư pháp và điêu khắc.
+印章|Con dấu|Danh từ|ấn chương|画的右下角盖着画家的印章。|Góc dưới bên phải bức tranh đóng con dấu của họa sĩ.
+碑文|Văn bia|Danh từ|bi văn|碑文记载了这座寺庙的历史。|Văn bia ghi lại lịch sử ngôi chùa này.
+石碑|Bia đá|Danh từ|thạch bi|公园里立着一块古老的石碑。|Trong công viên dựng một tấm bia đá cổ.
+壁画|Bích họa|Danh từ|bích họa|敦煌壁画举世闻名。|Bích họa Đôn Hoàng nổi tiếng khắp thế giới.
+石窟|Hang đá|Danh từ|thạch quật|龙门石窟里有数万尊佛像。|Trong hang đá Long Môn có hàng vạn tượng Phật.
+青花瓷|Gốm men xanh hoa|Danh từ|thanh hoa từ|这件青花瓷价值连城。|Món gốm men xanh hoa này vô giá.
+瓷器|Đồ sứ|Danh từ|từ khí|中国的瓷器远销海外。|Đồ sứ của Trung Quốc xuất khẩu đi khắp nơi.
+陶器|Đồ gốm|Danh từ|đào khí|考古学家挖出了一批新石器时代的陶器。|Các nhà khảo cổ đào được một số đồ gốm thời đồ đá mới.
+青铜|Đồng xanh, đồ đồng|Danh từ|thanh đồng|商周时期的青铜器工艺精湛。|Đồ đồng thời Thương Chu có kỹ nghệ tinh xảo.
+玉器|Đồ ngọc|Danh từ|ngọc khí|博物馆展出了许多古代玉器。|Bảo tàng trưng bày nhiều đồ ngọc cổ đại.
+刺绣|Thêu|Danh từ|thích tú|苏绣是中国四大名绣之一。|Thêu Tô là một trong bốn nghề thêu nổi tiếng của Trung Quốc.
+剪纸|Cắt giấy|Danh từ|tiễn chỉ|奶奶的剪纸栩栩如生。|Tranh cắt giấy của bà sống động như thật.
+年画|Tranh Tết|Danh từ|niên họa|杨柳青年画以色彩鲜艳著称。|Tranh Tết Dương Liễu Thanh nổi tiếng nhờ màu sắc tươi sáng.
+风筝|Diều|Danh từ|phong tranh|清明时节人们喜欢放风筝。|Dịp Thanh Minh mọi người thích thả diều.
+皮影戏|Múa rối bóng|Danh từ|bì ảnh hí|皮影戏是一种古老的民间艺术。|Múa rối bóng là một loại hình nghệ thuật dân gian cổ xưa.
+昆曲|Côn khúc|Danh từ|côn khúc|昆曲唱腔婉转优美。|Điệu hát của Côn khúc uyển chuyển đẹp đẽ.
+戏曲|Hí khúc, tuồng|Danh từ|hí khúc|中国戏曲有三百多个剧种。|Hí khúc Trung Quốc có hơn ba trăm loại hình.
+脸谱|Mặt nạ vẽ mặt (kinh kịch)|Danh từ|kiểm phổ|京剧脸谱的颜色代表不同的性格。|Màu sắc của mặt nạ vẽ mặt trong kinh kịch tượng trưng cho tính cách khác nhau.
+唱腔|Điệu hát|Danh từ|xướng khang|这位演员的唱腔十分独特。|Điệu hát của diễn viên này rất độc đáo.
+武生|Võ sinh (vai kịch)|Danh từ|võ sinh|他是京剧里有名的武生。|Ông là vai võ sinh nổi tiếng trong Kinh kịch.
+花旦|Hoa đán|Danh từ|hoa đán|花旦通常扮演活泼的年轻女子。|Hoa đán thường đóng vai thiếu nữ hoạt bát.
+相声|Tướng thanh, hài đối thoại|Danh từ|tướng thanh|相声是一种说笑表演艺术。|Tướng thanh là một loại hình nghệ thuật biểu diễn nói chuyện hài hước.
+评书|Bình thư, kể chuyện|Danh từ|bình thư|爷爷喜欢听评书。|Ông thích nghe kể chuyện bình thư.
+说书|Kể chuyện (nghề)|Động từ|thuyết thư|茶馆里有人说书。|Trong quán trà có người kể chuyện.
+民谣|Dân ca, ca dao|Danh từ|dân dao|这首民谣在当地代代相传。|Bài dân ca này được truyền qua nhiều thế hệ ở địa phương.
+民俗|Dân tục, phong tục dân gian|Danh từ|dân tục|他专门研究各地的民俗。|Anh chuyên nghiên cứu phong tục dân gian các nơi.
+礼仪|Lễ nghi|Danh từ|lễ nghi|中国是著名的礼仪之邦。|Trung Quốc là đất nước lễ nghi nổi tiếng.
+礼教|Lễ giáo|Danh từ|lễ giáo|封建礼教束缚了妇女。|Lễ giáo phong kiến trói buộc phụ nữ.
+孝道|Hiếu đạo|Danh từ|hiếu đạo|孝道是中华民族的传统美德。|Hiếu đạo là đức tính truyền thống của dân tộc Trung Hoa.
+仁爱|Nhân ái|Tính từ|nhân ái|儒家倡导以仁爱之心待人。|Nho gia đề xướng đối đãi với người bằng lòng nhân ái.
+仁义|Nhân nghĩa|Danh từ|nhân nghĩa|他是一个讲仁义的人。|Ông là người trọng nhân nghĩa.
+中庸|Trung dung|Danh từ|trung dung|中庸之道是儒家的处世哲学。|Đạo trung dung là triết lý xử thế của Nho gia.
+无为|Vô vi|Động từ|vô vi|道家主张无为而治。|Đạo gia chủ trương vô vi mà trị.
+阴阳|Âm dương|Danh từ|âm dương|阴阳相生相克是古代哲学的基本观念。|Âm dương tương sinh tương khắc là quan niệm cơ bản của triết học cổ đại.
+五行|Ngũ hành|Danh từ|ngũ hành|五行指金木水火土。|Ngũ hành chỉ kim, mộc, thủy, hỏa, thổ.
+八卦|Bát quái|Danh từ|bát quái|太极图周围画着八卦。|Xung quanh đồ Thái cực vẽ bát quái.
+太极|Thái cực|Danh từ|thái cực|清晨公园里很多人在打太极。|Sáng sớm trong công viên có nhiều người tập thái cực.
+风水|Phong thủy|Danh từ|phong thủy|盖房子之前,他请人看了风水。|Trước khi xây nhà, ông mời người xem phong thủy.
+天命|Thiên mệnh|Danh từ|thiên mệnh|古人认为帝王受命于天命。|Người xưa cho rằng đế vương thụ mệnh từ thiên mệnh.
+天人合一|Thiên nhân hợp nhất|Thành ngữ|thiên nhân hợp nhất|天人合一是中国哲学的重要思想。|Thiên nhân hợp nhất là tư tưởng quan trọng của triết học Trung Quốc.
+哲理|Triết lý|Danh từ|triết lý|这则寓言蕴含着深刻的哲理。|Truyện ngụ ngôn này chứa đựng triết lý sâu sắc.
+哲人|Triết nhân, nhà triết học|Danh từ|triết nhân|苏格拉底是古希腊的哲人。|Socrates là nhà triết học của Hy Lạp cổ đại.
+思辨|Tư biện|Động từ|tư biện|哲学训练人的思辨能力。|Triết học rèn luyện năng lực tư biện của con người.
+唯物|Duy vật|Tính từ|duy vật|他主张唯物主义的世界观。|Ông chủ trương thế giới quan duy vật.
+唯心|Duy tâm|Tính từ|duy tâm|唯心主义认为精神决定物质。|Chủ nghĩa duy tâm cho rằng tinh thần quyết định vật chất.
+本体|Bản thể|Danh từ|bản thể|形而上学探讨世界的本体。|Siêu hình học khảo cứu bản thể của thế giới.
+信条|Tín điều|Danh từ|tín điều|诚实是他一生的信条。|Thành thật là tín điều cả đời của ông.
+教条|Giáo điều|Danh từ|giáo điều|做学问不能死守教条。|Làm học vấn không thể cứng nhắc giữ giáo điều.
+伦理|Luân lý, đạo đức|Danh từ|luân lý|医生要遵守职业伦理。|Bác sĩ phải tuân thủ đạo đức nghề nghiệp.
+美德|Đức tính tốt|Danh từ|mỹ đức|勤俭是中华民族的传统美德。|Cần kiệm là đức tính tốt truyền thống của dân tộc Trung Hoa.
+气节|Khí tiết|Danh từ|khí tiết|文天祥以民族气节流芳百世。|Văn Thiên Tường lưu danh muôn đời nhờ khí tiết dân tộc.
+情操|Tình cảm cao thượng|Danh từ|tình thao|读书可以陶冶情操。|Đọc sách có thể bồi dưỡng tình cảm cao đẹp.
+素养|Tố dưỡng, tố chất|Danh từ|tố dưỡng|阅读能提高人的文学素养。|Đọc sách có thể nâng cao tố dưỡng văn học của con người.
+底蕴|Nội hàm, chiều sâu|Danh từ|để uẩn|这座古城有着深厚的文化底蕴。|Cổ thành này có chiều sâu văn hóa dày dặn.
+渊源|Cội nguồn, nguồn gốc|Danh từ|uyên nguyên|两种文化之间有着深厚的渊源。|Giữa hai nền văn hóa có cội nguồn sâu xa.
+源远流长|Nguồn dài dòng chảy|Thành ngữ|nguyên viễn lưu trường|中国茶文化源远流长。|Văn hóa trà Trung Quốc có nguồn gốc lâu đời.
+薪火相传|Truyền lửa cho nhau|Thành ngữ|tân hỏa tương truyền|传统技艺需要薪火相传。|Kỹ nghệ truyền thống cần được truyền lửa qua các đời.
+承前启后|Kế thừa trước, mở ra sau|Thành ngữ|thừa tiền khải hậu|这位诗人在文学史上承前启后。|Nhà thơ này đóng vai trò kế trước mở sau trong lịch sử văn học.
+一脉相承|Một mạch kế thừa|Thành ngữ|nhất mạch tương thừa|两种思想一脉相承。|Hai tư tưởng này một mạch kế thừa nhau.
+妇孺皆知|Phụ nữ trẻ em đều biết|Thành ngữ|phụ nhụ giai tri|岳飞精忠报国的故事妇孺皆知。|Chuyện Nhạc Phi tận trung báo quốc ai ai cũng biết.
+脍炙人口|Được nhiều người ưa chuộng|Thành ngữ|khoái chá nhân khẩu|这首诗脍炙人口,流传千古。|Bài thơ này được mọi người yêu thích, lưu truyền ngàn đời.
+千古绝唱|Tuyệt xướng ngàn đời|Thành ngữ|thiên cổ tuyệt xướng|这首词堪称千古绝唱。|Bài từ này có thể gọi là tuyệt xướng ngàn đời.
+流芳百世|Lưu danh muôn đời|Thành ngữ|lưu phương bách thế|他的美名流芳百世。|Tiếng thơm của ông lưu truyền muôn đời.
+名垂青史|Danh lưu sử sách|Thành ngữ|danh thùy thanh sử|她为国捐躯,名垂青史。|Cô hy sinh vì nước, danh lưu sử sách.
+气势磅礴|Khí thế hùng vĩ|Thành ngữ|khí thế bàng bạc|长城气势磅礴,雄伟壮观。|Vạn Lý Trường Thành khí thế hùng vĩ, tráng lệ.
+栩栩如生|Sống động như thật|Thành ngữ|hử hử như sinh|这尊雕像栩栩如生。|Bức tượng này sống động như thật.
+惟妙惟肖|Giống y như thật|Thành ngữ|duy diệu duy tiếu|他模仿得惟妙惟肖。|Anh bắt chước giống y như thật.
+画龙点睛|Vẽ rồng điểm mắt|Thành ngữ|họa long điểm tình|最后一句话起到了画龙点睛的作用。|Câu cuối cùng đóng vai trò điểm nhãn cho bài.
+妙笔生花|Bút hay như hoa nở|Thành ngữ|diệu bút sinh hoa|她妙笔生花,写出了动人的故事。|Cô viết văn tuyệt hay, tạo nên câu chuyện cảm động.
+文采|Văn thái, tài văn chương|Danh từ|văn thái|他的文章很有文采。|Văn của ông rất có văn thái.
+文豪|Đại văn hào|Danh từ|văn hào|鲁迅是中国现代文学的文豪。|Lỗ Tấn là đại văn hào của văn học hiện đại Trung Quốc.
+诗人|Nhà thơ|Danh từ|thi nhân|李白被称为诗仙。|Lý Bạch được gọi là Thi tiên.
+诗仙|Thi tiên|Danh từ|thi tiên|后人尊称李白为诗仙。|Hậu thế tôn xưng Lý Bạch là Thi tiên.
+诗圣|Thi thánh|Danh từ|thi thánh|杜甫被誉为诗圣。|Đỗ Phủ được tôn là Thi thánh.
+词人|Nhà viết từ|Danh từ|từ nhân|李清照是宋代著名的词人。|Lý Thanh Chiếu là nhà từ nổi tiếng đời Tống.
+话本|Thoại bản|Danh từ|thoại bản|话本是宋元时期说书人的底本。|Thoại bản là bản gốc của người kể chuyện thời Tống Nguyên.
+章回|Chương hồi|Danh từ|chương hồi|《三国演义》是章回体小说。|Tam Quốc Diễn Nghĩa là tiểu thuyết thể chương hồi.
+文言文|Văn ngôn, văn cổ|Danh từ|văn ngôn văn|中学生要学习一些文言文。|Học sinh trung học phải học một ít văn ngôn.
+白话文|Văn bạch thoại|Danh từ|bạch thoại văn|五四运动推动了白话文的普及。|Phong trào Ngũ Tứ thúc đẩy sự phổ biến của văn bạch thoại.
+诗词|Thơ từ|Danh từ|thi từ|她从小背诵了许多诗词。|Từ nhỏ cô đã thuộc nhiều thơ từ.
+诗句|Câu thơ|Danh từ|thi cú|他随口吟出一句优美的诗句。|Anh buột miệng ngâm một câu thơ hay.
+吟诵|Ngâm vịnh|Động từ|ngâm tụng|老先生摇头晃脑地吟诵古诗。|Cụ lắc đầu nghiêng người ngâm thơ cổ.
+抒情|Trữ tình|Động từ|trữ tình|这首诗借景抒情。|Bài thơ này mượn cảnh để bày tỏ tình cảm.
+咏叹|Ngâm than|Động từ|vịnh thán|诗人咏叹时光的流逝。|Thi nhân ngâm than thời gian trôi qua.
+隐喻|Ẩn dụ|Danh từ|ẩn dụ|这首诗用月亮作为思乡的隐喻。|Bài thơ dùng mặt trăng làm ẩn dụ cho nỗi nhớ quê.
+寓意|Hàm ý, ngụ ý|Danh từ|ngụ ý|红色在春节有吉祥的寓意。|Màu đỏ trong dịp Tết mang ngụ ý cát tường.
+主旨|Chủ đề, ý chính|Danh từ|chủ chỉ|这篇文章的主旨是什么?|Ý chính của bài văn này là gì?
+伏笔|Phục bút|Danh từ|phục bút|作者在前文埋下了伏笔。|Tác giả đã cài phục bút ở phần trước.
+跋|Lời bạt|Danh từ|bạt|书末有作者写的跋。|Cuối sách có lời bạt do tác giả viết.
+校勘|Hiệu khám, hiệu đính|Động từ|hiệu khám|学者们对古籍进行了仔细校勘。|Các học giả hiệu đính cổ tịch rất cẩn thận.
+考据|Khảo cứu, khảo chứng|Động từ|khảo cứ|清代学者擅长考据之学。|Học giả đời Thanh giỏi về khảo chứng học.
+训诂|Huấn hỗ|Danh từ|huấn hỗ|训诂学研究古书中词语的意义。|Huấn hỗ học nghiên cứu nghĩa của từ ngữ trong sách cổ.
+遗迹|Di tích|Danh từ|di tích|这里保存着古代文明的遗迹。|Nơi đây còn lưu giữ di tích văn minh cổ đại.
+古迹|Cổ tích, di tích cổ|Danh từ|cổ tích|北京有很多名胜古迹。|Bắc Kinh có nhiều danh lam thắng cảnh và di tích cổ.
+出土|Khai quật, đào lên|Động từ|xuất thổ|兵马俑是在陕西出土的。|Đội quân đất nung được khai quật ở Thiểm Tây.
+陪葬|Chôn theo|Động từ|bồi táng|墓中有许多陪葬品。|Trong mộ có nhiều vật chôn theo.
+陵墓|Lăng mộ|Danh từ|lăng mộ|明十三陵是明代皇帝的陵墓。|Thập Tam Lăng là lăng mộ các hoàng đế đời Minh.
+殉葬|Chôn sống theo người chết|Động từ|tuẫn táng|古代曾有以活人殉葬的陋习。|Thời xưa từng có hủ tục chôn người sống theo người chết.
+兵马俑|Tượng binh mã|Danh từ|binh mã dũng|秦始皇兵马俑被称为世界第八大奇迹。|Đội tượng binh mã Tần Thủy Hoàng được gọi là kỳ quan thứ tám của thế giới.
+珍品|Vật quý, trân phẩm|Danh từ|trân phẩm|这幅画是博物馆的珍品。|Bức tranh này là trân phẩm của bảo tàng.
+国宝|Quốc bảo|Danh từ|quốc bảo|大熊猫是中国的国宝。|Gấu trúc là quốc bảo của Trung Quốc.
+故宫|Cố Cung|Danh từ|cố cung|故宫是明清两代的皇宫。|Cố Cung là hoàng cung hai đời Minh Thanh.
+丝绸之路|Con đường tơ lụa|Danh từ|ti trù chi lộ|丝绸之路连接了东西方文明。|Con đường tơ lụa nối liền văn minh Đông Tây.
+非物质文化遗产|Di sản văn hóa phi vật thể|Danh từ|phi vật chất văn hóa di sản|京剧是非物质文化遗产。|Kinh kịch là di sản văn hóa phi vật thể.
+传承|Truyền thừa, kế thừa|Động từ|truyền thừa|这项技艺需要有人传承下去。|Kỹ nghệ này cần có người kế thừa tiếp.
+部落|Bộ lạc|Danh từ|bộ lạc|远古时期人们以部落为单位生活。|Thời viễn cổ con người sống theo đơn vị bộ lạc.
+图腾|Vật tổ|Danh từ|đồ đằng|龙是中华民族的图腾。|Rồng là vật tổ của dân tộc Trung Hoa.
+巫师|Pháp sư, thầy cúng|Danh từ|vu sư|古代巫师负责沟通天地。|Thầy cúng thời xưa phụ trách giao tiếp giữa trời và đất.
+占卜|Bói toán|Động từ|chiêm bốc|商代人用龟甲占卜吉凶。|Người thời Thương dùng mai rùa để bói cát hung.
+甲骨文|Giáp cốt văn|Danh từ|giáp cốt văn|甲骨文是中国最早的成熟文字。|Giáp cốt văn là văn tự trưởng thành sớm nhất của Trung Quốc.
+金文|Kim văn|Danh từ|kim văn|青铜器上铸有金文。|Trên đồ đồng có đúc kim văn.
+象形|Tượng hình|Tính từ|tượng hình|汉字起源于象形文字。|Chữ Hán bắt nguồn từ văn tự tượng hình.
+偏旁|Bộ phận chữ Hán|Danh từ|thiên bàng|学汉字要先认识偏旁。|Học chữ Hán trước hết phải nhận biết các bộ.
+部首|Bộ thủ|Danh từ|bộ thủ|字典是按部首排列的。|Từ điển sắp xếp theo bộ thủ.
+雅俗|Nhã và tục|Danh từ|nhã tục|这部作品雅俗共赏。|Tác phẩm này nhã tục đều thưởng thức được.
+典雅|Trang nhã, thanh nhã|Tính từ|điển nhã|这座园林的建筑典雅别致。|Kiến trúc của khu vườn này thanh nhã độc đáo.
+古朴|Cổ kính giản dị|Tính từ|cổ phác|这间茶馆的装饰古朴自然。|Trang trí của quán trà này cổ kính tự nhiên.
+璀璨|Rực rỡ, lấp lánh|Tính từ|thôi xán|敦煌艺术是中华文明的璀璨明珠。|Nghệ thuật Đôn Hoàng là viên ngọc rực rỡ của văn minh Trung Hoa.
+典范|Điển phạm, mẫu mực|Danh từ|điển phạm|他的作品是现代散文的典范。|Tác phẩm của ông là mẫu mực của tản văn hiện đại.
+巅峰|Đỉnh cao|Danh từ|điên phong|唐诗达到了中国诗歌的巅峰。|Thơ Đường đạt tới đỉnh cao của thơ ca Trung Quốc.
+盛世|Thời thịnh vượng|Danh từ|thịnh thế|开元盛世是唐朝的鼎盛时期。|Thời thịnh Khai Nguyên là giai đoạn cực thịnh của triều Đường.
+兴衰|Hưng suy|Danh từ|hưng suy|读史可以了解国家的兴衰。|Đọc sử có thể hiểu sự hưng suy của quốc gia.
+沧桑|Thăng trầm, dâu bể|Danh từ|thương tang|老人脸上写满了岁月的沧桑。|Gương mặt cụ già đầy dấu vết thăng trầm của năm tháng.
+沧海桑田|Bãi bể nương dâu|Thành ngữ|thương hải tang điền|几十年过去,这里已是沧海桑田。|Mấy chục năm trôi qua, nơi này đã bãi bể nương dâu.
+改朝换代|Thay triều đổi đại|Thành ngữ|cải triều hoán đại|每次改朝换代都伴随着战乱。|Mỗi lần thay triều đổi đại đều đi kèm chiến loạn.
+烽火|Khói lửa chiến tranh|Danh từ|phong hỏa|烽火连年,百姓流离失所。|Khói lửa liên miên, dân chúng lưu lạc mất nhà.
+割据|Cát cứ|Động từ|cát cứ|唐末藩镇割据,天下大乱。|Cuối Đường phiên trấn cát cứ, thiên hạ đại loạn.
+王朝|Vương triều|Danh từ|vương triều|每个王朝都有兴盛和衰落。|Mỗi vương triều đều có lúc hưng thịnh và suy tàn.
+诸侯|Chư hầu|Danh từ|chư hầu|春秋时期诸侯争霸。|Thời Xuân Thu các chư hầu tranh bá.
+君主|Quân chủ, vua|Danh từ|quân chủ|这位君主在位四十年。|Vị vua này tại vị bốn mươi năm.
+臣子|Bề tôi|Danh từ|thần tử|忠心的臣子敢于直言进谏。|Bề tôi trung thành dám thẳng thắn can gián.
+进谏|Can gián (vua)|Động từ|tiến gián|魏征多次向唐太宗进谏。|Ngụy Trưng nhiều lần can gián Đường Thái Tông.
+朝廷|Triều đình|Danh từ|triều đình|朝廷派使者前往边疆。|Triều đình phái sứ giả đến biên cương.
+宫廷|Cung đình|Danh từ|cung đình|这是一道宫廷名菜。|Đây là một món ăn nổi tiếng chốn cung đình.
+后宫|Hậu cung|Danh từ|hậu cung|后宫里的斗争十分复杂。|Cuộc đấu đá trong hậu cung rất phức tạp.
+太监|Thái giám|Danh từ|thái giám|明代的太监权势很大。|Thái giám đời Minh quyền thế rất lớn.
+士大夫|Sĩ đại phu|Danh từ|sĩ đại phu|宋代士大夫注重气节和修养。|Sĩ đại phu đời Tống coi trọng khí tiết và tu dưỡng.
+侠客|Hiệp khách|Danh từ|hiệp khách|武侠小说里的侠客行侠仗义。|Hiệp khách trong tiểu thuyết võ hiệp hành hiệp trượng nghĩa.
+江湖|Giang hồ|Danh từ|giang hồ|他厌倦了江湖上的恩怨。|Anh chán ngán ân oán chốn giang hồ.
+中医|Đông y|Danh từ|trung y|中医讲究望闻问切。|Đông y chú trọng vọng, văn, vấn, thiết.
+养生|Dưỡng sinh|Động từ|dưỡng sinh|老年人很注重养生。|Người cao tuổi rất coi trọng dưỡng sinh.
+茶道|Trà đạo|Danh từ|trà đạo|日本的茶道源于中国。|Trà đạo Nhật Bản có nguồn gốc từ Trung Quốc.
+茶艺|Trà nghệ|Danh từ|trà nghệ|她学习茶艺已经三年了。|Cô học trà nghệ đã ba năm.
+茶馆|Quán trà|Danh từ|trà quán|老人们常去茶馆聊天下棋。|Các cụ già thường đến quán trà trò chuyện đánh cờ.
+围棋|Cờ vây|Danh từ|vi kỳ|围棋是中国古代四艺之一。|Cờ vây là một trong tứ nghệ của Trung Quốc cổ đại.
+琴棋书画|Cầm kỳ thi họa|Thành ngữ|cầm kỳ thư họa|古代才女须精通琴棋书画。|Tài nữ thời xưa phải tinh thông cầm kỳ thi họa.
+古琴|Cổ cầm|Danh từ|cổ cầm|古琴的音色幽静深沉。|Âm sắc cổ cầm tĩnh lặng sâu lắng.
+琵琶|Tỳ bà|Danh từ|tỳ bà|她弹得一手好琵琶。|Cô đàn tỳ bà rất hay.
+二胡|Nhị hồ|Danh từ|nhị hồ|二胡的声音悲凉动人。|Tiếng nhị hồ bi thương cảm động.
+笛子|Sáo|Danh từ|địch tử|远处传来悠扬的笛子声。|Từ xa vọng lại tiếng sáo du dương.
+古筝|Cổ tranh|Danh từ|cổ tranh|她从小学习古筝。|Cô học cổ tranh từ nhỏ.
+编钟|Chuông chùm|Danh từ|biên chung|曾侯乙编钟是珍贵的文物。|Chuông chùm Tằng Hầu Ất là hiện vật quý giá.

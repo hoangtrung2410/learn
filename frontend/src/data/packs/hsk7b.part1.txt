@@ -1,0 +1,249 @@
+通货紧缩|giảm phát|Danh từ|thông hóa khẩn súc|通货紧缩可能拖累整体经济增长。|Giảm phát có thể kéo lùi tăng trưởng kinh tế chung.
+宏观调控|điều tiết vĩ mô|Danh từ|hoành quan điều khống|政府通过宏观调控来稳定物价。|Chính phủ điều tiết vĩ mô để ổn định giá cả.
+货币政策|chính sách tiền tệ|Danh từ|hóa tệ chính sách|央行调整了货币政策以刺激消费。|Ngân hàng trung ương đã điều chỉnh chính sách tiền tệ để kích thích tiêu dùng.
+财政政策|chính sách tài khóa|Danh từ|tài chính chính sách|积极的财政政策有助于扩大内需。|Chính sách tài khóa tích cực giúp mở rộng nhu cầu trong nước.
+中央银行|ngân hàng trung ương|Danh từ|trung ương ngân hàng|中央银行宣布下调基准利率。|Ngân hàng trung ương thông báo hạ lãi suất cơ bản.
+基准利率|lãi suất cơ bản|Danh từ|cơ chuẩn lợi suất|基准利率的变动会影响房贷成本。|Biến động lãi suất cơ bản ảnh hưởng đến chi phí vay mua nhà.
+存款准备金|dự trữ bắt buộc|Danh từ|tồn khoản chuẩn bị kim|央行下调了存款准备金率。|Ngân hàng trung ương đã hạ tỷ lệ dự trữ bắt buộc.
+外汇|ngoại hối|Danh từ|ngoại hối|我国的外汇储备十分充足。|Dự trữ ngoại hối của nước ta rất dồi dào.
+升值|tăng giá, lên giá|Động từ|thăng trị|房产在十年间大幅升值。|Bất động sản đã tăng giá mạnh trong mười năm.
+贬值|mất giá, giảm giá trị|Động từ|biếm trị|货币贬值会推高进口商品价格。|Tiền tệ mất giá sẽ đẩy giá hàng nhập khẩu lên.
+贸易顺差|thặng dư thương mại|Danh từ|mậu dịch thuận sai|该国连续多年保持贸易顺差。|Nước này duy trì thặng dư thương mại nhiều năm liền.
+贸易逆差|thâm hụt thương mại|Danh từ|mậu dịch nghịch sai|巨额贸易逆差引发了政策争论。|Thâm hụt thương mại khổng lồ gây ra tranh luận chính sách.
+关税|thuế quan|Danh từ|quan thuế|提高关税会增加进口成本。|Tăng thuế quan sẽ làm tăng chi phí nhập khẩu.
+壁垒|rào cản, bức tường chắn|Danh từ|bích lũy|各国正在逐步消除贸易壁垒。|Các nước đang dần dỡ bỏ rào cản thương mại.
+保护主义|chủ nghĩa bảo hộ|Danh từ|bảo hộ chủ nghĩa|贸易保护主义不利于全球经济。|Chủ nghĩa bảo hộ thương mại bất lợi cho kinh tế toàn cầu.
+自由贸易|tự do thương mại|Danh từ|tự do mậu dịch|两国签署了自由贸易协定。|Hai nước đã ký hiệp định thương mại tự do.
+报关|khai báo hải quan|Động từ|báo quan|货物到港后需要尽快报关。|Hàng đến cảng cần khai báo hải quan sớm.
+清关|thông quan|Động từ|thanh quan|由于资料不全，清关被拖延了。|Do hồ sơ không đầy đủ nên việc thông quan bị chậm trễ.
+物流|logistics, lưu thông hàng hóa|Danh từ|vật lưu|电商的发展带动了物流行业。|Sự phát triển của thương mại điện tử thúc đẩy ngành logistics.
+供应链|chuỗi cung ứng|Danh từ|cung ứng liên|疫情冲击了全球供应链。|Dịch bệnh đã tác động đến chuỗi cung ứng toàn cầu.
+库存|hàng tồn kho|Danh từ|khố tồn|仓库里积压了大量库存。|Trong kho tồn đọng một lượng lớn hàng tồn.
+积压|ứ đọng, tồn đọng|Động từ|tích áp|滞销的商品积压在仓库里。|Hàng bán chậm bị ứ đọng trong kho.
+滞销|bán chậm, ế|Động từ|trệ tiêu|这批产品因价格过高而滞销。|Lô sản phẩm này bán ế vì giá quá cao.
+零售|bán lẻ|Động từ|linh thụ|零售业正在向线上转型。|Ngành bán lẻ đang chuyển đổi sang trực tuyến.
+竞争力|sức cạnh tranh|Danh từ|cạnh tranh lực|创新是提高企业竞争力的关键。|Đổi mới là chìa khóa nâng cao sức cạnh tranh của doanh nghiệp.
+市场份额|thị phần|Danh từ|thị trường phần ngạch|公司的市场份额逐年扩大。|Thị phần của công ty mở rộng qua từng năm.
+供过于求|cung vượt cầu|Thành ngữ|cung quá ư cầu|产能过剩导致市场供过于求。|Công suất dư thừa khiến thị trường cung vượt cầu.
+产能|công suất sản xuất|Danh từ|sản năng|工厂正在扩大产能。|Nhà máy đang mở rộng công suất sản xuất.
+过剩|dư thừa|Tính từ|quá thặng|钢铁行业存在产能过剩问题。|Ngành thép tồn tại vấn đề dư thừa công suất.
+融资|huy động vốn, tài trợ vốn|Động từ|dung tư|初创公司完成了新一轮融资。|Công ty khởi nghiệp đã hoàn tất vòng huy động vốn mới.
+筹资|gây quỹ, huy động vốn|Động từ|trù tư|公司通过发行债券来筹资。|Công ty huy động vốn bằng cách phát hành trái phiếu.
+风险投资|đầu tư mạo hiểm|Danh từ|phong hiểm đầu tư|风险投资青睐具有潜力的新技术。|Đầu tư mạo hiểm ưa chuộng các công nghệ mới có tiềm năng.
+天使投资|đầu tư thiên thần|Danh từ|thiên sứ đầu tư|他获得了一笔天使投资。|Anh ấy nhận được một khoản đầu tư thiên thần.
+股价|giá cổ phiếu|Danh từ|cổ giá|财报发布后公司股价大涨。|Sau khi công bố báo cáo tài chính, giá cổ phiếu tăng mạnh.
+股息|cổ tức|Danh từ|cổ tức|公司每年向股东发放股息。|Công ty chi trả cổ tức cho cổ đông hằng năm.
+红利|cổ tức, lợi tức|Danh từ|hồng lợi|改革释放了巨大的发展红利。|Cải cách đã giải phóng lợi ích phát triển to lớn.
+上市|niêm yết|Động từ|thượng thị|这家公司计划明年上市。|Công ty này dự định niêm yết vào năm sau.
+退市|hủy niêm yết|Động từ|thoái thị|连续亏损的公司可能被退市。|Công ty thua lỗ liên tục có thể bị hủy niêm yết.
+并购|sáp nhập và mua lại|Động từ|tịnh cấu|这起并购案涉及数十亿资金。|Thương vụ sáp nhập và mua lại này liên quan đến hàng tỷ vốn.
+收购|thâu tóm, mua lại|Động từ|thu cấu|大公司收购了这家小企业。|Công ty lớn đã mua lại doanh nghiệp nhỏ này.
+重组|tái cơ cấu|Động từ|trùng tổ|企业经过重组后重新盈利。|Doanh nghiệp tái cơ cấu xong đã có lãi trở lại.
+清算|thanh lý, thanh toán bù trừ|Động từ|thanh toán|破产企业进入了清算程序。|Doanh nghiệp phá sản bước vào thủ tục thanh lý.
+资不抵债|tài sản không đủ trả nợ|Thành ngữ|tư bất để trái|公司已经资不抵债，难以为继。|Công ty đã mất khả năng thanh toán nợ, khó duy trì.
+债务|nợ, khoản nợ|Danh từ|trái vụ|过高的债务拖垮了企业。|Khoản nợ quá lớn đã làm kiệt quệ doanh nghiệp.
+国债|quốc trái, trái phiếu chính phủ|Danh từ|quốc trái|国债被视为低风险的投资工具。|Trái phiếu chính phủ được xem là công cụ đầu tư rủi ro thấp.
+债权人|chủ nợ|Danh từ|trái quyền nhân|债权人要求公司尽快还款。|Chủ nợ yêu cầu công ty sớm trả nợ.
+债务人|con nợ|Danh từ|trái vụ nhân|债务人无力偿还全部欠款。|Con nợ không đủ khả năng trả hết khoản nợ.
+抵押|thế chấp|Động từ|để áp|他用房子向银行抵押贷款。|Anh ấy dùng nhà thế chấp vay ngân hàng.
+信贷|tín dụng|Danh từ|tín thải|银行收紧了对房地产的信贷。|Ngân hàng thắt chặt tín dụng đối với bất động sản.
+信用|tín nhiệm, uy tín|Danh từ|tín dụng|良好的信用有助于获得贷款。|Uy tín tốt giúp dễ vay vốn.
+本金|tiền gốc|Danh từ|bản kim|每月还款包括本金和利息。|Khoản trả hằng tháng gồm tiền gốc và tiền lãi.
+复利|lãi kép|Danh từ|phục lợi|复利的力量会随时间显现。|Sức mạnh của lãi kép sẽ bộc lộ theo thời gian.
+存款|tiền gửi|Danh từ|tồn khoản|他把一半存款转成了定期。|Anh ấy chuyển một nửa tiền gửi sang có kỳ hạn.
+取款|rút tiền|Động từ|thủ khoản|你可以在自动取款机取款。|Bạn có thể rút tiền ở máy ATM.
+转账|chuyển khoản|Động từ|chuyển trướng|我已经把房租转账给房东了。|Tôi đã chuyển khoản tiền thuê nhà cho chủ nhà.
+汇款|chuyển tiền|Động từ|hối khoản|他每月给父母汇款。|Hằng tháng anh ấy chuyển tiền cho bố mẹ.
+账单|hóa đơn, sao kê|Danh từ|trướng đơn|信用卡账单每月十号生成。|Sao kê thẻ tín dụng được tạo vào ngày mười hằng tháng.
+盈余|thặng dư|Danh từ|doanh dư|公司本年度实现了盈余。|Công ty đạt thặng dư trong năm nay.
+利润率|tỷ suất lợi nhuận|Danh từ|lợi nhuận suất|零售业的利润率普遍较低。|Tỷ suất lợi nhuận ngành bán lẻ nhìn chung thấp.
+营业额|doanh thu, doanh số|Danh từ|doanh nghiệp ngạch|商店的月营业额超过百万。|Doanh thu hằng tháng của cửa hàng vượt một triệu.
+折旧|khấu hao|Danh từ|chiết cựu|设备每年按比例计提折旧。|Thiết bị hằng năm được trích khấu hao theo tỷ lệ.
+负债|nợ phải trả|Danh từ|phụ trái|企业的负债率偏高。|Tỷ lệ nợ phải trả của doanh nghiệp khá cao.
+现金流|dòng tiền|Danh từ|hiện kim lưu|稳定的现金流是企业的命脉。|Động tiền ổn định là mạch sống của doanh nghiệp.
+流动性|tính thanh khoản|Danh từ|lưu động tính|市场流动性出现了紧张。|Thanh khoản thị trường xuất hiện căng thẳng.
+账目|sổ sách, khoản mục|Danh từ|trướng mục|会计核对了所有账目。|Kế toán đã đối chiếu mọi sổ sách.
+审计|kiểm toán|Động từ|thẩm kế|事务所对年报进行了审计。|Công ty kiểm toán đã kiểm toán báo cáo thường niên.
+财报|báo cáo tài chính|Danh từ|tài báo|上市公司需定期发布财报。|Công ty niêm yết phải công bố báo cáo tài chính định kỳ.
+纳税|nộp thuế|Động từ|nạp thuế|企业应当依法纳税。|Doanh nghiệp phải nộp thuế theo pháp luật.
+避税|trốn thuế hợp pháp, né thuế|Động từ|tị thuế|跨国公司常被指责避税。|Các công ty đa quốc gia thường bị chỉ trích né thuế.
+偷税|trốn thuế|Động từ|thâu thuế|偷税漏税是违法行为。|Trốn thuế là hành vi vi phạm pháp luật.
+扶持|nâng đỡ, hỗ trợ|Động từ|phù trì|政策重点扶持中小企业。|Chính sách tập trung hỗ trợ doanh nghiệp vừa và nhỏ.
+萧条|tiêu điều, suy thoái|Tính từ|tiêu điều|经济萧条导致失业率上升。|Kinh tế suy thoái khiến tỷ lệ thất nghiệp tăng.
+复苏|phục hồi|Động từ|phục tô|全球经济正在缓慢复苏。|Kinh tế toàn cầu đang phục hồi chậm.
+低迷|ảm đạm, trì trệ|Tính từ|đê mê|房地产市场持续低迷。|Thị trường bất động sản liên tục ảm đạm.
+疲软|yếu, suy yếu|Tính từ|bì nhuyễn|出口需求依然疲软。|Nhu cầu xuất khẩu vẫn yếu.
+波动|biến động|Động từ|ba động|国际油价近来波动剧烈。|Giá dầu quốc tế gần đây biến động mạnh.
+暴涨|tăng vọt|Động từ|bạo trướng|受消息影响，股价暴涨。|Chịu ảnh hưởng tin tức, giá cổ phiếu tăng vọt.
+暴跌|lao dốc, giảm mạnh|Động từ|bạo diệt|大盘一天内暴跌百分之五。|Thị trường chung giảm mạnh năm phần trăm trong một ngày.
+下滑|sụt giảm|Động từ|há hoạt|第三季度销量明显下滑。|Doanh số quý ba sụt giảm rõ rệt.
+回升|hồi phục, tăng trở lại|Động từ|hồi thăng|消费信心开始回升。|Niềm tin tiêu dùng bắt đầu hồi phục.
+涨幅|mức tăng|Danh từ|trướng phúc|房价的涨幅有所收窄。|Mức tăng giá nhà đã thu hẹp phần nào.
+跌幅|mức giảm|Danh từ|diệt phúc|该板块的跌幅居前。|Mức giảm của nhóm ngành này đứng đầu.
+行情|tình hình thị trường, giá cả|Danh từ|hành tình|最近股市行情看涨。|Gần đây thị trường chứng khoán có xu hướng tăng.
+牛市|thị trường giá lên|Danh từ|ngưu thị|牛市中投资者情绪高涨。|Trong thị trường giá lên, tâm lý nhà đầu tư phấn khởi.
+熊市|thị trường giá xuống|Danh từ|hùng thị|熊市里要注意控制风险。|Trong thị trường giá xuống cần chú ý kiểm soát rủi ro.
+炒作|thổi giá, đầu cơ thổi phồng|Động từ|sao tác|有人在恶意炒作这只股票。|Có người đang cố ý thổi giá cổ phiếu này.
+套利|kiếm lời chênh lệch|Động từ|sáo lợi|他靠汇率差异进行套利。|Anh ta kiếm lời nhờ chênh lệch tỷ giá.
+对冲|phòng ngừa rủi ro|Động từ|đối xung|企业用期货对冲价格风险。|Doanh nghiệp dùng hợp đồng tương lai để phòng ngừa rủi ro giá.
+期货|hợp đồng tương lai|Danh từ|kỳ hóa|他在期货市场做了多年交易。|Anh ấy giao dịch trên thị trường hàng hóa tương lai nhiều năm.
+期权|quyền chọn|Danh từ|kỳ quyền|员工获得了公司的股票期权。|Nhân viên được cấp quyền chọn cổ phiếu của công ty.
+证券|chứng khoán|Danh từ|chứng khoán|他在证券公司工作。|Anh ấy làm việc ở một công ty chứng khoán.
+理赔|bồi thường bảo hiểm|Động từ|lý bồi|保险公司已完成理赔。|Công ty bảo hiểm đã hoàn tất việc bồi thường.
+保费|phí bảo hiểm|Danh từ|bảo phí|车险保费每年都在调整。|Phí bảo hiểm xe được điều chỉnh mỗi năm.
+养老金|lương hưu, quỹ hưu trí|Danh từ|dưỡng lão kim|养老金制度正在不断完善。|Chế độ lương hưu đang không ngừng hoàn thiện.
+薪酬|tiền lương, thù lao|Danh từ|tân thù|公司提供有竞争力的薪酬。|Công ty đưa ra mức thù lao có tính cạnh tranh.
+人力资源|nguồn nhân lực|Danh từ|nhân lực tư nguyên|人力资源部负责员工培训。|Phòng nhân sự phụ trách đào tạo nhân viên.
+绩效|hiệu suất công việc|Danh từ|tích hiệu|员工的绩效与奖金挂钩。|Hiệu suất của nhân viên gắn với tiền thưởng.
+董事会|hội đồng quản trị|Danh từ|đổng sự hội|董事会通过了新的发展战略。|Hội đồng quản trị đã thông qua chiến lược phát triển mới.
+高管|lãnh đạo cấp cao|Danh từ|cao quản|多名高管因故离职。|Nhiều lãnh đạo cấp cao đã rời chức vì lý do nào đó.
+管理层|ban quản lý|Danh từ|quản lý tằng|管理层决定调整组织架构。|Ban quản lý quyết định điều chỉnh cơ cấu tổ chức.
+架构|cơ cấu, kiến trúc|Danh từ|giá cấu|公司重新梳理了组织架构。|Công ty đã rà soát lại cơ cấu tổ chức.
+合规|tuân thủ quy định|Động từ|hợp quy|企业必须确保经营合规。|Doanh nghiệp phải bảo đảm kinh doanh tuân thủ quy định.
+违规|vi phạm quy định|Động từ|vi quy|该公司因违规操作被罚款。|Công ty này bị phạt vì thao tác vi phạm quy định.
+内幕交易|giao dịch nội gián|Danh từ|nội mạc giao dịch|内幕交易会破坏市场公平。|Giao dịch nội gián làm phá hoại tính công bằng của thị trường.
+欺诈|lừa đảo, gian lận|Động từ|khi trá|他涉嫌金融欺诈。|Anh ta bị nghi ngờ lừa đảo tài chính.
+非法集资|huy động vốn trái phép|Danh từ|phi pháp tập tư|警方破获了一起非法集资案。|Cảnh sát đã phá một vụ huy động vốn trái phép.
+品牌|thương hiệu|Danh từ|phẩm bài|打造知名品牌需要长期投入。|Xây dựng thương hiệu nổi tiếng cần đầu tư lâu dài.
+特许经营|nhượng quyền kinh doanh|Danh từ|đặc hứa kinh doanh|这家连锁店采用特许经营模式。|Chuỗi cửa hàng này áp dụng mô hình nhượng quyền.
+投标|dự thầu|Động từ|đầu tiêu|三家公司参加了投标。|Ba công ty đã tham gia dự thầu.
+中标|trúng thầu|Động từ|trúng tiêu|我们公司成功中标这个项目。|Công ty chúng tôi đã trúng thầu dự án này.
+外包|thuê ngoài|Động từ|ngoại bao|公司把客服业务外包出去。|Công ty thuê ngoài mảng chăm sóc khách hàng.
+经销商|nhà phân phối|Danh từ|kinh tiêu thương|经销商负责产品的区域销售。|Nhà phân phối phụ trách bán sản phẩm theo khu vực.
+供应商|nhà cung cấp|Danh từ|cung ứng thương|我们更换了原材料供应商。|Chúng tôi đã đổi nhà cung cấp nguyên liệu.
+订单|đơn đặt hàng|Danh từ|đính đơn|工厂接到了大批海外订单。|Nhà máy nhận được lô lớn đơn đặt hàng từ nước ngoài.
+交货|giao hàng|Động từ|giao hóa|供应商应在月底前交货。|Nhà cung cấp phải giao hàng trước cuối tháng.
+质检|kiểm tra chất lượng|Động từ|chất kiểm|产品出厂前必须经过质检。|Sản phẩm trước khi xuất xưởng phải qua kiểm tra chất lượng.
+营销|tiếp thị|Động từ|doanh tiêu|新产品的营销策略很成功。|Chiến lược tiếp thị của sản phẩm mới rất thành công.
+促销|khuyến mãi|Động từ|xúc tiêu|商场在节日期间大力促销。|Trung tâm thương mại khuyến mãi mạnh dịp lễ.
+定位|định vị|Động từ|định vị|品牌需要明确自己的市场定位。|Thương hiệu cần xác định rõ định vị thị trường của mình.
+消费者|người tiêu dùng|Danh từ|tiêu phí giả|消费者越来越注重产品质量。|Người tiêu dùng ngày càng chú trọng chất lượng sản phẩm.
+性价比|tỷ lệ giá trên chất lượng|Danh từ|tính giá tỷ|这款笔记本电脑性价比很高。|Chiếc laptop này có tỷ lệ chất lượng trên giá rất tốt.
+折扣|giảm giá|Danh từ|chiết khấu|会员可以享受八折折扣。|Hội viên được hưởng giảm giá hai mươi phần trăm.
+电商|thương mại điện tử|Danh từ|điện thương|电商平台改变了人们的购物方式。|Nền tảng thương mại điện tử đã thay đổi cách mua sắm của mọi người.
+平台|nền tảng|Danh từ|bình đài|平台向商家收取一定佣金。|Nền tảng thu một khoản hoa hồng nhất định từ thương nhân.
+佣金|hoa hồng|Danh từ|dung kim|中介按成交额收取佣金。|Môi giới thu hoa hồng theo giá trị giao dịch.
+制造业|ngành chế tạo|Danh từ|chế tạo nghiệp|制造业是国民经济的支柱。|Ngành chế tạo là trụ cột của nền kinh tế quốc dân.
+服务业|ngành dịch vụ|Danh từ|phục vụ nghiệp|服务业在国内生产总值中占比上升。|Tỷ trọng ngành dịch vụ trong GDP đang tăng.
+龙头|đầu tàu, dẫn đầu|Danh từ|long đầu|他是这个行业的龙头企业。|Đó là doanh nghiệp dẫn đầu trong ngành này.
+转型|chuyển đổi mô hình|Động từ|chuyển hình|传统企业需要数字化转型。|Doanh nghiệp truyền thống cần chuyển đổi số.
+升级|nâng cấp|Động từ|thăng cấp|产业升级是经济发展的方向。|Nâng cấp ngành công nghiệp là hướng phát triển kinh tế.
+初创|mới khởi nghiệp|Tính từ|sơ sáng|这家初创公司获得了资本青睐。|Công ty khởi nghiệp này được giới vốn ưu ái.
+孵化|ươm tạo|Động từ|phu hóa|科技园孵化了许多新企业。|Khu công nghệ đã ươm tạo nhiều doanh nghiệp mới.
+拓展|mở rộng, khai thác|Động từ|thác triển|我们计划拓展东南亚市场。|Chúng tôi dự định mở rộng thị trường Đông Nam Á.
+壮大|lớn mạnh|Động từ|tráng đại|企业在竞争中不断发展壮大。|Doanh nghiệp không ngừng phát triển lớn mạnh trong cạnh tranh.
+子公司|công ty con|Danh từ|tử công ty|子公司独立核算盈亏。|Công ty con hạch toán lãi lỗ độc lập.
+分公司|chi nhánh|Danh từ|phân công ty|公司在上海设立了分公司。|Công ty đã lập chi nhánh ở Thượng Hải.
+总部|trụ sở chính|Danh từ|tổng bộ|公司总部设在深圳。|Trụ sở chính của công ty đặt ở Thâm Quyến.
+跨国公司|công ty đa quốc gia|Danh từ|khóa quốc công ty|跨国公司在多国设有工厂。|Công ty đa quốc gia có nhà máy ở nhiều nước.
+合资|liên doanh|Động từ|hợp tư|两家企业合资建了新工厂。|Hai doanh nghiệp liên doanh xây nhà máy mới.
+独资|vốn một chủ|Tính từ|độc tư|这是一家外商独资企业。|Đây là doanh nghiệp 100% vốn nước ngoài.
+国有企业|doanh nghiệp nhà nước|Danh từ|quốc hữu xí nghiệp|国有企业在能源领域占主导地位。|Doanh nghiệp nhà nước giữ vị trí chủ đạo trong lĩnh vực năng lượng.
+民营|tư nhân|Tính từ|dân doanh|民营经济为就业作出了巨大贡献。|Kinh tế tư nhân đóng góp to lớn cho việc làm.
+私有化|tư nhân hóa|Động từ|tư hữu hóa|该国推行了国企私有化。|Nước này đã tiến hành tư nhân hóa doanh nghiệp nhà nước.
+垄断性|tính độc quyền|Danh từ|lũng đoạn tính|反垄断法限制企业的垄断行为。|Luật chống độc quyền hạn chế hành vi độc quyền của doanh nghiệp.
+国内生产总值|tổng sản phẩm quốc nội|Danh từ|quốc nội sinh sản tổng trị|国内生产总值同比增长百分之五。|Tổng sản phẩm quốc nội tăng năm phần trăm so với cùng kỳ.
+增长率|tốc độ tăng trưởng|Danh từ|tăng trưởng suất|今年的经济增长率高于预期。|Tốc độ tăng trưởng kinh tế năm nay cao hơn dự kiến.
+可持续|bền vững|Tính từ|khả trì tục|我们要追求可持续的经济发展。|Chúng ta phải theo đuổi phát triển kinh tế bền vững.
+指数|chỉ số|Danh từ|chỉ số|消费者物价指数小幅上升。|Chỉ số giá tiêu dùng tăng nhẹ.
+基础设施|cơ sở hạ tầng|Danh từ|cơ sở thiết thi|政府加大了基础设施投资。|Chính phủ tăng đầu tư cơ sở hạ tầng.
+房地产|bất động sản|Danh từ|phòng địa sản|房地产业对经济影响很大。|Ngành bất động sản có ảnh hưởng rất lớn đến kinh tế.
+楼市|thị trường nhà đất|Danh từ|lâu thị|楼市在政策调控下趋于平稳。|Thị trường nhà đất dần ổn định dưới sự điều tiết chính sách.
+首付|trả trước|Danh từ|thủ phó|买房的首付要三成。|Mua nhà phải trả trước ba mươi phần trăm.
+按揭|vay thế chấp trả góp|Động từ|án yết|他按揭买了一套公寓。|Anh ấy vay trả góp mua một căn hộ.
+分期|trả góp|Động từ|phân kỳ|这台电视可以分期付款。|Chiếc tivi này có thể trả góp.
+货币供应量|lượng cung tiền|Danh từ|hóa tệ cung ứng lượng|央行密切关注货币供应量的变化。|Ngân hàng trung ương theo dõi sát biến động của lượng cung tiền.
+量化宽松|nới lỏng định lượng|Danh từ|lượng hóa khoan tùng|多国央行曾实施量化宽松政策。|Nhiều ngân hàng trung ương từng thực hiện chính sách nới lỏng định lượng.
+金融危机|khủng hoảng tài chính|Danh từ|kim dung nguy cơ|金融危机波及了全球市场。|Khủng hoảng tài chính đã lan ra thị trường toàn cầu.
+系统性风险|rủi ro hệ thống|Danh từ|hệ thống tính phong hiểm|监管部门着力防范系统性风险。|Cơ quan quản lý nỗ lực phòng ngừa rủi ro hệ thống.
+不良资产|tài sản xấu|Danh từ|bất lương tư sản|银行正在处置不良资产。|Ngân hàng đang xử lý tài sản xấu.
+坏账|nợ xấu|Danh từ|hoại trướng|坏账率上升令银行压力增大。|Tỷ lệ nợ xấu tăng khiến áp lực lên ngân hàng lớn hơn.
+拨备|trích lập dự phòng|Động từ|bát bị|银行按比例计提拨备。|Ngân hàng trích lập dự phòng theo tỷ lệ.
+商业银行|ngân hàng thương mại|Danh từ|thương nghiệp ngân hàng|商业银行提供多种理财产品。|Ngân hàng thương mại cung cấp nhiều sản phẩm quản lý tài sản.
+投资银行|ngân hàng đầu tư|Danh từ|đầu tư ngân hàng|投资银行为企业上市提供咨询。|Ngân hàng đầu tư tư vấn cho doanh nghiệp niêm yết.
+政策性银行|ngân hàng chính sách|Danh từ|chính sách tính ngân hàng|政策性银行支持基础设施建设。|Ngân hàng chính sách hỗ trợ xây dựng cơ sở hạ tầng.
+普惠金融|tài chính toàn diện|Danh từ|phổ huệ kim dung|普惠金融让小微企业受益。|Tài chính toàn diện giúp doanh nghiệp siêu nhỏ được hưởng lợi.
+金融科技|công nghệ tài chính|Danh từ|kim dung khoa kỹ|金融科技改变了支付方式。|Công nghệ tài chính đã thay đổi cách thanh toán.
+数字货币|tiền kỹ thuật số|Danh từ|số tự hóa tệ|多国正在研究发行数字货币。|Nhiều nước đang nghiên cứu phát hành tiền kỹ thuật số.
+区块链|blockchain, chuỗi khối|Danh từ|khu khối liên|区块链技术应用于跨境支付。|Công nghệ chuỗi khối được ứng dụng trong thanh toán xuyên biên giới.
+跨境|xuyên biên giới|Tính từ|khóa cảnh|跨境电商发展迅速。|Thương mại điện tử xuyên biên giới phát triển nhanh.
+境外|ngoài lãnh thổ, nước ngoài|Danh từ|cảnh ngoại|公司获得了境外投资者的青睐。|Công ty được các nhà đầu tư nước ngoài ưu ái.
+外资|vốn nước ngoài|Danh từ|ngoại tư|外资企业在当地创造了大量岗位。|Doanh nghiệp vốn nước ngoài tạo ra nhiều việc làm tại địa phương.
+引进|thu hút, nhập về|Động từ|dẫn tiến|地方政府积极引进外资。|Chính quyền địa phương tích cực thu hút vốn nước ngoài.
+招商引资|kêu gọi đầu tư|Thành ngữ|chiêu thương dẫn tư|开发区大力开展招商引资。|Khu phát triển đẩy mạnh kêu gọi đầu tư.
+自贸区|khu thương mại tự do|Danh từ|tự mậu khu|上海自贸区吸引了众多企业。|Khu thương mại tự do Thượng Hải thu hút nhiều doanh nghiệp.
+保税|bảo thuế|Tính từ|bảo thuế|保税仓库可暂缓缴纳关税。|Kho ngoại quan được hoãn nộp thuế quan.
+倾销|bán phá giá|Động từ|khuynh tiêu|该国被指控向海外倾销钢材。|Nước này bị cáo buộc bán phá giá thép ra nước ngoài.
+反倾销|chống bán phá giá|Động từ|phản khuynh tiêu|欧盟对进口产品发起反倾销调查。|Liên minh châu Âu mở điều tra chống bán phá giá hàng nhập khẩu.
+配额|hạn ngạch|Danh từ|phối ngạch|进口商品受到配额限制。|Hàng nhập khẩu bị hạn chế bởi hạn ngạch.
+大宗商品|hàng hóa cơ bản|Danh từ|đại tông thương phẩm|大宗商品价格受供需影响。|Giá hàng hóa cơ bản chịu ảnh hưởng của cung cầu.
+原材料|nguyên vật liệu|Danh từ|nguyên tài liệu|原材料短缺制约了生产。|Thiếu nguyên vật liệu đã hạn chế sản xuất.
+下游|hạ nguồn|Danh từ|hạ du|原料涨价传导到下游行业。|Giá nguyên liệu tăng lan sang các ngành hạ nguồn.
+产业链|chuỗi ngành công nghiệp|Danh từ|sản nghiệp liên|企业致力于完善产业链。|Doanh nghiệp nỗ lực hoàn thiện chuỗi ngành.
+价值链|chuỗi giá trị|Danh từ|giá trị liên|他们正向价值链高端攀升。|Họ đang vươn lên phân khúc cao của chuỗi giá trị.
+规模经济|kinh tế quy mô|Danh từ|quy mô kinh tế|规模经济有助于降低单位成本。|Kinh tế quy mô giúp giảm chi phí đơn vị.
+边际成本|chi phí biên|Danh từ|biên tế thành bản|数字产品的边际成本接近于零。|Chi phí biên của sản phẩm số gần như bằng không.
+机会成本|chi phí cơ hội|Danh từ|cơ hội thành bản|选择创业意味着付出机会成本。|Chọn khởi nghiệp nghĩa là phải trả chi phí cơ hội.
+沉没成本|chi phí chìm|Danh từ|trầm một thành bản|决策时不应过分在意沉没成本。|Khi ra quyết định không nên quá bận tâm chi phí chìm.
+固定资产|tài sản cố định|Danh từ|cố định tư sản|厂房和设备属于固定资产。|Nhà xưởng và thiết bị thuộc tài sản cố định.
+无形资产|tài sản vô hình|Danh từ|vô hình tư sản|品牌是重要的无形资产。|Thương hiệu là tài sản vô hình quan trọng.
+商誉|lợi thế thương mại|Danh từ|thương dự|并购产生了大量商誉。|Việc mua lại đã tạo ra nhiều lợi thế thương mại.
+市值|giá trị vốn hóa|Danh từ|thị trị|这家公司市值突破万亿元。|Vốn hóa của công ty này vượt một nghìn tỷ nhân dân tệ.
+估值|định giá|Danh từ|cổ trị|初创企业的估值快速攀升。|Định giá doanh nghiệp khởi nghiệp tăng nhanh.
+蓝筹股|cổ phiếu blue-chip|Danh từ|lam trù cổ|保守的投资者偏爱蓝筹股。|Nhà đầu tư thận trọng ưa chuộng cổ phiếu blue-chip.
+散户|nhà đầu tư nhỏ lẻ|Danh từ|tán hộ|散户容易受市场情绪影响。|Nhà đầu tư nhỏ lẻ dễ bị ảnh hưởng bởi tâm lý thị trường.
+机构投资者|nhà đầu tư tổ chức|Danh từ|cơ cấu đầu tư giả|机构投资者持仓比例上升。|Tỷ lệ nắm giữ của nhà đầu tư tổ chức tăng lên.
+做空|bán khống|Động từ|tố không|对冲基金大举做空该公司股票。|Quỹ phòng hộ bán khống mạnh cổ phiếu của công ty này.
+做多|đặt cược giá lên|Động từ|tố đa|他看好后市，选择做多。|Anh ấy lạc quan về thị trường sau này nên chọn mua vào.
+增持|tăng nắm giữ|Động từ|tăng trì|大股东宣布增持公司股份。|Cổ đông lớn thông báo tăng nắm giữ cổ phần công ty.
+减持|giảm nắm giữ|Động từ|giảm trì|高管减持引发市场担忧。|Việc lãnh đạo bán bớt cổ phần gây lo ngại cho thị trường.
+配股|phát hành thêm cổ phiếu cho cổ đông|Động từ|phối cổ|公司宣布向股东配股融资。|Công ty thông báo phát hành thêm cổ phiếu cho cổ đông để huy động vốn.
+增发|phát hành thêm|Động từ|tăng phát|公司拟增发新股募集资金。|Công ty dự định phát hành thêm cổ phiếu mới để huy động vốn.
+回购|mua lại|Động từ|hồi cấu|公司宣布回购部分股票。|Công ty thông báo mua lại một phần cổ phiếu.
+首次公开募股|phát hành cổ phiếu lần đầu ra công chúng|Danh từ|thủ thứ công khai mộ cổ|公司的首次公开募股获得超额认购。|Đợt chào bán cổ phiếu lần đầu của công ty được đăng ký vượt mức.
+认购|đăng ký mua|Động từ|nhận cấu|投资者踊跃认购新发基金。|Nhà đầu tư hăng hái đăng ký mua quỹ mới phát hành.
+涨停|tăng kịch trần|Động từ|trướng đình|受利好消息影响，该股涨停。|Chịu tác động của tin tốt, cổ phiếu này tăng kịch trần.
+跌停|giảm hết biên độ|Động từ|diệt đình|公司曝出丑闻后股价跌停。|Sau khi công ty lộ bê bối, giá cổ phiếu giảm sàn.
+抛售|bán tháo|Động từ|phao thụ|恐慌情绪导致投资者抛售股票。|Tâm lý hoảng loạn khiến nhà đầu tư bán tháo cổ phiếu.
+抄底|mua đáy|Động từ|sao để|有人在股价低位抄底。|Có người mua đáy khi giá cổ phiếu ở mức thấp.
+套现|rút vốn bán ra, quy ra tiền mặt|Động từ|sáo hiện|他把股票套现用于买房。|Anh ấy bán cổ phiếu lấy tiền mặt mua nhà.
+变现|chuyển thành tiền mặt|Động từ|biến hiện|房产变现需要一定时间。|Chuyển bất động sản thành tiền mặt cần một khoảng thời gian.
+资产配置|phân bổ tài sản|Danh từ|tư sản phối trí|合理的资产配置可以降低风险。|Phân bổ tài sản hợp lý có thể giảm rủi ro.
+分散投资|đa dạng hóa đầu tư|Danh từ|phân tán đầu tư|专家建议分散投资以控制风险。|Chuyên gia khuyên đa dạng hóa đầu tư để kiểm soát rủi ro.
+保值|bảo toàn giá trị|Động từ|bảo trị|黄金常被用来保值。|Vàng thường được dùng để bảo toàn giá trị.
+收支|thu chi|Danh từ|thu chi|他每月记录家庭收支情况。|Mỗi tháng anh ấy ghi lại tình hình thu chi gia đình.
+损益|lãi lỗ|Danh từ|tổn ích|损益表反映了公司的经营成果。|Báo cáo lãi lỗ phản ánh kết quả kinh doanh của công ty.
+资产负债表|bảng cân đối kế toán|Danh từ|tư sản phụ trái biểu|分析师仔细研读了资产负债表。|Nhà phân tích đã nghiên cứu kỹ bảng cân đối kế toán.
+净利润|lợi nhuận ròng|Danh từ|tịnh lợi nhuận|公司净利润同比翻了一番。|Lợi nhuận ròng của công ty tăng gấp đôi so với cùng kỳ.
+毛利|lợi nhuận gộp|Danh từ|mao lợi|这类产品的毛利很高。|Lợi nhuận gộp của loại sản phẩm này rất cao.
+营收|doanh thu|Danh từ|doanh thu|公司全年营收达到五十亿元。|Doanh thu cả năm của công ty đạt năm tỷ nhân dân tệ.
+同比|so với cùng kỳ năm trước|Phó từ|đồng tỷ|第二季度销售额同比增长了两成。|Doanh thu quý hai tăng hai mươi phần trăm so với cùng kỳ.
+环比|so với kỳ trước|Phó từ|hoàn tỷ|三月份的销量环比下降了。|Doanh số tháng ba giảm so với tháng trước.
+预测|dự báo|Động từ|dự trắc|分析师预测明年经济将回暖。|Các nhà phân tích dự báo kinh tế năm sau sẽ ấm lên.
+应对|ứng phó|Động từ|ứng đối|企业采取措施应对原料涨价。|Doanh nghiệp áp dụng biện pháp ứng phó với việc nguyên liệu tăng giá.
+削减|cắt giảm|Động từ|tước giảm|公司削减了广告预算。|Công ty đã cắt giảm ngân sách quảng cáo.
+缩减|rút gọn, thu hẹp|Động từ|súc giảm|企业缩减了生产规模。|Doanh nghiệp đã thu hẹp quy mô sản xuất.
+优化|tối ưu hóa|Động từ|ưu hóa|公司正在优化业务流程。|Công ty đang tối ưu hóa quy trình kinh doanh.
+整合|tích hợp, hợp nhất|Động từ|chỉnh hợp|企业整合了各部门的资源。|Doanh nghiệp đã hợp nhất tài nguyên của các bộ phận.
+盈亏|lãi lỗ|Danh từ|doanh khuy|店铺自负盈亏。|Cửa hàng tự chịu lãi lỗ.
+营运|vận hành kinh doanh|Động từ|doanh vận|公司的营运成本不断上升。|Chi phí vận hành của công ty không ngừng tăng.
+股权|cổ quyền|Danh từ|cổ quyền|创始人持有公司多数股权。|Người sáng lập nắm giữ phần lớn cổ quyền của công ty.
+控股|nắm cổ phần chi phối|Động từ|khống cổ|母公司控股了这家企业。|Công ty mẹ nắm cổ phần chi phối doanh nghiệp này.
+入股|góp cổ phần|Động từ|nhập cổ|他以技术入股参与创业。|Anh ấy góp cổ phần bằng công nghệ để tham gia khởi nghiệp.
+注资|rót vốn|Động từ|chú tư|母公司向子公司注资。|Công ty mẹ rót vốn vào công ty con.
+增资|tăng vốn|Động từ|tăng tư|公司决定增资扩股。|Công ty quyết định tăng vốn và mở rộng cổ phần.
+撤资|rút vốn|Động từ|triệt tư|外国投资者宣布撤资。|Nhà đầu tư nước ngoài thông báo rút vốn.
+出资|góp vốn|Động từ|xuất tư|三位股东共同出资设立公司。|Ba cổ đông cùng góp vốn thành lập công ty.
+注册资本|vốn điều lệ|Danh từ|chú sách tư bản|公司注册资本为一千万元。|Vốn điều lệ của công ty là mười triệu nhân dân tệ.
+营业执照|giấy phép kinh doanh|Danh từ|doanh nghiệp chấp chiếu|开店前必须办理营业执照。|Trước khi mở cửa hàng phải làm giấy phép kinh doanh.
+工商|công thương|Danh từ|công thương|企业需到工商部门登记。|Doanh nghiệp cần đăng ký tại cơ quan công thương.
+通胀预期|kỳ vọng lạm phát|Danh từ|thông trướng dự kỳ|通胀预期上升促使央行加息。|Kỳ vọng lạm phát tăng thúc đẩy ngân hàng trung ương tăng lãi suất.
+加息|tăng lãi suất|Động từ|gia tức|美联储再次宣布加息。|Cục Dự trữ Liên bang Mỹ lại thông báo tăng lãi suất.
+降息|giảm lãi suất|Động từ|giáng tức|降息有助于降低企业融资成本。|Giảm lãi suất giúp hạ chi phí huy động vốn của doanh nghiệp.
+降准|giảm tỷ lệ dự trữ bắt buộc|Động từ|giáng chuẩn|央行宣布降准释放长期资金。|Ngân hàng trung ương thông báo giảm tỷ lệ dự trữ để bơm vốn dài hạn.
+通缩|giảm phát|Danh từ|thông súc|长期通缩会抑制企业投资。|Giảm phát kéo dài sẽ kìm hãm đầu tư của doanh nghiệp.
+滞胀|lạm phát đình trệ|Danh từ|trệ trướng|滞胀是经济学中最棘手的难题之一。|Lạm phát đình trệ là một trong những bài toán hóc búa nhất của kinh tế học.
+内需|nhu cầu trong nước|Danh từ|nội nhu|扩大内需是稳增长的重要手段。|Mở rộng nhu cầu trong nước là biện pháp quan trọng để giữ tăng trưởng.
+外需|nhu cầu bên ngoài|Danh từ|ngoại nhu|外需不振拖累了出口企业。|Nhu cầu bên ngoài yếu làm khó doanh nghiệp xuất khẩu.
+贫富差距|chênh lệch giàu nghèo|Danh từ|bần phú sai cự|缩小贫富差距是社会的共同目标。|Thu hẹp chênh lệch giàu nghèo là mục tiêu chung của xã hội.
+再分配|tái phân phối|Danh từ|tái phân phối|税收是收入再分配的重要手段。|Thuế là công cụ quan trọng của tái phân phối thu nhập.

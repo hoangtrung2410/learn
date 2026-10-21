@@ -213,7 +213,7 @@ const SrsPanel: React.FC<{ lang: 'zh' | 'en'; onAddXp: (n: number) => void }> = 
     writeLS(`lp_srs_${lang}`, srs);
   }, [srs, lang]);
 
-  const levels = lang === 'zh' ? ['1', '2', '3', '4', '5', '6'] : ['A1', 'A2', 'B1', 'B2', 'C1'];
+  const levels = lang === 'zh' ? ['1', '2', '3', '4', '5', '6', '7'] : ['A1', 'A2', 'B1', 'B2', 'C1'];
 
   const pool = useMemo(() => (cards || []).filter((c) => level === 'all' || c.level === level), [cards, level]);
   const stats = useMemo(() => {
@@ -273,7 +273,7 @@ const SrsPanel: React.FC<{ lang: 'zh' | 'en'; onAddXp: (n: number) => void }> = 
             setLevel(l);
             setStarted(false);
           }}
-          labelOf={lang === 'zh' ? (l) => `HSK ${l}` : undefined}
+          labelOf={lang === 'zh' ? (l) => (l === '7' ? 'HSK 7-9' : `HSK ${l}`) : undefined}
         />
       </div>
 

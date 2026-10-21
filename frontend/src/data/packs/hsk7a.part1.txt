@@ -1,0 +1,260 @@
+执政党|đảng cầm quyền|Danh từ|chấp chính đảng|执政党必须接受人民的监督。|Đảng cầm quyền phải chịu sự giám sát của nhân dân.
+在野党|đảng đối lập|Danh từ|tại dã đảng|在野党对政府的预算案提出了批评。|Đảng đối lập đã chỉ trích dự thảo ngân sách của chính phủ.
+联合政府|chính phủ liên minh|Danh từ|liên hợp chính phủ|三党组成了联合政府。|Ba đảng đã lập nên chính phủ liên minh.
+内阁|nội các|Danh từ|nội các|新内阁将于下周宣誓就职。|Nội các mới sẽ tuyên thệ nhậm chức vào tuần sau.
+首相|thủ tướng (một số nước)|Danh từ|thủ tướng|日本首相宣布了新的经济政策。|Thủ tướng Nhật Bản công bố chính sách kinh tế mới.
+立法机关|cơ quan lập pháp|Danh từ|lập pháp cơ quan|立法机关负责制定法律。|Cơ quan lập pháp chịu trách nhiệm xây dựng luật.
+行政机关|cơ quan hành chính|Danh từ|hành chính cơ quan|行政机关应当依法办事。|Cơ quan hành chính phải làm việc theo pháp luật.
+司法机关|cơ quan tư pháp|Danh từ|tư pháp cơ quan|司法机关独立行使审判权。|Cơ quan tư pháp độc lập thực thi quyền xét xử.
+三权分立|tam quyền phân lập|Thành ngữ|tam quyền phân lập|三权分立是许多国家的基本原则。|Tam quyền phân lập là nguyên tắc cơ bản của nhiều nước.
+修宪|sửa đổi hiến pháp|Động từ|tu hiến|议会通过了修宪提案。|Quốc hội đã thông qua đề xuất sửa đổi hiến pháp.
+违宪|vi hiến|Động từ|vi hiến|法院裁定该法案违宪。|Tòa án phán quyết dự luật này vi hiến.
+立宪|lập hiến|Động từ|lập hiến|该国实行君主立宪制。|Nước đó thực hiện chế độ quân chủ lập hiến.
+君主制|chế độ quân chủ|Danh từ|quân chủ chế|君主制在欧洲逐渐式微。|Chế độ quân chủ ở châu Âu dần suy yếu.
+民主制|chế độ dân chủ|Danh từ|dân chủ chế|民主制需要健全的法治作保障。|Chế độ dân chủ cần có pháp quyền vững mạnh làm bảo đảm.
+专制|chuyên chế|Tính từ|chuyên chế|专制统治最终遭到人民推翻。|Sự cai trị chuyên chế cuối cùng bị nhân dân lật đổ.
+集权|tập quyền|Động từ|tập quyền|中央集权有利于统一政令。|Tập quyền trung ương có lợi cho việc thống nhất mệnh lệnh.
+分权|phân quyền|Động từ|phân quyền|向地方分权是改革的重点。|Phân quyền cho địa phương là trọng điểm của cải cách.
+联邦|liên bang|Danh từ|liên bang|联邦政府与各州共享权力。|Chính phủ liên bang chia sẻ quyền lực với các bang.
+邦联|liên minh các quốc gia|Danh từ|bang liên|邦联的成员国保留较大的主权。|Các nước thành viên liên minh giữ chủ quyền khá lớn.
+领海|lãnh hải|Danh từ|lãnh hải|渔船擅自进入他国领海。|Tàu cá tự ý xâm nhập lãnh hải nước khác.
+领空|không phận|Danh từ|lãnh không|军机侵犯了该国领空。|Máy bay quân sự đã xâm phạm không phận nước đó.
+边防|biên phòng|Danh từ|biên phòng|边防部队守卫着漫长的国境线。|Bộ đội biên phòng canh giữ đường biên giới dài.
+入籍|nhập quốc tịch|Động từ|nhập tịch|她申请入籍已经三年了。|Cô ấy xin nhập quốc tịch đã ba năm.
+难民|người tị nạn|Danh từ|nạn dân|大批难民涌入邻国。|Một lượng lớn người tị nạn đổ vào nước láng giềng.
+庇护|che chở, bảo hộ|Động từ|tí hộ|他向该国申请政治庇护。|Ông ấy xin tị nạn chính trị tại nước đó.
+遣返|trục xuất, hồi hương|Động từ|khiển phản|非法入境者将被遣返。|Những người nhập cảnh trái phép sẽ bị trục xuất.
+大使|đại sứ|Danh từ|đại sứ|新任大使向总统递交了国书。|Tân đại sứ đã trình quốc thư lên tổng thống.
+外交官|nhà ngoại giao|Danh từ|ngoại giao quan|外交官享有豁免权。|Nhà ngoại giao được hưởng quyền miễn trừ.
+外交部|bộ ngoại giao|Danh từ|ngoại giao bộ|外交部发言人发表了声明。|Người phát ngôn bộ ngoại giao đã đưa ra tuyên bố.
+外交关系|quan hệ ngoại giao|Danh từ|ngoại giao quan hệ|两国正式建立了外交关系。|Hai nước chính thức thiết lập quan hệ ngoại giao.
+断交|cắt đứt quan hệ ngoại giao|Động từ|đoạn giao|由于争端，两国宣布断交。|Do tranh chấp, hai nước tuyên bố cắt quan hệ ngoại giao.
+建交|thiết lập quan hệ ngoại giao|Động từ|kiến giao|两国建交已有三十周年。|Hai nước thiết lập quan hệ ngoại giao đã được ba mươi năm.
+首脑会晤|cuộc gặp thượng đỉnh|Danh từ|thủ não hội ngộ|两国首脑会晤取得积极成果。|Cuộc gặp thượng đỉnh hai nước đạt được kết quả tích cực.
+斡旋|làm trung gian hòa giải|Động từ|oát toàn|联合国出面斡旋冲突。|Liên Hợp Quốc đứng ra hòa giải xung đột.
+调停|hòa giải|Động từ|điều đình|第三国试图调停双方的争端。|Nước thứ ba cố gắng hòa giải tranh chấp giữa hai bên.
+协定|hiệp định|Danh từ|hiệp định|两国签署了贸易协定。|Hai nước đã ký hiệp định thương mại.
+公约|công ước|Danh từ|công ước|各国签署了环境保护公约。|Các nước đã ký công ước bảo vệ môi trường.
+缔约|ký kết điều ước|Động từ|đế ước|缔约国应当履行各自的义务。|Các nước ký kết phải thực hiện nghĩa vụ của mình.
+联合国|Liên Hợp Quốc|Danh từ|liên hợp quốc|联合国呼吁立即停火。|Liên Hợp Quốc kêu gọi ngừng bắn ngay lập tức.
+安理会|Hội đồng Bảo an|Danh từ|an lý hội|安理会通过了新的决议。|Hội đồng Bảo an đã thông qua nghị quyết mới.
+决议|nghị quyết|Danh từ|quyết nghị|大会以多数票通过了决议。|Đại hội thông qua nghị quyết với đa số phiếu.
+禁运|cấm vận|Động từ|cấm vận|武器禁运已持续多年。|Lệnh cấm vận vũ khí đã kéo dài nhiều năm.
+结盟|liên minh, kết minh|Động từ|kết minh|这些国家选择不结盟。|Những nước này chọn không liên kết.
+盟友|đồng minh|Danh từ|minh hữu|他们是长期的战略盟友。|Họ là đồng minh chiến lược lâu dài.
+霸权|bá quyền|Danh từ|bá quyền|反对任何形式的霸权主义。|Phản đối chủ nghĩa bá quyền dưới mọi hình thức.
+内政|nội chính|Danh từ|nội chính|这纯属该国内政。|Đây hoàn toàn là công việc nội bộ của nước đó.
+外交辞令|lời lẽ ngoại giao|Danh từ|ngoại giao từ lệnh|他的发言充满了外交辞令。|Phát biểu của ông ấy đầy những lời lẽ ngoại giao.
+照会|công hàm|Danh từ|chiếu hội|外交部向对方递交了照会。|Bộ ngoại giao đã chuyển công hàm cho phía bên kia.
+斥责|quở trách, khiển trách|Động từ|xích trách|发言人严厉斥责了对方的挑衅。|Người phát ngôn nghiêm khắc quở trách hành vi khiêu khích của đối phương.
+紧张局势|tình hình căng thẳng|Danh từ|khẩn trương cục thế|双方应共同缓和紧张局势。|Hai bên nên cùng nhau hạ nhiệt tình hình căng thẳng.
+僵局|bế tắc|Danh từ|cương cục|会谈陷入僵局。|Cuộc hội đàm rơi vào bế tắc.
+对峙|đối đầu|Động từ|đối trì|两军在边境长期对峙。|Hai quân đối đầu kéo dài ở biên giới.
+内战|nội chiến|Danh từ|nội chiến|内战使国家分裂。|Nội chiến khiến đất nước chia rẽ.
+停火|ngừng bắn|Động từ|đình hỏa|双方同意从明天起停火。|Hai bên đồng ý ngừng bắn từ ngày mai.
+休战|đình chiến|Động từ|hưu chiến|休战协议暂时结束了战斗。|Hiệp định đình chiến tạm thời chấm dứt giao tranh.
+撤军|rút quân|Động từ|triệt quân|政府要求外国军队撤军。|Chính phủ yêu cầu quân đội nước ngoài rút quân.
+驻军|đóng quân|Động từ|trú quân|该国在海外驻军数千人。|Nước đó đóng quân ở nước ngoài hàng nghìn người.
+增兵|tăng quân|Động từ|tăng binh|他们决定向前线增兵。|Họ quyết định tăng quân ra tiền tuyến.
+出兵|xuất quân|Động từ|xuất binh|他们拒绝出兵干预。|Họ từ chối xuất quân can thiệp.
+突围|phá vây|Động từ|đột vi|部队连夜成功突围。|Bộ đội đã phá vây thành công trong đêm.
+伏击|phục kích|Động từ|phục kích|巡逻队遭到武装分子伏击。|Đội tuần tra bị phần tử vũ trang phục kích.
+空袭|không kích|Danh từ|không tập|空袭造成大量平民伤亡。|Không kích gây nhiều thương vong cho dân thường.
+轰炸|ném bom|Động từ|oanh tạc|机场遭到猛烈轰炸。|Sân bay bị ném bom dữ dội.
+核武器|vũ khí hạt nhân|Danh từ|hạch vũ khí|各国呼吁全面禁止核武器。|Các nước kêu gọi cấm hoàn toàn vũ khí hạt nhân.
+核查|kiểm tra, thẩm tra|Động từ|hạch tra|国际原子能机构对设施进行了核查。|Cơ quan Năng lượng Nguyên tử Quốc tế đã kiểm tra cơ sở.
+裁军|giải trừ quân bị|Động từ|tài quân|大国就裁军问题展开谈判。|Các cường quốc đàm phán về vấn đề giải trừ quân bị.
+军备|quân bị|Danh từ|quân bị|军备竞赛加剧了地区不安。|Chạy đua quân bị làm gia tăng bất ổn khu vực.
+军费|chi phí quân sự|Danh từ|quân phí|今年军费开支有所增加。|Chi tiêu quân sự năm nay có tăng.
+军事演习|diễn tập quân sự|Danh từ|quân sự diễn tập|两国举行了联合军事演习。|Hai nước tổ chức diễn tập quân sự chung.
+兵役|nghĩa vụ quân sự|Danh từ|binh dịch|适龄青年应当依法服兵役。|Thanh niên đủ tuổi phải thực hiện nghĩa vụ quân sự theo luật.
+征兵|tuyển quân|Động từ|chinh binh|每年冬季是征兵的时节。|Mùa đông hằng năm là thời điểm tuyển quân.
+退役|xuất ngũ|Động từ|thoái dịch|他退役后回到了家乡。|Sau khi xuất ngũ anh ấy trở về quê.
+陆军|lục quân|Danh từ|lục quân|陆军部队进行了实弹演练。|Lục quân đã diễn tập bắn đạn thật.
+海军|hải quân|Danh từ|hải quân|海军舰队驶向公海。|Hạm đội hải quân tiến ra hải phận quốc tế.
+空军|không quân|Danh từ|không quân|空军战机升空拦截。|Máy bay chiến đấu của không quân cất cánh đánh chặn.
+将领|tướng lĩnh|Danh từ|tướng lĩnh|几位高级将领出席了会议。|Một số tướng lĩnh cấp cao đã dự cuộc họp.
+指挥官|chỉ huy|Danh từ|chỉ huy quan|指挥官向部队下达了命令。|Chỉ huy đã ban lệnh cho bộ đội.
+反恐|chống khủng bố|Động từ|phản khủng|各国加强了反恐合作。|Các nước tăng cường hợp tác chống khủng bố.
+恐怖主义|chủ nghĩa khủng bố|Danh từ|khủng bố chủ nghĩa|恐怖主义威胁着全球安全。|Chủ nghĩa khủng bố đe dọa an ninh toàn cầu.
+劫持|bắt giữ, cướp|Động từ|kiếp trì|飞机被恐怖分子劫持。|Máy bay bị bọn khủng bố cướp.
+戒严|thiết quân luật|Động từ|giới nghiêm|首都宣布实行戒严。|Thủ đô tuyên bố thiết quân luật.
+宵禁|lệnh giới nghiêm ban đêm|Danh từ|tiêu cấm|当局下令实施夜间宵禁。|Chính quyền ra lệnh giới nghiêm ban đêm.
+紧急状态|tình trạng khẩn cấp|Danh từ|khẩn cấp trạng thái|总统宣布国家进入紧急状态。|Tổng thống tuyên bố quốc gia vào tình trạng khẩn cấp.
+国家安全|an ninh quốc gia|Danh từ|quốc gia an toàn|维护国家安全是公民的义务。|Bảo vệ an ninh quốc gia là nghĩa vụ của công dân.
+公共安全|an toàn công cộng|Danh từ|công cộng an toàn|公共安全关系到每个人的福祉。|An toàn công cộng liên quan đến phúc lợi của mỗi người.
+警戒|cảnh giới|Động từ|cảnh giới|边境地区保持高度警戒。|Khu vực biên giới duy trì cảnh giới cao độ.
+监控|giám sát, theo dõi|Động từ|giám khống|重点区域安装了监控设备。|Các khu vực trọng điểm đã lắp thiết bị giám sát.
+布防|bố phòng|Động từ|bố phòng|警方在会场周围严密布防。|Cảnh sát bố phòng chặt chẽ quanh hội trường.
+颠覆|lật đổ|Động từ|điên phúc|他被指控策划颠覆政权。|Ông ta bị cáo buộc âm mưu lật đổ chính quyền.
+政变|đảo chính|Danh từ|chính biến|军方发动政变夺取了政权。|Quân đội tiến hành đảo chính giành chính quyền.
+叛乱|phản loạn, nổi loạn|Danh từ|phản loạn|政府军平息了叛乱。|Quân chính phủ đã dẹp yên cuộc nổi loạn.
+暴动|bạo động|Danh từ|bạo động|街头爆发了大规模暴动。|Trên đường phố bùng phát bạo động quy mô lớn.
+维稳|duy trì ổn định|Động từ|duy ổn|地方政府把维稳放在首位。|Chính quyền địa phương đặt việc duy trì ổn định lên hàng đầu.
+候选人|ứng cử viên|Danh từ|hậu tuyển nhân|候选人公布了各自的施政纲领。|Các ứng cử viên công bố cương lĩnh cầm quyền của mình.
+选民|cử tri|Danh từ|tuyển dân|选民对新政策反应不一。|Cử tri phản ứng không đồng nhất với chính sách mới.
+选票|lá phiếu|Danh từ|tuyển phiếu|工作人员开始清点选票。|Nhân viên bắt đầu kiểm phiếu.
+公投|trưng cầu dân ý|Danh từ|công đầu|该国就独立问题举行了公投。|Nước đó tổ chức trưng cầu dân ý về vấn đề độc lập.
+连任|tái đắc cử|Động từ|liên nhiệm|总统成功连任。|Tổng thống đã tái đắc cử thành công.
+卸任|mãn nhiệm, từ nhiệm|Động từ|tá nhiệm|他卸任后专心从事写作。|Sau khi mãn nhiệm ông chuyên tâm viết lách.
+罢免|bãi nhiệm|Động từ|bãi miễn|议会投票罢免了该官员。|Quốc hội bỏ phiếu bãi nhiệm quan chức đó.
+弹劾|luận tội, đàn hặc|Động từ|đạn hặc|国会启动了对总统的弹劾程序。|Quốc hội khởi động thủ tục luận tội tổng thống.
+提名|đề cử|Động từ|đề danh|党内提名他为总统候选人。|Đảng đề cử ông làm ứng viên tổng thống.
+议会|nghị viện|Danh từ|nghị hội|议会就预算展开辩论。|Nghị viện tranh luận về ngân sách.
+国会|quốc hội|Danh từ|quốc hội|国会两院通过了该法案。|Hai viện quốc hội đã thông qua dự luật này.
+议员|nghị sĩ|Danh từ|nghị viên|议员们对提案进行了表决。|Các nghị sĩ đã biểu quyết về đề xuất.
+代表大会|đại hội đại biểu|Danh từ|đại biểu đại hội|全国人民代表大会每年召开一次。|Đại hội đại biểu nhân dân toàn quốc họp mỗi năm một lần.
+政协|Chính hiệp|Danh từ|chính hiệp|政协委员提交了多项提案。|Các ủy viên Chính hiệp đã nộp nhiều đề xuất.
+提案|đề án, kiến nghị|Danh từ|đề án|代表们提交了环保提案。|Các đại biểu đã nộp đề án về bảo vệ môi trường.
+审议|xem xét, thẩm nghị|Động từ|thẩm nghị|常委会审议了新的预算方案。|Ủy ban thường vụ xem xét phương án ngân sách mới.
+听证会|phiên điều trần|Danh từ|thính chứng hội|国会举行了听证会。|Quốc hội đã tổ chức phiên điều trần.
+质询|chất vấn|Động từ|chất tuân|议员就此事质询了部长。|Nghị sĩ chất vấn bộ trưởng về việc này.
+施政|điều hành chính sách|Động từ|thi chính|新政府的施政重点是民生。|Trọng tâm điều hành của chính phủ mới là dân sinh.
+路线|đường lối|Danh từ|lộ tuyến|党坚持改革开放路线。|Đảng kiên trì đường lối cải cách mở cửa.
+试点|thí điểm|Động từ|thí điểm|这项政策先在三个城市试点。|Chính sách này thí điểm ở ba thành phố trước.
+暂行|tạm thời thi hành|Tính từ|tạm hành|这是一项暂行规定。|Đây là một quy định tạm thời.
+条例|điều lệ|Danh từ|điều lệ|地方政府出台了管理条例。|Chính quyền địa phương ban hành điều lệ quản lý.
+法规|pháp quy|Danh từ|pháp quy|企业必须遵守相关法规。|Doanh nghiệp phải tuân thủ các pháp quy liên quan.
+法令|pháp lệnh|Danh từ|pháp lệnh|总统签署了紧急法令。|Tổng thống đã ký pháp lệnh khẩn cấp.
+细则|quy tắc chi tiết|Danh từ|tế tắc|实施细则将于近期出台。|Quy tắc thực hiện chi tiết sẽ sớm được ban hành.
+通告|thông cáo|Danh từ|thông cáo|管理部门发布了通告。|Cơ quan quản lý đã phát hành thông cáo.
+公报|công báo, thông cáo|Danh từ|công báo|会议结束后发表了联合公报。|Sau hội nghị đã công bố thông cáo chung.
+白皮书|sách trắng|Danh từ|bạch bì thư|政府发表了人权白皮书。|Chính phủ công bố sách trắng về nhân quyền.
+审批|xét duyệt|Động từ|thẩm phê|项目需经政府部门审批。|Dự án cần được cơ quan chính phủ xét duyệt.
+备案|đăng ký lưu hồ sơ|Động từ|bị án|公司须向主管部门备案。|Công ty phải đăng ký lưu hồ sơ với cơ quan chủ quản.
+许可证|giấy phép|Danh từ|hứa khả chứng|经营者必须持有许可证。|Người kinh doanh phải có giấy phép.
+吊销|thu hồi, tước|Động từ|điếu tiêu|违规者的驾照将被吊销。|Giấy phép lái xe của người vi phạm sẽ bị thu hồi.
+监管|giám sát quản lý|Động từ|giám quản|金融市场需要严格监管。|Thị trường tài chính cần được giám sát chặt chẽ.
+问责|truy cứu trách nhiệm|Động từ|vấn trách|相关责任人将被问责。|Những người chịu trách nhiệm liên quan sẽ bị truy cứu.
+失职|thiếu trách nhiệm|Động từ|thất chức|该官员因失职被免职。|Quan chức đó bị cách chức vì thiếu trách nhiệm.
+渎职|bỏ bê chức trách|Động từ|độc chức|他涉嫌渎职罪被调查。|Ông ta bị điều tra vì nghi tội thiếu trách nhiệm.
+受贿|nhận hối lộ|Động từ|thụ hối|他因受贿被判刑十年。|Hắn bị kết án mười năm vì nhận hối lộ.
+行贿|đưa hối lộ|Động từ|hành hối|企业向官员行贿被查处。|Doanh nghiệp đưa hối lộ cho quan chức bị xử lý.
+廉政|liêm chính|Danh từ|liêm chính|各级政府要加强廉政建设。|Chính quyền các cấp phải tăng cường xây dựng liêm chính.
+反腐|chống tham nhũng|Động từ|phản hủ|反腐斗争取得了显著成效。|Cuộc đấu tranh chống tham nhũng đạt hiệu quả rõ rệt.
+纪检|kiểm tra kỷ luật|Danh từ|kỷ kiểm|纪检部门对此展开调查。|Cơ quan kiểm tra kỷ luật mở điều tra việc này.
+透明度|độ minh bạch|Danh từ|thấu minh độ|政府要提高工作的透明度。|Chính phủ cần nâng cao độ minh bạch trong công việc.
+公务员|công chức|Danh từ|công vụ viên|公务员考试竞争十分激烈。|Kỳ thi công chức cạnh tranh rất gay gắt.
+官员|quan chức|Danh từ|quan viên|多名官员因违纪受到处分。|Nhiều quan chức bị kỷ luật vì vi phạm.
+部长|bộ trưởng|Danh từ|bộ trưởng|教育部长出席了新闻发布会。|Bộ trưởng giáo dục dự họp báo.
+省长|tỉnh trưởng|Danh từ|tỉnh trưởng|省长视察了灾区。|Tỉnh trưởng đã thị sát vùng thiên tai.
+市长|thị trưởng|Danh từ|thị trưởng|市长宣布了城市改造计划。|Thị trưởng công bố kế hoạch cải tạo thành phố.
+县长|huyện trưởng|Danh từ|huyện trưởng|县长亲自到村里调研。|Huyện trưởng đích thân về làng khảo sát.
+基层|cơ sở|Danh từ|cơ tằng|政策的落实要深入基层。|Việc thực hiện chính sách phải đi sâu vào cơ sở.
+地方政府|chính quyền địa phương|Danh từ|địa phương chính phủ|地方政府承担着主要责任。|Chính quyền địa phương gánh trách nhiệm chính.
+中央政府|chính phủ trung ương|Danh từ|trung ương chính phủ|中央政府拨付了专项资金。|Chính phủ trung ương đã cấp kinh phí chuyên dụng.
+行政区划|phân chia hành chính|Danh từ|hành chính khu hoa|该省的行政区划作了调整。|Phân chia hành chính của tỉnh đó đã được điều chỉnh.
+自治|tự trị|Động từ|tự trị|少数民族地区实行区域自治。|Các vùng dân tộc thiểu số thực hiện tự trị khu vực.
+直辖市|thành phố trực thuộc trung ương|Danh từ|trực hạt thị|北京是直辖市之一。|Bắc Kinh là một trong các thành phố trực thuộc trung ương.
+特区|đặc khu|Danh từ|đặc khu|深圳是最早设立的经济特区。|Thâm Quyến là đặc khu kinh tế được lập sớm nhất.
+户籍|hộ tịch, hộ khẩu|Danh từ|hộ tịch|户籍制度改革逐步推进。|Cải cách chế độ hộ khẩu đang dần được thúc đẩy.
+人口普查|tổng điều tra dân số|Danh từ|nhân khẩu phổ tra|国家每十年进行一次人口普查。|Nhà nước cứ mười năm tiến hành tổng điều tra dân số một lần.
+税收|thuế thu|Danh từ|thuế thu|税收是国家财政的主要来源。|Thuế là nguồn chính của tài chính quốc gia.
+减税|giảm thuế|Động từ|giảm thuế|政府推出了大规模减税措施。|Chính phủ đưa ra biện pháp giảm thuế quy mô lớn.
+拨款|cấp kinh phí|Động từ|bát khoản|中央拨款修建这条公路。|Trung ương cấp kinh phí xây con đường này.
+国有|thuộc nhà nước|Tính từ|quốc hữu|国有企业改革进入关键阶段。|Cải cách doanh nghiệp nhà nước bước vào giai đoạn then chốt.
+公有制|chế độ sở hữu công cộng|Danh từ|công hữu chế|公有制是社会主义经济的基础。|Chế độ sở hữu công cộng là nền tảng của kinh tế xã hội chủ nghĩa.
+民生|dân sinh|Danh từ|dân sinh|改善民生是政府的首要任务。|Cải thiện dân sinh là nhiệm vụ hàng đầu của chính phủ.
+社会保障|bảo đảm xã hội|Danh từ|xã hội bảo chướng|社会保障体系日趋完善。|Hệ thống bảo đảm xã hội ngày càng hoàn thiện.
+公共服务|dịch vụ công|Danh từ|công cộng phục vụ|政府着力提升公共服务水平。|Chính phủ nỗ lực nâng cao chất lượng dịch vụ công.
+法治|pháp quyền|Danh từ|pháp trị|依法治国是基本方略。|Trị quốc theo pháp luật là phương lược cơ bản.
+立法|lập pháp|Động từ|lập pháp|议会正在就此问题立法。|Quốc hội đang lập pháp về vấn đề này.
+执法|thực thi pháp luật|Động từ|chấp pháp|执法人员必须文明执法。|Người thực thi pháp luật phải làm việc văn minh.
+检察院|viện kiểm sát|Danh từ|kiểm sát viện|检察院对该案提起公诉。|Viện kiểm sát khởi tố vụ án này.
+法官|thẩm phán|Danh từ|pháp quan|法官宣读了判决书。|Thẩm phán đã đọc bản án.
+检察官|kiểm sát viên|Danh từ|kiểm sát quan|检察官出示了关键证据。|Kiểm sát viên đã xuất trình bằng chứng then chốt.
+陪审团|bồi thẩm đoàn|Danh từ|bồi thẩm đoàn|陪审团一致裁定被告有罪。|Bồi thẩm đoàn nhất trí kết luận bị cáo có tội.
+嫌疑人|nghi phạm|Danh từ|hiềm nghi nhân|警方抓获了犯罪嫌疑人。|Cảnh sát đã bắt được nghi phạm.
+证人|nhân chứng|Danh từ|chứng nhân|证人在法庭上作证。|Nhân chứng đã làm chứng trước tòa.
+取证|thu thập chứng cứ|Động từ|thủ chứng|警方到现场进行取证。|Cảnh sát đến hiện trường thu thập chứng cứ.
+起诉|khởi kiện, khởi tố|Động từ|khởi tố|他被检方正式起诉。|Anh ta bị phía công tố chính thức khởi tố.
+上诉|kháng cáo|Động từ|thượng tố|被告不服判决提出上诉。|Bị cáo không chấp nhận bản án nên kháng cáo.
+裁决|phán quyết|Động từ|tài quyết|仲裁庭作出了最终裁决。|Hội đồng trọng tài đã đưa ra phán quyết cuối cùng.
+判处|tuyên phạt|Động từ|phán xử|他被判处有期徒刑五年。|Anh ta bị tuyên phạt năm năm tù có thời hạn.
+死刑|tử hình|Danh từ|tử hình|该国已废除死刑。|Nước đó đã bãi bỏ án tử hình.
+无期徒刑|tù chung thân|Danh từ|vô kỳ đồ hình|主犯被判无期徒刑。|Chủ mưu bị tuyên án tù chung thân.
+缓刑|án treo|Danh từ|hoãn hình|法院判处他缓刑两年。|Tòa án tuyên anh ta án treo hai năm.
+假释|tạm tha|Động từ|giả thích|表现良好的犯人可获假释。|Phạm nhân cải tạo tốt có thể được tạm tha.
+特赦|đặc xá|Động từ|đặc xá|总统宣布对部分囚犯特赦。|Tổng thống tuyên bố đặc xá một số tù nhân.
+大赦|ân xá|Động từ|đại xá|国家颁布了大赦令。|Nhà nước ban hành lệnh ân xá.
+羁押|giam giữ|Động từ|ky áp|嫌疑人被依法羁押。|Nghi phạm bị giam giữ theo pháp luật.
+监禁|giam cầm|Động từ|giam cấm|他被监禁了整整十年。|Ông ta bị giam cầm suốt mười năm.
+越狱|vượt ngục|Động từ|việt ngục|两名罪犯成功越狱。|Hai tên tội phạm đã vượt ngục thành công.
+犯罪|phạm tội|Động từ|phạm tội|未成年人犯罪问题引起关注。|Vấn đề người chưa thành niên phạm tội được quan tâm.
+罪行|tội trạng|Danh từ|tội hành|他供认了全部罪行。|Hắn đã khai nhận toàn bộ tội trạng.
+民事|dân sự|Tính từ|dân sự|民事纠纷应当依法解决。|Tranh chấp dân sự cần giải quyết theo pháp luật.
+仲裁|trọng tài|Động từ|trọng tài|双方同意提交仲裁解决争议。|Hai bên đồng ý đưa tranh chấp ra trọng tài giải quyết.
+违法|vi phạm pháp luật|Động từ|vi pháp|违法行为必须受到追究。|Hành vi vi phạm pháp luật phải bị truy cứu.
+侵权|xâm phạm quyền|Động từ|xâm quyền|该公司因侵权被起诉。|Công ty đó bị kiện vì xâm phạm quyền.
+知识产权|quyền sở hữu trí tuệ|Danh từ|tri thức sản quyền|知识产权保护日益受到重视。|Bảo vệ quyền sở hữu trí tuệ ngày càng được coi trọng.
+版权|bản quyền|Danh từ|bản quyền|盗版严重侵犯作者的版权。|Hàng lậu xâm phạm nghiêm trọng bản quyền tác giả.
+违约|vi phạm hợp đồng|Động từ|vi ước|违约方应承担相应责任。|Bên vi phạm hợp đồng phải chịu trách nhiệm tương ứng.
+人权|nhân quyền|Danh từ|nhân quyền|尊重和保障人权写入了宪法。|Tôn trọng và bảo đảm nhân quyền được đưa vào hiến pháp.
+执政|cầm quyền|Động từ|chấp chính|该党已连续执政二十年。|Đảng này đã cầm quyền liên tục hai mươi năm.
+在位|tại vị|Động từ|tại vị|这位国王在位长达五十年。|Vị vua này tại vị suốt năm mươi năm.
+下台|từ chức, rời khỏi chức vụ|Động từ|hạ đài|民众要求总统立即下台。|Người dân yêu cầu tổng thống từ chức ngay.
+上台|lên nắm quyền|Động từ|thượng đài|新政府上台后推出了改革。|Sau khi lên nắm quyền, chính phủ mới đã đưa ra cải cách.
+倒台|sụp đổ, bị lật đổ|Động từ|đảo đài|独裁政权最终倒台。|Chế độ độc tài cuối cùng sụp đổ.
+流亡|lưu vong|Động từ|lưu vong|前总统被迫流亡海外。|Cựu tổng thống buộc phải lưu vong ở nước ngoài.
+政局|cục diện chính trị|Danh từ|chính cục|该国政局持续动荡。|Tình hình chính trị nước đó liên tục bất ổn.
+政坛|chính trường|Danh từ|chính đàn|他是政坛上的一颗新星。|Anh ấy là ngôi sao mới trên chính trường.
+政客|chính khách (sắc thái tiêu cực)|Danh từ|chính khách|选民厌倦了空谈的政客。|Cử tri chán ngán những chính khách chỉ nói suông.
+政要|chính khách cấp cao|Danh từ|chính yếu|多国政要出席了葬礼。|Chính khách cấp cao nhiều nước dự lễ tang.
+党派|đảng phái|Danh từ|đảng phái|不同党派就此展开辩论。|Các đảng phái khác nhau tranh luận về việc này.
+党魁|lãnh tụ đảng|Danh từ|đảng khôi|党魁宣布辞去职务。|Lãnh tụ đảng tuyên bố từ chức.
+阵营|phe, khối|Danh từ|trận doanh|两大阵营在议会中对立。|Hai phe lớn đối lập nhau trong nghị viện.
+派系|bè phái|Danh từ|phái hệ|党内派系斗争激烈。|Đấu tranh bè phái trong đảng rất gay gắt.
+民意|ý dân|Danh từ|dân ý|政府必须尊重民意。|Chính phủ phải tôn trọng ý dân.
+民调|thăm dò dư luận|Danh từ|dân điều|最新民调显示他支持率领先。|Thăm dò mới nhất cho thấy ông dẫn đầu về tỷ lệ ủng hộ.
+支持率|tỷ lệ ủng hộ|Danh từ|chi trì suất|总统的支持率持续下滑。|Tỷ lệ ủng hộ tổng thống liên tục giảm.
+民粹主义|chủ nghĩa dân túy|Danh từ|dân túy chủ nghĩa|民粹主义在欧洲抬头。|Chủ nghĩa dân túy trỗi dậy ở châu Âu.
+保守派|phe bảo thủ|Danh từ|bảo thủ phái|保守派反对这项改革。|Phe bảo thủ phản đối cải cách này.
+激进|cấp tiến, quá khích|Tính từ|khích tiến|他的观点过于激进。|Quan điểm của ông ấy quá cấp tiến.
+殖民|thực dân|Động từ|thực dân|这个国家曾被殖民统治。|Nước này từng bị thực dân cai trị.
+入侵|xâm lược|Động từ|nhập xâm|外国军队入侵了邻国。|Quân đội nước ngoài đã xâm lược nước láng giềng.
+吞并|thôn tính|Động từ|thôn tính|强国吞并了弱国的领土。|Cường quốc thôn tính lãnh thổ nước yếu.
+割让|nhượng đất|Động từ|cát nhượng|战败国被迫割让土地。|Nước thua trận buộc phải nhượng đất.
+博弈|đấu trí, giằng co|Động từ|bác dịch|大国之间展开战略博弈。|Các cường quốc giằng co về chiến lược.
+角逐|tranh đua|Động từ|giác trục|多名候选人角逐最高职位。|Nhiều ứng viên tranh đua chức vụ cao nhất.
+会谈|hội đàm|Động từ|hội đàm|双方举行了友好会谈。|Hai bên tổ chức hội đàm hữu nghị.
+斡旋人|người hòa giải|Danh từ|oát toàn nhân|他被任命为和平斡旋人。|Ông được bổ nhiệm làm người hòa giải hòa bình.
+互惠|cùng có lợi|Tính từ|hỗ huệ|两国签订了互惠协议。|Hai nước ký thỏa thuận cùng có lợi.
+互信|tin cậy lẫn nhau|Danh từ|hỗ tín|增进政治互信十分重要。|Tăng cường tin cậy chính trị lẫn nhau rất quan trọng.
+多边|đa phương|Tính từ|đa biên|我们支持多边主义。|Chúng tôi ủng hộ chủ nghĩa đa phương.
+双边|song phương|Tính từ|song biên|双边关系保持稳定发展。|Quan hệ song phương duy trì phát triển ổn định.
+全球化|toàn cầu hóa|Danh từ|toàn cầu hóa|全球化改变了国际格局。|Toàn cầu hóa đã thay đổi cục diện quốc tế.
+国际社会|cộng đồng quốc tế|Danh từ|quốc tế xã hội|国际社会呼吁各方保持克制。|Cộng đồng quốc tế kêu gọi các bên kiềm chế.
+人道主义|chủ nghĩa nhân đạo|Danh từ|nhân đạo chủ nghĩa|联合国提供人道主义援助。|Liên Hợp Quốc cung cấp viện trợ nhân đạo.
+援助|viện trợ|Động từ|viện trợ|发达国家向灾区提供援助。|Các nước phát triển cung cấp viện trợ cho vùng thiên tai.
+维和|gìn giữ hòa bình|Động từ|duy hòa|维和部队被派往冲突地区。|Lực lượng gìn giữ hòa bình được cử đến vùng xung đột.
+军方|phía quân đội|Danh từ|quân phương|军方否认了相关报道。|Phía quân đội phủ nhận các tin đưa liên quan.
+军官|sĩ quan|Danh từ|quân quan|这名军官因违纪被处分。|Sĩ quan này bị kỷ luật vì vi phạm.
+弹药|đạn dược|Danh từ|đạn dược|前线急需补充弹药。|Tiền tuyến cần gấp bổ sung đạn dược.
+战舰|chiến hạm|Danh từ|chiến hạm|战舰驶入了争议海域。|Chiến hạm tiến vào vùng biển tranh chấp.
+航母|tàu sân bay|Danh từ|hàng mẫu|航母编队开始远洋训练。|Biên đội tàu sân bay bắt đầu huấn luyện viễn dương.
+潜艇|tàu ngầm|Danh từ|tiềm đĩnh|核潜艇在深海执行任务。|Tàu ngầm hạt nhân thực hiện nhiệm vụ dưới biển sâu.
+战机|máy bay chiến đấu|Danh từ|chiến cơ|战机在边境上空巡航。|Máy bay chiến đấu tuần tiễu trên không phận biên giới.
+坦克|xe tăng|Danh từ|thản khắc|坦克部队向前推进。|Đơn vị xe tăng tiến lên phía trước.
+防空|phòng không|Động từ|phòng không|防空系统迅速作出反应。|Hệ thống phòng không phản ứng nhanh chóng.
+拦截|chặn, đánh chặn|Động từ|lan tiệt|防空部队成功拦截了来袭导弹。|Lực lượng phòng không đánh chặn thành công tên lửa tấn công.
+歼灭|tiêu diệt|Động từ|tiêm diệt|我军歼灭了敌方主力。|Quân ta đã tiêu diệt chủ lực địch.
+伤亡|thương vong|Danh từ|thương vong|这次战役造成惨重伤亡。|Trận đánh này gây thương vong nặng nề.
+阵亡|tử trận|Động từ|trận vong|他的父亲在战场上阵亡。|Cha anh ấy tử trận trên chiến trường.
+烈士|liệt sĩ|Danh từ|liệt sĩ|人们纪念为国捐躯的烈士。|Mọi người tưởng nhớ liệt sĩ hy sinh vì đất nước.
+备战|chuẩn bị chiến đấu|Động từ|bị chiến|全军进入紧急备战状态。|Toàn quân vào trạng thái sẵn sàng chiến đấu khẩn cấp.
+威慑|răn đe|Động từ|uy nhiếp|核威慑维持着战略平衡。|Răn đe hạt nhân duy trì cân bằng chiến lược.
+最后通牒|tối hậu thư|Danh từ|tối hậu thông điệp|他们向对方发出了最后通牒。|Họ đã gửi tối hậu thư cho đối phương.
+网络安全|an ninh mạng|Danh từ|võng lạc an toàn|网络安全已上升为国家战略。|An ninh mạng đã trở thành chiến lược quốc gia.
+黑客|tin tặc|Danh từ|hắc khách|黑客入侵了政府网站。|Tin tặc đã xâm nhập trang web chính phủ.
+泄密|lộ bí mật|Động từ|tiết mật|他因泄密被追究法律责任。|Anh ta bị truy cứu trách nhiệm vì lộ bí mật.
+贩毒|buôn ma túy|Động từ|phiến độc|他因贩毒被判处死刑。|Hắn bị tuyên tử hình vì buôn ma túy.
+缉毒|truy bắt ma túy|Động từ|tập độc|边防警察加强了缉毒行动。|Cảnh sát biên phòng tăng cường truy quét ma túy.
+洗钱|rửa tiền|Động từ|tẩy tiền|银行必须防范洗钱活动。|Ngân hàng phải phòng ngừa hoạt động rửa tiền.
+勒索|tống tiền|Động từ|lặc sách|歹徒向企业勒索钱财。|Bọn tội phạm tống tiền doanh nghiệp.
+凶杀|giết người|Danh từ|hung sát|警方正在侦破这起凶杀案。|Cảnh sát đang điều tra vụ án giết người này.
+斗殴|ẩu đả|Động từ|đấu âu|几名青年因斗殴被拘留。|Mấy thanh niên bị tạm giữ vì ẩu đả.
+侦查|điều tra (hình sự)|Động từ|trinh tra|公安机关正在侦查此案。|Cơ quan công an đang điều tra vụ án.
+破案|phá án|Động từ|phá án|警方在三天内成功破案。|Cảnh sát đã phá án thành công trong ba ngày.
+审讯|thẩm vấn|Động từ|thẩm tấn|警方连夜审讯嫌疑人。|Cảnh sát thẩm vấn nghi phạm suốt đêm.
+供认|khai nhận|Động từ|cung nhận|他当庭供认了犯罪事实。|Anh ta khai nhận sự thật phạm tội tại tòa.
+自首|đầu thú|Động từ|tự thú|他主动到公安局自首。|Anh ta chủ động đến công an đầu thú.

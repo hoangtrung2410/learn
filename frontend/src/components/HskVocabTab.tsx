@@ -103,7 +103,7 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
           <div>
             <h2 className="text-xl font-black text-white flex items-center gap-2">
               <BookMarked className="w-5 h-5 text-amber-400" />
-              Kho Từ Vựng HSK 1 - 6 Chuẩn Quốc Tế
+              Kho Từ Vựng HSK 1 - 9 Chuẩn Quốc Tế
             </h2>
             <p className="text-xs text-slate-400 mt-1">
               Tra cứu phát âm, chữ Hán, Pinyin, Hán Việt và ví dụ câu thực tế chuẩn đề thi.
@@ -150,7 +150,7 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
           <span className="text-xs font-bold text-slate-400 mr-2 flex items-center gap-1">
             Cấp độ HSK:
           </span>
-          {[1, 2, 3, 4, 5, 6].map((lvl) => {
+          {[1, 2, 3, 4, 5, 6, 7].map((lvl) => {
             const isSelected = selectedLevel === lvl;
             const count = allVocab.filter((item) => item.level === lvl).length;
             return (
@@ -168,7 +168,7 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
                     : 'bg-slate-900/80 hover:bg-slate-700 text-slate-300 border border-slate-700'
                 }`}
               >
-                <span>HSK {lvl}</span>
+                <span>{lvl === 7 ? 'HSK 7-9' : `HSK ${lvl}`}</span>
                 <span className={`text-[10px] px-1.5 py-0.2 rounded-md ${
                   isSelected ? 'bg-slate-950/20 text-slate-950' : 'bg-slate-800 text-slate-400'
                 }`}>
@@ -206,7 +206,7 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
             <div className="space-y-4">
               <div className="flex items-center justify-between text-xs text-slate-400 px-2">
                 <span>
-                  Thẻ <strong>{flashcardIdx + 1}</strong> / {filteredList.length} (HSK {selectedLevel})
+                  Thẻ <strong>{flashcardIdx + 1}</strong> / {filteredList.length} ({selectedLevel === 7 ? 'HSK 7-9' : `HSK ${selectedLevel}`})
                 </span>
                 <span>Bấm vào thẻ để lật mặt sau</span>
               </div>
@@ -339,7 +339,7 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
         <div className="space-y-4">
           <div className="flex items-center justify-between text-xs text-slate-400">
             <span>
-              Hiển thị <strong>{filteredList.length}</strong> từ vựng (HSK {selectedLevel})
+              Hiển thị <strong>{filteredList.length}</strong> từ vựng ({selectedLevel === 7 ? 'HSK 7-9' : `HSK ${selectedLevel}`})
             </span>
             <span>Bấm biểu tượng loa để nghe phát âm</span>
           </div>

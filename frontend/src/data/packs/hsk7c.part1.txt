@@ -1,0 +1,250 @@
+染色体|nhiễm sắc thể|Danh từ|nhiễm sắc thể|人类细胞中共有二十三对染色体。|Tế bào người có tổng cộng hai mươi ba cặp nhiễm sắc thể.
+克隆|nhân bản vô tính|Động từ|khắc long|科学家成功克隆了一只羊。|Các nhà khoa học đã nhân bản thành công một con cừu.
+干细胞|tế bào gốc|Danh từ|can tế bào|干细胞可以分化成多种类型的细胞。|Tế bào gốc có thể biệt hóa thành nhiều loại tế bào.
+抗体|kháng thể|Danh từ|kháng thể|疫苗能刺激人体产生抗体。|Vắc-xin có thể kích thích cơ thể sinh ra kháng thể.
+抗生素|kháng sinh|Danh từ|kháng sinh tố|滥用抗生素会导致细菌产生耐药性。|Lạm dụng kháng sinh sẽ khiến vi khuẩn kháng thuốc.
+疫苗|vắc-xin|Danh từ|dịch miêu|新型疫苗已经进入临床试验阶段。|Vắc-xin mới đã bước vào giai đoạn thử nghiệm lâm sàng.
+病原体|mầm bệnh|Danh từ|bệnh nguyên thể|研究人员正在分离这种病原体。|Các nhà nghiên cứu đang phân lập mầm bệnh này.
+潜伏期|thời kỳ ủ bệnh|Danh từ|tiềm phục kỳ|这种疾病的潜伏期长达两周。|Thời kỳ ủ bệnh của căn bệnh này kéo dài đến hai tuần.
+病理|bệnh lý|Danh từ|bệnh lý|病理检查证实了肿瘤的性质。|Xét nghiệm bệnh lý đã xác nhận tính chất của khối u.
+化疗|hóa trị|Danh từ|hóa liệu|化疗会带来一定的副作用。|Hóa trị sẽ gây ra một số tác dụng phụ.
+放疗|xạ trị|Danh từ|phóng liệu|他接受了六周的放疗。|Ông ấy đã được xạ trị trong sáu tuần.
+移植|cấy ghép|Động từ|di thực|他等待着肾脏移植的机会。|Anh ấy đang chờ cơ hội ghép thận.
+血管|mạch máu|Danh từ|huyết quản|高血压会损伤血管壁。|Huyết áp cao làm tổn thương thành mạch máu.
+胆固醇|cholesterol|Danh từ|đảm cố tuý|过多的胆固醇会引起心血管疾病。|Quá nhiều cholesterol sẽ gây bệnh tim mạch.
+糖尿病|bệnh tiểu đường|Danh từ|đường niệu bệnh|糖尿病患者需要控制饮食。|Người bị tiểu đường cần kiểm soát chế độ ăn.
+心脏病|bệnh tim|Danh từ|tâm tạng bệnh|心脏病是导致死亡的主要原因之一。|Bệnh tim là một trong những nguyên nhân gây tử vong chính.
+中风|đột quỵ|Danh từ|trúng phong|他因中风而半身不遂。|Ông ấy bị liệt nửa người do đột quỵ.
+炎症|viêm|Danh từ|viêm chứng|伤口出现炎症需要及时处理。|Vết thương bị viêm cần được xử lý kịp thời.
+并发症|biến chứng|Danh từ|tịnh phát chứng|手术后出现了严重的并发症。|Sau phẫu thuật đã xuất hiện biến chứng nghiêm trọng.
+慢性病|bệnh mãn tính|Danh từ|mạn tính bệnh|慢性病需要长期治疗和管理。|Bệnh mãn tính cần được điều trị và quản lý lâu dài.
+针灸|châm cứu|Danh từ|châm cứu|针灸对缓解疼痛有一定效果。|Châm cứu có hiệu quả nhất định trong giảm đau.
+中药|thuốc bắc|Danh từ|trung dược|这种中药具有清热解毒的功效。|Loại thuốc bắc này có tác dụng thanh nhiệt giải độc.
+处方|đơn thuốc|Danh từ|xử phương|医生给他开了一张处方。|Bác sĩ đã kê cho anh ấy một đơn thuốc.
+剂量|liều lượng|Danh từ|tễ lượng|请严格按照规定的剂量服药。|Xin hãy uống thuốc đúng liều lượng quy định.
+耐药性|tính kháng thuốc|Danh từ|nại dược tính|细菌的耐药性正在不断增强。|Tính kháng thuốc của vi khuẩn đang ngày càng tăng.
+荷尔蒙|hoóc-môn|Danh từ||荷尔蒙失调会影响情绪。|Rối loạn hoóc-môn sẽ ảnh hưởng đến tâm trạng.
+碳水化合物|carbohydrate|Danh từ|thán thủy hóa hợp vật|米饭和面包都是碳水化合物。|Cơm và bánh mì đều là carbohydrate.
+细胞核|nhân tế bào|Danh từ|tế bào hạch|遗传物质主要存在于细胞核中。|Vật chất di truyền chủ yếu nằm trong nhân tế bào.
+线粒体|ty thể|Danh từ|tuyến lạp thể|线粒体为细胞提供能量。|Ty thể cung cấp năng lượng cho tế bào.
+叶绿素|diệp lục|Danh từ|diệp lục tố|叶绿素使植物呈现绿色。|Diệp lục khiến cây có màu xanh.
+光合作用|quang hợp|Danh từ|quang hợp tác dụng|植物通过光合作用制造养分。|Thực vật tạo ra chất dinh dưỡng nhờ quang hợp.
+呼吸作用|hô hấp tế bào|Danh từ|hô hấp tác dụng|呼吸作用会释放能量。|Quá trình hô hấp tế bào giải phóng năng lượng.
+变异|biến dị|Động từ|biến dị|基因变异可能导致新的性状。|Biến dị gen có thể dẫn đến tính trạng mới.
+突变|đột biến|Động từ|đột biến|病毒发生突变后更难防控。|Sau khi vi-rút đột biến thì càng khó phòng chống.
+物种|loài|Danh từ|vật chủng|许多珍稀物种面临灭绝的危险。|Nhiều loài quý hiếm đang đứng trước nguy cơ tuyệt chủng.
+生物多样性|đa dạng sinh học|Danh từ|sinh vật đa dạng tính|热带雨林拥有极高的生物多样性。|Rừng mưa nhiệt đới có độ đa dạng sinh học rất cao.
+食物链|chuỗi thức ăn|Danh từ|thực vật liên|破坏食物链会影响整个生态系统。|Phá vỡ chuỗi thức ăn sẽ ảnh hưởng đến cả hệ sinh thái.
+栖息地|nơi cư trú|Danh từ|tê tức địa|森林砍伐使动物失去了栖息地。|Nạn chặt phá rừng khiến động vật mất nơi cư trú.
+濒危|nguy cấp|Tính từ|tần nguy|大熊猫曾经是濒危动物。|Gấu trúc từng là loài động vật nguy cấp.
+灭绝|tuyệt chủng|Động từ|diệt tuyệt|恐龙在六千万年前灭绝了。|Khủng long đã tuyệt chủng cách đây sáu mươi triệu năm.
+寄生虫|ký sinh trùng|Danh từ|ký sinh trùng|这种寄生虫会感染人的肠道。|Loại ký sinh trùng này sẽ nhiễm vào ruột người.
+真菌|nấm|Danh từ|chân khuẩn|真菌在潮湿环境中容易滋生。|Nấm dễ sinh sôi trong môi trường ẩm ướt.
+微生物|vi sinh vật|Danh từ|vi sinh vật|土壤中含有大量微生物。|Trong đất có rất nhiều vi sinh vật.
+发酵|lên men|Động từ|phát diếu|酸奶是牛奶发酵后的产品。|Sữa chua là sản phẩm sau khi sữa lên men.
+酶|enzyme|Danh từ|môi|酶能加快体内的化学反应。|Enzyme có thể thúc đẩy các phản ứng hóa học trong cơ thể.
+分子|phân tử|Danh từ|phân tử|水分子由氢和氧组成。|Phân tử nước gồm hydro và oxy.
+原子|nguyên tử|Danh từ|nguyên tử|原子由原子核和电子构成。|Nguyên tử gồm hạt nhân và electron.
+原子核|hạt nhân nguyên tử|Danh từ|nguyên tử hạch|原子核带有正电荷。|Hạt nhân nguyên tử mang điện tích dương.
+质子|proton|Danh từ|chất tử|质子带正电。|Proton mang điện tích dương.
+中子|neutron|Danh từ|trung tử|中子不带电。|Neutron không mang điện.
+离子|ion|Danh từ|ly tử|盐溶于水后会产生离子。|Muối tan trong nước sẽ tạo ra ion.
+化合物|hợp chất|Danh từ|hóa hợp vật|二氧化碳是一种常见的化合物。|Carbon dioxide là một hợp chất thường gặp.
+混合物|hỗn hợp|Danh từ|hỗn hợp vật|空气是多种气体的混合物。|Không khí là hỗn hợp của nhiều loại khí.
+溶液|dung dịch|Danh từ|dung dịch|他把盐溶解成了饱和溶液。|Anh ấy hòa tan muối thành dung dịch bão hòa.
+浓度|nồng độ|Danh từ|nùng độ|请测定这种溶液的浓度。|Hãy đo nồng độ của dung dịch này.
+催化剂|chất xúc tác|Danh từ|thôi hóa tễ|催化剂可以加快反应速度。|Chất xúc tác có thể làm phản ứng diễn ra nhanh hơn.
+氧化|oxy hóa|Động từ|dưỡng hóa|铁在潮湿空气中容易氧化生锈。|Sắt dễ bị oxy hóa và gỉ trong không khí ẩm.
+酸碱|axit và bazơ|Danh từ|toan kiềm|实验中需要测定溶液的酸碱度。|Trong thí nghiệm cần đo độ axit-bazơ của dung dịch.
+蒸馏|chưng cất|Động từ|chưng lưu|通过蒸馏可以得到纯净水。|Qua chưng cất có thể thu được nước tinh khiết.
+聚合物|polyme|Danh từ|tụ hợp vật|塑料是一种常见的聚合物。|Nhựa là một loại polyme thường gặp.
+合金|hợp kim|Danh từ|hợp kim|不锈钢是铁和铬的合金。|Thép không gỉ là hợp kim của sắt và crom.
+半导体|chất bán dẫn|Danh từ|bán đạo thể|硅是制造半导体的主要材料。|Silic là vật liệu chính để chế tạo chất bán dẫn.
+导体|chất dẫn điện|Danh từ|đạo thể|铜是良好的导体。|Đồng là chất dẫn điện tốt.
+绝缘|cách điện|Động từ|tuyệt duyên|电线外面包着绝缘材料。|Bên ngoài dây điện được bọc vật liệu cách điện.
+超导|siêu dẫn|Danh từ|siêu đạo|超导材料在低温下电阻为零。|Vật liệu siêu dẫn có điện trở bằng không ở nhiệt độ thấp.
+电阻|điện trở|Danh từ|điện trở|温度升高会使电阻增大。|Nhiệt độ tăng sẽ làm điện trở tăng lên.
+电流|dòng điện|Danh từ|điện lưu|电流通过导线产生热量。|Dòng điện chạy qua dây dẫn sinh ra nhiệt.
+电压|điện áp|Danh từ|điện áp|家用电压一般是二百二十伏。|Điện áp dân dụng thường là 220 vôn.
+电磁|điện từ|Danh từ|điện từ|电磁波可以在真空中传播。|Sóng điện từ có thể lan truyền trong chân không.
+磁场|từ trường|Danh từ|từ trường|地球周围存在着磁场。|Xung quanh Trái Đất tồn tại từ trường.
+放射性|tính phóng xạ|Danh từ|phóng xạ tính|铀具有放射性。|Uranium có tính phóng xạ.
+核能|năng lượng hạt nhân|Danh từ|hạch năng|核能是一种高效的清洁能源。|Năng lượng hạt nhân là một nguồn năng lượng sạch hiệu quả cao.
+核聚变|nhiệt hạch|Danh từ|hạch tụ biến|太阳的能量来自核聚变。|Năng lượng của mặt trời đến từ phản ứng nhiệt hạch.
+核裂变|phân hạch hạt nhân|Danh từ|hạch liệt biến|核电站利用核裂变发电。|Nhà máy điện hạt nhân dùng phân hạch hạt nhân để phát điện.
+粒子|hạt|Danh từ|lạp tử|科学家用加速器研究基本粒子。|Các nhà khoa học dùng máy gia tốc nghiên cứu hạt cơ bản.
+光谱|quang phổ|Danh từ|quang phổ|通过光谱可以分析恒星的成分。|Qua quang phổ có thể phân tích thành phần của các vì sao.
+波长|bước sóng|Danh từ|ba trường|红光的波长比蓝光长。|Bước sóng của ánh sáng đỏ dài hơn ánh sáng xanh.
+折射|khúc xạ|Động từ|chiết xạ|光从空气进入水中会发生折射。|Ánh sáng đi từ không khí vào nước sẽ bị khúc xạ.
+引力|lực hấp dẫn|Danh từ|dẫn lực|地球的引力使物体落向地面。|Lực hấp dẫn của Trái Đất khiến vật rơi xuống đất.
+重力|trọng lực|Danh từ|trọng lực|月球上的重力比地球小得多。|Trọng lực trên Mặt Trăng nhỏ hơn Trái Đất nhiều.
+惯性|quán tính|Danh từ|quán tính|急刹车时人会因惯性向前倾。|Khi phanh gấp, người sẽ chúi về phía trước do quán tính.
+压强|áp suất|Danh từ|áp cường|海水越深，压强越大。|Nước biển càng sâu thì áp suất càng lớn.
+真空|chân không|Danh từ|chân không|声音无法在真空中传播。|Âm thanh không thể truyền trong chân không.
+热量|nhiệt lượng|Danh từ|nhiệt lượng|燃烧煤炭会释放大量热量。|Đốt than sẽ giải phóng một lượng lớn nhiệt.
+热能|nhiệt năng|Danh từ|nhiệt năng|太阳能可以转化为热能。|Năng lượng mặt trời có thể chuyển hóa thành nhiệt năng.
+动能|động năng|Danh từ|động năng|速度越快，物体的动能越大。|Vận tốc càng nhanh thì động năng của vật càng lớn.
+势能|thế năng|Danh từ|thế năng|高处的物体具有重力势能。|Vật ở trên cao có thế năng trọng trường.
+守恒|bảo toàn|Động từ|thủ hằng|能量守恒是物理学的基本定律。|Bảo toàn năng lượng là định luật cơ bản của vật lý.
+相对论|thuyết tương đối|Danh từ|tương đối luận|爱因斯坦提出了相对论。|Einstein đã đưa ra thuyết tương đối.
+量子|lượng tử|Danh từ|lượng tử|量子计算机的运算速度极快。|Máy tính lượng tử có tốc độ tính toán cực nhanh.
+黑洞|hố đen|Danh từ|hắc động|黑洞的引力强大到连光都无法逃脱。|Lực hấp dẫn của hố đen mạnh đến mức ánh sáng cũng không thoát được.
+星系|thiên hà|Danh từ|tinh hệ|银河系是一个巨大的星系。|Ngân Hà là một thiên hà khổng lồ.
+恒星|hằng tinh|Danh từ|hằng tinh|太阳是一颗恒星。|Mặt Trời là một hằng tinh.
+行星|hành tinh|Danh từ|hành tinh|太阳系共有八大行星。|Hệ Mặt Trời có tám hành tinh lớn.
+彗星|sao chổi|Danh từ|tuệ tinh|哈雷彗星每七十六年回归一次。|Sao chổi Halley quay lại mỗi bảy mươi sáu năm một lần.
+陨石|thiên thạch|Danh từ|vẫn thạch|这块陨石来自遥远的太空。|Khối thiên thạch này đến từ không gian xa xôi.
+天体|thiên thể|Danh từ|thiên thể|天文学家观测各种天体。|Các nhà thiên văn quan sát nhiều loại thiên thể.
+望远镜|kính viễn vọng|Danh từ|vọng viễn kính|哈勃望远镜拍到了遥远星系的照片。|Kính viễn vọng Hubble đã chụp được ảnh các thiên hà xa xôi.
+探测器|tàu thăm dò|Danh từ|thám trắc khí|火星探测器传回了清晰的图像。|Tàu thăm dò sao Hỏa đã gửi về hình ảnh rõ nét.
+空间站|trạm vũ trụ|Danh từ|không gian trạm|宇航员在空间站里工作了半年。|Các phi hành gia đã làm việc trong trạm vũ trụ nửa năm.
+宇航员|phi hành gia|Danh từ|vũ hàng viên|宇航员需要经过严格的训练。|Phi hành gia phải trải qua huấn luyện nghiêm ngặt.
+失重|không trọng lượng|Động từ|thất trọng|在太空中人会处于失重状态。|Trong không gian con người ở trạng thái không trọng lượng.
+大气层|tầng khí quyển|Danh từ|đại khí tằng|飞船重返大气层时温度极高。|Khi tàu vũ trụ quay lại khí quyển, nhiệt độ cực cao.
+臭氧|ozone|Danh từ|xú dưỡng|臭氧层能吸收紫外线。|Tầng ozone có thể hấp thụ tia cực tím.
+温室效应|hiệu ứng nhà kính|Danh từ|ôn thất hiệu ứng|二氧化碳加剧了温室效应。|Khí carbon dioxide làm hiệu ứng nhà kính trầm trọng hơn.
+全球变暖|nóng lên toàn cầu|Danh từ|toàn cầu biến noãn|全球变暖导致海平面上升。|Nóng lên toàn cầu khiến mực nước biển dâng cao.
+碳排放|phát thải carbon|Danh từ|thán bài phóng|各国都在努力减少碳排放。|Các nước đều đang nỗ lực giảm phát thải carbon.
+可再生|có thể tái tạo|Tính từ|khả tái sinh|风能是一种可再生能源。|Năng lượng gió là một nguồn năng lượng tái tạo.
+太阳能|năng lượng mặt trời|Danh từ|thái dương năng|太阳能电池板安装在屋顶上。|Tấm pin năng lượng mặt trời được lắp trên mái nhà.
+风能|năng lượng gió|Danh từ|phong năng|沿海地区适合发展风能。|Vùng ven biển thích hợp phát triển năng lượng gió.
+水力发电|thủy điện|Danh từ|thủy lực phát điện|三峡工程是大型水力发电项目。|Công trình Tam Hiệp là dự án thủy điện quy mô lớn.
+充电|sạc điện|Động từ|sung điện|这款手机充电只需半小时。|Chiếc điện thoại này chỉ cần sạc nửa tiếng.
+节能|tiết kiệm năng lượng|Động từ|tiết năng|节能灯比普通灯泡省电。|Đèn tiết kiệm năng lượng tiết kiệm điện hơn bóng đèn thường.
+环保|bảo vệ môi trường|Danh từ|hoàn bảo|使用环保材料有利于保护地球。|Sử dụng vật liệu thân thiện môi trường có lợi cho việc bảo vệ Trái Đất.
+降解|phân hủy|Động từ|giáng giải|这种塑料可以自然降解。|Loại nhựa này có thể phân hủy tự nhiên.
+净化|làm sạch|Động từ|tịnh hóa|这台设备可以净化空气。|Thiết bị này có thể làm sạch không khí.
+地壳|vỏ trái đất|Danh từ|địa xác|地壳由多个板块组成。|Vỏ Trái Đất gồm nhiều mảng kiến tạo.
+板块|mảng kiến tạo|Danh từ|bản khối|板块运动会引发地震。|Sự dịch chuyển của các mảng kiến tạo sẽ gây ra động đất.
+火山|núi lửa|Danh từ|hỏa sơn|火山喷发时会喷出大量岩浆。|Khi núi lửa phun trào sẽ phun ra nhiều dung nham.
+海啸|sóng thần|Danh từ|hải khiếu|海底地震可能引发海啸。|Động đất dưới đáy biển có thể gây ra sóng thần.
+矿物|khoáng vật|Danh từ|khoáng vật|这个地区蕴藏着丰富的矿物资源。|Khu vực này chứa nhiều tài nguyên khoáng sản.
+半径|bán kính|Danh từ|bán kính|圆的半径是五厘米。|Bán kính của hình tròn là năm xăng-ti-mét.
+函数|hàm số|Danh từ|hàm số|这个函数的图像是一条抛物线。|Đồ thị của hàm số này là một đường parabol.
+方程|phương trình|Danh từ|phương trình|请解这个二元一次方程。|Hãy giải phương trình bậc nhất hai ẩn này.
+概率|xác suất|Danh từ|khái suất|抛硬币正面朝上的概率是二分之一。|Xác suất đồng xu ngửa là một phần hai.
+算法|thuật toán|Danh từ|toán pháp|这个算法大大提高了搜索效率。|Thuật toán này nâng cao đáng kể hiệu suất tìm kiếm.
+编程|lập trình|Động từ|biên trình|他从小就喜欢编程。|Từ nhỏ anh ấy đã thích lập trình.
+代码|mã nguồn|Danh từ|đại mã|请检查一下这段代码有没有错误。|Hãy kiểm tra xem đoạn mã này có lỗi không.
+操作系统|hệ điều hành|Danh từ|thao tác hệ thống|手机的操作系统分为两大类。|Hệ điều hành điện thoại chia làm hai loại lớn.
+芯片|chip|Danh từ|tâm phiến|国产芯片的技术不断进步。|Công nghệ chip sản xuất trong nước không ngừng tiến bộ.
+处理器|bộ xử lý|Danh từ|xử lý khí|新款处理器的速度提高了一倍。|Bộ xử lý đời mới có tốc độ nhanh gấp đôi.
+内存|bộ nhớ trong|Danh từ|nội tồn|这台电脑的内存不够用了。|Bộ nhớ trong của chiếc máy tính này không đủ dùng nữa.
+存储|lưu trữ|Động từ|tồn trữ|数据存储在云端服务器上。|Dữ liệu được lưu trữ trên máy chủ đám mây.
+数据库|cơ sở dữ liệu|Danh từ|số cứ khố|公司建立了庞大的客户数据库。|Công ty đã xây dựng một cơ sở dữ liệu khách hàng khổng lồ.
+大数据|dữ liệu lớn|Danh từ|đại số cứ|大数据技术被广泛应用于各行各业。|Công nghệ dữ liệu lớn được ứng dụng rộng rãi trong mọi ngành.
+云计算|điện toán đám mây|Danh từ|vân kế toán|云计算降低了企业的运营成本。|Điện toán đám mây làm giảm chi phí vận hành của doanh nghiệp.
+服务器|máy chủ|Danh từ|phục vụ khí|服务器突然崩溃了。|Máy chủ đột nhiên bị sập.
+宽带|băng thông rộng|Danh từ|khoan đới|家里已经安装了光纤宽带。|Nhà đã lắp đặt băng thông rộng cáp quang.
+带宽|băng thông|Danh từ|đới khoan|视频会议需要足够的带宽。|Họp video cần đủ băng thông.
+路由器|bộ định tuyến|Danh từ|lộ do khí|重启路由器后网络恢复了。|Sau khi khởi động lại bộ định tuyến, mạng đã hoạt động lại.
+浏览器|trình duyệt|Danh từ|liệu lãm khí|请用最新版本的浏览器打开网页。|Hãy mở trang web bằng trình duyệt phiên bản mới nhất.
+搜索引擎|công cụ tìm kiếm|Danh từ|sưu tác dẫn khánh|搜索引擎能快速找到相关信息。|Công cụ tìm kiếm có thể nhanh chóng tìm ra thông tin liên quan.
+网页|trang web|Danh từ|võng hiệt|网页加载速度太慢了。|Tốc độ tải trang web quá chậm.
+链接|liên kết|Danh từ|liên tiếp|请点击下面的链接下载文件。|Xin hãy nhấp vào liên kết bên dưới để tải tệp.
+上传|tải lên|Động từ|thượng truyền|请把照片上传到系统里。|Hãy tải ảnh lên hệ thống.
+账号|tài khoản|Danh từ|trướng hiệu|请输入您的账号和密码。|Xin hãy nhập tài khoản và mật khẩu của bạn.
+加密|mã hóa|Động từ|gia mật|重要文件必须加密保存。|Tệp quan trọng phải được mã hóa khi lưu trữ.
+解密|giải mã|Động từ|giải mật|黑客试图破解并解密这些数据。|Tin tặc cố gắng bẻ khóa và giải mã những dữ liệu này.
+漏洞|lỗ hổng|Danh từ|lậu động|安全漏洞已经被及时修复。|Lỗ hổng bảo mật đã được sửa kịp thời.
+病毒库|cơ sở dữ liệu vi-rút|Danh từ|bệnh độc khố|杀毒软件需要更新病毒库。|Phần mềm diệt vi-rút cần cập nhật cơ sở dữ liệu vi-rút.
+防火墙|tường lửa|Danh từ|phòng hỏa tường|防火墙可以阻挡非法访问。|Tường lửa có thể chặn truy cập trái phép.
+虚拟|ảo|Tính từ|hư nghĩ|虚拟现实技术让游戏更逼真。|Công nghệ thực tế ảo khiến trò chơi chân thực hơn.
+人工智能|trí tuệ nhân tạo|Danh từ|nhân công trí năng|人工智能正在改变我们的生活。|Trí tuệ nhân tạo đang thay đổi cuộc sống của chúng ta.
+机器学习|học máy|Danh từ|cơ khí học tập|机器学习需要大量的训练数据。|Học máy cần lượng lớn dữ liệu huấn luyện.
+深度学习|học sâu|Danh từ|thâm độ học tập|深度学习在图像识别方面表现出色。|Học sâu thể hiện xuất sắc trong nhận dạng hình ảnh.
+神经网络|mạng nơ-ron|Danh từ|thần kinh võng lạc|神经网络模仿人脑的工作方式。|Mạng nơ-ron mô phỏng cách hoạt động của não người.
+语音|giọng nói|Danh từ|ngữ âm|语音助手能听懂用户的指令。|Trợ lý giọng nói có thể hiểu lệnh của người dùng.
+自动驾驶|lái xe tự động|Danh từ|tự động giá sử|自动驾驶汽车正在道路上测试。|Xe lái tự động đang được chạy thử trên đường.
+机器人|người máy|Danh từ|cơ khí nhân|工厂里的机器人代替了人工操作。|Robot trong nhà máy đã thay thế thao tác của con người.
+传感器|cảm biến|Danh từ|truyền cảm khí|传感器能感知温度的变化。|Cảm biến có thể nhận biết sự thay đổi nhiệt độ.
+物联网|Internet vạn vật|Danh từ|vật liên võng|物联网让家用电器实现了互联。|Internet vạn vật giúp các thiết bị gia dụng kết nối với nhau.
+无人机|máy bay không người lái|Danh từ|vô nhân cơ|无人机被用来拍摄航拍画面。|Máy bay không người lái được dùng để quay phim trên không.
+自动化|tự động hóa|Danh từ|tự động hóa|生产线已经实现了高度自动化。|Dây chuyền sản xuất đã đạt mức tự động hóa cao.
+数字化|số hóa|Động từ|số tự hóa|博物馆正在对藏品进行数字化。|Bảo tàng đang số hóa các hiện vật sưu tầm.
+信息化|tin học hóa|Danh từ|tín tức hóa|医院的信息化水平不断提高。|Mức độ tin học hóa của bệnh viện không ngừng nâng cao.
+卫星导航|định vị vệ tinh|Danh từ|vệ tinh đạo hàng|卫星导航系统为出行提供了便利。|Hệ thống định vị vệ tinh mang lại sự tiện lợi cho việc đi lại.
+基站|trạm gốc|Danh từ|cơ trạm|城市里建设了大量五G基站。|Thành phố đã xây dựng nhiều trạm gốc 5G.
+光纤|cáp quang|Danh từ|quang tiêm|光纤传输的速度非常快。|Tốc độ truyền qua cáp quang rất nhanh.
+激光|laser|Danh từ|khích quang|医生用激光治疗近视。|Bác sĩ dùng laser để điều trị cận thị.
+显微镜|kính hiển vi|Danh từ|hiển vi kính|在显微镜下可以看到细菌。|Dưới kính hiển vi có thể nhìn thấy vi khuẩn.
+纳米|nanomet|Danh từ|nạp mễ|纳米技术在医学领域前景广阔。|Công nghệ nano có triển vọng rộng lớn trong lĩnh vực y học.
+实验室|phòng thí nghiệm|Danh từ|thực nghiệm thất|他整天待在实验室里做研究。|Anh ấy cả ngày ở trong phòng thí nghiệm làm nghiên cứu.
+变量|biến số|Danh từ|biến lượng|实验中要控制好各种变量。|Trong thí nghiệm cần kiểm soát tốt các biến số.
+样本|mẫu|Danh từ|dạng bản|研究采集了一千个样本。|Nghiên cứu đã thu thập một nghìn mẫu.
+观测|quan trắc|Động từ|quan trắc|天文台持续观测这颗新星。|Đài thiên văn liên tục quan trắc ngôi sao mới này.
+精度|độ chính xác|Danh từ|tinh độ|这台仪器的测量精度很高。|Độ chính xác của thiết bị đo này rất cao.
+齿轮|bánh răng|Danh từ|xỉ luân|齿轮带动着机器运转。|Bánh răng đẩy cho máy móc vận hành.
+轴承|ổ trục|Danh từ|trục thừa|轴承磨损会产生噪音。|Ổ trục bị mòn sẽ phát ra tiếng ồn.
+发动机|động cơ|Danh từ|phát động cơ|这辆车的发动机性能很强。|Động cơ của chiếc xe này có hiệu suất rất mạnh.
+涡轮|tuabin|Danh từ|oa luân|涡轮的转速高达每分钟一万转。|Tốc độ quay của tuabin lên tới mười nghìn vòng mỗi phút.
+液压|thủy lực|Danh từ|dịch áp|挖掘机依靠液压系统工作。|Máy xúc hoạt động nhờ hệ thống thủy lực.
+焊接|hàn|Động từ|hàn tiếp|工人正在焊接钢管。|Công nhân đang hàn ống thép.
+锻造|rèn|Động từ|đoàn tạo|铁匠把铁块锻造成刀。|Thợ rèn rèn khối sắt thành con dao.
+冶炼|luyện kim|Động từ|dã luyện|钢铁厂冶炼出了高质量的钢材。|Nhà máy thép đã luyện ra thép chất lượng cao.
+钢筋|cốt thép|Danh từ|cương cân|大楼的结构中使用了大量钢筋。|Kết cấu tòa nhà sử dụng rất nhiều cốt thép.
+混凝土|bê tông|Danh từ|hỗn ngưng thổ|桥墩是用混凝土浇筑的。|Trụ cầu được đổ bằng bê tông.
+地基|móng nhà|Danh từ|địa cơ|高楼的地基必须打得很牢固。|Móng của nhà cao tầng phải được làm rất vững chắc.
+抗震|chống động đất|Động từ|kháng chấn|这座建筑采用了抗震设计。|Tòa nhà này áp dụng thiết kế chống động đất.
+高铁|tàu cao tốc|Danh từ|cao thiết|高铁把两座城市缩短到两小时的距离。|Tàu cao tốc rút ngắn khoảng cách hai thành phố còn hai tiếng.
+磁悬浮|tàu đệm từ|Danh từ|từ huyền phù|上海有一条磁悬浮列车线路。|Thượng Hải có một tuyến tàu đệm từ.
+潜水艇|tàu ngầm|Danh từ|tiềm thủy đĩnh|潜水艇可以在深海中长时间航行。|Tàu ngầm có thể hành trình lâu dưới biển sâu.
+飞行器|phương tiện bay|Danh từ|phi hành khí|新型飞行器已经通过了试飞。|Phương tiện bay mới đã vượt qua chuyến bay thử.
+推进|đẩy tới|Động từ|thôi tiến|火箭靠强大的推进器升空。|Tên lửa cất cánh nhờ bộ đẩy mạnh mẽ.
+燃料|nhiên liệu|Danh từ|nhiên liệu|氢气是一种清洁的燃料。|Hydro là một loại nhiên liệu sạch.
+氢气|khí hydro|Danh từ|khinh khí|氢气燃烧后只产生水。|Hydro cháy chỉ sinh ra nước.
+氮气|khí nitơ|Danh từ|đạm khí|空气中大约百分之七十八是氮气。|Khoảng 78% không khí là khí nitơ.
+晶体|tinh thể|Danh từ|tinh thể|钻石是一种天然晶体。|Kim cương là một loại tinh thể tự nhiên.
+石墨烯|graphene|Danh từ|thạch mặc hy|石墨烯被誉为未来的神奇材料。|Graphene được ca ngợi là vật liệu kỳ diệu của tương lai.
+橡胶|cao su|Danh từ|tượng giao|轮胎是用橡胶制成的。|Lốp xe được làm từ cao su.
+塑料|nhựa|Danh từ|tố liệu|塑料垃圾对海洋造成了严重污染。|Rác thải nhựa gây ô nhiễm nghiêm trọng cho đại dương.
+涂层|lớp phủ|Danh từ|đồ tằng|飞机表面有一层特殊的涂层。|Bề mặt máy bay có một lớp phủ đặc biệt.
+研发|nghiên cứu phát triển|Động từ|nghiên phát|公司每年投入巨资研发新产品。|Mỗi năm công ty đầu tư khoản tiền lớn để nghiên cứu phát triển sản phẩm mới.
+原型|nguyên mẫu|Danh từ|nguyên hình|工程师制作了产品原型。|Kỹ sư đã chế tạo nguyên mẫu sản phẩm.
+迭代|lặp cập nhật|Động từ|điệt đại|软件产品需要不断迭代。|Sản phẩm phần mềm cần liên tục được cập nhật phiên bản.
+兼容|tương thích|Động từ|kiêm dung|这款软件与旧系统不兼容。|Phần mềm này không tương thích với hệ thống cũ.
+检测|kiểm tra|Động từ|kiểm trắc|工厂对每件产品进行严格检测。|Nhà máy kiểm tra nghiêm ngặt từng sản phẩm.
+监测|giám sát đo đạc|Động từ|giám trắc|气象站全天候监测空气质量。|Trạm khí tượng giám sát chất lượng không khí suốt ngày đêm.
+模拟|mô phỏng|Động từ|mô nghĩ|计算机可以模拟地震的过程。|Máy tính có thể mô phỏng quá trình động đất.
+建模|xây dựng mô hình|Động từ|kiến mô|科学家通过建模预测气候变化。|Các nhà khoa học dự đoán biến đổi khí hậu bằng cách xây dựng mô hình.
+参数|tham số|Danh từ|tham số|请调整一下机器的运行参数。|Xin hãy điều chỉnh tham số vận hành của máy.
+接口|giao diện kết nối|Danh từ|tiếp khẩu|两个系统通过接口交换数据。|Hai hệ thống trao đổi dữ liệu qua giao diện kết nối.
+开源|mã nguồn mở|Tính từ|khai nguyên|很多优秀的软件都是开源的。|Rất nhiều phần mềm xuất sắc là mã nguồn mở.
+基因组|hệ gen|Danh từ|cơ nhân tổ|人类基因组计划已经完成了测序。|Dự án hệ gen người đã hoàn thành việc giải trình tự.
+测序|giải trình tự|Động từ|trắc tự|研究人员对病毒的基因进行了测序。|Các nhà nghiên cứu đã giải trình tự gen của vi-rút.
+靶向|nhắm trúng đích|Tính từ|bá hướng|靶向药物能精准攻击癌细胞。|Thuốc nhắm trúng đích có thể tấn công chính xác tế bào ung thư.
+病灶|ổ bệnh|Danh từ|bệnh táo|CT检查发现了肺部的病灶。|Chụp CT phát hiện ổ bệnh ở phổi.
+内窥镜|máy nội soi|Danh từ|nội khuy kính|医生用内窥镜检查胃部。|Bác sĩ dùng máy nội soi kiểm tra dạ dày.
+断层扫描|chụp cắt lớp|Danh từ|đoạn tằng tảo miêu|断层扫描能清晰显示脑部结构。|Chụp cắt lớp có thể hiển thị rõ cấu trúc não.
+心电图|điện tâm đồ|Danh từ|tâm điện đồ|医生根据心电图判断病情。|Bác sĩ dựa vào điện tâm đồ để đánh giá bệnh tình.
+血清|huyết thanh|Danh từ|huyết thanh|实验室对血清样本进行了分析。|Phòng thí nghiệm đã phân tích mẫu huyết thanh.
+白细胞|bạch cầu|Danh từ|bạch tế bào|白细胞数量升高说明体内有炎症。|Số lượng bạch cầu tăng cho thấy trong cơ thể có viêm.
+红细胞|hồng cầu|Danh từ|hồng tế bào|红细胞负责运输氧气。|Hồng cầu có nhiệm vụ vận chuyển oxy.
+血小板|tiểu cầu|Danh từ|huyết tiểu bản|血小板能帮助伤口止血。|Tiểu cầu giúp cầm máu vết thương.
+胰岛素|insulin|Danh từ|di đảo tố|糖尿病人需要注射胰岛素。|Người tiểu đường cần tiêm insulin.
+神经元|nơ-ron thần kinh|Danh từ|thần kinh nguyên|人脑中有上千亿个神经元。|Trong não người có hàng trăm tỷ nơ-ron.
+大脑皮层|vỏ đại não|Danh từ|đại não bì tằng|大脑皮层负责处理复杂的思维活动。|Vỏ đại não chịu trách nhiệm xử lý các hoạt động tư duy phức tạp.
+脊髓|tủy sống|Danh từ|tích tuỷ|脊髓损伤可能导致瘫痪。|Tổn thương tủy sống có thể gây liệt.
+免疫系统|hệ miễn dịch|Danh từ|miễn dịch hệ thống|睡眠不足会削弱免疫系统。|Thiếu ngủ sẽ làm suy yếu hệ miễn dịch.
+病毒株|chủng vi-rút|Danh từ|bệnh độc chu|新的病毒株已经在多个国家出现。|Chủng vi-rút mới đã xuất hiện ở nhiều nước.
+流行病|bệnh dịch|Danh từ|lưu hành bệnh|流行病学家追踪疾病的传播路径。|Các nhà dịch tễ học theo dõi đường lây lan của bệnh.
+抗癌|chống ung thư|Động từ|kháng nham|这种植物提取物具有抗癌作用。|Chất chiết xuất từ loài cây này có tác dụng chống ung thư.
+再生|tái sinh|Động từ|tái sinh|蜥蜴的尾巴断了之后可以再生。|Đuôi thằn lằn sau khi đứt có thể tái sinh.
+光年|năm ánh sáng|Danh từ|quang niên|这颗恒星距离地球四光年。|Ngôi sao này cách Trái Đất bốn năm ánh sáng.
+暗物质|vật chất tối|Danh từ|ám vật chất|暗物质至今尚未被直接探测到。|Vật chất tối đến nay vẫn chưa được phát hiện trực tiếp.
+大爆炸|vụ nổ lớn|Danh từ|đại bạo tạc|宇宙起源于一百多亿年前的大爆炸。|Vũ trụ khởi nguồn từ vụ nổ lớn cách đây hơn mười tỷ năm.
+引力波|sóng hấp dẫn|Danh từ|dẫn lực ba|科学家首次探测到了引力波。|Các nhà khoa học lần đầu tiên phát hiện sóng hấp dẫn.
+超新星|siêu tân tinh|Danh từ|siêu tân tinh|超新星爆发时亮度惊人。|Khi siêu tân tinh bùng nổ, độ sáng thật đáng kinh ngạc.
+对撞机|máy va chạm hạt|Danh từ|đối chàng cơ|大型强子对撞机位于瑞士和法国边境。|Máy va chạm hadron lớn nằm ở biên giới Thụy Sĩ và Pháp.
+加速器|máy gia tốc|Danh từ|gia tốc khí|粒子加速器用于研究物质结构。|Máy gia tốc hạt dùng để nghiên cứu cấu trúc vật chất.
+超声波|sóng siêu âm|Danh từ|siêu thanh ba|医生用超声波检查胎儿的发育情况。|Bác sĩ dùng sóng siêu âm kiểm tra sự phát triển của thai nhi.
+红外线|tia hồng ngoại|Danh từ|hồng ngoại tuyến|遥控器通过红外线发送信号。|Điều khiển từ xa gửi tín hiệu qua tia hồng ngoại.
+紫外线|tia cực tím|Danh từ|tử ngoại tuyến|过多的紫外线会伤害皮肤。|Quá nhiều tia cực tím sẽ làm tổn hại làn da.
+X射线|tia X|Danh từ||X射线可以穿透人体软组织。|Tia X có thể xuyên qua mô mềm của cơ thể.
+热力学|nhiệt động lực học|Danh từ|nhiệt lực học|热力学第二定律揭示了熵增的规律。|Định luật hai nhiệt động lực học chỉ ra quy luật tăng entropy.
+力学|cơ học|Danh từ|lực học|牛顿奠定了经典力学的基础。|Newton đã đặt nền móng cho cơ học cổ điển.
+流体|chất lưu|Danh từ|lưu thể|流体力学研究液体和气体的运动。|Cơ học chất lưu nghiên cứu chuyển động của chất lỏng và chất khí.
+湍流|dòng chảy rối|Danh từ|thoan lưu|飞机遇到湍流时会剧烈颠簸。|Khi máy bay gặp dòng chảy rối sẽ rung lắc dữ dội.
+超音速|siêu thanh|Tính từ|siêu âm tốc|这架战斗机能以超音速飞行。|Chiếc máy bay chiến đấu này có thể bay với tốc độ siêu thanh.
+变压器|máy biến áp|Danh từ|biến áp khí|变压器把高压电转换为低压电。|Máy biến áp chuyển điện cao áp thành điện hạ áp.
+发电机|máy phát điện|Danh từ|phát điện cơ|医院备有应急发电机。|Bệnh viện có sẵn máy phát điện dự phòng.
