@@ -1,122 +1,122 @@
-A1|grammar|She ___ from Japan.|are|be|am|is|D|Chủ ngữ she (ngôi thứ ba số ít) đi với is.
-A1|grammar|They ___ my friends.|are|is|be|am|A|Chủ ngữ they đi với are.
-A1|grammar|We ___ not at home.|do|is|are|am|C|Chủ ngữ we đi với are; phủ định là are not.
+A1|grammar|She ___ from Japan.|be|am|are|is|D|Chủ ngữ she (ngôi thứ ba số ít) đi với is.
+A1|grammar|They ___ my friends.|be|am|is|are|D|Chủ ngữ they đi với are.
+A1|grammar|We ___ not at home.|do|are|is|am|B|Chủ ngữ we đi với are; phủ định là are not.
 A1|grammar|___ you a teacher?|Do|Are|Is|Am|B|Câu hỏi với to be: Are + you.
-A1|grammar|He ___ a new car.|is having|has|haves|have|B|Ngôi thứ ba số ít dùng has, không phải have.
-A1|grammar|I ___ two brothers.|is|am|have|has|C|Chủ ngữ I đi với have.
-A1|grammar|My mother ___ breakfast every morning.|is cook|cooks|cooking|cook|B|Thói quen ở hiện tại đơn, ngôi thứ ba số ít thêm -s: cooks.
-A1|grammar|They ___ football on Sundays.|is play|plays|playing|play|D|Chủ ngữ they số nhiều nên dùng động từ nguyên mẫu play.
-A1|grammar|He doesn't ___ coffee.|like|likes|liking|to like|A|Sau doesn't dùng động từ nguyên mẫu không to: like.
-A1|grammar|___ she live in Hanoi?|Do|Is|Are|Does|D|Câu hỏi hiện tại đơn với she dùng Does + V nguyên mẫu.
-A1|grammar|Tom ___ TV now.|is watching|watches|watch|watching|A|Từ now cho thấy hành động đang diễn ra: is + V-ing.
-A1|grammar|The children ___ in the garden now.|is playing|play|are playing|plays|C|Children là số nhiều nên dùng are + V-ing.
-A1|grammar|I ___ at home yesterday.|were|be|am|was|D|Quá khứ của to be với I là was.
-A1|grammar|They ___ happy last week.|was|is|were|are|C|Last week là quá khứ; they đi với were.
-A1|grammar|She ___ a cake yesterday.|made|makes|make|making|A|Yesterday dùng quá khứ đơn; make thành made.
-A1|grammar|We ___ TV last night.|watching|watched|watch|watches|B|Last night là quá khứ đơn: watched.
-A1|grammar|I ___ not go to the party last Saturday.|does|was|do|did|D|Phủ định quá khứ đơn: did not + V nguyên mẫu.
-A1|grammar|Tomorrow I ___ visit my grandma.|will|was|did|have|A|Tomorrow chỉ tương lai: will + V nguyên mẫu.
-A1|grammar|It ___ rain tomorrow.|will|was|has|are|A|Dự đoán tương lai dùng will + V nguyên mẫu.
-A1|grammar|She is ___ engineer.|some|a|an|many|C|Engineer bắt đầu bằng âm nguyên âm nên dùng an.
-A1|grammar|I have ___ apple.|a|two|many|an|D|Apple bắt đầu bằng nguyên âm, danh từ số ít nên dùng an.
-A1|grammar|He is ___ honest man.|many|some|an|a|C|Honest có âm h câm, đọc như nguyên âm nên dùng an.
+A1|grammar|He ___ a new car.|has|is having|haves|have|A|Ngôi thứ ba số ít dùng has, không phải have.
+A1|grammar|I ___ two brothers.|has|am|have|is|C|Chủ ngữ I đi với have.
+A1|grammar|My mother ___ breakfast every morning.|cook|cooking|is cook|cooks|D|Thói quen ở hiện tại đơn, ngôi thứ ba số ít thêm -s: cooks.
+A1|grammar|They ___ football on Sundays.|play|plays|is play|playing|A|Chủ ngữ they số nhiều nên dùng động từ nguyên mẫu play.
+A1|grammar|He doesn't ___ coffee.|to like|likes|like|liking|C|Sau doesn't dùng động từ nguyên mẫu không to: like.
+A1|grammar|___ she live in Hanoi?|Is|Are|Do|Does|D|Câu hỏi hiện tại đơn với she dùng Does + V nguyên mẫu.
+A1|grammar|Tom ___ TV now.|watching|watches|watch|is watching|D|Từ now cho thấy hành động đang diễn ra: is + V-ing.
+A1|grammar|The children ___ in the garden now.|plays|play|are playing|is playing|C|Children là số nhiều nên dùng are + V-ing.
+A1|grammar|I ___ at home yesterday.|were|am|be|was|D|Quá khứ của to be với I là was.
+A1|grammar|They ___ happy last week.|were|is|was|are|A|Last week là quá khứ; they đi với were.
+A1|grammar|She ___ a cake yesterday.|makes|make|making|made|D|Yesterday dùng quá khứ đơn; make thành made.
+A1|grammar|We ___ TV last night.|watched|watch|watching|watches|A|Last night là quá khứ đơn: watched.
+A1|grammar|I ___ not go to the party last Saturday.|was|does|did|do|C|Phủ định quá khứ đơn: did not + V nguyên mẫu.
+A1|grammar|Tomorrow I ___ visit my grandma.|have|was|will|did|C|Tomorrow chỉ tương lai: will + V nguyên mẫu.
+A1|grammar|It ___ rain tomorrow.|has|will|was|are|B|Dự đoán tương lai dùng will + V nguyên mẫu.
+A1|grammar|She is ___ engineer.|an|a|some|many|A|Engineer bắt đầu bằng âm nguyên âm nên dùng an.
+A1|grammar|I have ___ apple.|many|two|a|an|D|Apple bắt đầu bằng nguyên âm, danh từ số ít nên dùng an.
+A1|grammar|He is ___ honest man.|an|some|a|many|A|Honest có âm h câm, đọc như nguyên âm nên dùng an.
 A1|grammar|Look at ___ moon. It is beautiful.|the|many|an|some|A|Vật duy nhất, ai cũng biết (the moon) dùng mạo từ the.
-A1|grammar|The book is ___ the table.|in|to|on|at|C|Vật nằm trên bề mặt dùng giới từ on.
-A1|grammar|She lives ___ Hanoi.|in|on|of|to|A|Dùng in trước tên thành phố.
-A1|grammar|The meeting is ___ Monday.|on|in|to|at|A|Dùng on với thứ trong tuần.
-A1|grammar|He goes to school ___ bus.|by|in|at|with|A|Phương tiện đi lại dùng by + phương tiện (không có mạo từ).
-A1|grammar|There is a cat ___ the chair.|from|under|to|of|B|Under nghĩa là bên dưới; các giới từ còn lại không hợp nghĩa.
-A1|grammar|She is ___ than her sister.|tallest|taller|more tall|tall|B|So sánh hơn của tính từ ngắn: taller than.
-A1|grammar|This film is ___ than that one.|interesting|most interesting|more interesting|interestinger|C|Tính từ dài so sánh hơn dùng more + adj.
-A1|grammar|Tom is my friend. ___ lives near my house.|She|He|It|They|B|Tom là nam nên thay bằng đại từ He.
-A1|grammar|This is my book. It is ___.|mine|my|me|I|A|Đại từ sở hữu mine đứng một mình, không có danh từ theo sau.
-A1|grammar|That is Lan. ___ bag is red.|She|Her|Hers|He|B|Tính từ sở hữu her đứng trước danh từ bag.
-A1|grammar|She has two ___.|babies|babys|baby|babyes|A|Danh từ tận cùng phụ âm + y đổi y thành ies: babies.
-A1|grammar|How ___ water do you drink every day?|much|many|few|a lot|A|Water là danh từ không đếm được nên dùng How much.
-A1|grammar|How ___ apples are there in the bag?|any|little|many|much|C|Apples là danh từ đếm được số nhiều nên dùng How many.
-A1|grammar|I need ___ sugar for the tea.|a|some|many|few|B|Sugar không đếm được; câu khẳng định dùng some.
-A1|grammar|He ___ swim very fast.|cans|can|is can|does can|B|Can không thêm -s và không đi với is/does.
-A1|grammar|You ___ be quiet in the library.|must|have|are|do|A|Must + V nguyên mẫu diễn tả điều bắt buộc.
-A1|grammar|___ I open the window?|Can|Am|Do|Are|A|Xin phép làm gì dùng Can I + V nguyên mẫu?
-A1|grammar|Where ___ you live?|do|does|are|is|A|Câu hỏi hiện tại đơn với you dùng do.
-A1|grammar|What ___ his name?|do|does|are|is|D|Name là số ít nên dùng is.
+A1|grammar|The book is ___ the table.|in|at|to|on|D|Vật nằm trên bề mặt dùng giới từ on.
+A1|grammar|She lives ___ Hanoi.|on|of|to|in|D|Dùng in trước tên thành phố.
+A1|grammar|The meeting is ___ Monday.|in|at|to|on|D|Dùng on với thứ trong tuần.
+A1|grammar|He goes to school ___ bus.|at|by|in|with|B|Phương tiện đi lại dùng by + phương tiện (không có mạo từ).
+A1|grammar|There is a cat ___ the chair.|from|under|of|to|B|Under nghĩa là bên dưới; các giới từ còn lại không hợp nghĩa.
+A1|grammar|She is ___ than her sister.|tall|more tall|taller|tallest|C|So sánh hơn của tính từ ngắn: taller than.
+A1|grammar|This film is ___ than that one.|most interesting|interesting|interestinger|more interesting|D|Tính từ dài so sánh hơn dùng more + adj.
+A1|grammar|Tom is my friend. ___ lives near my house.|She|It|They|He|D|Tom là nam nên thay bằng đại từ He.
+A1|grammar|This is my book. It is ___.|me|I|my|mine|D|Đại từ sở hữu mine đứng một mình, không có danh từ theo sau.
+A1|grammar|That is Lan. ___ bag is red.|He|Her|Hers|She|B|Tính từ sở hữu her đứng trước danh từ bag.
+A1|grammar|She has two ___.|babyes|babies|babys|baby|B|Danh từ tận cùng phụ âm + y đổi y thành ies: babies.
+A1|grammar|How ___ water do you drink every day?|much|few|many|a lot|A|Water là danh từ không đếm được nên dùng How much.
+A1|grammar|How ___ apples are there in the bag?|many|much|any|little|A|Apples là danh từ đếm được số nhiều nên dùng How many.
+A1|grammar|I need ___ sugar for the tea.|some|many|few|a|A|Sugar không đếm được; câu khẳng định dùng some.
+A1|grammar|He ___ swim very fast.|is can|does can|cans|can|D|Can không thêm -s và không đi với is/does.
+A1|grammar|You ___ be quiet in the library.|are|do|must|have|C|Must + V nguyên mẫu diễn tả điều bắt buộc.
+A1|grammar|___ I open the window?|Are|Am|Can|Do|C|Xin phép làm gì dùng Can I + V nguyên mẫu?
+A1|grammar|Where ___ you live?|is|do|are|does|B|Câu hỏi hiện tại đơn với you dùng do.
+A1|grammar|What ___ his name?|are|is|do|does|B|Name là số ít nên dùng is.
 A1|grammar|___ do you get up? At six.|Where|Who|What|What time|D|Hỏi giờ dùng What time.
-A1|grammar|___ is that man? He is my uncle.|What|When|Who|Where|C|Hỏi về người dùng Who.
-A1|grammar|Let's ___ to the park.|go|going|goes|to go|A|Sau Let's dùng động từ nguyên mẫu không to.
-A1|grammar|___ are my keys. They are on the desk.|That|It|This|These|D|Số nhiều ở gần dùng these.
-A1|grammar|My father ___ to work by car every day.|goes|go|going|is go|A|Thói quen hằng ngày, chủ ngữ ngôi thứ ba số ít: goes.
+A1|grammar|___ is that man? He is my uncle.|When|What|Where|Who|D|Hỏi về người dùng Who.
+A1|grammar|Let's ___ to the park.|going|go|to go|goes|B|Sau Let's dùng động từ nguyên mẫu không to.
+A1|grammar|___ are my keys. They are on the desk.|It|That|These|This|C|Số nhiều ở gần dùng these.
+A1|grammar|My father ___ to work by car every day.|going|go|is go|goes|D|Thói quen hằng ngày, chủ ngữ ngôi thứ ba số ít: goes.
 A1|reading|My name is Anna. I am ten years old. I live in London with my mother and father.¶Q: How old is Anna?|Nine|Twelve|Ten|Eleven|C|Đoạn văn nói Anna ten years old.
 A1|reading|Tom has a dog. The dog is black and white. Its name is Max.¶Q: What colour is Max?|All black|Yellow|Black and white|All brown|C|Con chó Max có màu đen và trắng.
-A1|reading|I get up at 7. I have breakfast at 7:30. I go to school at 8.¶Q: When does the writer have breakfast?|At 7:30|At 7:00|At 8:30|At 8:00|A|Bữa sáng lúc 7:30.
-A1|reading|Lan likes fruit. She eats an apple and a banana every day. She does not like oranges.¶Q: What does Lan not like?|Oranges|Apples|Bananas|All fruit|A|Cô ấy không thích oranges.
-A1|reading|This is my room. There is a bed, a desk and a chair. The desk is near the window.¶Q: Where is the desk?|On the chair|Near the window|Behind the door|Under the bed|B|Bàn học ở gần cửa sổ.
-A1|reading|Sam works in a hospital. He is a doctor. He works from Monday to Friday.¶Q: Where does Sam work?|In a hospital|In a school|In a shop|In a bank|A|Sam làm việc ở bệnh viện.
-A1|reading|It is Saturday. Mia and her friends are at the park. They are playing football.¶Q: What are they doing?|Doing homework|Playing football|Watching TV|Eating lunch|B|Họ đang chơi bóng đá.
-A1|reading|My family is small. I have a mother, a father and a sister. We live in a flat in the city.¶Q: How many people are in the family?|Five|Three|Six|Four|D|Gồm người viết, mẹ, bố và chị/em gái: 4 người.
-A1|reading|The shop opens at nine and closes at six. It is closed on Sunday.¶Q: Which day is the shop closed?|Saturday|Sunday|Monday|Friday|B|Cửa hàng đóng cửa vào Chủ nhật.
-A1|reading|Ben goes to school by bike. His sister goes by bus. His father goes to work by car.¶Q: How does Ben go to school?|By car|By bus|On foot|By bike|D|Ben đi học bằng xe đạp.
-A1|reading|Today is cold and rainy. Linh wears a coat and takes an umbrella.¶Q: What is the weather like?|Cold and rainy|Warm and windy|Hot and sunny|Cold and snowy|A|Trời lạnh và mưa.
-A1|reading|I have a pet cat. She sleeps all day and plays at night. She likes fish.¶Q: What does the cat like to eat?|Fish|Rice|Bread|Chicken|A|Con mèo thích cá.
-A1|reading|Jack is 25. He is a waiter. He works in a small restaurant near the station.¶Q: What is Jack's job?|A waiter|A teacher|A cook|A driver|A|Jack là bồi bàn.
-A1|reading|Hi! I am Nam. I am from Vietnam. I speak Vietnamese and a little English.¶Q: Which language does Nam speak a little?|English|French|Chinese|Vietnamese|A|Nam nói a little English.
-A1|reading|We have English class on Monday and Wednesday. The class starts at 6 p.m. and finishes at 8 p.m.¶Q: How long is the class?|Six hours|One hour|Three hours|Two hours|D|Từ 6 giờ đến 8 giờ là hai tiếng.
-A1|reading|Lisa is at the supermarket. She buys milk, eggs and bread. She pays five dollars.¶Q: What does Lisa NOT buy?|Rice|Milk|Eggs|Bread|A|Lisa không mua rice.
-A1|reading|My grandfather is 70. He lives in the countryside. He has a small garden and grows vegetables.¶Q: What does he grow?|Flowers|Vegetables|Trees|Rice|B|Ông trồng rau.
-A1|reading|Anna's birthday is on 5 June. She wants a party with her friends.¶Q: When is Anna's birthday?|On 5 June|In winter|On 6 May|On 5 July|A|Sinh nhật là ngày 5 tháng 6.
-A1|reading|There are two bedrooms and one bathroom in our house. The kitchen is big.¶Q: How many bedrooms are there?|Two|Four|Three|One|A|Có hai phòng ngủ.
-A1|reading|Tuan is hungry. He wants a sandwich and a glass of water. He goes to the kitchen.¶Q: Where does Tuan go?|To the park|To school|To bed|To the kitchen|D|Tuan đi vào bếp.
-A1|reading|Emma plays tennis on Tuesday. She swims on Thursday. On Sunday she rests.¶Q: When does Emma swim?|On Tuesday|On Thursday|On Sunday|On Monday|B|Emma bơi vào thứ Năm.
-A1|reading|I like summer. It is hot and I can go to the beach. I do not like winter because it is cold.¶Q: Why doesn't the writer like winter?|It is cold|It is long|It is hot|It is rainy|A|Vì mùa đông lạnh.
-A1|reading|Mr Brown is a teacher. He has twenty students. They are all very good.¶Q: How many students does he have?|Twelve|Twenty|Two|Thirty|B|Ông có 20 học sinh.
-A1|reading|The bank is next to the post office. The school is opposite the bank.¶Q: Where is the bank?|Next to the post office|Opposite the post office|Next to the school|Behind the school|A|Ngân hàng ở cạnh bưu điện.
-A1|reading|Hoa has a new phone. It is red. She uses it to talk to her friends and take photos.¶Q: What colour is Hoa's phone?|White|Black|Red|Blue|C|Điện thoại màu đỏ.
-A1|reading|Peter wakes up late today. He misses the bus and walks to school.¶Q: How does Peter go to school today?|He walks|By bus|By car|By bike|A|Anh ấy lỡ xe buýt và đi bộ.
-A1|reading|We eat dinner at 7. My mother cooks rice and fish. After dinner I wash the dishes.¶Q: What does the writer do after dinner?|Cooks rice|Washes the dishes|Watches TV|Goes to school|B|Sau bữa tối người viết rửa bát.
+A1|reading|I get up at 7. I have breakfast at 7:30. I go to school at 8.¶Q: When does the writer have breakfast?|At 8:00|At 7:00|At 7:30|At 8:30|C|Bữa sáng lúc 7:30.
+A1|reading|Lan likes fruit. She eats an apple and a banana every day. She does not like oranges.¶Q: What does Lan not like?|Oranges|Apples|All fruit|Bananas|A|Cô ấy không thích oranges.
+A1|reading|This is my room. There is a bed, a desk and a chair. The desk is near the window.¶Q: Where is the desk?|Near the window|On the chair|Under the bed|Behind the door|A|Bàn học ở gần cửa sổ.
+A1|reading|Sam works in a hospital. He is a doctor. He works from Monday to Friday.¶Q: Where does Sam work?|In a bank|In a shop|In a school|In a hospital|D|Sam làm việc ở bệnh viện.
+A1|reading|It is Saturday. Mia and her friends are at the park. They are playing football.¶Q: What are they doing?|Watching TV|Doing homework|Playing football|Eating lunch|C|Họ đang chơi bóng đá.
+A1|reading|My family is small. I have a mother, a father and a sister. We live in a flat in the city.¶Q: How many people are in the family?|Four|Six|Five|Three|A|Gồm người viết, mẹ, bố và chị/em gái: 4 người.
+A1|reading|The shop opens at nine and closes at six. It is closed on Sunday.¶Q: Which day is the shop closed?|Saturday|Monday|Friday|Sunday|D|Cửa hàng đóng cửa vào Chủ nhật.
+A1|reading|Ben goes to school by bike. His sister goes by bus. His father goes to work by car.¶Q: How does Ben go to school?|By bus|On foot|By car|By bike|D|Ben đi học bằng xe đạp.
+A1|reading|Today is cold and rainy. Linh wears a coat and takes an umbrella.¶Q: What is the weather like?|Hot and sunny|Cold and snowy|Warm and windy|Cold and rainy|D|Trời lạnh và mưa.
+A1|reading|I have a pet cat. She sleeps all day and plays at night. She likes fish.¶Q: What does the cat like to eat?|Rice|Bread|Fish|Chicken|C|Con mèo thích cá.
+A1|reading|Jack is 25. He is a waiter. He works in a small restaurant near the station.¶Q: What is Jack's job?|A waiter|A teacher|A driver|A cook|A|Jack là bồi bàn.
+A1|reading|Hi! I am Nam. I am from Vietnam. I speak Vietnamese and a little English.¶Q: Which language does Nam speak a little?|French|Chinese|Vietnamese|English|D|Nam nói a little English.
+A1|reading|We have English class on Monday and Wednesday. The class starts at 6 p.m. and finishes at 8 p.m.¶Q: How long is the class?|Six hours|One hour|Two hours|Three hours|C|Từ 6 giờ đến 8 giờ là hai tiếng.
+A1|reading|Lisa is at the supermarket. She buys milk, eggs and bread. She pays five dollars.¶Q: What does Lisa NOT buy?|Milk|Rice|Bread|Eggs|B|Lisa không mua rice.
+A1|reading|My grandfather is 70. He lives in the countryside. He has a small garden and grows vegetables.¶Q: What does he grow?|Flowers|Trees|Vegetables|Rice|C|Ông trồng rau.
+A1|reading|Anna's birthday is on 5 June. She wants a party with her friends.¶Q: When is Anna's birthday?|In winter|On 5 July|On 5 June|On 6 May|C|Sinh nhật là ngày 5 tháng 6.
+A1|reading|There are two bedrooms and one bathroom in our house. The kitchen is big.¶Q: How many bedrooms are there?|Two|Three|One|Four|A|Có hai phòng ngủ.
+A1|reading|Tuan is hungry. He wants a sandwich and a glass of water. He goes to the kitchen.¶Q: Where does Tuan go?|To the kitchen|To the park|To bed|To school|A|Tuan đi vào bếp.
+A1|reading|Emma plays tennis on Tuesday. She swims on Thursday. On Sunday she rests.¶Q: When does Emma swim?|On Thursday|On Sunday|On Tuesday|On Monday|A|Emma bơi vào thứ Năm.
+A1|reading|I like summer. It is hot and I can go to the beach. I do not like winter because it is cold.¶Q: Why doesn't the writer like winter?|It is cold|It is rainy|It is hot|It is long|A|Vì mùa đông lạnh.
+A1|reading|Mr Brown is a teacher. He has twenty students. They are all very good.¶Q: How many students does he have?|Twelve|Thirty|Twenty|Two|C|Ông có 20 học sinh.
+A1|reading|The bank is next to the post office. The school is opposite the bank.¶Q: Where is the bank?|Next to the school|Next to the post office|Behind the school|Opposite the post office|B|Ngân hàng ở cạnh bưu điện.
+A1|reading|Hoa has a new phone. It is red. She uses it to talk to her friends and take photos.¶Q: What colour is Hoa's phone?|Black|Blue|White|Red|D|Điện thoại màu đỏ.
+A1|reading|Peter wakes up late today. He misses the bus and walks to school.¶Q: How does Peter go to school today?|By car|By bus|He walks|By bike|C|Anh ấy lỡ xe buýt và đi bộ.
+A1|reading|We eat dinner at 7. My mother cooks rice and fish. After dinner I wash the dishes.¶Q: What does the writer do after dinner?|Washes the dishes|Goes to school|Cooks rice|Watches TV|A|Sau bữa tối người viết rửa bát.
 A1|reading|Look at this photo. This is my best friend, Kate. She has long black hair and brown eyes.¶Q: What does Kate look like?|She has long black hair|She has short black hair|She has long blonde hair|She has short brown hair|A|Kate có mái tóc dài màu đen.
-A1|reading|The train to Hue leaves at 9:15. It arrives at 3:15 p.m.¶Q: When does the train leave?|At 9:30|At 3:15|At 9:15|At 3:00|C|Tàu rời đi lúc 9:15.
-A1|reading|Mai has a brother. His name is Duc. He is a student. He is 16 years old.¶Q: Who is Duc?|Mai's teacher|Mai's friend|Mai's father|Mai's brother|D|Duc là anh/em trai của Mai.
-A1|reading|Dear Lan, I am in Da Nang. The weather is nice and the food is great. I swim every morning. Love, Hoa¶Q: What does Hoa do every morning?|She cooks|She swims|She reads|She sleeps|B|Hoa bơi mỗi buổi sáng.
-A1|reading|Sign: No smoking. No eating.¶Q: What can't you do here?|Eat|Read|Sit|Talk|A|Biển báo cấm ăn (No eating).
-A1|reading|There are four seasons in my country: spring, summer, autumn and winter. I like autumn best.¶Q: Which season does the writer like best?|Spring|Autumn|Summer|Winter|B|Người viết thích mùa thu nhất.
-A1|reading|Bob is a farmer. He has ten cows and five horses. He gets up at 5 every day.¶Q: How many horses does Bob have?|Fifteen|Four|Five|Ten|C|Bob có 5 con ngựa.
-A1|reading|Last night I was tired. I went to bed at nine and slept well.¶Q: Was the writer tired last night?|He was hungry|He was ill|Yes|No|C|Người viết nói I was tired.
-A1|listen|A: What's your name?¶B: My name is Linh.¶A: How do you spell it?¶B: L-I-N-H.¶Q: What is her name?|Linh|Lily|Nina|Lan|A|B nói tên mình là Linh.
-A1|listen|A: What time is it?¶B: It's half past three.¶Q: What time is it?|3:15|3:30|2:30|4:30|B|Half past three là 3 giờ 30.
-A1|listen|A: How much is this shirt?¶B: It is twelve dollars.¶Q: How much is the shirt?|12 dollars|2 dollars|20 dollars|50 dollars|A|Twelve là 12.
-A1|listen|A: Where is my phone?¶B: It's on the table.¶Q: Where is the phone?|On the table|On the sofa|Under the bed|In the bag|A|Điện thoại ở trên bàn.
-A1|listen|A: Do you like pizza?¶B: Yes, I love it. But I don't like fish.¶Q: What does B not like?|Fish|Pizza|Rice|Milk|A|B không thích cá.
-A1|listen|A: Is this your bag?¶B: No, it isn't. It's Tom's.¶Q: Whose bag is it?|B's|A's|Anna's|Tom's|D|B nói chiếc túi là của Tom.
-A1|listen|A: What do you do on Sundays?¶B: I visit my grandparents.¶Q: B làm gì vào Chủ nhật?|Thăm ông bà|Đi học|Đi làm|Xem phim|A|B nói I visit my grandparents.
-A1|listen|A: How's the weather today?¶B: It's hot and sunny.¶Q: Hôm nay thời tiết thế nào?|Lạnh và mưa|Nóng và có nắng|Có gió to|Có tuyết|B|Hot and sunny là nóng và nắng.
-A1|listen|A: Where are you from?¶B: I'm from Canada.¶Q: Where is B from?|China|Canada|Australia|India|B|B đến từ Canada.
-A1|listen|A: How many sisters do you have?¶B: I have two sisters and one brother.¶Q: How many sisters does B have?|One|Two|Three|Four|B|B có hai chị/em gái.
-A1|listen|A: Can you swim?¶B: No, I can't. But I can run fast.¶Q: What can B do?|Fly|Run fast|Swim|Dance|B|B không biết bơi nhưng chạy nhanh.
-A1|listen|A: What would you like to drink?¶B: A cup of tea, please.¶Q: What does B want to drink?|Coffee|Tea|Water|Juice|B|B muốn một tách trà.
-A1|listen|A: When is your birthday?¶B: It's on the tenth of March.¶Q: When is B's birthday?|13 March|10 March|3 October|10 May|B|The tenth of March là 10 tháng 3.
-A1|listen|A: Excuse me, where is the bank?¶B: Go straight and turn left. It's next to the market.¶Q: Where is the bank?|Next to the school|Next to the market|Opposite the park|Behind the station|B|Ngân hàng cạnh chợ.
-A1|listen|A: What's your favourite colour?¶B: Blue. I have a blue bag, a blue hat and blue shoes.¶Q: What is B's favourite colour?|Blue|Red|Green|Black|A|B thích màu xanh dương.
-A1|listen|A: How do you go to work?¶B: I go by bus. It takes twenty minutes.¶Q: How long does it take?|20 minutes|2 hours|30 minutes|12 minutes|A|Twenty minutes là 20 phút.
-A1|listen|A: Is Anna at home?¶B: No, she is at school. She comes home at four.¶Q: Where is Anna now?|At school|At home|At work|At the park|A|Anna đang ở trường.
-A1|listen|A: What does your father do?¶B: He is a driver. He drives a taxi.¶Q: Bố của B làm nghề gì?|Bác sĩ|Tài xế|Giáo viên|Đầu bếp|B|Bố B là tài xế taxi.
-A1|listen|A: I'm hungry. Let's have lunch.¶B: OK. Let's eat noodles.¶Q: What will they eat?|Rice|Bread|Noodles|Soup|C|Họ sẽ ăn mì.
-A1|listen|A: Do you have a pen?¶B: Yes, here you are.¶A: Thank you.¶Q: What does A want?|A ruler|A phone|A pen|A book|C|A hỏi mượn bút.
-A1|listen|A: Hello, Mr Lee. This is my friend, Sara.¶B: Nice to meet you, Sara.¶Q: Who is Sara?|A's friend|Mr Lee's wife|B's sister|A teacher|A|A giới thiệu Sara là bạn của mình.
-A1|listen|A: What are you doing?¶B: I'm cooking dinner. Do you want to help?¶Q: What is B doing?|Watching TV|Cooking dinner|Reading|Sleeping|B|B đang nấu bữa tối.
-A1|listen|A: Is there a bank near here?¶B: Yes, there is. It's in Park Street.¶Q: Where is the bank?|At the station|In Main Street|In the school|In Park Street|D|Ngân hàng ở phố Park.
-A1|listen|A: What did you do yesterday?¶B: I played football with my friends.¶Q: What did B do yesterday?|Went shopping|Stayed at home|Played football|Played tennis|C|B chơi bóng đá với bạn.
-A1|listen|A: Are you busy this evening?¶B: Yes. I have English class at seven.¶Q: What does B have at seven?|English class|A party|Dinner|A film|A|B có lớp tiếng Anh lúc 7 giờ.
-A1|listen|A: Is your room big?¶B: No, it's small, but it's very clean.¶Q: Phòng của B thế nào?|Lớn nhưng bẩn|Nhỏ và bẩn|Nhỏ nhưng sạch|Lớn và sạch|C|B nói small but very clean.
-A1|listen|A: How old is your brother?¶B: He's nine.¶Q: How old is B's brother?|9|19|90|5|A|Nine là 9 tuổi.
-A1|listen|A: Let's go to the cinema on Friday.¶B: Sorry, I can't. I work on Friday.¶Q: Why can't B go on Friday?|B is ill|B works|B is at school|B is tired|B|B phải đi làm vào thứ Sáu.
-A1|listen|A: What's in your bag?¶B: A book, a bottle of water and an umbrella.¶Q: Which thing is NOT in the bag?|A phone|A book|Water|An umbrella|A|Trong túi không có điện thoại.
-A1|listen|A: Where does your mother work?¶B: She works in a bank in the city centre.¶Q: Where does B's mother work?|In a school|In a shop|In a bank|In a hospital|C|Mẹ B làm ở ngân hàng.
-A1|listen|A: Do you have any brothers or sisters?¶B: No, I'm an only child.¶Q: B có anh chị em không?|Có một em gái|Có hai chị gái|Có một anh trai|Không, là con một|D|Only child nghĩa là con một.
-A1|listen|A: Can I have the bill, please?¶B: Sure. That's eight dollars.¶Q: Where are they probably?|In a bank|In a restaurant|At a bus stop|In a school|B|Xin tính tiền (the bill) thường ở nhà hàng.
-A1|listen|A: Which bus goes to the station?¶B: Number twenty-five.¶Q: Which bus goes to the station?|Number 52|Number 35|Number 25|Number 15|C|Twenty-five là 25.
-A1|listen|A: It's seven o'clock. Time to get up!¶B: Oh no! I'm so sleepy.¶Q: How does B feel?|Hungry|Sleepy|Angry|Happy|B|B nói I'm so sleepy.
-A1|listen|A: Do you want some more rice?¶B: No, thanks. I'm full.¶Q: Why does B say no?|B is full|B is hungry|B doesn't like rice|B is sick|A|I'm full nghĩa là đã no.
-A1|listen|A: Look at that girl. She's tall and has long hair.¶B: Oh, that's my sister, Hana.¶Q: Who is the girl?|A's sister|B's sister|B's mother|A's friend|B|B nói đó là chị/em gái của mình.
-A1|listen|A: Is the museum open on Monday?¶B: No. It's open from Tuesday to Sunday.¶Q: When is the museum closed?|On Tuesday|On Monday|On Sunday|On Saturday|B|Bảo tàng mở thứ Ba đến Chủ nhật nên đóng cửa thứ Hai.
-A1|listen|A: I have a headache.¶B: You should go home and rest.¶Q: What does B say?|Take a bus|Go home and rest|Go to school|Eat more|B|B khuyên về nhà nghỉ ngơi.
-A1|listen|A: Where's the toilet, please?¶B: It's on the second floor.¶Q: Where is the toilet?|On the third floor|Next to the door|On the second floor|On the first floor|C|Nhà vệ sinh ở tầng hai.
-A1|listen|A: What's the date today?¶B: It's the fifth of July.¶Q: What is the date?|5 July|7 May|5 June|15 July|A|The fifth of July là ngày 5 tháng 7.
+A1|reading|The train to Hue leaves at 9:15. It arrives at 3:15 p.m.¶Q: When does the train leave?|At 3:00|At 3:15|At 9:30|At 9:15|D|Tàu rời đi lúc 9:15.
+A1|reading|Mai has a brother. His name is Duc. He is a student. He is 16 years old.¶Q: Who is Duc?|Mai's father|Mai's teacher|Mai's friend|Mai's brother|D|Duc là anh/em trai của Mai.
+A1|reading|Dear Lan, I am in Da Nang. The weather is nice and the food is great. I swim every morning. Love, Hoa¶Q: What does Hoa do every morning?|She swims|She reads|She sleeps|She cooks|A|Hoa bơi mỗi buổi sáng.
+A1|reading|Sign: No smoking. No eating.¶Q: What can't you do here?|Eat|Talk|Sit|Read|A|Biển báo cấm ăn (No eating).
+A1|reading|There are four seasons in my country: spring, summer, autumn and winter. I like autumn best.¶Q: Which season does the writer like best?|Spring|Summer|Winter|Autumn|D|Người viết thích mùa thu nhất.
+A1|reading|Bob is a farmer. He has ten cows and five horses. He gets up at 5 every day.¶Q: How many horses does Bob have?|Fifteen|Ten|Five|Four|C|Bob có 5 con ngựa.
+A1|reading|Last night I was tired. I went to bed at nine and slept well.¶Q: Was the writer tired last night?|No|Yes|He was hungry|He was ill|B|Người viết nói I was tired.
+A1|listen|A: What's your name?¶B: My name is Linh.¶A: How do you spell it?¶B: L-I-N-H.¶Q: What is her name?|Lily|Nina|Lan|Linh|D|B nói tên mình là Linh.
+A1|listen|A: What time is it?¶B: It's half past three.¶Q: What time is it?|3:15|3:30|4:30|2:30|B|Half past three là 3 giờ 30.
+A1|listen|A: How much is this shirt?¶B: It is twelve dollars.¶Q: How much is the shirt?|2 dollars|12 dollars|50 dollars|20 dollars|B|Twelve là 12.
+A1|listen|A: Where is my phone?¶B: It's on the table.¶Q: Where is the phone?|On the table|On the sofa|In the bag|Under the bed|A|Điện thoại ở trên bàn.
+A1|listen|A: Do you like pizza?¶B: Yes, I love it. But I don't like fish.¶Q: What does B not like?|Pizza|Rice|Milk|Fish|D|B không thích cá.
+A1|listen|A: Is this your bag?¶B: No, it isn't. It's Tom's.¶Q: Whose bag is it?|Anna's|Tom's|B's|A's|B|B nói chiếc túi là của Tom.
+A1|listen|A: What do you do on Sundays?¶B: I visit my grandparents.¶Q: B làm gì vào Chủ nhật?|Đi làm|Đi học|Thăm ông bà|Xem phim|C|B nói I visit my grandparents.
+A1|listen|A: How's the weather today?¶B: It's hot and sunny.¶Q: Hôm nay thời tiết thế nào?|Có gió to|Có tuyết|Lạnh và mưa|Nóng và có nắng|D|Hot and sunny là nóng và nắng.
+A1|listen|A: Where are you from?¶B: I'm from Canada.¶Q: Where is B from?|China|India|Australia|Canada|D|B đến từ Canada.
+A1|listen|A: How many sisters do you have?¶B: I have two sisters and one brother.¶Q: How many sisters does B have?|Four|Two|Three|One|B|B có hai chị/em gái.
+A1|listen|A: Can you swim?¶B: No, I can't. But I can run fast.¶Q: What can B do?|Swim|Fly|Run fast|Dance|C|B không biết bơi nhưng chạy nhanh.
+A1|listen|A: What would you like to drink?¶B: A cup of tea, please.¶Q: What does B want to drink?|Juice|Coffee|Water|Tea|D|B muốn một tách trà.
+A1|listen|A: When is your birthday?¶B: It's on the tenth of March.¶Q: When is B's birthday?|10 March|3 October|10 May|13 March|A|The tenth of March là 10 tháng 3.
+A1|listen|A: Excuse me, where is the bank?¶B: Go straight and turn left. It's next to the market.¶Q: Where is the bank?|Behind the station|Next to the school|Next to the market|Opposite the park|C|Ngân hàng cạnh chợ.
+A1|listen|A: What's your favourite colour?¶B: Blue. I have a blue bag, a blue hat and blue shoes.¶Q: What is B's favourite colour?|Green|Red|Blue|Black|C|B thích màu xanh dương.
+A1|listen|A: How do you go to work?¶B: I go by bus. It takes twenty minutes.¶Q: How long does it take?|12 minutes|20 minutes|30 minutes|2 hours|B|Twenty minutes là 20 phút.
+A1|listen|A: Is Anna at home?¶B: No, she is at school. She comes home at four.¶Q: Where is Anna now?|At school|At work|At the park|At home|A|Anna đang ở trường.
+A1|listen|A: What does your father do?¶B: He is a driver. He drives a taxi.¶Q: Bố của B làm nghề gì?|Bác sĩ|Giáo viên|Tài xế|Đầu bếp|C|Bố B là tài xế taxi.
+A1|listen|A: I'm hungry. Let's have lunch.¶B: OK. Let's eat noodles.¶Q: What will they eat?|Soup|Noodles|Rice|Bread|B|Họ sẽ ăn mì.
+A1|listen|A: Do you have a pen?¶B: Yes, here you are.¶A: Thank you.¶Q: What does A want?|A pen|A ruler|A phone|A book|A|A hỏi mượn bút.
+A1|listen|A: Hello, Mr Lee. This is my friend, Sara.¶B: Nice to meet you, Sara.¶Q: Who is Sara?|B's sister|Mr Lee's wife|A's friend|A teacher|C|A giới thiệu Sara là bạn của mình.
+A1|listen|A: What are you doing?¶B: I'm cooking dinner. Do you want to help?¶Q: What is B doing?|Cooking dinner|Reading|Sleeping|Watching TV|A|B đang nấu bữa tối.
+A1|listen|A: Is there a bank near here?¶B: Yes, there is. It's in Park Street.¶Q: Where is the bank?|In Main Street|In Park Street|At the station|In the school|B|Ngân hàng ở phố Park.
+A1|listen|A: What did you do yesterday?¶B: I played football with my friends.¶Q: What did B do yesterday?|Played tennis|Played football|Stayed at home|Went shopping|B|B chơi bóng đá với bạn.
+A1|listen|A: Are you busy this evening?¶B: Yes. I have English class at seven.¶Q: What does B have at seven?|English class|A film|Dinner|A party|A|B có lớp tiếng Anh lúc 7 giờ.
+A1|listen|A: Is your room big?¶B: No, it's small, but it's very clean.¶Q: Phòng của B thế nào?|Nhỏ nhưng sạch|Nhỏ và bẩn|Lớn và sạch|Lớn nhưng bẩn|A|B nói small but very clean.
+A1|listen|A: How old is your brother?¶B: He's nine.¶Q: How old is B's brother?|5|90|9|19|C|Nine là 9 tuổi.
+A1|listen|A: Let's go to the cinema on Friday.¶B: Sorry, I can't. I work on Friday.¶Q: Why can't B go on Friday?|B is ill|B is tired|B is at school|B works|D|B phải đi làm vào thứ Sáu.
+A1|listen|A: What's in your bag?¶B: A book, a bottle of water and an umbrella.¶Q: Which thing is NOT in the bag?|Water|A phone|A book|An umbrella|B|Trong túi không có điện thoại.
+A1|listen|A: Where does your mother work?¶B: She works in a bank in the city centre.¶Q: Where does B's mother work?|In a hospital|In a school|In a shop|In a bank|D|Mẹ B làm ở ngân hàng.
+A1|listen|A: Do you have any brothers or sisters?¶B: No, I'm an only child.¶Q: B có anh chị em không?|Có một anh trai|Có một em gái|Có hai chị gái|Không, là con một|D|Only child nghĩa là con một.
+A1|listen|A: Can I have the bill, please?¶B: Sure. That's eight dollars.¶Q: Where are they probably?|At a bus stop|In a restaurant|In a bank|In a school|B|Xin tính tiền (the bill) thường ở nhà hàng.
+A1|listen|A: Which bus goes to the station?¶B: Number twenty-five.¶Q: Which bus goes to the station?|Number 35|Number 15|Number 25|Number 52|C|Twenty-five là 25.
+A1|listen|A: It's seven o'clock. Time to get up!¶B: Oh no! I'm so sleepy.¶Q: How does B feel?|Angry|Sleepy|Happy|Hungry|B|B nói I'm so sleepy.
+A1|listen|A: Do you want some more rice?¶B: No, thanks. I'm full.¶Q: Why does B say no?|B is hungry|B is sick|B is full|B doesn't like rice|C|I'm full nghĩa là đã no.
+A1|listen|A: Look at that girl. She's tall and has long hair.¶B: Oh, that's my sister, Hana.¶Q: Who is the girl?|B's sister|B's mother|A's sister|A's friend|A|B nói đó là chị/em gái của mình.
+A1|listen|A: Is the museum open on Monday?¶B: No. It's open from Tuesday to Sunday.¶Q: When is the museum closed?|On Monday|On Saturday|On Tuesday|On Sunday|A|Bảo tàng mở thứ Ba đến Chủ nhật nên đóng cửa thứ Hai.
+A1|listen|A: I have a headache.¶B: You should go home and rest.¶Q: What does B say?|Go to school|Go home and rest|Eat more|Take a bus|B|B khuyên về nhà nghỉ ngơi.
+A1|listen|A: Where's the toilet, please?¶B: It's on the second floor.¶Q: Where is the toilet?|On the third floor|Next to the door|On the first floor|On the second floor|D|Nhà vệ sinh ở tầng hai.
+A1|listen|A: What's the date today?¶B: It's the fifth of July.¶Q: What is the date?|7 May|15 July|5 July|5 June|C|The fifth of July là ngày 5 tháng 7.

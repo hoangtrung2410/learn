@@ -1,150 +1,150 @@
 2|grammar|弟弟___我高，他已经一米八了。|被|比|和|离|B|比 dùng để so sánh: A + 比 + B + tính từ. Các từ còn lại không tạo được câu so sánh.
-2|grammar|我昨天在商店买___一件衣服。|着|了|呢|吗|B|了 đặt sau động từ để biểu thị hành động đã hoàn thành.
+2|grammar|我昨天在商店买___一件衣服。|呢|吗|了|着|C|了 đặt sau động từ để biểu thị hành động đã hoàn thành.
 2|grammar|我去___北京，那里的东西很好吃。|呢|着|吧|过|D|动词+过 diễn tả đã từng có trải nghiệm: 去过北京.
-2|grammar|门开___，里面没有人。|着|过|得|的|A|动词+着 diễn tả trạng thái kéo dài: 门开着 là cửa đang mở.
-2|grammar|你别打电话，他___睡觉呢。|刚才|已经|常常|正在|D|正在…呢 diễn tả hành động đang diễn ra.
-2|grammar|你想喝茶___喝咖啡？|还是|或者|和|也|A|还是 dùng trong câu hỏi lựa chọn: 喝茶还是喝咖啡.
-2|grammar|周末我常常看电影___听音乐。|或者|还是|吗|呢|A|或者 dùng trong câu trần thuật để liệt kê lựa chọn; 还是 dùng trong câu hỏi.
-2|grammar|___今天下雨，___我们不去公园了。|如果 / 但是|不但 / 因为|因为 / 所以|虽然 / 所以|C|因为…所以… biểu thị nguyên nhân và kết quả.
-2|grammar|___他很忙，___他还是来参加了我的生日会。|虽然 / 但是|因为 / 所以|如果 / 就|一边 / 一边|A|虽然…但是… diễn tả ý nhượng bộ rồi chuyển ngoặt.
+2|grammar|门开___，里面没有人。|过|着|得|的|B|动词+着 diễn tả trạng thái kéo dài: 门开着 là cửa đang mở.
+2|grammar|你别打电话，他___睡觉呢。|常常|刚才|已经|正在|D|正在…呢 diễn tả hành động đang diễn ra.
+2|grammar|你想喝茶___喝咖啡？|和|或者|也|还是|D|还是 dùng trong câu hỏi lựa chọn: 喝茶还是喝咖啡.
+2|grammar|周末我常常看电影___听音乐。|还是|吗|呢|或者|D|或者 dùng trong câu trần thuật để liệt kê lựa chọn; 还是 dùng trong câu hỏi.
+2|grammar|___今天下雨，___我们不去公园了。|不但 / 因为|如果 / 但是|虽然 / 所以|因为 / 所以|D|因为…所以… biểu thị nguyên nhân và kết quả.
+2|grammar|___他很忙，___他还是来参加了我的生日会。|因为 / 所以|如果 / 就|虽然 / 但是|一边 / 一边|C|虽然…但是… diễn tả ý nhượng bộ rồi chuyển ngoặt.
 2|grammar|他喜欢一边吃饭，___看电视。|一下|一起|一点|一边|D|一边…一边… diễn tả hai hành động diễn ra cùng lúc.
-2|grammar|我家___学校很近，走路十分钟就到。|从|对|往|离|D|A + 离 + B + 远/近 biểu thị khoảng cách giữa hai nơi.
-2|grammar|___我家到公司要坐四十分钟的车。|在|离|对|从|D|从…到… biểu thị điểm bắt đầu và điểm kết thúc: từ nhà đến công ty.
-2|grammar|小明___我说：“明天见！”|比|对|被|离|B|对 + người + 说 nghĩa là nói với ai.
-2|grammar|请你___这本书给王老师。|被|比|把|离|C|把 + tân ngữ + động từ + ...: 把这本书给王老师.
-2|grammar|一直___前走，就能看到银行。|从|往|给|离|B|往 + phương hướng chỉ hướng đi: 往前走 là đi về phía trước.
-2|grammar|周末我想___朋友一起去爬山。|跟|离|被|比|A|跟…一起 nghĩa là cùng với…
-2|grammar|到了学校，你___我打个电话。|给|对|比|被|A|给 + người + 打电话 nghĩa là gọi điện cho ai.
-2|grammar|你快一点儿，火车___要开了。|就|才|又|再|A|就要…了 diễn tả sự việc sắp xảy ra.
+2|grammar|我家___学校很近，走路十分钟就到。|离|对|从|往|A|A + 离 + B + 远/近 biểu thị khoảng cách giữa hai nơi.
+2|grammar|___我家到公司要坐四十分钟的车。|从|离|在|对|A|从…到… biểu thị điểm bắt đầu và điểm kết thúc: từ nhà đến công ty.
+2|grammar|小明___我说：“明天见！”|离|比|对|被|C|对 + người + 说 nghĩa là nói với ai.
+2|grammar|请你___这本书给王老师。|比|离|被|把|D|把 + tân ngữ + động từ + ...: 把这本书给王老师.
+2|grammar|一直___前走，就能看到银行。|往|给|离|从|A|往 + phương hướng chỉ hướng đi: 往前走 là đi về phía trước.
+2|grammar|周末我想___朋友一起去爬山。|比|离|跟|被|C|跟…一起 nghĩa là cùng với…
+2|grammar|到了学校，你___我打个电话。|被|给|对|比|B|给 + người + 打电话 nghĩa là gọi điện cho ai.
+2|grammar|你快一点儿，火车___要开了。|就|又|才|再|A|就要…了 diễn tả sự việc sắp xảy ra.
 2|grammar|她说汉语说___很好。|得|地|的|了|A|Bổ ngữ trạng thái: động từ + 得 + tính từ, 说得很好.
-2|grammar|老师说得太快，我听___懂。|没|很|别|不|D|Bổ ngữ khả năng phủ định: 听不懂 nghĩa là nghe không hiểu.
-2|grammar|这个红的比那个蓝的___好看。|很|太|更|真|C|Trong câu so sánh dùng 更 để nhấn mạnh mức độ hơn; không dùng 很, 太, 真 sau 比.
-2|grammar|在我们班里，小丽的汉语___好。|跟|被|最|比|C|最 + tính từ biểu thị mức cao nhất: 最好.
-2|grammar|他昨天迟到了，今天___迟到了。|都|刚|再|又|D|又 dùng cho việc đã lặp lại trong quá khứ; 再 dùng cho việc chưa xảy ra.
-2|grammar|今天太晚了，我们明天___去吧。|再|又|在|才|A|再 dùng cho hành động sẽ lặp lại hoặc làm sau trong tương lai.
-2|grammar|我们八点上课，现在七点五十，他___到教室了。|已经|刚|才|正|A|已经…了 diễn tả hành động đã hoàn thành; 才 không đi với 了 trong câu này.
-2|grammar|他很早，七点___到学校了。|还|就|再|才|B|就 nhấn mạnh việc xảy ra sớm; 才 nhấn mạnh việc xảy ra muộn.
-2|grammar|昨天晚上我十二点___睡觉。|才|都|再|正|A|才 nhấn mạnh hành động xảy ra muộn: mười hai giờ mới ngủ.
-2|grammar|请你等___，我马上来。|一起|一样|一点|一下|D|动词+一下 làm nhẹ ngữ khí, nghĩa là một lát.
-2|grammar|这个菜太咸了，请少放___盐。|一下|一点儿|一起|一次|B|一点儿 chỉ số lượng ít: 少放一点儿盐.
-2|grammar|我___游泳，但是今天身体不舒服，不能游。|会|得|要|让|A|会 chỉ năng lực học được: biết bơi.
-2|grammar|你___不去上海？|为什么|什么|几|谁|A|为什么 dùng để hỏi nguyên nhân.
-2|grammar|你家有___口人？|几|哪|什么|谁|A|Hỏi số lượng nhỏ dùng 几: 几口人.
-2|grammar|这个杯子___钱？|怎么|什么|几个|多少|D|多少钱 dùng để hỏi giá.
-2|grammar|请问，去火车站___走？|什么|为什么|怎么样|怎么|D|怎么 + động từ hỏi cách thức: 怎么走.
+2|grammar|老师说得太快，我听___懂。|不|很|别|没|A|Bổ ngữ khả năng phủ định: 听不懂 nghĩa là nghe không hiểu.
+2|grammar|这个红的比那个蓝的___好看。|很|更|真|太|B|Trong câu so sánh dùng 更 để nhấn mạnh mức độ hơn; không dùng 很, 太, 真 sau 比.
+2|grammar|在我们班里，小丽的汉语___好。|最|跟|比|被|A|最 + tính từ biểu thị mức cao nhất: 最好.
+2|grammar|他昨天迟到了，今天___迟到了。|又|都|刚|再|A|又 dùng cho việc đã lặp lại trong quá khứ; 再 dùng cho việc chưa xảy ra.
+2|grammar|今天太晚了，我们明天___去吧。|才|再|又|在|B|再 dùng cho hành động sẽ lặp lại hoặc làm sau trong tương lai.
+2|grammar|我们八点上课，现在七点五十，他___到教室了。|刚|正|才|已经|D|已经…了 diễn tả hành động đã hoàn thành; 才 không đi với 了 trong câu này.
+2|grammar|他很早，七点___到学校了。|再|就|才|还|B|就 nhấn mạnh việc xảy ra sớm; 才 nhấn mạnh việc xảy ra muộn.
+2|grammar|昨天晚上我十二点___睡觉。|都|才|再|正|B|才 nhấn mạnh hành động xảy ra muộn: mười hai giờ mới ngủ.
+2|grammar|请你等___，我马上来。|一样|一下|一点|一起|B|动词+一下 làm nhẹ ngữ khí, nghĩa là một lát.
+2|grammar|这个菜太咸了，请少放___盐。|一次|一点儿|一下|一起|B|一点儿 chỉ số lượng ít: 少放一点儿盐.
+2|grammar|我___游泳，但是今天身体不舒服，不能游。|要|会|让|得|B|会 chỉ năng lực học được: biết bơi.
+2|grammar|你___不去上海？|谁|什么|为什么|几|C|为什么 dùng để hỏi nguyên nhân.
+2|grammar|你家有___口人？|几|什么|谁|哪|A|Hỏi số lượng nhỏ dùng 几: 几口人.
+2|grammar|这个杯子___钱？|什么|几个|多少|怎么|C|多少钱 dùng để hỏi giá.
+2|grammar|请问，去火车站___走？|什么|怎么样|怎么|为什么|C|怎么 + động từ hỏi cách thức: 怎么走.
 2|grammar|你觉得这个电影___？|怎么样|几|多少|怎么|A|怎么样 dùng để hỏi nhận xét, đánh giá.
-2|grammar|这个房间___大了，我们换一个小一点儿的吧。|真|非常|太|很|C|太…了 diễn tả mức độ quá, thường mang ý không hài lòng.
-2|grammar|他学了五年，我才学了一年，我的汉语___他好。|没有|比|更|最|A|A + 没有 + B + tính từ: A không bằng B.
-2|grammar|我的书包和你的___大。|一样|一点|一起|一下|A|A + 和 + B + 一样 + tính từ: A bằng B.
-2|grammar|你说得太快了，请说___一点儿。|慢|快|好|多|A|Tính từ + 一点儿 dùng để đề nghị: 说慢一点儿.
-2|grammar|请把书___在桌子上。|买|看|放|找|C|把 + tân ngữ + 放 + 在 + nơi chốn: 把书放在桌子上.
-2|grammar|我的自行车___弟弟骑走了。|被|把|比|从|A|Câu bị động: chủ ngữ + 被 + tác nhân + động từ.
-2|grammar|如果明天不下雨，我们___去公园。|就|但|因为|可是|A|如果…就… biểu thị giả thiết và kết quả.
-2|grammar|只要你努力，___能学好汉语。|就|才|虽然|因为|A|只要…就… biểu thị điều kiện đủ.
-2|grammar|请___在这里大声说话，孩子在睡觉。|没|不|很|别|D|请别 + động từ dùng để yêu cầu không làm gì.
-2|grammar|你___去，我自己去就行。|不用|不会|不太|不很|A|不用 nghĩa là không cần.
-2|grammar|只有多听多说，___能学好汉语。|才|就|也|还|A|只有…才… biểu thị điều kiện cần.
-2|grammar|我给他打了三___电话，他都没接。|本|件|个|次|D|次 là lượng từ chỉ số lần động tác.
-2|grammar|我爸爸___妈妈大两岁。|和|被|比|跟|C|A + 比 + B + tính từ + số lượng: bố lớn hơn mẹ hai tuổi.
-2|grammar|你先洗手，___吃饭。|再|又|还|都|A|先…再… biểu thị trình tự hai hành động.
-2|grammar|我一回家___给妈妈打电话。|都|才|就|再|C|一…就… nghĩa là vừa…thì…
-2|reading|我家有五口人：爸爸、妈妈、哥哥、妹妹和我。哥哥在北京工作，我们很少见面。¶谁在北京工作？|哥哥|爸爸|妈妈|妹妹|A|Bài đọc: 哥哥在北京工作.
-2|reading|今天天气很冷，还下着雪。小李穿了很多衣服，但是还是觉得冷。¶今天天气怎么样？|下雨|很热|很冷|很好|C|Bài đọc: 天气很冷，还下着雪.
-2|reading|我昨天去商店买了一双鞋和两件衣服，一共花了三百块钱。¶他一共买了什么？|水果|鞋和手机|鞋和衣服|书和衣服|C|Bài đọc: 一双鞋和两件衣服.
-2|reading|我们学校在医院旁边。从我家走路去学校只要十分钟。¶学校在哪儿？|商店后边|我家|医院旁边|公园里|C|Bài đọc: 学校在医院旁边.
-2|reading|小王的生日是十月五号。他请了十个朋友来家里吃饭。¶小王的生日是几月？|十一月|九月|十月|五月|C|Bài đọc: 十月五号 là ngày 5 tháng 10.
-2|reading|现在是下午三点。会议四点开始，所以我们还有一个小时的时间。¶会议几点开始？|四点|六点|三点|五点|A|Bài đọc: 会议四点开始.
-2|reading|我喜欢吃面条，不喜欢吃米饭。我妈妈做的面条特别好吃。¶他喜欢吃什么？|面条|米饭|鸡蛋|面包|A|Bài đọc: 我喜欢吃面条，不喜欢吃米饭.
-2|reading|弟弟今天生病了，没去上学。妈妈带他去医院，医生说要多喝水，多休息。¶医生让弟弟做什么？|多喝水多休息|多吃饭|去上学|多运动|A|Bài đọc: 医生说要多喝水，多休息.
-2|reading|A：你好，请问去机场怎么走？¶B：坐三路公共汽车，坐五站就到了。¶去机场应该怎么走？|走路|坐三路公共汽车|坐出租车|坐火车|B|Bài đọc: 坐三路公共汽车.
-2|reading|小丽喜欢跑步。她每天早上六点起床，先跑半个小时，然后吃早饭。¶小丽跑完步以后做什么？|看书|睡觉|上班|吃早饭|D|Bài đọc: 先跑…然后吃早饭.
-2|reading|这个周末我要和朋友去爬山。听说星期六会下雨，所以我们星期天去。¶他们哪天去爬山？|星期天|星期六|星期一|星期五|A|Bài đọc: 星期六会下雨，所以星期天去.
-2|reading|我的手机找不到了，可能忘在出租车上了。¶他的手机可能在哪儿？|公司|商店里|家里|出租车上|D|Bài đọc: 可能忘在出租车上了.
-2|reading|小明的汉语很好，他学了三年。他的同学说他说汉语像中国人一样。¶小明学了多长时间汉语？|一年|两年|四年|三年|D|Bài đọc: 他学了三年.
-2|reading|这件红衣服三百块，那件白的两百块。我觉得白的更便宜，也更好看，所以我买白的。¶他为什么买白衣服？|妈妈让他买|朋友喜欢白色|红的卖完了|白的更便宜更好看|D|Bài đọc: 白的更便宜，也更好看.
-2|reading|妹妹每天晚上九点睡觉，早上六点半起床。她说睡得早，身体才好。¶妹妹几点起床？|六点|七点|九点|六点半|D|Bài đọc: 早上六点半起床.
-2|reading|今天我们班来了一个新同学，她叫马丽，是从上海来的。她说话很快，大家都喜欢她。¶新同学从哪儿来？|日本|北京|美国|上海|D|Bài đọc: 是从上海来的.
-2|reading|请大家注意：明天下午两点在二楼教室开会，请不要来晚了。¶会在哪儿开？|一楼|三楼|二楼教室|四楼|C|Bài đọc: 在二楼教室开会.
-2|reading|我家有一只小狗，它是白色的。每天下午，我带它去公园玩。¶他下午带小狗去哪儿？|医院|公园|学校|商店|B|Bài đọc: 我带它去公园玩.
-2|reading|我想去中国旅游，可是我的汉语不太好。所以我现在每天学习一个小时。¶他为什么每天学习汉语？|朋友让他学|喜欢唱歌|想去中国旅游|想找工作|C|Bài đọc: 想去中国旅游，汉语不太好.
-2|reading|外面下雨了，我没带伞。同学说他有两把伞，借给我一把。¶谁借给他伞？|妈妈|老师|同学|哥哥|C|Bài đọc: 同学说…借给我一把.
-2|reading|今天是星期三，下午没有课。我想去商店买东西，然后回家看书。¶他下午先做什么？|看书|买东西|睡觉|做饭|B|Bài đọc: 先去商店买东西，然后回家看书.
-2|reading|小张每个星期六都去踢足球。今天下雨了，他只好在家看电视。¶今天小张做什么？|踢足球|去商店|在家看电视|游泳|C|Bài đọc: 他只好在家看电视.
-2|reading|这个饭店的菜又好吃又便宜，所以人很多。我们来晚了，等了半个小时才有地方坐。¶他们为什么等了半个小时？|人很多|菜不好吃|下雨了|天气很热|A|Bài đọc: 人很多，等了半个小时.
-2|reading|爸爸今年四十五岁，比妈妈大三岁。妈妈是老师。¶妈妈今年多大？|四十三|四十八|四十五|四十二|D|Bài đọc: 四十五 trừ 三 bằng 四十二.
-2|reading|我和哥哥都喜欢运动，可是爱好不一样。我爱游泳，他爱打篮球。¶哥哥喜欢什么运动？|游泳|跑步|唱歌|打篮球|D|Bài đọc: 他爱打篮球 (他 là anh trai).
-2|reading|小林今天头疼，不能去上课了。他想明天再去。¶小林今天为什么不能去上课？|要旅游|没有时间|头疼|太忙|C|Bài đọc: 今天头疼，不能去上课.
-2|reading|我昨天晚上看了一个电影，电影很长，两个半小时。我回家的时候已经十一点了。¶他几点到家？|十一点|十二点|十点|九点|A|Bài đọc: 回家的时候已经十一点了.
-2|reading|老师说，明天考试，大家要早点儿休息。小红说她今天晚上还要看书，十二点才睡。¶老师希望大家怎么样？|多吃饭|早点儿休息|晚点儿来|多玩儿|B|Bài đọc: 大家要早点儿休息.
-2|reading|我的朋友小英在医院工作，她是医生。她每天八点上班，下午五点下班。¶小英在哪儿工作？|学校|医院|商店|公司|B|Bài đọc: 小英在医院工作.
-2|reading|我家离公司很远，所以我每天六点就起床，先坐公共汽车，再坐出租车。¶他怎么去公司？|骑自行车|走路去|只坐公共汽车|先坐公共汽车，再坐出租车|D|Bài đọc: 先坐公共汽车，再坐出租车.
-2|reading|A：你的生日是几月几号？¶B：三月八号。你呢？¶A：我比你晚两天。¶A的生日是哪天？|三月十号|三月二号|三月六号|三月八号|A|Bài đọc: 晚两天 là muộn hơn hai ngày, tức ngày 10 tháng 3.
-2|reading|这本书很有意思，我已经看了两次了。我想借给我的同学看看。¶他想把书怎么办？|送给老师|卖了|借给同学|放在家里|C|Bài đọc: 我想借给我的同学看看.
-2|reading|今天早上我起晚了，没吃早饭就去学校了。现在很饿，中午要多吃一点儿。¶他今天早上为什么没吃早饭？|不想吃|没有钱|起晚了|生病了|C|Bài đọc: 今天早上我起晚了.
-2|reading|小刚站在老师和小红中间，他的左边是老师，右边是小红。¶小红在小刚的哪边？|前边|后边|右边|左边|C|Bài đọc: 右边是小红.
-2|reading|我家在三楼，没有电梯。妈妈买了很多东西，我去帮她拿。¶我为什么去帮妈妈？|妈妈病了|妈妈在睡觉|妈妈不会拿|妈妈买的东西很多|D|Bài đọc: 妈妈买了很多东西，我去帮她拿.
-2|reading|昨天是我朋友的生日，我送了他一本书。他很高兴，说这是他最想要的东西。¶我送了朋友什么？|手表|鞋|书|衣服|C|Bài đọc: 我送了他一本书.
-2|reading|请在门外等，里面有人在考试。¶请你在哪儿等？|家里|里面|楼上|门外|D|Bài đọc: 请在门外等.
-2|reading|我的爸爸喜欢看报纸，妈妈喜欢看电视，我喜欢上网。¶谁喜欢上网？|爸爸|妈妈|哥哥|我|D|Bài đọc: 我喜欢上网.
-2|reading|这个星期天我想去买一件新衣服，可是我身上只有五十块钱，不够。我想让妈妈再给我一点儿。¶他为什么想让妈妈给他钱？|身上的钱不够|没有衣服|妈妈让他买|想买手机|A|Bài đọc: 只有五十块钱，不够.
-2|reading|小红：你最近忙吗？¶小丽：很忙，我每天要工作十个小时，周末也要上班，没有时间休息。¶小丽最近怎么样？|很忙|在旅游|很高兴|生病了|A|Bài đọc: 很忙，没有时间休息.
-2|reading|飞机从北京到上海要两个小时，火车要五个小时。我想早点儿到，所以坐飞机去。¶他为什么坐飞机？|飞机更便宜|飞机更快|不喜欢火车|火车票卖完了|B|Bài đọc: 飞机两个小时，火车五个小时，想早点儿到.
-2|reading|我在中国学习汉语。老师很好，同学们也很好，大家常常一起去吃饭、唱歌。¶他们常常一起做什么？|吃饭、唱歌|打篮球|看电影|爬山|A|Bài đọc: 常常一起去吃饭、唱歌.
-2|reading|现在八点二十。电影八点半开始，我们走路去要十五分钟，坐出租车只要五分钟。¶他们应该怎么去电影院？|走路|坐出租车|骑自行车|坐公共汽车|B|Bài đọc: Chỉ còn 10 phút, đi bộ mất 15 phút nên phải đi taxi mới kịp.
+2|grammar|这个房间___大了，我们换一个小一点儿的吧。|真|太|非常|很|B|太…了 diễn tả mức độ quá, thường mang ý không hài lòng.
+2|grammar|他学了五年，我才学了一年，我的汉语___他好。|比|更|最|没有|D|A + 没有 + B + tính từ: A không bằng B.
+2|grammar|我的书包和你的___大。|一下|一样|一点|一起|B|A + 和 + B + 一样 + tính từ: A bằng B.
+2|grammar|你说得太快了，请说___一点儿。|多|慢|好|快|B|Tính từ + 一点儿 dùng để đề nghị: 说慢一点儿.
+2|grammar|请把书___在桌子上。|放|买|看|找|A|把 + tân ngữ + 放 + 在 + nơi chốn: 把书放在桌子上.
+2|grammar|我的自行车___弟弟骑走了。|把|从|比|被|D|Câu bị động: chủ ngữ + 被 + tác nhân + động từ.
+2|grammar|如果明天不下雨，我们___去公园。|可是|但|因为|就|D|如果…就… biểu thị giả thiết và kết quả.
+2|grammar|只要你努力，___能学好汉语。|因为|虽然|就|才|C|只要…就… biểu thị điều kiện đủ.
+2|grammar|请___在这里大声说话，孩子在睡觉。|没|很|不|别|D|请别 + động từ dùng để yêu cầu không làm gì.
+2|grammar|你___去，我自己去就行。|不太|不用|不会|不很|B|不用 nghĩa là không cần.
+2|grammar|只有多听多说，___能学好汉语。|就|也|才|还|C|只有…才… biểu thị điều kiện cần.
+2|grammar|我给他打了三___电话，他都没接。|个|次|件|本|B|次 là lượng từ chỉ số lần động tác.
+2|grammar|我爸爸___妈妈大两岁。|比|跟|被|和|A|A + 比 + B + tính từ + số lượng: bố lớn hơn mẹ hai tuổi.
+2|grammar|你先洗手，___吃饭。|都|还|再|又|C|先…再… biểu thị trình tự hai hành động.
+2|grammar|我一回家___给妈妈打电话。|才|都|再|就|D|一…就… nghĩa là vừa…thì…
+2|reading|我家有五口人：爸爸、妈妈、哥哥、妹妹和我。哥哥在北京工作，我们很少见面。¶谁在北京工作？|妈妈|爸爸|哥哥|妹妹|C|Bài đọc: 哥哥在北京工作.
+2|reading|今天天气很冷，还下着雪。小李穿了很多衣服，但是还是觉得冷。¶今天天气怎么样？|很冷|下雨|很好|很热|A|Bài đọc: 天气很冷，还下着雪.
+2|reading|我昨天去商店买了一双鞋和两件衣服，一共花了三百块钱。¶他一共买了什么？|鞋和衣服|书和衣服|水果|鞋和手机|A|Bài đọc: 一双鞋和两件衣服.
+2|reading|我们学校在医院旁边。从我家走路去学校只要十分钟。¶学校在哪儿？|商店后边|公园里|我家|医院旁边|D|Bài đọc: 学校在医院旁边.
+2|reading|小王的生日是十月五号。他请了十个朋友来家里吃饭。¶小王的生日是几月？|十月|九月|五月|十一月|A|Bài đọc: 十月五号 là ngày 5 tháng 10.
+2|reading|现在是下午三点。会议四点开始，所以我们还有一个小时的时间。¶会议几点开始？|三点|四点|五点|六点|B|Bài đọc: 会议四点开始.
+2|reading|我喜欢吃面条，不喜欢吃米饭。我妈妈做的面条特别好吃。¶他喜欢吃什么？|鸡蛋|面条|米饭|面包|B|Bài đọc: 我喜欢吃面条，不喜欢吃米饭.
+2|reading|弟弟今天生病了，没去上学。妈妈带他去医院，医生说要多喝水，多休息。¶医生让弟弟做什么？|多运动|多吃饭|多喝水多休息|去上学|C|Bài đọc: 医生说要多喝水，多休息.
+2|reading|A：你好，请问去机场怎么走？¶B：坐三路公共汽车，坐五站就到了。¶去机场应该怎么走？|坐出租车|走路|坐三路公共汽车|坐火车|C|Bài đọc: 坐三路公共汽车.
+2|reading|小丽喜欢跑步。她每天早上六点起床，先跑半个小时，然后吃早饭。¶小丽跑完步以后做什么？|看书|上班|睡觉|吃早饭|D|Bài đọc: 先跑…然后吃早饭.
+2|reading|这个周末我要和朋友去爬山。听说星期六会下雨，所以我们星期天去。¶他们哪天去爬山？|星期六|星期五|星期一|星期天|D|Bài đọc: 星期六会下雨，所以星期天去.
+2|reading|我的手机找不到了，可能忘在出租车上了。¶他的手机可能在哪儿？|商店里|家里|出租车上|公司|C|Bài đọc: 可能忘在出租车上了.
+2|reading|小明的汉语很好，他学了三年。他的同学说他说汉语像中国人一样。¶小明学了多长时间汉语？|四年|一年|两年|三年|D|Bài đọc: 他学了三年.
+2|reading|这件红衣服三百块，那件白的两百块。我觉得白的更便宜，也更好看，所以我买白的。¶他为什么买白衣服？|红的卖完了|妈妈让他买|白的更便宜更好看|朋友喜欢白色|C|Bài đọc: 白的更便宜，也更好看.
+2|reading|妹妹每天晚上九点睡觉，早上六点半起床。她说睡得早，身体才好。¶妹妹几点起床？|九点|六点半|七点|六点|B|Bài đọc: 早上六点半起床.
+2|reading|今天我们班来了一个新同学，她叫马丽，是从上海来的。她说话很快，大家都喜欢她。¶新同学从哪儿来？|上海|日本|美国|北京|A|Bài đọc: 是从上海来的.
+2|reading|请大家注意：明天下午两点在二楼教室开会，请不要来晚了。¶会在哪儿开？|二楼教室|四楼|一楼|三楼|A|Bài đọc: 在二楼教室开会.
+2|reading|我家有一只小狗，它是白色的。每天下午，我带它去公园玩。¶他下午带小狗去哪儿？|公园|商店|学校|医院|A|Bài đọc: 我带它去公园玩.
+2|reading|我想去中国旅游，可是我的汉语不太好。所以我现在每天学习一个小时。¶他为什么每天学习汉语？|想去中国旅游|想找工作|朋友让他学|喜欢唱歌|A|Bài đọc: 想去中国旅游，汉语不太好.
+2|reading|外面下雨了，我没带伞。同学说他有两把伞，借给我一把。¶谁借给他伞？|哥哥|同学|老师|妈妈|B|Bài đọc: 同学说…借给我一把.
+2|reading|今天是星期三，下午没有课。我想去商店买东西，然后回家看书。¶他下午先做什么？|买东西|看书|睡觉|做饭|A|Bài đọc: 先去商店买东西，然后回家看书.
+2|reading|小张每个星期六都去踢足球。今天下雨了，他只好在家看电视。¶今天小张做什么？|在家看电视|去商店|踢足球|游泳|A|Bài đọc: 他只好在家看电视.
+2|reading|这个饭店的菜又好吃又便宜，所以人很多。我们来晚了，等了半个小时才有地方坐。¶他们为什么等了半个小时？|天气很热|下雨了|菜不好吃|人很多|D|Bài đọc: 人很多，等了半个小时.
+2|reading|爸爸今年四十五岁，比妈妈大三岁。妈妈是老师。¶妈妈今年多大？|四十五|四十三|四十二|四十八|C|Bài đọc: 四十五 trừ 三 bằng 四十二.
+2|reading|我和哥哥都喜欢运动，可是爱好不一样。我爱游泳，他爱打篮球。¶哥哥喜欢什么运动？|游泳|打篮球|唱歌|跑步|B|Bài đọc: 他爱打篮球 (他 là anh trai).
+2|reading|小林今天头疼，不能去上课了。他想明天再去。¶小林今天为什么不能去上课？|太忙|头疼|没有时间|要旅游|B|Bài đọc: 今天头疼，不能去上课.
+2|reading|我昨天晚上看了一个电影，电影很长，两个半小时。我回家的时候已经十一点了。¶他几点到家？|九点|十一点|十二点|十点|B|Bài đọc: 回家的时候已经十一点了.
+2|reading|老师说，明天考试，大家要早点儿休息。小红说她今天晚上还要看书，十二点才睡。¶老师希望大家怎么样？|早点儿休息|多吃饭|多玩儿|晚点儿来|A|Bài đọc: 大家要早点儿休息.
+2|reading|我的朋友小英在医院工作，她是医生。她每天八点上班，下午五点下班。¶小英在哪儿工作？|商店|公司|学校|医院|D|Bài đọc: 小英在医院工作.
+2|reading|我家离公司很远，所以我每天六点就起床，先坐公共汽车，再坐出租车。¶他怎么去公司？|只坐公共汽车|走路去|骑自行车|先坐公共汽车，再坐出租车|D|Bài đọc: 先坐公共汽车，再坐出租车.
+2|reading|A：你的生日是几月几号？¶B：三月八号。你呢？¶A：我比你晚两天。¶A的生日是哪天？|三月六号|三月十号|三月二号|三月八号|B|Bài đọc: 晚两天 là muộn hơn hai ngày, tức ngày 10 tháng 3.
+2|reading|这本书很有意思，我已经看了两次了。我想借给我的同学看看。¶他想把书怎么办？|卖了|借给同学|送给老师|放在家里|B|Bài đọc: 我想借给我的同学看看.
+2|reading|今天早上我起晚了，没吃早饭就去学校了。现在很饿，中午要多吃一点儿。¶他今天早上为什么没吃早饭？|起晚了|生病了|不想吃|没有钱|A|Bài đọc: 今天早上我起晚了.
+2|reading|小刚站在老师和小红中间，他的左边是老师，右边是小红。¶小红在小刚的哪边？|后边|前边|左边|右边|D|Bài đọc: 右边是小红.
+2|reading|我家在三楼，没有电梯。妈妈买了很多东西，我去帮她拿。¶我为什么去帮妈妈？|妈妈病了|妈妈不会拿|妈妈买的东西很多|妈妈在睡觉|C|Bài đọc: 妈妈买了很多东西，我去帮她拿.
+2|reading|昨天是我朋友的生日，我送了他一本书。他很高兴，说这是他最想要的东西。¶我送了朋友什么？|衣服|鞋|手表|书|D|Bài đọc: 我送了他一本书.
+2|reading|请在门外等，里面有人在考试。¶请你在哪儿等？|楼上|门外|里面|家里|B|Bài đọc: 请在门外等.
+2|reading|我的爸爸喜欢看报纸，妈妈喜欢看电视，我喜欢上网。¶谁喜欢上网？|我|爸爸|妈妈|哥哥|A|Bài đọc: 我喜欢上网.
+2|reading|这个星期天我想去买一件新衣服，可是我身上只有五十块钱，不够。我想让妈妈再给我一点儿。¶他为什么想让妈妈给他钱？|没有衣服|想买手机|身上的钱不够|妈妈让他买|C|Bài đọc: 只有五十块钱，不够.
+2|reading|小红：你最近忙吗？¶小丽：很忙，我每天要工作十个小时，周末也要上班，没有时间休息。¶小丽最近怎么样？|在旅游|很高兴|很忙|生病了|C|Bài đọc: 很忙，没有时间休息.
+2|reading|飞机从北京到上海要两个小时，火车要五个小时。我想早点儿到，所以坐飞机去。¶他为什么坐飞机？|火车票卖完了|飞机更便宜|不喜欢火车|飞机更快|D|Bài đọc: 飞机两个小时，火车五个小时，想早点儿到.
+2|reading|我在中国学习汉语。老师很好，同学们也很好，大家常常一起去吃饭、唱歌。¶他们常常一起做什么？|打篮球|吃饭、唱歌|看电影|爬山|B|Bài đọc: 常常一起去吃饭、唱歌.
+2|reading|现在八点二十。电影八点半开始，我们走路去要十五分钟，坐出租车只要五分钟。¶他们应该怎么去电影院？|骑自行车|坐出租车|坐公共汽车|走路|B|Bài đọc: Chỉ còn 10 phút, đi bộ mất 15 phút nên phải đi taxi mới kịp.
 2|reading|这家商店的东西很贵，对面那家便宜一些。我们去对面那家看看吧。¶他们为什么去对面那家？|对面更便宜|对面更近|对面东西更好|对面人少|A|Bài đọc: 对面那家便宜一些.
-2|reading|妹妹今年上小学一年级。她会写自己的名字，也会唱很多歌。¶妹妹会做什么？|打篮球|写自己的名字|开车|说法语|B|Bài đọc: 她会写自己的名字.
-2|reading|我不喜欢喝咖啡，因为喝了咖啡晚上睡不着。我喜欢喝茶。¶他为什么不喝咖啡？|太贵了|不好喝|晚上睡不着|太热|C|Bài đọc: 喝了咖啡晚上睡不着.
-2|reading|小李要去机场接朋友。朋友的飞机下午四点到，他三点从家里走。¶朋友几点到？|三点|五点|两点|四点|D|Bài đọc: 飞机下午四点到.
-2|reading|周末我们一家人去公园玩儿。爸爸和哥哥骑自行车，我和妈妈走路，大家玩得很高兴。¶谁骑自行车？|爸爸和哥哥|爸爸和妈妈|我和妈妈|哥哥和我|A|Bài đọc: 爸爸和哥哥骑自行车.
-2|reading|今天的作业不多，我一个小时就做完了，然后我去外面和朋友踢足球。¶他做完作业以后做什么？|去商店|踢足球|看电视|睡觉|B|Bài đọc: 然后…和朋友踢足球.
-2|reading|先生，您好，您的菜马上就来，请等一下。¶说话人最可能是谁？|老师|医生|服务员|司机|C|Bài đọc: Nói về 菜 của khách và bảo chờ, nên là nhân viên phục vụ.
-2|listen|现在是下午四点二十，五点我们开会。¶现在几点？|5 giờ 20|3 giờ 20|5 giờ|4 giờ 20|D|下午四点二十 là 4 giờ 20 chiều.
-2|listen|A：这个多少钱？¶B：十五块。¶A：太贵了，便宜一点儿吧。¶B：好，十二块。¶最后多少钱？|15 tệ|20 tệ|10 tệ|12 tệ|D|Cuối cùng người bán đồng ý 十二块 (12 tệ).
-2|listen|明天会下大雨，你出门别忘了带伞。¶明天天气怎么样？|Nắng đẹp|Có mưa lớn|Có tuyết|Rất lạnh|B|会下大雨 là sẽ có mưa lớn.
-2|listen|我家在学校后面，走路五分钟就到了。¶他家在哪儿？|Phía trước trường|Phía sau trường|Bên cạnh bệnh viện|Trong trường|B|在学校后面 là ở phía sau trường.
-2|listen|A：你周末做什么？¶B：我要和朋友去看电影。¶B周末做什么？|Đi leo núi|Đi xem phim cùng bạn|Ở nhà ngủ|Đi mua đồ|B|和朋友去看电影 là đi xem phim cùng bạn.
-2|listen|我头很疼，今天不想吃东西，想去医院看看。¶他怎么了？|Đau chân|Đau đầu, không muốn ăn|Muốn đi học|Muốn ăn nhiều|B|头很疼, 不想吃东西 là đau đầu và không muốn ăn.
-2|listen|小李今年二十岁，他的妹妹比他小三岁。¶小李的妹妹多大？|23 tuổi|17 tuổi|16 tuổi|15 tuổi|B|二十 trừ 三 bằng 十七.
-2|listen|A：请问，医院在哪儿？¶B：在二楼，左边第一个门。¶B说的地方在哪里？|Tầng 1 bên trái|Tầng 2 bên trái|Tầng 2 bên phải|Tầng 3 bên trái|B|二楼 là tầng 2, 左边 là bên trái.
-2|listen|我每天早上先喝一杯牛奶，然后去上班。¶他早上先做什么？|Chạy bộ|Đi làm|Ăn trứng|Uống sữa|D|先喝一杯牛奶 là trước tiên uống một cốc sữa.
-2|listen|这个星期我很忙，星期六和星期天都要上班。¶他什么时候要上班？|Chỉ thứ bảy|Chỉ chủ nhật|Thứ bảy và chủ nhật|Không đi làm|C|星期六和星期天都要上班 là cả thứ bảy và chủ nhật.
-2|listen|A：你喜欢吃什么水果？¶B：我最喜欢吃苹果，也喜欢吃西瓜。¶B最喜欢什么水果？|Táo|Dưa hấu|Nho|Lê|A|最喜欢吃苹果 là thích nhất táo.
-2|listen|我的飞机是下午两点的，所以我们十二点就要到机场。¶他们几点要到机场？|10 giờ|2 giờ|1 giờ|12 giờ|D|十二点就要到机场 là 12 giờ phải đến sân bay.
-2|listen|我昨天晚上学汉语学到十一点，今天很累。¶他为什么今天很累？|Chơi bóng đến muộn|Tối qua học tiếng Trung đến 11 giờ|Bị ốm|Làm việc cả ngày|B|学汉语学到十一点 là học tiếng Trung đến 11 giờ.
-2|listen|A：你会游泳吗？¶B：会一点儿，但是游得不好。¶B游泳怎么样？|Bơi nhanh nhất|Biết chút ít nhưng bơi không giỏi|Bơi rất giỏi|Không biết bơi|B|会一点儿 là biết một chút, 游得不好 là bơi không giỏi.
-2|listen|妈妈在做饭，爸爸在看报纸，我在写作业。¶爸爸在做什么？|Nấu cơm|Đọc báo|Làm bài tập|Xem tivi|B|爸爸在看报纸 là bố đang đọc báo.
-2|listen|现在六点半，还有半个小时就下班了。¶几点下班？|6 giờ rưỡi|6 giờ|7 giờ rưỡi|7 giờ|D|六点半 cộng nửa tiếng là 7 giờ.
-2|listen|A：你是哪国人？¶B：我是美国人，在北京学汉语。¶B在哪儿学汉语？|Thượng Hải|Bắc Kinh|Mỹ|Quảng Châu|B|在北京学汉语 là học tiếng Trung ở Bắc Kinh.
-2|listen|他的电话号码是一三八，二五六七，九零一二。¶他的电话号码是多少？|138 2567 9021|183 2567 9012|138 2576 9012|138 2567 9012|D|Nghe kỹ từng chữ số: 138, 2567, 9012.
-2|listen|这本书三十八块，那本书二十五块。¶两本书一共多少钱？|53 tệ|73 tệ|58 tệ|63 tệ|D|38 cộng 25 bằng 63.
-2|listen|今天不是星期一，是星期二。¶明天星期几？|Thứ hai|Thứ ba|Thứ tư|Thứ năm|C|Hôm nay thứ ba nên ngày mai là thứ tư.
-2|listen|A：你怎么没吃饭？¶B：我不饿，刚吃了一个面包。¶B为什么不吃饭？|Quá bận|Không có tiền|Đang bị ốm|Không đói vì vừa ăn bánh mì|D|我不饿，刚吃了一个面包 là không đói vì vừa ăn bánh mì.
-2|listen|小狗在椅子下面，小猫在桌子上面。¶小猫在哪儿？|Dưới ghế|Trên bàn|Trên ghế|Dưới bàn|B|小猫在桌子上面 là mèo ở trên bàn.
-2|listen|我想买一件红色的衣服，不要太贵的。¶他想买什么？|Giày đỏ|Quần xanh|Áo trắng đắt tiền|Áo đỏ không quá đắt|D|红色的衣服，不要太贵 là áo màu đỏ, không quá đắt.
-2|listen|A：喂，你在哪儿呢？¶B：我在出租车上，十分钟后到。¶B在哪儿？|Trên taxi|Ở nhà|Ở sân bay|Ở công ty|A|我在出租车上 là đang ở trên taxi.
-2|listen|弟弟喜欢踢足球，妹妹喜欢跳舞，我喜欢唱歌。¶谁喜欢跳舞？|Tôi|Em gái|Bố|Em trai|B|妹妹喜欢跳舞 là em gái thích nhảy.
-2|listen|这个菜太辣了，我吃不了。¶他觉得这个菜怎么样？|Quá mặn|Quá cay|Quá nhiều|Rất ngon|B|太辣了 là quá cay, 吃不了 là không ăn nổi.
-2|listen|A：你怎么去学校？¶B：我一般骑自行车，下雨的时候坐公共汽车。¶下雨时B怎么去学校？|Đi bộ|Xe đạp|Xe buýt|Taxi|C|下雨的时候坐公共汽车 là khi mưa đi xe buýt.
-2|listen|今天是我的生日，朋友们送给我很多东西。¶今天是什么日子？|Ngày đầu đi học|Sinh nhật của bạn|Ngày lễ|Sinh nhật của người nói|D|今天是我的生日 là hôm nay là sinh nhật tôi.
-2|listen|星期五晚上我们去看电影，七点在电影院门口见面。¶他们几点见面？|8 giờ|6 giờ|7 giờ|9 giờ|C|七点在电影院门口见面 là 7 giờ gặp ở cổng rạp phim.
-2|listen|A：你的汉语真好！¶B：哪里哪里，我才学了半年。¶B学汉语多久了？|Nửa năm|Một năm|Hai năm|Ba tháng|A|才学了半年 là mới học nửa năm.
-2|listen|这件衣服比那件便宜五十块。那件三百块。¶这件衣服多少钱？|350 tệ|250 tệ|300 tệ|200 tệ|B|300 trừ 50 bằng 250.
-2|listen|他给你打了三个电话，可是你都没接。¶他打了几个电话？|3 cuộc|4 cuộc|1 cuộc|2 cuộc|A|打了三个电话 là gọi ba cuộc.
-2|listen|我家有四口人，爸爸、妈妈、姐姐和我。¶家里没有谁？|Mẹ|Bố|Anh trai|Chị gái|C|Gia đình gồm bố, mẹ, chị gái và tôi, không có anh trai.
-2|listen|A：你要咖啡还是茶？¶B：我不喝咖啡，给我一杯茶吧。¶B要什么？|Cà phê|Nước|Trà|Sữa|C|给我一杯茶 là cho tôi một cốc trà.
-2|listen|现在外面很冷，你多穿一点儿衣服。¶他让对方做什么？|Ở nhà|Đóng cửa|Cởi bớt áo|Mặc thêm áo|D|多穿一点儿衣服 là mặc thêm quần áo.
-2|listen|我们学校有两千个学生，两百个老师。¶学校有多少学生？|2000|20000|200|1200|A|两千 là 2000.
-2|listen|A：你在做什么呢？¶B：我在看电视，你也来吧。¶B在做什么？|Ngủ|Đọc sách|Nghe nhạc|Xem tivi|D|我在看电视 là đang xem tivi.
-2|listen|请问，这里有没有卖药的店？¶说话人想找什么？|Cửa hàng bán thuốc|Ngân hàng|Siêu thị|Nhà ăn|A|卖药的店 là cửa hàng bán thuốc.
-2|listen|小红每天走路去上班，二十分钟就到。¶小红怎么去上班？|Xe đạp|Đi bộ|Taxi|Xe buýt|B|走路去上班 là đi bộ đi làm.
-2|listen|A：你昨天为什么没来？¶B：我生病了，在家休息。¶B昨天为什么没来？|Phải đi làm|Bị ốm ở nhà nghỉ|Trời mưa|Quên mất|B|我生病了，在家休息 là bị ốm, ở nhà nghỉ ngơi.
-2|listen|这个周末天气很好，我们去公园玩儿吧。¶他们打算做什么？|Ở nhà|Đi mua sắm|Đến công viên chơi|Đi bơi|C|去公园玩儿 là đi công viên chơi.
-2|listen|我的哥哥比我高，也比我大两岁。¶谁年纪大？|Anh trai|Người nói|Bằng tuổi nhau|Không biết|A|哥哥比我大两岁 là anh trai hơn tôi hai tuổi.
-2|listen|A：先生，您要什么？¶B：一碗米饭，两个鸡蛋。¶B要了什么？|Một bát cơm và hai quả trứng|Một bát mì|Một quả trứng|Hai bát cơm|A|一碗米饭，两个鸡蛋 là một bát cơm, hai quả trứng.
-2|listen|我八点上班，所以七点就要出门。¶他几点出门？|8 giờ|7 giờ|9 giờ|6 giờ|B|七点就要出门 là 7 giờ phải ra khỏi nhà.
-2|listen|对不起，我来晚了。路上车太多了。¶他为什么来晚了？|Quên giờ|Ngủ dậy muộn|Xe bị hỏng|Trên đường nhiều xe|D|路上车太多了 là trên đường quá nhiều xe.
-2|listen|A：你的手表真好看，在哪儿买的？¶B：是我姐姐送给我的。¶手表是怎么来的？|Mua ở cửa hàng|Chị gái tặng|Tự làm|Bạn tặng|B|是我姐姐送给我的 là chị gái tặng tôi.
-2|listen|我想去北京，可是没有时间。¶他为什么不去北京？|Không có thời gian|Sợ đi máy bay|Không có tiền|Không thích|A|可是没有时间 là nhưng không có thời gian.
-2|listen|今天我很高兴，因为我考试考得很好。¶他为什么高兴？|Thi tốt|Được nghỉ|Được tăng lương|Nhận được quà|A|考试考得很好 là thi làm bài rất tốt.
-2|listen|A：这是谁的书？¶B：不是我的，是小王的。¶书是谁的？|Của A|Của B|Của Tiểu Vương|Của thầy giáo|C|是小王的 là của Tiểu Vương.
-2|listen|请大家十点以前到教室，考试十点开始。¶几点开始考试？|9 giờ|10 giờ|11 giờ|12 giờ|B|考试十点开始 là 10 giờ bắt đầu thi.
+2|reading|妹妹今年上小学一年级。她会写自己的名字，也会唱很多歌。¶妹妹会做什么？|说法语|打篮球|开车|写自己的名字|D|Bài đọc: 她会写自己的名字.
+2|reading|我不喜欢喝咖啡，因为喝了咖啡晚上睡不着。我喜欢喝茶。¶他为什么不喝咖啡？|太贵了|太热|不好喝|晚上睡不着|D|Bài đọc: 喝了咖啡晚上睡不着.
+2|reading|小李要去机场接朋友。朋友的飞机下午四点到，他三点从家里走。¶朋友几点到？|两点|三点|五点|四点|D|Bài đọc: 飞机下午四点到.
+2|reading|周末我们一家人去公园玩儿。爸爸和哥哥骑自行车，我和妈妈走路，大家玩得很高兴。¶谁骑自行车？|哥哥和我|爸爸和哥哥|我和妈妈|爸爸和妈妈|B|Bài đọc: 爸爸和哥哥骑自行车.
+2|reading|今天的作业不多，我一个小时就做完了，然后我去外面和朋友踢足球。¶他做完作业以后做什么？|踢足球|去商店|睡觉|看电视|A|Bài đọc: 然后…和朋友踢足球.
+2|reading|先生，您好，您的菜马上就来，请等一下。¶说话人最可能是谁？|老师|医生|司机|服务员|D|Bài đọc: Nói về 菜 của khách và bảo chờ, nên là nhân viên phục vụ.
+2|listen|现在是下午四点二十，五点我们开会。¶现在几点？|4 giờ 20|5 giờ 20|5 giờ|3 giờ 20|A|下午四点二十 là 4 giờ 20 chiều.
+2|listen|A：这个多少钱？¶B：十五块。¶A：太贵了，便宜一点儿吧。¶B：好，十二块。¶最后多少钱？|10 tệ|15 tệ|12 tệ|20 tệ|C|Cuối cùng người bán đồng ý 十二块 (12 tệ).
+2|listen|明天会下大雨，你出门别忘了带伞。¶明天天气怎么样？|Có mưa lớn|Nắng đẹp|Rất lạnh|Có tuyết|A|会下大雨 là sẽ có mưa lớn.
+2|listen|我家在学校后面，走路五分钟就到了。¶他家在哪儿？|Trong trường|Bên cạnh bệnh viện|Phía sau trường|Phía trước trường|C|在学校后面 là ở phía sau trường.
+2|listen|A：你周末做什么？¶B：我要和朋友去看电影。¶B周末做什么？|Đi xem phim cùng bạn|Ở nhà ngủ|Đi mua đồ|Đi leo núi|A|和朋友去看电影 là đi xem phim cùng bạn.
+2|listen|我头很疼，今天不想吃东西，想去医院看看。¶他怎么了？|Muốn ăn nhiều|Đau đầu, không muốn ăn|Đau chân|Muốn đi học|B|头很疼, 不想吃东西 là đau đầu và không muốn ăn.
+2|listen|小李今年二十岁，他的妹妹比他小三岁。¶小李的妹妹多大？|17 tuổi|23 tuổi|15 tuổi|16 tuổi|A|二十 trừ 三 bằng 十七.
+2|listen|A：请问，医院在哪儿？¶B：在二楼，左边第一个门。¶B说的地方在哪里？|Tầng 2 bên phải|Tầng 1 bên trái|Tầng 3 bên trái|Tầng 2 bên trái|D|二楼 là tầng 2, 左边 là bên trái.
+2|listen|我每天早上先喝一杯牛奶，然后去上班。¶他早上先做什么？|Đi làm|Chạy bộ|Ăn trứng|Uống sữa|D|先喝一杯牛奶 là trước tiên uống một cốc sữa.
+2|listen|这个星期我很忙，星期六和星期天都要上班。¶他什么时候要上班？|Chỉ thứ bảy|Chỉ chủ nhật|Không đi làm|Thứ bảy và chủ nhật|D|星期六和星期天都要上班 là cả thứ bảy và chủ nhật.
+2|listen|A：你喜欢吃什么水果？¶B：我最喜欢吃苹果，也喜欢吃西瓜。¶B最喜欢什么水果？|Dưa hấu|Lê|Táo|Nho|C|最喜欢吃苹果 là thích nhất táo.
+2|listen|我的飞机是下午两点的，所以我们十二点就要到机场。¶他们几点要到机场？|12 giờ|10 giờ|1 giờ|2 giờ|A|十二点就要到机场 là 12 giờ phải đến sân bay.
+2|listen|我昨天晚上学汉语学到十一点，今天很累。¶他为什么今天很累？|Làm việc cả ngày|Tối qua học tiếng Trung đến 11 giờ|Bị ốm|Chơi bóng đến muộn|B|学汉语学到十一点 là học tiếng Trung đến 11 giờ.
+2|listen|A：你会游泳吗？¶B：会一点儿，但是游得不好。¶B游泳怎么样？|Không biết bơi|Biết chút ít nhưng bơi không giỏi|Bơi nhanh nhất|Bơi rất giỏi|B|会一点儿 là biết một chút, 游得不好 là bơi không giỏi.
+2|listen|妈妈在做饭，爸爸在看报纸，我在写作业。¶爸爸在做什么？|Làm bài tập|Đọc báo|Nấu cơm|Xem tivi|B|爸爸在看报纸 là bố đang đọc báo.
+2|listen|现在六点半，还有半个小时就下班了。¶几点下班？|6 giờ|7 giờ|7 giờ rưỡi|6 giờ rưỡi|B|六点半 cộng nửa tiếng là 7 giờ.
+2|listen|A：你是哪国人？¶B：我是美国人，在北京学汉语。¶B在哪儿学汉语？|Thượng Hải|Quảng Châu|Mỹ|Bắc Kinh|D|在北京学汉语 là học tiếng Trung ở Bắc Kinh.
+2|listen|他的电话号码是一三八，二五六七，九零一二。¶他的电话号码是多少？|138 2567 9012|183 2567 9012|138 2576 9012|138 2567 9021|A|Nghe kỹ từng chữ số: 138, 2567, 9012.
+2|listen|这本书三十八块，那本书二十五块。¶两本书一共多少钱？|53 tệ|63 tệ|73 tệ|58 tệ|B|38 cộng 25 bằng 63.
+2|listen|今天不是星期一，是星期二。¶明天星期几？|Thứ tư|Thứ năm|Thứ hai|Thứ ba|A|Hôm nay thứ ba nên ngày mai là thứ tư.
+2|listen|A：你怎么没吃饭？¶B：我不饿，刚吃了一个面包。¶B为什么不吃饭？|Đang bị ốm|Quá bận|Không đói vì vừa ăn bánh mì|Không có tiền|C|我不饿，刚吃了一个面包 là không đói vì vừa ăn bánh mì.
+2|listen|小狗在椅子下面，小猫在桌子上面。¶小猫在哪儿？|Dưới ghế|Dưới bàn|Trên bàn|Trên ghế|C|小猫在桌子上面 là mèo ở trên bàn.
+2|listen|我想买一件红色的衣服，不要太贵的。¶他想买什么？|Áo trắng đắt tiền|Quần xanh|Giày đỏ|Áo đỏ không quá đắt|D|红色的衣服，不要太贵 là áo màu đỏ, không quá đắt.
+2|listen|A：喂，你在哪儿呢？¶B：我在出租车上，十分钟后到。¶B在哪儿？|Ở sân bay|Trên taxi|Ở nhà|Ở công ty|B|我在出租车上 là đang ở trên taxi.
+2|listen|弟弟喜欢踢足球，妹妹喜欢跳舞，我喜欢唱歌。¶谁喜欢跳舞？|Bố|Em trai|Tôi|Em gái|D|妹妹喜欢跳舞 là em gái thích nhảy.
+2|listen|这个菜太辣了，我吃不了。¶他觉得这个菜怎么样？|Quá nhiều|Rất ngon|Quá cay|Quá mặn|C|太辣了 là quá cay, 吃不了 là không ăn nổi.
+2|listen|A：你怎么去学校？¶B：我一般骑自行车，下雨的时候坐公共汽车。¶下雨时B怎么去学校？|Đi bộ|Xe buýt|Taxi|Xe đạp|B|下雨的时候坐公共汽车 là khi mưa đi xe buýt.
+2|listen|今天是我的生日，朋友们送给我很多东西。¶今天是什么日子？|Ngày lễ|Sinh nhật của bạn|Sinh nhật của người nói|Ngày đầu đi học|C|今天是我的生日 là hôm nay là sinh nhật tôi.
+2|listen|星期五晚上我们去看电影，七点在电影院门口见面。¶他们几点见面？|9 giờ|6 giờ|8 giờ|7 giờ|D|七点在电影院门口见面 là 7 giờ gặp ở cổng rạp phim.
+2|listen|A：你的汉语真好！¶B：哪里哪里，我才学了半年。¶B学汉语多久了？|Nửa năm|Ba tháng|Hai năm|Một năm|A|才学了半年 là mới học nửa năm.
+2|listen|这件衣服比那件便宜五十块。那件三百块。¶这件衣服多少钱？|350 tệ|300 tệ|250 tệ|200 tệ|C|300 trừ 50 bằng 250.
+2|listen|他给你打了三个电话，可是你都没接。¶他打了几个电话？|1 cuộc|4 cuộc|2 cuộc|3 cuộc|D|打了三个电话 là gọi ba cuộc.
+2|listen|我家有四口人，爸爸、妈妈、姐姐和我。¶家里没有谁？|Anh trai|Mẹ|Bố|Chị gái|A|Gia đình gồm bố, mẹ, chị gái và tôi, không có anh trai.
+2|listen|A：你要咖啡还是茶？¶B：我不喝咖啡，给我一杯茶吧。¶B要什么？|Cà phê|Nước|Sữa|Trà|D|给我一杯茶 là cho tôi một cốc trà.
+2|listen|现在外面很冷，你多穿一点儿衣服。¶他让对方做什么？|Đóng cửa|Cởi bớt áo|Ở nhà|Mặc thêm áo|D|多穿一点儿衣服 là mặc thêm quần áo.
+2|listen|我们学校有两千个学生，两百个老师。¶学校有多少学生？|200|20000|2000|1200|C|两千 là 2000.
+2|listen|A：你在做什么呢？¶B：我在看电视，你也来吧。¶B在做什么？|Đọc sách|Xem tivi|Nghe nhạc|Ngủ|B|我在看电视 là đang xem tivi.
+2|listen|请问，这里有没有卖药的店？¶说话人想找什么？|Nhà ăn|Ngân hàng|Cửa hàng bán thuốc|Siêu thị|C|卖药的店 là cửa hàng bán thuốc.
+2|listen|小红每天走路去上班，二十分钟就到。¶小红怎么去上班？|Taxi|Xe buýt|Xe đạp|Đi bộ|D|走路去上班 là đi bộ đi làm.
+2|listen|A：你昨天为什么没来？¶B：我生病了，在家休息。¶B昨天为什么没来？|Quên mất|Phải đi làm|Trời mưa|Bị ốm ở nhà nghỉ|D|我生病了，在家休息 là bị ốm, ở nhà nghỉ ngơi.
+2|listen|这个周末天气很好，我们去公园玩儿吧。¶他们打算做什么？|Đi mua sắm|Ở nhà|Đi bơi|Đến công viên chơi|D|去公园玩儿 là đi công viên chơi.
+2|listen|我的哥哥比我高，也比我大两岁。¶谁年纪大？|Bằng tuổi nhau|Anh trai|Không biết|Người nói|B|哥哥比我大两岁 là anh trai hơn tôi hai tuổi.
+2|listen|A：先生，您要什么？¶B：一碗米饭，两个鸡蛋。¶B要了什么？|Một bát cơm và hai quả trứng|Một quả trứng|Hai bát cơm|Một bát mì|A|一碗米饭，两个鸡蛋 là một bát cơm, hai quả trứng.
+2|listen|我八点上班，所以七点就要出门。¶他几点出门？|7 giờ|6 giờ|9 giờ|8 giờ|A|七点就要出门 là 7 giờ phải ra khỏi nhà.
+2|listen|对不起，我来晚了。路上车太多了。¶他为什么来晚了？|Ngủ dậy muộn|Trên đường nhiều xe|Xe bị hỏng|Quên giờ|B|路上车太多了 là trên đường quá nhiều xe.
+2|listen|A：你的手表真好看，在哪儿买的？¶B：是我姐姐送给我的。¶手表是怎么来的？|Tự làm|Mua ở cửa hàng|Chị gái tặng|Bạn tặng|C|是我姐姐送给我的 là chị gái tặng tôi.
+2|listen|我想去北京，可是没有时间。¶他为什么不去北京？|Không có tiền|Không thích|Không có thời gian|Sợ đi máy bay|C|可是没有时间 là nhưng không có thời gian.
+2|listen|今天我很高兴，因为我考试考得很好。¶他为什么高兴？|Nhận được quà|Được tăng lương|Được nghỉ|Thi tốt|D|考试考得很好 là thi làm bài rất tốt.
+2|listen|A：这是谁的书？¶B：不是我的，是小王的。¶书是谁的？|Của A|Của thầy giáo|Của B|Của Tiểu Vương|D|是小王的 là của Tiểu Vương.
+2|listen|请大家十点以前到教室，考试十点开始。¶几点开始考试？|9 giờ|11 giờ|10 giờ|12 giờ|C|考试十点开始 là 10 giờ bắt đầu thi.
