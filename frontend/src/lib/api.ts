@@ -1,6 +1,9 @@
 // Lớp gọi API dùng chung: tự gắn token đăng nhập và chuẩn hoá thông báo lỗi.
 const TOKEN_KEY = 'lp_token';
 
+/** Bản tĩnh miễn phí (không có backend). */
+export const FREE_MODE: boolean = typeof __FREE_MODE__ !== 'undefined' && __FREE_MODE__;
+
 export const getToken = (): string | null => {
   try {
     return localStorage.getItem(TOKEN_KEY);
@@ -68,6 +71,7 @@ export const formatDateTime = (ms: number | null | undefined): string =>
 
 /** Gọi API AI: tự gắn token; 401 mở khung đăng nhập, 429 báo hết lượt trong ngày. */
 export async function aiFetch(path: string, body: unknown, signal?: AbortSignal): Promise<Response> {
+  if (FREE_MODE) throw new ApiError('Tính năng AI chưa bật ở bản miễn phí. Các phần ôn luyện khác vẫn dùng đầy đủ.', 0);
   const res = await fetch(path, {
     method: 'POST',
     headers: authHeaders({ 'Content-Type': 'application/json' }),

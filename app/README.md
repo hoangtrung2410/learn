@@ -18,6 +18,9 @@ Cập nhật bài học: sửa `frontend/src/data/curriculum.ts` rồi chạy tr
 
 Màn hình: Lộ trình (làm bài trắc nghiệm / ghép câu / nghe), Hội thoại AI (31 tình huống), Tra cứu từ bằng AI, Hồ sơ (XP, chuỗi ngày, đổi ngôn ngữ). Chưa có: chấm phát âm bằng micro, đăng nhập.
 
+## Bản miễn phí đưa lên Vercel (không backend)
+`cd frontend && npm run build:free` tạo bản tĩnh ở `frontend/dist`: không đăng nhập, không bảng giá, mở toàn bộ nội dung, tiến độ lưu trong trình duyệt, tính năng AI tắt. Trên Vercel: import repo, đặt **Root Directory = `frontend`** (file `frontend/vercel.json` đã khai báo lệnh build), rồi Deploy.
+
 ## Bán khoá học (tài khoản, thanh toán, quản trị)
 - **Gói bán**: Miễn phí (HSK 1-2, tiếng Anh A1-A2), Premium 1 tháng / 12 tháng (mở mọi nội dung trả phí) và khoá lẻ mua một lần học vĩnh viễn (HSK 3-4, 5-6, 7-9, Anh B1-B2, C1, TOEIC, IELTS). Giá và danh mục sửa trong trang quản trị (tab **Sản phẩm**); giá khởi tạo nằm ở `backend/src/modules/db/catalog.ts`.
 - **Dữ liệu** lưu bằng SQLite tại `backend/data/linguapulse.db` (đã bỏ khỏi git). Cần Node 22.5+.

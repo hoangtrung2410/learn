@@ -20,6 +20,7 @@ import {
   Type,
   Sparkles,
 } from 'lucide-react';
+import { FREE_MODE } from '../lib/api';
 import { playPopSound } from '../utils/audio';
 
 export type AppNavTab = 'home' | 'learn' | 'study' | 'hsk-prep' | 'english-vocab' | 'speaking' | 'roleplay' | 'pinyin' | 'pricing' | 'dictionary' | 'account' | 'admin' | 'legal';
@@ -113,7 +114,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           {/* ── Brand + Language Selector ── */}
           <div className="flex items-center gap-2 sm:gap-3">
             <button
-              onClick={() => { playPopSound(); onChangeTab('home'); }}
+              onClick={() => { playPopSound(); onChangeTab(FREE_MODE ? 'learn' : 'home'); }}
               className="flex items-center gap-2.5 text-left group cursor-pointer"
             >
               <div
@@ -341,7 +342,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               <BookMarked className="w-3.5 h-3.5" />
               {currentLang === 'zh' ? 'Tra Cứu & Bộ Thủ' : 'Từ Điển & Nguồn Gốc'}
             </button>
-            <button
+            {!FREE_MODE && <button
               onClick={() => { playPopSound(); onChangeTab('pricing'); }}
               className={`nav-tab-btn shrink-0 whitespace-nowrap flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${activeTab === 'pricing' ? 'active-tab' : ''}`}
               style={activeTab === 'pricing'
@@ -349,7 +350,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                 : { color: '#fbbf24' }}
             >
               <ShoppingBag className="w-3.5 h-3.5" /> Khoá Học & Bảng Giá
-            </button>
+            </button>}
           </nav>
 
           {/* ── Gamification Stats & Auth ── */}
@@ -408,7 +409,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             )}
 
             {/* User Account / Login */}
-            {currentUser ? (
+            {FREE_MODE ? null : currentUser ? (
               <div className="relative">
                 <button
                   onClick={() => { playPopSound(); setUserMenuOpen(!userMenuOpen); }}
@@ -546,9 +547,9 @@ export const Navbar: React.FC<NavbarProps> = ({
           <button onClick={() => onChangeTab('dictionary')} className={`px-3 py-1.5 rounded-xl font-bold flex items-center gap-1 whitespace-nowrap transition-all ${activeTab === 'dictionary' ? 'bg-teal-600 text-white' : 'text-slate-400'}`}>
             {currentLang === 'zh' ? 'Tra Cứu' : 'Từ Điển'}
           </button>
-          <button onClick={() => onChangeTab('pricing')} className={`px-3 py-1.5 rounded-xl font-bold flex items-center gap-1 whitespace-nowrap transition-all ${activeTab === 'pricing' ? 'bg-amber-500 text-slate-950' : 'text-amber-400'}`}>
+          {!FREE_MODE && <button onClick={() => onChangeTab('pricing')} className={`px-3 py-1.5 rounded-xl font-bold flex items-center gap-1 whitespace-nowrap transition-all ${activeTab === 'pricing' ? 'bg-amber-500 text-slate-950' : 'text-amber-400'}`}>
             <ShoppingBag className="w-3.5 h-3.5" /> Bảng Giá
-          </button>
+          </button>}
         </div>
       </header>
     </>

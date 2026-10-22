@@ -1,4 +1,4 @@
-import { authHeaders } from '../lib/api';
+import { authHeaders, FREE_MODE } from '../lib/api';
 import { LanguageCode } from '../types';
 
 let audioCtx: AudioContext | null = null;
@@ -198,6 +198,7 @@ const ttsCache = new Map<string, string>();
 let currentAudio: HTMLAudioElement | null = null;
 
 async function fetchTtsAudio(text: string, lang: LanguageCode): Promise<string | null> {
+  if (FREE_MODE) return null;
   const key = lang + '|' + text;
   const hit = ttsCache.get(key);
   if (hit) return hit;

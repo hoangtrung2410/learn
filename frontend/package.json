@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "node node_modules/vite/bin/vite.js",
     "build": "node node_modules/vite/bin/vite.js build",
+    "build:free": "node node_modules/vite/bin/vite.js build --mode free",
     "preview": "node node_modules/vite/bin/vite.js preview",
     "lint": "node node_modules/typescript/bin/tsc --noEmit"
   },

@@ -4,7 +4,7 @@ import { AuthModal } from './components/AuthModal';
 import { FontSettingsModal } from './components/FontSettingsModal';
 import { LanguageCode, UserStats } from './types';
 import { useAccess, Product } from './lib/access';
-import { getToken } from './lib/api';
+import { getToken, FREE_MODE } from './lib/api';
 import { GotoDetail } from './lib/nav';
 import { CheckoutModal } from './components/CheckoutModal';
 import { MockPayPage, PaymentResultModal } from './components/PaymentPages';
@@ -33,7 +33,7 @@ export default function App() {
     return 'zh';
   });
   const { user: currentUser, ready, logout, isAdmin } = useAccess();
-  const [activeTab, setActiveTab] = useState<AppNavTab>(() => (getToken() ? 'learn' : 'home'));
+  const [activeTab, setActiveTab] = useState<AppNavTab>(() => (FREE_MODE || getToken() ? 'learn' : 'home'));
   const [legalPage, setLegalPage] = useState<'terms' | 'privacy' | 'refund'>('terms');
   const [pricingHighlight, setPricingHighlight] = useState<string | undefined>();
   const [checkoutProduct, setCheckoutProduct] = useState<Product | null>(null);
@@ -279,12 +279,12 @@ export default function App() {
             <span>—</span>
             <span>Nền tảng học Tiếng Trung & Ngoại ngữ tương tác</span>
           </div>
-          <nav aria-label="Liên kết chân trang" className="flex flex-wrap items-center justify-center gap-x-4 gap-y-1 text-slate-400">
+          {!FREE_MODE && <nav aria-label="Liên kết chân trang" className="flex flex-wrap items-center justify-center gap-x-4 gap-y-1 text-slate-400">
             <button onClick={() => changeTab('pricing')} className="hover:text-white cursor-pointer">Bảng giá</button>
             <button onClick={() => { setLegalPage('terms'); changeTab('legal'); }} className="hover:text-white cursor-pointer">Điều khoản</button>
             <button onClick={() => { setLegalPage('privacy'); changeTab('legal'); }} className="hover:text-white cursor-pointer">Bảo mật</button>
             <button onClick={() => { setLegalPage('refund'); changeTab('legal'); }} className="hover:text-white cursor-pointer">Hoàn tiền</button>
-          </nav>
+          </nav>}
         </div>
       </footer>
     </div>

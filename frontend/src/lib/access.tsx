@@ -1,5 +1,5 @@
 import React, { createContext, useCallback, useContext, useEffect, useMemo, useState } from 'react';
-import { api, getToken, setToken } from './api';
+import { api, getToken, setToken, FREE_MODE } from './api';
 import type { User } from '../types';
 
 export interface Entitlement {
@@ -111,6 +111,10 @@ export const AccessProvider: React.FC<{ children: React.ReactNode }> = ({ childr
 
   // Khôi phục phiên đăng nhập khi mở trang.
   useEffect(() => {
+    if (FREE_MODE) {
+      setReady(true);
+      return;
+    }
     (async () => {
       if (getToken()) {
         try {
@@ -159,7 +163,7 @@ export const AccessProvider: React.FC<{ children: React.ReactNode }> = ({ childr
       planUntil,
       entitlements,
       ai,
-      hasScope: (s: string) => scopes.includes(s),
+      hasScope: (s: string) => FREE_MODE || scopes.includes(s),
       isAdmin: user?.role === 'admin',
       setSession,
       logout,
