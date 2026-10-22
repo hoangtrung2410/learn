@@ -27,7 +27,7 @@ const StudyCenterView = lazy(() => import('./components/StudyCenterView').then((
 export default function App() {
   const [currentLang, setCurrentLang] = useState<LanguageCode>(() => {
     const saved = localStorage.getItem('linguahub_current_lang');
-    if (saved && (saved === 'zh' || saved === 'en' || saved === 'ja' || saved === 'ko')) {
+    if (saved && (saved === 'zh' || saved === 'en')) {
       return saved as LanguageCode;
     }
     return 'zh';

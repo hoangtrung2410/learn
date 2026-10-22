@@ -189,7 +189,7 @@ export const Navbar: React.FC<NavbarProps> = ({
 
                     {/* Language cards */}
                     <div className="space-y-1.5">
-                      {SUPPORTED_LANGUAGES.map((lang) => {
+                      {SUPPORTED_LANGUAGES.filter((l) => l.id === 'zh' || l.id === 'en').map((lang) => {
                         const isActive = currentLang === lang.id;
                         return (
                           <button
