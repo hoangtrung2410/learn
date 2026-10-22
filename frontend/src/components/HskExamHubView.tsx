@@ -811,7 +811,7 @@ export const HskExamHubView: React.FC<HskExamHubViewProps> = ({ onAddXp }) => {
                             >
                               <div className="flex items-center gap-3">
                                 <span className="w-7 h-7 rounded-lg bg-slate-800 border border-slate-700 font-bold text-xs flex items-center justify-center shrink-0">
-                                  {opt.key}
+                                  {opt.key === 'true' ? '✓' : opt.key === 'false' ? '✗' : opt.key}
                                 </span>
                                 <div>
                                   <p className="text-sm font-bold font-chinese">{opt.text}</p>

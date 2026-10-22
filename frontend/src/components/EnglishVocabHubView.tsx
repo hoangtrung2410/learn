@@ -334,7 +334,7 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
       {/* VIEW MODE 1: LIST VIEW */}
       {viewMode === 'list' && (
         <section className="space-y-3">
-          <div className="flex items-center justify-between text-xs text-slate-400 px-1">
+          <div className="flex flex-wrap items-center justify-between gap-x-4 gap-y-1 text-xs text-slate-400 px-1">
             <span>Hiển thị <strong>{filteredList.length}</strong> từ vựng phù hợp{lockedCount > 0 && <span className="text-amber-300"> ({lockedCount} từ cần mở khoá)</span>}</span>
             <span>Mẹo: Bấm biểu tượng loa để nghe phát âm giọng bản xứ</span>
           </div>

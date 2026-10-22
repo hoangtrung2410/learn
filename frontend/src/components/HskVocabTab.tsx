@@ -359,7 +359,7 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
       {/* ================= MODE 2: DETAILED LIST VIEW ================= */}
       {!locked && viewMode === 'list' && (
         <div className="space-y-4">
-          <div className="flex items-center justify-between text-xs text-slate-400">
+          <div className="flex flex-wrap items-center justify-between gap-x-4 gap-y-1 text-xs text-slate-400">
             <span>
               Hiển thị <strong>{filteredList.length}</strong> từ vựng ({selectedLevel === 7 ? 'HSK 7-9' : `HSK ${selectedLevel}`})
             </span>
