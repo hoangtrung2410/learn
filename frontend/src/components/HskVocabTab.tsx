@@ -32,6 +32,7 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
   const [flashcardIdx, setFlashcardIdx] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
   const [allVocab, setAllVocab] = useState<HskVocabItem[]>(HSK_VOCABULARY_LIST);
+  const [loaded, setLoaded] = useState(false);
   const [page, setPage] = useState(0);
   const [masteredIds, setMasteredIds] = useState<Record<string, boolean>>(() => {
     try {
@@ -42,7 +43,10 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
   });
 
   useEffect(() => {
-    loadZhVocab().then(setAllVocab);
+    loadZhVocab()
+      .then(setAllVocab)
+      .catch(() => {})
+      .finally(() => setLoaded(true));
   }, []);
 
   useEffect(() => {
@@ -99,6 +103,10 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
   };
 
   const currentFlashcard = filteredList[flashcardIdx] || filteredList[0];
+
+  if (!loaded) {
+    return <div className="py-24 text-center text-sm text-slate-400 animate-pulse">Đang tải kho từ vựng…</div>;
+  }
 
   return (
     <div className="space-y-6 animate-in fade-in">

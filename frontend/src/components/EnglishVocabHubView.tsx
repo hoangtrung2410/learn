@@ -33,9 +33,13 @@ const LEVELS = ['Tất cả', 'A1', 'A2', 'B1', 'B2', 'C1'] as const;
 
 export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddXp }) => {
   const [allVocab, setAllVocab] = useState<EnglishVocabItem[]>(ENGLISH_VOCABULARY_1000);
+  const [loaded, setLoaded] = useState(false);
   useEffect(() => {
     let alive = true;
-    loadEnVocab().then((v) => { if (alive) setAllVocab(v); }).catch(() => {});
+    loadEnVocab()
+      .then((v) => { if (alive) setAllVocab(v); })
+      .catch(() => {})
+      .finally(() => { if (alive) setLoaded(true); });
     return () => { alive = false; };
   }, []);
   const topics = useMemo(() => {
@@ -176,6 +180,10 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
     setSelectedOption(null);
     setQuizQuestionIdx((prev) => prev + 1);
   };
+
+  if (!loaded) {
+    return <div className="py-24 text-center text-sm text-slate-400 animate-pulse">Đang tải kho từ vựng…</div>;
+  }
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 py-6 space-y-6 animate-in fade-in">
