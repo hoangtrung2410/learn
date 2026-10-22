@@ -1,4 +1,4 @@
-import { aiFetch, authHeaders } from '../lib/api';
+import { aiFetch, authHeaders, ApiError } from '../lib/api';
 import React, { useState, useRef, useEffect } from 'react';
 import { LanguageCode, RoleplayScenario, ChatMessage } from '../types';
 import { CHINESE_ROLEPLAY_SCENARIOS, ENGLISH_ROLEPLAY_SCENARIOS } from '../data/curriculum';
@@ -419,7 +419,7 @@ export const AiRoleplayView: React.FC<AiRoleplayViewProps> = ({ currentLang, onA
           {
             id: aiId,
             role: 'assistant',
-            content: 'Xin lỗi, AI chưa phản hồi được. Bạn bấm "Thử lại" nhé.',
+            content: err instanceof ApiError ? err.message : 'Xin lỗi, AI chưa phản hồi được. Bạn bấm "Thử lại" nhé.',
             timestamp: Date.now(),
             error: true,
           },
