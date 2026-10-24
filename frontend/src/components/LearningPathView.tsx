@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { CHINESE_UNITS, ENGLISH_UNITS } from '../data/curriculum';
 import { LanguageCode, Lesson, Unit } from '../types';
 import { LessonModal } from './LessonModal';
+import { DailyPlan } from './DailyPlan';
 import { playPopSound } from '../utils/audio';
 import {
   Check,
@@ -30,9 +31,12 @@ export const LearningPathView: React.FC<LearningPathViewProps> = ({
 }) => {
   const units: Unit[] = currentLang === 'zh' ? CHINESE_UNITS : ENGLISH_UNITS;
   const [activeLesson, setActiveLesson] = useState<Lesson | null>(null);
+  const nextLesson = units.flatMap((u) => u.lessons).find((l) => !completedLessonIds.includes(l.id)) || null;
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8 space-y-12">
+      <DailyPlan onStartLesson={() => nextLesson && setActiveLesson(nextLesson)} />
+
       {/* Duolingo Mascot Hero Banner */}
       <div className="bg-gradient-to-r from-emerald-900/40 via-teal-900/30 to-slate-900/60 p-6 sm:p-8 rounded-3xl border border-emerald-500/20 shadow-2xl flex flex-col sm:flex-row items-center justify-between gap-6">
         <div className="flex items-center gap-5 text-center sm:text-left">

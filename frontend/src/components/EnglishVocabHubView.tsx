@@ -4,6 +4,7 @@ import { loadEnVocab } from '../data/packLoader';
 import { useAccess, enLevelScope, SCOPE_LABEL, scopeProductId } from '../lib/access';
 import { LockedPanel } from './LockedPanel';
 import { goPricing } from '../lib/nav';
+import { logActivity } from '../lib/daily';
 import { speakNativeText, playPopSound, playSuccessSound, playErrorSound } from '../utils/audio';
 import {
   Search,
@@ -118,6 +119,7 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
     playSuccessSound();
     const updated = { ...masteredIds, [id]: true };
     setMasteredIds(updated);
+    logActivity('word');
     try {
       localStorage.setItem('linguahub_mastered_en_vocab', JSON.stringify(updated));
     } catch {}
@@ -159,6 +161,7 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
     if (isQuizAnswered || !currentQuizWord) return;
     setSelectedOption(optionMeaning);
     setIsQuizAnswered(true);
+    logActivity('quiz');
 
     if (optionMeaning === currentQuizWord.meaningVi) {
       playSuccessSound();

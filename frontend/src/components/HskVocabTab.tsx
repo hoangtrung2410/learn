@@ -4,6 +4,7 @@ import { loadZhVocab } from '../data/packLoader';
 import { VocabPager, VOCAB_PAGE_SIZE } from './VocabPager';
 import { useAccess, zhLevelScope } from '../lib/access';
 import { LockedPanel, LockIcon } from './LockedPanel';
+import { logActivity } from '../lib/daily';
 import { speakNativeText, playPopSound, playSuccessSound } from '../utils/audio';
 import {
   Search,
@@ -94,6 +95,7 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
     if (e) e.stopPropagation();
     playSuccessSound();
     setMasteredIds((prev) => ({ ...prev, [id]: true }));
+    logActivity('word');
     onAddXp(10);
     confetti({
       particleCount: 40,

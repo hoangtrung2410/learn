@@ -6,6 +6,7 @@ import { LanguageCode, UserStats } from './types';
 import { useAccess, Product } from './lib/access';
 import { getToken, FREE_MODE } from './lib/api';
 import { GotoDetail } from './lib/nav';
+import { logActivity, getStreak } from './lib/daily';
 import { CheckoutModal } from './components/CheckoutModal';
 import { MockPayPage, PaymentResultModal } from './components/PaymentPages';
 
@@ -67,7 +68,7 @@ export default function App() {
     }
     return {
       xp: 250,
-      streak: 7,
+      streak: 0,
       hearts: 5,
       maxHearts: 5,
       gems: 850,
@@ -81,6 +82,14 @@ export default function App() {
     localStorage.setItem('linguahub_stats', JSON.stringify(stats));
   }, [stats]);
 
+  // Chuỗi ngày học thật, tính từ nhật ký học hằng ngày.
+  useEffect(() => {
+    const sync = () => setStats((prev) => (prev.streak === getStreak() ? prev : { ...prev, streak: getStreak() }));
+    sync();
+    window.addEventListener('lp:daily', sync);
+    return () => window.removeEventListener('lp:daily', sync);
+  }, []);
+
   const handleAddXp = (amount: number) => {
     setStats((prev) => ({
       ...prev,
@@ -91,11 +100,11 @@ export default function App() {
   };
 
   const handleFinishLesson = (xpEarned: number, lessonId: string) => {
+    logActivity('lesson');
     setStats((prev) => ({
       ...prev,
       xp: prev.xp + xpEarned,
       gems: prev.gems + 15,
-      streak: prev.streak + 1,
       completedLessons: prev.completedLessons.includes(lessonId)
         ? prev.completedLessons
         : [...prev.completedLessons, lessonId],

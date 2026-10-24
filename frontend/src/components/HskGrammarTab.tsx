@@ -14,6 +14,7 @@ import {
 import confetti from 'canvas-confetti';
 import { useAccess, zhLevelScope } from '../lib/access';
 import { LockedPanel, LockIcon } from './LockedPanel';
+import { logActivity } from '../lib/daily';
 
 interface HskGrammarTabProps {
   onAddXp: (amount: number) => void;
@@ -37,6 +38,7 @@ export const HskGrammarTab: React.FC<HskGrammarTabProps> = ({ onAddXp }) => {
   const handleMasterGrammar = (id: string) => {
     playSuccessSound();
     setMasteredGrammarIds((prev) => ({ ...prev, [id]: true }));
+    logActivity('grammar');
     onAddXp(15);
     confetti({
       particleCount: 50,

@@ -25,6 +25,7 @@ import {
 import { speakNativeText, playPopSound, playSuccessSound, playErrorSound } from '../utils/audio';
 import { useAccess, zhLevelScope, enLevelScope } from '../lib/access';
 import { LockedPanel } from './LockedPanel';
+import { logActivity } from '../lib/daily';
 
 const levelScope = (lang: 'zh' | 'en', level: string, type?: string): string =>
   lang === 'zh' ? zhLevelScope(Number(level)) : enLevelScope(level, type === 'ielts' || type === 'toeic' ? type : undefined);
@@ -271,6 +272,7 @@ const SrsPanel: React.FC<{ lang: 'zh' | 'en'; onAddXp: (n: number) => void }> = 
     setDone((d) => d + 1);
     setFlipped(false);
     if (grade === 2) onAddXp(2);
+    logActivity('srs');
     playPopSound();
   };
 
@@ -577,6 +579,7 @@ const QuizPanel: React.FC<{ lang: 'zh' | 'en'; onAddXp: (n: number) => void }> =
     });
     setWrongIds(Array.from(newWrong));
     onAddXp(right * 3);
+    logActivity('quiz', Object.keys(answers).length);
     if (right / Math.max(1, qs.length) >= 0.6) playSuccessSound();
   };
 

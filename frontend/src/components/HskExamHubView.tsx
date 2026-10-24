@@ -9,6 +9,7 @@ import {
 import { speakNativeText, playPopSound, playSuccessSound, playErrorSound } from '../utils/audio';
 import { useAccess, zhLevelScope, scopeProductId } from '../lib/access';
 import { goPricing } from '../lib/nav';
+import { logActivity } from '../lib/daily';
 import {
   GraduationCap,
   BookOpen,
@@ -157,6 +158,7 @@ export const HskExamHubView: React.FC<HskExamHubViewProps> = ({ onAddXp }) => {
     if (examSubmitted || !currentExam) return;
     setIsTimerRunning(false);
     setExamSubmitted(true);
+    logActivity('quiz', Object.keys(userAnswers).length);
 
     // Calculate score
     let correctCount = 0;
