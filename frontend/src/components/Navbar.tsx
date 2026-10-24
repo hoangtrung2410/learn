@@ -103,10 +103,8 @@ export const Navbar: React.FC<NavbarProps> = ({
       <header
         className="sticky top-0 z-40"
         style={{
-          background: 'rgba(8, 12, 24, 0.96)',
+          background: 'rgb(8, 12, 24)',
           borderBottom: '1px solid rgba(255,255,255,0.06)',
-          backdropFilter: 'blur(24px)',
-          WebkitBackdropFilter: 'blur(24px)',
         }}
       >
         <div className="max-w-7xl mx-auto px-3 sm:px-6 h-16 lg:h-auto lg:min-h-16 lg:py-2 flex items-center justify-between lg:flex-wrap gap-2 sm:gap-4 lg:gap-y-2">
@@ -173,8 +171,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                       background: 'rgba(10, 14, 28, 0.98)',
                       border: '1px solid rgba(255,255,255,0.1)',
                       boxShadow: '0 32px 80px rgba(0,0,0,0.7), 0 0 0 1px rgba(255,255,255,0.04)',
-                      backdropFilter: 'blur(24px)',
-                    }}
+                                          }}
                   >
                     {/* Dropdown header */}
                     <div
@@ -450,8 +447,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                         background: 'rgba(10, 14, 28, 0.98)',
                         border: '1px solid rgba(255,255,255,0.1)',
                         boxShadow: '0 24px 64px rgba(0,0,0,0.65)',
-                        backdropFilter: 'blur(24px)',
-                      }}
+                                              }}
                     >
                       <div className="p-2" style={{ borderBottom: '1px solid rgba(255,255,255,0.06)' }}>
                         <p className="text-xs font-bold text-white flex items-center gap-1.5">
