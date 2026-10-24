@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { X, ShieldCheck, User as UserIcon, Lock, ArrowRight, KeyRound, CheckCircle2, Mail, Eye, EyeOff } from 'lucide-react';
 import { api } from '../lib/api';
 import { useAccess } from '../lib/access';
+import { CLOUD_AUTH, getCloud, cloudErrorMessage } from '../lib/cloud';
 import { playPopSound, playSuccessSound } from '../utils/audio';
 
 interface AuthModalProps {
@@ -51,6 +52,13 @@ export const AuthModal: React.FC<AuthModalProps> = ({ isOpen, onClose, initialTa
   if (!isOpen) return null;
 
   const validate = (): string | null => {
+    if (CLOUD_AUTH) {
+      if (!EMAIL_RE.test(email.trim())) return 'Email không hợp lệ.';
+      if (tab === 'login') return password ? null : 'Vui lòng nhập mật khẩu.';
+      if (password.length < 8) return 'Mật khẩu phải có ít nhất 8 ký tự.';
+      if (password !== confirm) return 'Mật khẩu nhập lại không khớp.';
+      return agree ? null : 'Bạn cần đồng ý với Điều khoản sử dụng và Chính sách bảo mật.';
+    }
     if (tab === 'login') return !username.trim() || !password ? 'Vui lòng nhập tên đăng nhập (hoặc email) và mật khẩu.' : null;
     if (!USERNAME_RE.test(username.trim().toLowerCase())) return 'Tên đăng nhập gồm 3-30 ký tự: chữ thường, số, dấu . _ -';
     if (!EMAIL_RE.test(email.trim())) return 'Email không hợp lệ.';
@@ -67,6 +75,38 @@ export const AuthModal: React.FC<AuthModalProps> = ({ isOpen, onClose, initialTa
     const v = validate();
     if (v) return setError(v);
     setLoading(true);
+    if (CLOUD_AUTH) {
+      try {
+        const cloud = await getCloud();
+        const mail = email.trim().toLowerCase();
+        if (tab === 'login') {
+          const u = await cloud.signIn(mail, password);
+          setSuccess('Đăng nhập thành công!');
+          setSession(u, '');
+        } else {
+          const r = await cloud.signUp(mail, password, name.trim());
+          if (r.needsConfirm || !r.user) {
+            setSuccess('Đã gửi email xác nhận. Mở email, bấm vào liên kết xác nhận rồi quay lại đăng nhập.');
+            setLoading(false);
+            return;
+          }
+          setSuccess('Đăng ký thành công!');
+          setSession(r.user, '');
+        }
+        playSuccessSound();
+        setPassword('');
+        setConfirm('');
+        setTimeout(() => {
+          onClose();
+          onSuccess?.();
+        }, 600);
+      } catch (err: any) {
+        setError(cloudErrorMessage(err));
+      } finally {
+        setLoading(false);
+      }
+      return;
+    }
     try {
       const data = await api(tab === 'login' ? '/api/auth/login' : '/api/auth/register', {
         body: tab === 'login' ? { username, password } : { username, email, password, name },
@@ -137,6 +177,7 @@ export const AuthModal: React.FC<AuthModalProps> = ({ isOpen, onClose, initialTa
             </div>
           )}
 
+          {!CLOUD_AUTH && (
           <div>
             <label htmlFor="auth-username" className="block text-xs font-bold text-slate-300 mb-1.5">{tab === 'login' ? 'Tên đăng nhập hoặc email' : 'Tên đăng nhập'}</label>
             <div className="relative">
@@ -144,8 +185,9 @@ export const AuthModal: React.FC<AuthModalProps> = ({ isOpen, onClose, initialTa
               <input id="auth-username" type="text" autoComplete="username" autoCapitalize="none" value={username} onChange={(e) => setUsername(e.target.value)} placeholder={tab === 'login' ? 'user_abc hoặc email@gmail.com' : 'Ví dụ: user_abc'} className={inputCls + ' font-mono'} />
             </div>
           </div>
+          )}
 
-          {tab === 'register' && (
+          {(tab === 'register' || CLOUD_AUTH) && (
             <div>
               <label htmlFor="auth-email" className="block text-xs font-bold text-slate-300 mb-1.5">Email</label>
               <div className="relative">

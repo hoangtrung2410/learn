@@ -9,6 +9,8 @@ import { GotoDetail } from './lib/nav';
 import { logActivity, getStreak } from './lib/daily';
 import { CheckoutModal } from './components/CheckoutModal';
 import { MockPayPage, PaymentResultModal } from './components/PaymentPages';
+import { LoginWall } from './components/LoginWall';
+import { AUTH_REQUIRED } from './lib/cloud';
 
 // Mỗi màn hình tải riêng khi mở lần đầu, giúp trang chủ nhẹ và mở nhanh.
 const LearningPathView = lazy(() => import('./components/LearningPathView').then((m) => ({ default: m.LearningPathView })));
@@ -188,11 +190,16 @@ export default function App() {
         currentUser={currentUser}
         onOpenAuth={() => { setAuthTab('login'); setAuthNotice(null); setAuthModalOpen(true); }}
         onOpenFontSettings={() => setFontModalOpen(true)}
-        onLogout={() => { logout(); changeTab('home'); }}
+        onLogout={() => { logout(); changeTab(FREE_MODE ? 'learn' : 'home'); }}
       />
 
       {/* Main View Area */}
       <main className="flex-1 pb-16 overflow-x-hidden">
+        {AUTH_REQUIRED && !ready ? (
+          <div className="py-24 text-center text-sm text-slate-400 animate-pulse">Đang tải…</div>
+        ) : AUTH_REQUIRED && !currentUser && !['home', 'pricing', 'legal'].includes(activeTab) ? (
+          <LoginWall onOpenAuth={(tab) => { setAuthTab(tab); setAuthNotice('Đăng nhập để vào học.'); setAuthModalOpen(true); }} />
+        ) : (
         <Suspense fallback={<div className="py-24 text-center text-sm text-slate-400 animate-pulse">Đang tải…</div>}>
         {activeTab === 'home' && (
           <HomeView
@@ -242,6 +249,7 @@ export default function App() {
 
         {activeTab === 'legal' && <LegalView page={legalPage} onChangePage={setLegalPage} />}
         </Suspense>
+        )}
       </main>
 
       {/* Auth Modal */}

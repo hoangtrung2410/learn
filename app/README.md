@@ -21,6 +21,17 @@ Màn hình: Lộ trình (làm bài trắc nghiệm / ghép câu / nghe), Hội t
 ## Bản miễn phí đưa lên Vercel (không backend)
 `cd frontend && npm run build:free` tạo bản tĩnh ở `frontend/dist`: không đăng nhập, không bảng giá, mở toàn bộ nội dung, tiến độ lưu trong trình duyệt, tính năng AI tắt. Trên Vercel: import repo, đặt **Root Directory = `frontend`** (file `frontend/vercel.json` đã khai báo lệnh build), rồi Deploy.
 
+### Bắt buộc đăng nhập mới được học (bản Vercel, dùng Supabase miễn phí)
+Bản miễn phí không có backend riêng nên tài khoản và tiến độ học lưu ở **Supabase** (gói miễn phí). Chưa cấu hình thì web vẫn mở, ai cũng học được.
+1. Vào supabase.com, đăng nhập bằng GitHub, **New project** (chọn vùng Singapore), chờ khoảng 2 phút.
+2. **SQL Editor** → dán toàn bộ file `supabase/schema.sql` → Run (tạo bảng lưu tiến độ, mỗi người chỉ đọc/ghi được dòng của mình).
+3. **Authentication → Providers → Email**: tắt "Confirm email" nếu muốn đăng ký xong học luôn (để bật thì người học phải bấm link trong email).
+4. **Authentication → URL Configuration**: đặt Site URL là địa chỉ web của bạn.
+5. **Project Settings → API**: copy *Project URL* và *anon public key* (khoá công khai, không bí mật).
+6. Vercel → Project → Settings → Environment Variables: thêm `VITE_SUPABASE_URL` và `VITE_SUPABASE_ANON_KEY` (xem `frontend/.env.example`), rồi **Redeploy**.
+Từ đó chưa đăng nhập thì chỉ thấy màn "Đăng nhập để bắt đầu học". Tiến độ (ôn tập, chuỗi ngày, từ đã thuộc) tự đồng bộ theo tài khoản mỗi 8 giây. Gói Supabase miễn phí có thể bị tạm dừng nếu cả tuần không ai dùng (vào bảng điều khiển bấm Restore).
+Thử trên máy không cần Supabase: `cd frontend && VITE_FAKE_AUTH=1 npm run dev -- --mode free` (đăng nhập giả, chỉ có ở bản dev).
+
 ## Bán khoá học (tài khoản, thanh toán, quản trị)
 - **Gói bán**: Miễn phí (HSK 1-2, tiếng Anh A1-A2), Premium 1 tháng / 12 tháng (mở mọi nội dung trả phí) và khoá lẻ mua một lần học vĩnh viễn (HSK 3-4, 5-6, 7-9, Anh B1-B2, C1, TOEIC, IELTS). Giá và danh mục sửa trong trang quản trị (tab **Sản phẩm**); giá khởi tạo nằm ở `backend/src/modules/db/catalog.ts`.
 - **Dữ liệu** lưu bằng SQLite tại `backend/data/linguapulse.db` (đã bỏ khỏi git). Cần Node 22.5+.

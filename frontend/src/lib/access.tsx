@@ -1,5 +1,6 @@
-import React, { createContext, useCallback, useContext, useEffect, useMemo, useState } from 'react';
+import React, { createContext, useCallback, useContext, useEffect, useMemo, useRef, useState } from 'react';
 import { api, getToken, setToken, FREE_MODE } from './api';
+import { CLOUD_AUTH, getCloud, pullProgress, startAutoSync, stopAutoSync, flushProgress, clearLocalProgress } from './cloud';
 import type { User } from '../types';
 
 export interface Entitlement {
@@ -73,6 +74,7 @@ export const scopeProductId = (scope: string): string => `course-${scope}`;
 
 export const AccessProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [user, setUser] = useState<User | null>(null);
+  const cloudUserId = useRef<string | null>(null);
   const [ready, setReady] = useState(false);
   const [scopes, setScopes] = useState<string[]>(FREE);
   const [tier, setTier] = useState<AccessState['tier']>('free');
@@ -109,8 +111,51 @@ export const AccessProvider: React.FC<{ children: React.ReactNode }> = ({ childr
     }
   }, [loadAccess]);
 
+  // Bản miễn phí dùng Supabase: lấy tiến độ từ tài khoản về máy, rồi tự đẩy thay đổi lên.
+  const syncAfterLogin = useCallback(async (u: User) => {
+    try {
+      const r = await pullProgress(u.id);
+      if (r === 'reload') {
+        window.location.reload();
+        return;
+      }
+    } catch {
+      /* chưa đồng bộ được: vẫn cho học, lần sau thử lại */
+    }
+    startAutoSync(u.id);
+  }, []);
+
   // Khôi phục phiên đăng nhập khi mở trang.
   useEffect(() => {
+    if (CLOUD_AUTH) {
+      let off: (() => void) | undefined;
+      let alive = true;
+      (async () => {
+        try {
+          const cloud = await getCloud();
+          const u = await cloud.getUser();
+          if (!alive) return;
+          if (u) {
+            cloudUserId.current = u.id;
+            setUser(u);
+            await syncAfterLogin(u);
+          }
+          off = cloud.onChange((next) => {
+            const cur = cloudUserId.current;
+            if (next && cur !== next.id) void syncAfterLogin(next);
+            if (!next && cur) stopAutoSync();
+            cloudUserId.current = next ? next.id : null;
+            setUser(next);
+          });
+        } finally {
+          if (alive) setReady(true);
+        }
+      })();
+      return () => {
+        alive = false;
+        off?.();
+      };
+    }
     if (FREE_MODE) {
       setReady(true);
       return;
@@ -128,7 +173,7 @@ export const AccessProvider: React.FC<{ children: React.ReactNode }> = ({ childr
       }
       setReady(true);
     })();
-  }, [loadAccess, reset]);
+  }, [loadAccess, reset, syncAfterLogin]);
 
   // Token hết hạn / bị thu hồi → về trạng thái chưa đăng nhập.
   useEffect(() => {
@@ -142,14 +187,34 @@ export const AccessProvider: React.FC<{ children: React.ReactNode }> = ({ childr
 
   const setSession = useCallback(
     (u: User, token: string) => {
+      if (CLOUD_AUTH) {
+        if (cloudUserId.current !== u.id) void syncAfterLogin(u);
+        cloudUserId.current = u.id;
+        setUser(u);
+        return;
+      }
       setToken(token);
       setUser(u);
       loadAccess().catch(() => {});
     },
-    [loadAccess],
+    [loadAccess, syncAfterLogin],
   );
 
   const logout = useCallback(() => {
+    if (CLOUD_AUTH) {
+      void (async () => {
+        try {
+          await flushProgress();
+          stopAutoSync();
+          const cloud = await getCloud();
+          await cloud.signOut();
+        } finally {
+          clearLocalProgress(); // máy dùng chung: không để tiến độ người này lọt sang người sau
+          window.location.reload();
+        }
+      })();
+      return;
+    }
     setToken(null);
     reset();
   }, [reset]);

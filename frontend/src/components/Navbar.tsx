@@ -21,6 +21,7 @@ import {
   Sparkles,
 } from 'lucide-react';
 import { FREE_MODE } from '../lib/api';
+import { CLOUD_AUTH } from '../lib/cloud';
 import { playPopSound } from '../utils/audio';
 
 export type AppNavTab = 'home' | 'learn' | 'study' | 'hsk-prep' | 'english-vocab' | 'speaking' | 'roleplay' | 'pinyin' | 'pricing' | 'dictionary' | 'account' | 'admin' | 'legal';
@@ -406,7 +407,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             )}
 
             {/* User Account / Login */}
-            {FREE_MODE ? null : currentUser ? (
+            {FREE_MODE && !CLOUD_AUTH ? null : currentUser ? (
               <div className="relative">
                 <button
                   onClick={() => { playPopSound(); setUserMenuOpen(!userMenuOpen); }}
@@ -472,14 +473,14 @@ export const Navbar: React.FC<NavbarProps> = ({
                         </button>
                       )}
 
-                      <button
+                      {!FREE_MODE && <button
                         onClick={() => { playPopSound(); setUserMenuOpen(false); onChangeTab('account'); }}
                         className="w-full flex items-center gap-2 px-3 py-2 rounded-xl text-left text-xs transition-colors cursor-pointer hover:bg-white/5"
                         style={{ color: 'rgba(255,255,255,0.6)' }}
                       >
                         <Shield className="w-4 h-4 text-purple-400" />
                         Tài khoản & đơn hàng
-                      </button>
+                      </button>}
 
                       <button
                         onClick={() => { playPopSound(); setUserMenuOpen(false); onLogout(); }}
