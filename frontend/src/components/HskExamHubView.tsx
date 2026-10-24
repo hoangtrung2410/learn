@@ -210,13 +210,13 @@ export const HskExamHubView: React.FC<HskExamHubViewProps> = ({ onAddXp }) => {
   return (
     <div className="max-w-6xl mx-auto px-4 py-8 space-y-8">
       {/* Header Banner */}
-      <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 bg-gradient-to-r from-red-900/40 via-amber-900/30 to-purple-900/40 p-6 sm:p-8 rounded-3xl border border-amber-500/30 shadow-xl">
-        <div className="flex items-center gap-4">
-          <div className="w-16 h-16 rounded-2xl bg-amber-500/20 border border-amber-500/40 flex items-center justify-center text-3xl shadow-lg shadow-amber-500/10">
+      <div className="flex flex-col xl:flex-row xl:items-center justify-between gap-6 bg-gradient-to-r from-red-900/40 via-amber-900/30 to-purple-900/40 p-6 sm:p-8 rounded-3xl border border-amber-500/30 shadow-xl">
+        <div className="flex items-center gap-4 min-w-0">
+          <div className="w-16 h-16 shrink-0 rounded-2xl bg-amber-500/20 border border-amber-500/40 flex items-center justify-center text-3xl shadow-lg shadow-amber-500/10">
             🎓
           </div>
-          <div>
-            <div className="flex items-center gap-2">
+          <div className="min-w-0">
+            <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
               <h1 className="text-2xl sm:text-3xl font-black text-white">
                 Trung Tâm Ôn Thi HSK & Luyện Đề Chuẩn
               </h1>
@@ -231,7 +231,7 @@ export const HskExamHubView: React.FC<HskExamHubViewProps> = ({ onAddXp }) => {
         </div>
 
         {/* Tab switch buttons */}
-        <div className="flex flex-wrap items-center gap-1.5 p-1.5 rounded-2xl bg-slate-900/90 border border-slate-700 self-start md:self-auto shrink-0">
+        <div className="flex flex-wrap items-center gap-1.5 p-1.5 rounded-2xl bg-slate-900/90 border border-slate-700 w-full xl:w-auto">
           <button
             onClick={() => {
               playPopSound();
@@ -347,9 +347,9 @@ export const HskExamHubView: React.FC<HskExamHubViewProps> = ({ onAddXp }) => {
 
           {/* Selected Level Deep-Dive Card */}
           <div className="bg-slate-800/90 rounded-3xl p-6 sm:p-8 border border-slate-700 shadow-2xl relative overflow-hidden space-y-6">
-            <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 pb-6 border-b border-slate-700/80">
-              <div>
-                <div className="flex items-center gap-3">
+            <div className="flex flex-col xl:flex-row xl:items-center justify-between gap-4 pb-6 border-b border-slate-700/80">
+              <div className="min-w-0">
+                <div className="flex flex-wrap items-center gap-x-3 gap-y-2">
                   <span className="px-3 py-1 rounded-xl bg-amber-500/20 border border-amber-500/40 text-amber-300 font-extrabold text-xs">
                     {selectedLevel.badge}
                   </span>
@@ -363,7 +363,7 @@ export const HskExamHubView: React.FC<HskExamHubViewProps> = ({ onAddXp }) => {
               </div>
 
               {/* Action Buttons for this Level */}
-              <div className="flex flex-wrap items-center gap-2 shrink-0">
+              <div className="flex flex-wrap items-center gap-2 xl:shrink-0">
                 {HSK_MOCK_EXAMS.find((m) => m.hskLevel === selectedLevel.level) && (
                   <button
                     onClick={() => {
