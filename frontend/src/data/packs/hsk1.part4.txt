@@ -1,0 +1,85 @@
+杯|cốc, ly; lượng từ cốc|Lượng từ|bôi|我想喝一杯水。|Tôi muốn uống một cốc nước.
+边|bên, phía|Danh từ|biên|书在桌子旁边。|Sách ở bên cạnh bàn.
+病|bệnh; ốm|Danh từ|bệnh|他昨天生病了。|Hôm qua anh ấy bị ốm.
+病人|bệnh nhân|Danh từ|bệnh nhân|医院里有很多病人。|Trong bệnh viện có rất nhiều bệnh nhân.
+不要|đừng; không cần|Phó từ|bất yếu|你不要说话。|Bạn đừng nói chuyện.
+唱|hát|Động từ|xướng|她会唱中国歌。|Cô ấy biết hát bài hát Trung Quốc.
+车|xe|Danh từ|xa|那辆车很新。|Chiếc xe kia rất mới.
+大学|đại học|Danh từ|đại học|我在大学学习汉语。|Tôi học tiếng Trung ở trường đại học.
+大学生|sinh viên đại học|Danh từ|đại học sinh|他是大学生。|Anh ấy là sinh viên đại học.
+第|thứ (đứng trước số để chỉ thứ tự)|Trợ từ|đệ|今天是第一天上课。|Hôm nay là ngày đầu tiên đi học.
+电话|điện thoại|Danh từ|điện thoại|我的电话在桌子上。|Điện thoại của tôi ở trên bàn.
+电影院|rạp chiếu phim|Danh từ|điện ảnh viện|我们明天去电影院看电影。|Ngày mai chúng tôi đi rạp xem phim.
+店|cửa hàng, tiệm|Danh từ|điếm|这家店很大。|Cửa hàng này rất lớn.
+读书|đọc sách; đi học|Động từ|độc thư|他每天晚上读书。|Tối nào anh ấy cũng đọc sách.
+饭|cơm; bữa ăn|Danh từ|phạn|我想吃饭。|Tôi muốn ăn cơm.
+歌|bài hát|Danh từ|ca|这首歌很好听。|Bài hát này rất hay.
+国|nước, quốc gia|Danh từ|quốc|你是哪国人？|Bạn là người nước nào?
+好看|đẹp, dễ nhìn|Tính từ||这件衣服很好看。|Chiếc áo này rất đẹp.
+好听|hay, nghe êm tai|Tính từ||她的声音很好听。|Giọng của cô ấy rất dễ nghe.
+好玩儿|vui, thú vị|Tính từ||这个地方很好玩儿。|Nơi này rất vui.
+后|sau|Danh từ|hậu|下课后我去吃饭。|Sau khi tan học tôi đi ăn cơm.
+火车|tàu hỏa|Danh từ|hỏa xa|我坐火车去北京。|Tôi đi tàu hỏa đến Bắc Kinh.
+家人|người nhà|Danh từ|gia nhân|我的家人都很好。|Người nhà tôi đều khỏe.
+见|gặp|Động từ|kiến|明天见！|Ngày mai gặp nhé!
+斤|cân (nửa ký)|Lượng từ|cân|我买两斤苹果。|Tôi mua hai cân táo.
+今年|năm nay|Danh từ|kim niên|今年我二十岁。|Năm nay tôi hai mươi tuổi.
+开车|lái xe|Động từ|khai xa|爸爸会开车。|Bố biết lái xe.
+看病|khám bệnh|Động từ|khán bệnh|他去医院看病。|Anh ấy đến bệnh viện khám bệnh.
+没事|không sao; rảnh|Cụm từ|một sự|没事，别担心。|Không sao đâu, đừng lo.
+们|(hậu tố chỉ số nhiều)|Trợ từ||老师们都很好。|Các thầy cô đều rất tốt.
+面条儿|mì sợi|Danh từ||我想吃面条儿。|Tôi muốn ăn mì.
+明年|năm sau|Danh từ|minh niên|明年我去中国。|Sang năm tôi đi Trung Quốc.
+哪个|cái nào|Đại từ||你要哪个？|Bạn muốn cái nào?
+哪里|ở đâu|Đại từ||你住在哪里？|Bạn sống ở đâu?
+哪些|những cái nào|Đại từ||你喜欢哪些书？|Bạn thích những cuốn sách nào?
+那边|bên kia|Đại từ||商店在那边。|Cửa hàng ở bên kia.
+那个|cái kia, người kia|Đại từ||那个人是我朋友。|Người kia là bạn tôi.
+那里|ở đó|Đại từ||那里有一家书店。|Ở đó có một hiệu sách.
+那儿|ở đó|Đại từ||他在那儿工作。|Anh ấy làm việc ở đó.
+那些|những cái kia|Đại từ||那些书是我的。|Những cuốn sách kia là của tôi.
+男朋友|bạn trai|Danh từ|nam bằng hữu|她的男朋友是老师。|Bạn trai của cô ấy là giáo viên.
+你们|các bạn|Đại từ||你们好！|Chào các bạn!
+女朋友|bạn gái|Danh từ|nữ bằng hữu|他有女朋友了。|Anh ấy có bạn gái rồi.
+前|trước|Danh từ|tiền|吃饭前要洗手。|Trước khi ăn cơm phải rửa tay.
+前边|phía trước|Danh từ|tiền biên|前边有一个商店。|Phía trước có một cửa hàng.
+请问|xin hỏi|Động từ|thỉnh vấn|请问，洗手间在哪儿？|Xin hỏi, nhà vệ sinh ở đâu?
+上课|lên lớp, vào học|Động từ|thượng khóa|我们八点上课。|Chúng tôi vào học lúc tám giờ.
+上学|đi học|Động từ|thượng học|弟弟今年上学了。|Năm nay em trai bắt đầu đi học.
+事|việc|Danh từ|sự|我有一件事。|Tôi có một việc.
+书店|hiệu sách|Danh từ|thư điếm|我去书店买书。|Tôi đến hiệu sách mua sách.
+睡|ngủ|Động từ|thụy|他已经睡了。|Anh ấy đã ngủ rồi.
+他们|họ, bọn họ (nam hoặc chung)|Đại từ||他们是我的同学。|Họ là bạn học của tôi.
+它们|chúng nó (vật, con vật)|Đại từ||它们都很可爱。|Chúng đều rất đáng yêu.
+她们|họ, bọn họ (nữ)|Đại từ||她们在看电影。|Họ đang xem phim.
+天|ngày; trời|Danh từ|thiên|今天天很热。|Hôm nay trời rất nóng.
+听见|nghe thấy|Động từ|thính kiến|我听见有人说话。|Tôi nghe thấy có người nói chuyện.
+外边|bên ngoài|Danh từ|ngoại biên|外边在下雨。|Bên ngoài đang mưa.
+晚|muộn; tối|Tính từ|vãn|你今天来得太晚了。|Hôm nay bạn đến muộn quá.
+晚饭|bữa tối|Danh từ|vãn phạn|我们六点吃晚饭。|Chúng tôi ăn tối lúc sáu giờ.
+午饭|bữa trưa|Danh từ|ngọ phạn|你想吃什么午饭？|Bạn muốn ăn gì cho bữa trưa?
+下班|tan làm|Động từ|hạ ban|爸爸六点下班。|Bố tan làm lúc sáu giờ.
+下课|tan học|Động từ|hạ khóa|下课了，我们去吃饭。|Tan học rồi, chúng ta đi ăn cơm.
+小朋友|bạn nhỏ, em bé|Danh từ||小朋友们在玩儿。|Các bạn nhỏ đang chơi.
+小学|tiểu học|Danh từ|tiểu học|我弟弟在小学读书。|Em trai tôi học ở trường tiểu học.
+小学生|học sinh tiểu học|Danh từ|tiểu học sinh|他是小学生。|Em ấy là học sinh tiểu học.
+星期日|chủ nhật|Danh từ|tinh kỳ nhật|星期日我不上班。|Chủ nhật tôi không đi làm.
+星期天|chủ nhật|Danh từ||星期天我在家休息。|Chủ nhật tôi nghỉ ngơi ở nhà.
+学|học|Động từ|học|我学汉语。|Tôi học tiếng Trung.
+一半|một nửa|Danh từ|nhất bán|苹果我吃了一半。|Quả táo tôi ăn một nửa rồi.
+一些|một vài, một ít|Lượng từ|nhất ta|我买了一些水果。|Tôi đã mua một ít trái cây.
+医|y; chữa bệnh|Danh từ|y|他想当医生。|Anh ấy muốn làm bác sĩ.
+有的|có (người, cái)|Đại từ||有的人喜欢喝茶。|Có người thích uống trà.
+有点儿|hơi, một chút|Phó từ||今天有点儿冷。|Hôm nay hơi lạnh.
+有些|một số; hơi|Đại từ||有些学生没来。|Một số học sinh không đến.
+雨|mưa|Danh từ|vũ|昨天下大雨了。|Hôm qua trời mưa to.
+早|sớm|Tính từ|tảo|你今天起得很早。|Hôm nay bạn dậy rất sớm.
+早饭|bữa sáng|Danh từ|tảo phạn|我每天吃早饭。|Ngày nào tôi cũng ăn sáng.
+这边|bên này|Đại từ||请到这边来。|Mời đến bên này.
+这个|cái này|Đại từ||这个多少钱？|Cái này bao nhiêu tiền?
+这里|ở đây|Đại từ||这里很安静。|Ở đây rất yên tĩnh.
+这儿|ở đây|Đại từ||你在这儿等我。|Bạn đợi tôi ở đây.
+这些|những cái này|Đại từ||这些是我的书。|Những thứ này là sách của tôi.
+中学|trung học|Danh từ|trung học|他哥哥在中学学习。|Anh trai cậu ấy học ở trường trung học.
+中学生|học sinh trung học|Danh từ|trung học sinh|她是中学生。|Cô ấy là học sinh trung học.
+做饭|nấu cơm|Động từ||妈妈在家做饭。|Mẹ nấu cơm ở nhà.

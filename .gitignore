@@ -26,3 +26,6 @@ app/ios/Flutter/flutter_export_environment.sh
 
 # Dữ liệu chạy (SQLite): KHÔNG đưa lên git
 backend/data/
+
+# Tài liệu giáo trình có bản quyền: không đưa lên git
+tailieu/

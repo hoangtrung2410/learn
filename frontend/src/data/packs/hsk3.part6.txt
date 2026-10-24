@@ -1,0 +1,77 @@
+老人|người già|Danh từ|lão nhân|公园里有很多老人在跳舞。|Trong công viên có nhiều người già đang nhảy múa.
+练|luyện tập|Động từ|luyện|我每天都练一个小时汉字。|Mỗi ngày tôi luyện chữ Hán một tiếng.
+聊|trò chuyện|Động từ|liêu|我们在咖啡馆聊了很久。|Chúng tôi đã trò chuyện ở quán cà phê rất lâu.
+聊天儿|trò chuyện, tán gẫu|Động từ|liêu thiên|周末我喜欢和朋友聊天儿。|Cuối tuần tôi thích trò chuyện với bạn bè.
+留学生|du học sinh|Danh từ|lưu học sinh|我们班有五个留学生。|Lớp chúng tôi có năm du học sinh.
+楼梯|cầu thang|Danh từ|lâu thê|请小心，楼梯有点儿滑。|Xin cẩn thận, cầu thang hơi trơn.
+路口|ngã tư, chỗ giao nhau của đường|Danh từ|lộ khẩu|你在前面那个路口往左拐。|Bạn rẽ trái ở ngã tư phía trước kia.
+马路|đường cái, lòng đường|Danh từ|mã lộ|过马路的时候要看红绿灯。|Khi qua đường phải nhìn đèn giao thông.
+面前|trước mặt|Danh từ|diện tiền|他把一杯茶放在我面前。|Anh ấy đặt một tách trà trước mặt tôi.
+名人|người nổi tiếng|Danh từ|danh nhân|这个城市住着很多名人。|Thành phố này có nhiều người nổi tiếng sinh sống.
+男生|nam sinh, bạn nam|Danh từ|nam sinh|我们班的男生都爱踢足球。|Các bạn nam trong lớp chúng tôi đều thích đá bóng.
+南方|miền Nam, phương Nam|Danh từ|nam phương|南方的冬天不太冷。|Mùa đông ở miền Nam không lạnh lắm.
+牛|con bò|Danh từ|ngưu|山上有几头牛在吃草。|Trên núi có mấy con bò đang ăn cỏ.
+女生|nữ sinh, bạn nữ|Danh từ|nữ sinh|这个女生的汉语说得很好。|Bạn nữ này nói tiếng Trung rất giỏi.
+爬|leo, trèo|Động từ||周末我们打算去爬山。|Cuối tuần chúng tôi định đi leo núi.
+怕|sợ|Động từ|phạ|我怕黑，晚上不敢一个人出去。|Tôi sợ bóng tối, buổi tối không dám ra ngoài một mình.
+拍照|chụp ảnh|Động từ|phách chiếu|这里很漂亮，我们拍照吧。|Ở đây rất đẹp, chúng ta chụp ảnh đi.
+起|dậy, lên (như trong 起床)|Động từ|khởi|明天早上我要六点起床。|Sáng mai tôi phải dậy lúc sáu giờ.
+前天|hôm kia|Danh từ|tiền thiên|前天我在超市遇到了老师。|Hôm kia tôi gặp thầy giáo ở siêu thị.
+秋天|mùa thu|Danh từ|thu thiên|秋天的天气不冷也不热。|Thời tiết mùa thu không lạnh cũng không nóng.
+球场|sân bóng|Danh từ|cầu trường|球场上有很多人在踢球。|Trên sân bóng có nhiều người đang đá bóng.
+全|toàn bộ, cả|Phó từ|toàn|我们全家都喜欢吃饺子。|Cả nhà chúng tôi đều thích ăn sủi cảo.
+认得|nhận ra, biết (mặt, chữ)|Động từ||这个字我不认得，你认得吗？|Chữ này tôi không biết, bạn biết không?
+山|núi|Danh từ|sơn|这座山很高，风景很美。|Ngọn núi này rất cao, phong cảnh rất đẹp.
+身边|bên cạnh, bên mình|Danh từ|thân biên|妈妈一直在我身边。|Mẹ luôn ở bên cạnh tôi.
+身高|chiều cao cơ thể|Danh từ|thân cao|我弟弟的身高有一米八。|Chiều cao của em trai tôi là một mét tám.
+声|tiếng, âm thanh|Danh từ|thanh|我听到外面有人叫我的声音。|Tôi nghe thấy bên ngoài có tiếng người gọi tôi.
+室|phòng|Danh từ|thất|教室旁边是一间阅览室。|Bên cạnh phòng học là một phòng đọc sách.
+收到|nhận được|Động từ|thu đáo|我昨天收到了朋友的礼物。|Hôm qua tôi đã nhận được quà của bạn.
+四季|bốn mùa|Danh từ|tứ quý|昆明四季如春，很舒服。|Côn Minh bốn mùa như xuân, rất dễ chịu.
+体育馆|nhà thi đấu, nhà thể thao|Danh từ|thể dục quán|学校的体育馆很大。|Nhà thi đấu của trường rất lớn.
+跳|nhảy|Động từ||孩子们在草地上又跳又笑。|Bọn trẻ vừa nhảy vừa cười trên bãi cỏ.
+听说|nghe nói|Động từ|thính thuyết|听说明天会下大雨。|Nghe nói ngày mai sẽ có mưa to.
+外地|nơi khác, tỉnh khác|Danh từ|ngoại địa|他在外地工作，很少回家。|Anh ấy làm việc ở nơi khác, ít khi về nhà.
+外卖|đồ ăn giao tận nơi|Danh từ|ngoại mại|今天太累了，我们点外卖吧。|Hôm nay mệt quá, chúng ta gọi đồ ăn giao nhé.
+外语|ngoại ngữ|Danh từ|ngoại ngữ|你会说几种外语？|Bạn biết nói mấy thứ ngoại ngữ?
+晚点|trễ giờ (tàu, xe, chuyến bay)|Động từ|vãn điểm|因为下雪，火车晚点了。|Vì tuyết rơi nên tàu bị trễ giờ.
+晚会|buổi liên hoan buổi tối|Danh từ|vãn hội|今天晚上学校有一个晚会。|Tối nay trường có một buổi liên hoan.
+西北|tây bắc|Danh từ|tây bắc|西北地区的冬天很长。|Mùa đông ở vùng tây bắc rất dài.
+喜爱|yêu thích|Động từ|hỉ ái|孩子们都很喜爱这只小狗。|Bọn trẻ đều rất yêu thích chú chó nhỏ này.
+夏天|mùa hè|Danh từ|hạ thiên|夏天我常常去游泳。|Mùa hè tôi thường đi bơi.
+箱子|cái rương, cái hòm, va li|Danh từ||这个箱子太重了，我拿不动。|Cái rương này nặng quá, tôi không xách nổi.
+相机|máy ảnh|Danh từ|tương cơ|他买了一台新相机。|Anh ấy đã mua một chiếc máy ảnh mới.
+小区|khu dân cư|Danh từ|tiểu khu|我们小区里有一个小公园。|Trong khu dân cư của chúng tôi có một công viên nhỏ.
+心里|trong lòng, trong bụng|Danh từ|tâm lý|考试以前，我心里很紧张。|Trước kỳ thi, trong lòng tôi rất căng thẳng.
+行李|hành lý|Danh từ|hành lý|我的行李已经放在车上了。|Hành lý của tôi đã để lên xe rồi.
+休假|nghỉ phép|Động từ|hưu giả|下个月我想休假去旅行。|Tháng sau tôi muốn nghỉ phép đi du lịch.
+选|chọn|Động từ|tuyển|这几件衣服，你选哪一件？|Mấy bộ quần áo này, bạn chọn bộ nào?
+羊|con dê, con cừu|Danh từ|dương|草地上有一群白色的羊。|Trên bãi cỏ có một đàn cừu trắng.
+养|nuôi|Động từ|dưỡng|我家养了一只小猫。|Nhà tôi nuôi một con mèo nhỏ.
+野生|hoang dã|Tính từ|dã sinh|这里有很多野生动物。|Ở đây có rất nhiều động vật hoang dã.
+一块儿|cùng nhau|Phó từ||明天我们一块儿去爬山吧。|Ngày mai chúng ta cùng nhau đi leo núi nhé.
+以上|trở lên, trên đây|Danh từ|dĩ thượng|十八岁以上的人才可以参加。|Người từ mười tám tuổi trở lên mới được tham gia.
+以外|ngoài, ngoài ra|Danh từ|dĩ ngoại|除了苹果以外，我还买了香蕉。|Ngoài táo ra, tôi còn mua chuối.
+邮件|thư điện tử, bưu kiện|Danh từ|bưu kiện|我给老师发了一封邮件。|Tôi đã gửi cho thầy giáo một email.
+邮箱|hộp thư (điện tử)|Danh từ|bưu tương|请把你的邮箱地址告诉我。|Xin cho tôi biết địa chỉ email của bạn.
+游客|khách du lịch|Danh từ|du khách|夏天这里有很多游客。|Mùa hè ở đây có rất nhiều khách du lịch.
+有关|có liên quan|Động từ|hữu quan|这件事和你有关。|Chuyện này có liên quan đến bạn.
+有用|có ích, hữu dụng|Tính từ|hữu dụng|这本书对学汉语很有用。|Cuốn sách này rất có ích cho việc học tiếng Trung.
+雨衣|áo mưa|Danh từ|vũ y|下雨了，快穿上雨衣。|Trời mưa rồi, mau mặc áo mưa vào.
+遇见|gặp, tình cờ gặp|Động từ|ngộ kiến|我在路上遇见了老同学。|Tôi tình cờ gặp bạn học cũ trên đường.
+员|nhân viên, thành viên (hậu tố chỉ người)|Danh từ|viên|这家商店的店员很热情。|Nhân viên của cửa hàng này rất nhiệt tình.
+运动会|đại hội thể thao|Danh từ|vận động hội|学校下周举行运动会。|Tuần sau trường tổ chức đại hội thể thao.
+运动员|vận động viên|Danh từ|vận động viên|他是一名很有名的运动员。|Anh ấy là một vận động viên rất nổi tiếng.
+怎么办|làm sao đây, phải làm thế nào|Cụm từ||我忘带钥匙了，怎么办？|Tôi quên mang chìa khóa rồi, làm sao đây?
+怎样|thế nào, ra sao|Đại từ||你觉得这个办法怎样？|Bạn thấy cách này thế nào?
+照|chiếu, rọi; chụp (ảnh)|Động từ|chiếu|阳光照在窗户上，很温暖。|Ánh nắng chiếu lên cửa sổ, rất ấm áp.
+照相|chụp ảnh|Động từ|chiếu tướng|我们在门口照相吧。|Chúng ta chụp ảnh ở cổng nhé.
+直到|cho đến khi, mãi đến|Giới từ|trực đáo|我等了很久，直到天黑他才来。|Tôi đợi rất lâu, mãi đến khi trời tối anh ấy mới đến.
+只能|chỉ có thể|Phó từ||今天太忙了，我只能明天去。|Hôm nay bận quá, tôi chỉ có thể đi vào ngày mai.
+只是|chỉ là|Phó từ||我只是想问一下你的意见。|Tôi chỉ là muốn hỏi ý kiến của bạn một chút.
+只有|chỉ có, chỉ khi|Liên từ||只有多练习，才能说得好。|Chỉ có luyện tập nhiều thì mới nói giỏi được.
+纸|giấy|Danh từ|chỉ|请给我一张白纸。|Làm ơn đưa tôi một tờ giấy trắng.
+住院|nằm viện, nhập viện|Động từ|trú viện|奶奶生病了，要住院几天。|Bà bị ốm, phải nằm viện mấy ngày.
+总|luôn luôn, lúc nào cũng|Phó từ|tổng|他总是第一个到教室。|Anh ấy luôn là người đầu tiên đến lớp.
+做法|cách làm|Danh từ||这道菜的做法很简单。|Cách làm món ăn này rất đơn giản.
+做客|làm khách, đến chơi nhà|Động từ||周末我去朋友家做客。|Cuối tuần tôi đến nhà bạn làm khách.

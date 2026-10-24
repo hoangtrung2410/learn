@@ -1,0 +1,83 @@
+帮|giúp, giúp đỡ|Động từ|bang|你能帮我拿一下书吗？|Bạn có thể giúp tôi cầm quyển sách một chút không?
+本子|quyển vở, sổ tay|Danh từ|bản tử|我的本子在书包里。|Quyển vở của tôi ở trong cặp.
+笔|bút|Danh từ|bút|请给我一支笔。|Làm ơn đưa tôi một cây bút.
+不错|khá tốt, không tệ|Tính từ||这家饭店的菜很不错。|Món ăn của nhà hàng này rất ngon.
+车站|bến xe, nhà ga|Danh từ|xa trạm|车站离我家很近。|Bến xe cách nhà tôi rất gần.
+出国|ra nước ngoài, xuất ngoại|Động từ|xuất quốc|他明年想出国学习。|Sang năm anh ấy muốn ra nước ngoài học.
+出门|ra khỏi nhà, ra ngoài|Động từ|xuất môn|今天下雨，出门要带伞。|Hôm nay mưa, ra ngoài nhớ mang ô.
+出去|đi ra ngoài|Động từ||他刚才出去了，不在家。|Vừa nãy anh ấy đi ra ngoài rồi, không có nhà.
+床|giường|Danh từ|sàng|我的床在窗户旁边。|Giường của tôi ở cạnh cửa sổ.
+词|từ, từ ngữ|Danh từ|từ|这个词是什么意思？|Từ này có nghĩa là gì?
+从小|từ nhỏ|Phó từ|tòng tiểu|我从小就喜欢唱歌。|Từ nhỏ tôi đã thích hát.
+打|đánh, chơi (đánh bóng)|Động từ|đả|周末我们去打篮球吧。|Cuối tuần chúng ta đi chơi bóng rổ nhé.
+打车|đi taxi, bắt taxi|Động từ|đả xa|太晚了，我们打车回家吧。|Muộn quá rồi, chúng ta bắt taxi về nhà đi.
+打开|mở ra, bật lên|Động từ|đả khai|请打开你的书，看第五页。|Hãy mở sách của bạn ra, xem trang năm.
+但|nhưng|Liên từ|đãn|我很想去，但是没有时间。|Tôi rất muốn đi, nhưng không có thời gian.
+动|động, cử động, di chuyển|Động từ|động|别动，我给你拍张照片。|Đừng cử động, tôi chụp cho bạn một tấm ảnh.
+房子|nhà, căn nhà|Danh từ|phòng tử|他们的房子很大也很新。|Nhà của họ vừa to vừa mới.
+飞|bay|Động từ|phi|小鸟在天上飞。|Chim nhỏ bay trên trời.
+高中|trung học phổ thông|Danh từ|cao trung|她哥哥在读高中。|Anh trai cô ấy đang học trung học phổ thông.
+公交车|xe buýt|Danh từ|công giao xa|我每天坐公交车去学校。|Mỗi ngày tôi đi xe buýt đến trường.
+过来|qua đây, lại đây|Động từ||你过来看看这张照片。|Bạn lại đây xem tấm ảnh này đi.
+过年|ăn Tết, đón năm mới|Động từ|quá niên|过年的时候我要回老家。|Dịp Tết tôi phải về quê.
+黑色|màu đen|Danh từ|hắc sắc|他喜欢穿黑色的衣服。|Anh ấy thích mặc quần áo màu đen.
+红色|màu đỏ|Danh từ|hồng sắc|这条红色的裙子很漂亮。|Chiếc váy màu đỏ này rất đẹp.
+画笔|bút vẽ|Danh từ|họa bút|她用画笔画了一只小猫。|Cô ấy dùng bút vẽ vẽ một chú mèo con.
+回来|trở về, quay lại|Động từ||爸爸晚上六点回来。|Bố sáu giờ tối sẽ về.
+回去|quay về, trở về (đi)|Động từ||时间不早了，我要回去了。|Không còn sớm nữa, tôi phải về đây.
+机票|vé máy bay|Danh từ|cơ phiếu|我已经买好机票了。|Tôi đã mua xong vé máy bay rồi.
+间|gian (lượng từ chỉ phòng)|Lượng từ|gian|这间房子有两张床。|Căn phòng này có hai cái giường.
+进来|đi vào, vào đây|Động từ||外面很冷，快进来吧。|Bên ngoài lạnh lắm, mau vào đi.
+进去|đi vào (trong)|Động từ||老师在教室里，你进去吧。|Thầy giáo ở trong lớp, bạn vào đi.
+酒店|khách sạn|Danh từ|tửu điếm|我们住在海边的酒店。|Chúng tôi ở khách sạn bên bờ biển.
+开学|khai giảng, bắt đầu học kỳ mới|Động từ|khai học|下个星期就要开学了。|Tuần sau là khai giảng rồi.
+考|thi, kiểm tra|Động từ|khảo|明天我们要考汉语。|Ngày mai chúng tôi thi tiếng Trung.
+快要|sắp, sắp sửa|Phó từ|khoái yếu|火车快要开了。|Tàu hỏa sắp chạy rồi.
+篮球|bóng rổ|Danh từ|lam cầu|他每天下午打篮球。|Chiều nào anh ấy cũng chơi bóng rổ.
+里面|bên trong|Danh từ|lý diện|箱子里面有什么？|Bên trong cái hộp có gì vậy?
+路上|trên đường|Danh từ|lộ thượng|路上请小心一点。|Trên đường nhớ cẩn thận một chút.
+绿色|màu xanh lá|Danh từ|lục sắc|春天的树叶是绿色的。|Lá cây mùa xuân có màu xanh lá.
+没意思|chán, nhàm chán, không thú vị|Cụm từ||这个电影没意思，我不想看。|Bộ phim này chán, tôi không muốn xem.
+门口|cửa ra vào, trước cửa|Danh từ|môn khẩu|我在学校门口等你。|Tôi đợi bạn ở cổng trường.
+门票|vé vào cửa|Danh từ|môn phiếu|公园的门票多少钱？|Vé vào cửa công viên bao nhiêu tiền?
+面|mặt, bề mặt|Danh từ|diện|桌子的这一面很干净。|Mặt này của cái bàn rất sạch.
+名|tên|Danh từ|danh|请在这里写你的名。|Xin hãy viết tên của bạn ở đây.
+那么|như vậy, thế (chỉ mức độ)|Đại từ||今天没有昨天那么冷。|Hôm nay không lạnh như hôm qua.
+那样|như thế, như vậy|Đại từ||你不要那样说话。|Bạn đừng nói chuyện như thế.
+奶茶|trà sữa|Danh từ|nãi trà|我想喝一杯热奶茶。|Tôi muốn uống một ly trà sữa nóng.
+男孩儿|cậu bé, bé trai|Danh từ|nam hài nhi|那个男孩儿在踢足球。|Cậu bé kia đang đá bóng.
+女孩儿|cô bé, bé gái|Danh từ|nữ hài nhi|这个女孩儿唱歌很好听。|Cô bé này hát rất hay.
+跑|chạy|Động từ|bào|他每天早上去公园跑步。|Mỗi sáng anh ấy ra công viên chạy bộ.
+球|quả bóng, bóng|Danh từ|cầu|孩子们在玩球。|Bọn trẻ đang chơi bóng.
+肉|thịt|Danh từ|nhục|我不太喜欢吃肉。|Tôi không thích ăn thịt lắm.
+商场|trung tâm thương mại|Danh từ|thương trường|我们去商场买衣服吧。|Chúng ta đi trung tâm thương mại mua quần áo đi.
+上来|đi lên, lên đây|Động từ||楼上很漂亮，你上来看看。|Tầng trên đẹp lắm, bạn lên xem đi.
+上面|phía trên, bên trên|Danh từ|thượng diện|书在桌子上面。|Sách ở trên bàn.
+上去|đi lên (trên đó)|Động từ||山不高，我们走上去吧。|Núi không cao, chúng ta đi bộ lên đi.
+时|khi, lúc|Danh từ|thời|小时候我住在乡下。|Khi còn nhỏ tôi sống ở nông thôn.
+手|tay|Danh từ|thủ|吃饭以前要洗手。|Trước khi ăn phải rửa tay.
+书包|cặp sách|Danh từ|thư bao|他的书包很重。|Cặp sách của cậu ấy rất nặng.
+头|đầu|Danh từ|đầu|我头疼，想休息一下。|Tôi đau đầu, muốn nghỉ một chút.
+外国|nước ngoài|Danh từ|ngoại quốc|她有很多外国朋友。|Cô ấy có rất nhiều bạn nước ngoài.
+外面|bên ngoài|Danh từ|ngoại diện|外面下雨了，别出去了。|Bên ngoài mưa rồi, đừng ra ngoài nữa.
+网上|trên mạng|Danh từ|võng thượng|我常常在网上买东西。|Tôi thường mua đồ trên mạng.
+忘|quên|Động từ|vong|别忘了带你的手机。|Đừng quên mang theo điện thoại của bạn.
+下来|đi xuống, xuống đây|Động từ||你快从楼上下来吧。|Bạn mau từ trên lầu xuống đây đi.
+下面|phía dưới, bên dưới|Danh từ|hạ diện|猫在椅子下面睡觉。|Con mèo ngủ ở dưới ghế.
+下去|đi xuống (dưới đó)|Động từ||楼下有人找你，你下去吧。|Dưới lầu có người tìm bạn, bạn xuống đi.
+小孩儿|trẻ con, đứa trẻ|Danh từ|tiểu hài nhi|这个小孩儿今年三岁。|Đứa trẻ này năm nay ba tuổi.
+小时候|hồi nhỏ, lúc nhỏ|Danh từ|tiểu thời hậu|我小时候很喜欢画画。|Hồi nhỏ tôi rất thích vẽ tranh.
+新年|năm mới|Danh từ|tân niên|祝你新年快乐！|Chúc bạn năm mới vui vẻ!
+姓名|họ tên|Danh từ|tính danh|请写下你的姓名和电话。|Xin hãy ghi họ tên và số điện thoại của bạn.
+药店|hiệu thuốc, nhà thuốc|Danh từ|dược điếm|药店就在医院旁边。|Hiệu thuốc ở ngay cạnh bệnh viện.
+游|bơi, đi chơi|Động từ|du|夏天我喜欢去海边游泳。|Mùa hè tôi thích ra biển bơi.
+有时|đôi khi, thỉnh thoảng|Phó từ|hữu thời|我有时坐地铁上班。|Thỉnh thoảng tôi đi tàu điện ngầm đi làm.
+有意思|thú vị, hay|Cụm từ||这本书很有意思。|Quyển sách này rất thú vị.
+右|bên phải|Danh từ|hữu|商店在你的右边。|Cửa hàng ở bên phải của bạn.
+这么|như thế này, thế này|Đại từ||你怎么这么早就起床了？|Sao bạn dậy sớm thế này?
+这样|như thế này, như vậy|Đại từ||这样做对不对？|Làm như thế này có đúng không?
+正|đang (chỉ hành động diễn ra)|Phó từ|chính|我正在写作业，别吵。|Tôi đang làm bài tập, đừng ồn.
+周|tuần|Danh từ|chu|这周我很忙。|Tuần này tôi rất bận.
+走路|đi bộ|Động từ|tẩu lộ|我每天走路去上班。|Mỗi ngày tôi đi bộ đến chỗ làm.
+足球|bóng đá|Danh từ|túc cầu|我弟弟喜欢踢足球。|Em trai tôi thích đá bóng.
+左|bên trái|Danh từ|tả|请往左走，不要往右走。|Xin hãy đi sang trái, đừng đi sang phải.
