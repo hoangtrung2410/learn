@@ -288,20 +288,47 @@ export default function App() {
       />
 
       {/* Product Footer */}
-      <footer className="border-t border-slate-800/80 bg-slate-950 py-8 text-center text-xs text-slate-500">
-        <div className="max-w-6xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <div className="flex items-center gap-2">
-            <span className="text-xl">🐼</span>
-            <span className="font-extrabold text-sm text-slate-200 whitespace-nowrap">LinguaHub AI</span>
-            <span>—</span>
-            <span>Nền tảng học Tiếng Trung & Ngoại ngữ tương tác</span>
+      <footer className="relative mt-8 overflow-hidden border-t border-white/10 bg-[#070b16]">
+        <div className="pointer-events-none absolute -bottom-24 left-1/2 h-64 w-[40rem] -translate-x-1/2 rounded-full bg-emerald-500/10 blur-[100px]" />
+        <div className="pointer-events-none absolute -right-4 -top-10 select-none font-chinese text-[14rem] font-black leading-none text-white/[0.03]">学</div>
+        <div className="relative mx-auto grid max-w-6xl gap-10 px-4 py-12 sm:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr_1fr]">
+          <div>
+            <div className="flex items-center gap-2.5">
+              <span className="flex h-10 w-10 items-center justify-center rounded-2xl bg-gradient-to-br from-emerald-500 to-sky-500 text-xl shadow-[0_0_20px_rgba(16,185,129,0.4)]">🐼</span>
+              <span className="text-lg font-black tracking-tight text-white">LinguaHub</span>
+            </div>
+            <p className="mt-4 max-w-xs text-sm leading-relaxed text-slate-400">
+              Học tiếng Trung theo Giáo trình New HSK 1–3, thêm tiếng Anh, flashcard, luyện đề và AI chấm phát âm.
+            </p>
           </div>
-          {!FREE_MODE && <nav aria-label="Liên kết chân trang" className="flex flex-wrap items-center justify-center gap-x-4 gap-y-1 text-slate-400">
-            <button onClick={() => changeTab('pricing')} className="hover:text-white cursor-pointer">Bảng giá</button>
-            <button onClick={() => { setLegalPage('terms'); changeTab('legal'); }} className="hover:text-white cursor-pointer">Điều khoản</button>
-            <button onClick={() => { setLegalPage('privacy'); changeTab('legal'); }} className="hover:text-white cursor-pointer">Bảo mật</button>
-            <button onClick={() => { setLegalPage('refund'); changeTab('legal'); }} className="hover:text-white cursor-pointer">Hoàn tiền</button>
+          <nav aria-label="Học" className="text-sm">
+            <div className="text-xs font-bold uppercase tracking-widest text-slate-500">Học</div>
+            <ul className="mt-4 space-y-2.5 text-slate-300">
+              <li><button onClick={() => changeTab('learn')} className="hover:text-emerald-300 cursor-pointer">Lộ trình HSK</button></li>
+              <li><button onClick={() => changeTab('study')} className="hover:text-emerald-300 cursor-pointer">Flashcard & đề thi</button></li>
+              <li><button onClick={() => changeTab('pinyin')} className="hover:text-emerald-300 cursor-pointer">Pinyin 4 thanh</button></li>
+            </ul>
+          </nav>
+          <nav aria-label="Luyện với AI" className="text-sm">
+            <div className="text-xs font-bold uppercase tracking-widest text-slate-500">Luyện với AI</div>
+            <ul className="mt-4 space-y-2.5 text-slate-300">
+              <li><button onClick={() => changeTab('speaking')} className="hover:text-emerald-300 cursor-pointer">Chấm phát âm</button></li>
+              <li><button onClick={() => changeTab('roleplay')} className="hover:text-emerald-300 cursor-pointer">Hội thoại 1-1</button></li>
+              <li><button onClick={() => changeTab('dictionary')} className="hover:text-emerald-300 cursor-pointer">Tra cứu từ</button></li>
+            </ul>
+          </nav>
+          {!FREE_MODE && <nav aria-label="Liên kết chân trang" className="text-sm">
+            <div className="text-xs font-bold uppercase tracking-widest text-slate-500">Hỗ trợ</div>
+            <ul className="mt-4 space-y-2.5 text-slate-300">
+              <li><button onClick={() => changeTab('pricing')} className="hover:text-emerald-300 cursor-pointer">Bảng giá</button></li>
+              <li><button onClick={() => { setLegalPage('terms'); changeTab('legal'); }} className="hover:text-emerald-300 cursor-pointer">Điều khoản</button></li>
+              <li><button onClick={() => { setLegalPage('privacy'); changeTab('legal'); }} className="hover:text-emerald-300 cursor-pointer">Bảo mật</button></li>
+              <li><button onClick={() => { setLegalPage('refund'); changeTab('legal'); }} className="hover:text-emerald-300 cursor-pointer">Hoàn tiền</button></li>
+            </ul>
           </nav>}
+        </div>
+        <div className="relative border-t border-white/[0.06] px-4 py-5 text-center text-xs text-slate-500">
+          © {new Date().getFullYear()} LinguaHub AI · Nền tảng học Tiếng Trung & Ngoại ngữ tương tác
         </div>
       </footer>
     </div>

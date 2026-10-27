@@ -31,6 +31,64 @@ export interface Question {
   targetSentence?: string;
 }
 
+export interface StudyDialogueLine {
+  sp: string;
+  zh: string;
+  vi: string;
+}
+
+export interface StudyVocab {
+  zh: string;
+  pos: string;
+  vi: string;
+  proper: boolean;
+}
+
+export interface StudyText {
+  n: number;
+  scene: string;
+  sceneVi: string;
+  audioDialogue: string;
+  audioVocab: string;
+  dialogue: StudyDialogueLine[];
+  vocab: StudyVocab[];
+}
+
+export interface StudyGrammar {
+  title: string;
+  explain: string;
+  examples: string[];
+}
+
+export interface SbtQuestion {
+  kind: 'pic' | 'match' | 'cloze' | 'read' | 'write';
+  image?: string;
+  prompt: string;
+  options: string[];
+  answer: string;
+}
+
+export interface SbtAudio {
+  label: string;
+  src: string;
+}
+
+/** Bài tập trong Sổ tay học và luyện tập (SBT) của giáo trình. */
+export interface LessonSbt {
+  book: number;
+  no: number; // 0 = đề thi mô phỏng cả cấp
+  questions: SbtQuestion[];
+  audio: SbtAudio[];
+}
+
+/** Nội dung học theo giáo trình (bài khoá, từ mới, ngữ pháp) hiện trước phần luyện tập. */
+export interface LessonStudy {
+  book: number;
+  no: number;
+  texts: StudyText[];
+  grammar: StudyGrammar[];
+}
+
 export interface Lesson {
   id: string;
   title: string;
@@ -38,6 +96,8 @@ export interface Lesson {
   xp: number;
   questions: Question[];
   icon: string;
+  study?: LessonStudy;
+  sbt?: LessonSbt;
 }
 
 export interface Unit {

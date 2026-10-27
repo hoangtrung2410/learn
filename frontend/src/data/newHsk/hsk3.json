@@ -1,0 +1,6428 @@
+{
+ "book": 3,
+ "lessons": [
+  {
+   "no": 1,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在家里，刘明和王一雪在沙发上聊天儿。",
+     "sceneVi": "Lưu Minh và Vương Nhất Tuyết đang trò chuyện trên ghế sofa ở trong nhà.",
+     "audioDialogue": "1-1",
+     "audioVocab": "1-2",
+     "dialogue": [
+      {
+       "sp": "刘明",
+       "zh": "这是杨同乐吗？他怎么跟白家月在一起？",
+       "vi": "Đây là Dương Đồng Lạc à? Sao cậu ấy lại ở cùng với Bạch Gia Nguyệt?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "他不是杨同乐，他叫李文，是白家月的好朋友。",
+       "vi": "Cậu ấy không phải Dương Đồng Lạc, cậu ấy tên là Lý Văn, là bạn tốt của Bạch Gia Nguyệt."
+      },
+      {
+       "sp": "刘明",
+       "zh": "我还以为是同乐呢，他们看上去有点儿像。",
+       "vi": "Anh còn tưởng là Đồng Lạc cơ, nhìn bề ngoài họ có chút giống nhau."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "是长得有点儿像，但是他比同乐高，身高有一米八。",
+       "vi": "Đúng là có chút giống nhau, nhưng cậu ấy cao hơn Đồng Lạc, chiều cao 1m80."
+      },
+      {
+       "sp": "刘明",
+       "zh": "看起来也比同乐瘦一点儿。",
+       "vi": "Nhìn qua trông cũng gầy hơn Đồng Lạc một chút."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "下个星期家月和李文要来北京，我去机场接他们。",
+       "vi": "Tuần sau Gia Nguyệt và Lý Văn sẽ đến Bắc Kinh, em sẽ ra sân bay đón họ."
+      },
+      {
+       "sp": "刘明",
+       "zh": "他们哪天到北京？我跟你一起去机场接他们吧。",
+       "vi": "Họ đến Bắc Kinh vào ngày nào? Anh cùng em ra sân bay đón họ nhé."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "以为",
+       "pos": "động từ",
+       "vi": "cho rằng, nghĩ rằng",
+       "proper": false
+      },
+      {
+       "zh": "像",
+       "pos": "động từ",
+       "vi": "giống, giống như",
+       "proper": false
+      },
+      {
+       "zh": "长",
+       "pos": "động từ",
+       "vi": "phát triển, lớn lên",
+       "proper": false
+      },
+      {
+       "zh": "身高",
+       "pos": "danh từ",
+       "vi": "chiều cao",
+       "proper": false
+      },
+      {
+       "zh": "米",
+       "pos": "lượng từ",
+       "vi": "mét (đơn vị đo lường)",
+       "proper": false
+      },
+      {
+       "zh": "瘦",
+       "pos": "tính từ",
+       "vi": "gầy, ốm",
+       "proper": false
+      },
+      {
+       "zh": "接",
+       "pos": "động từ",
+       "vi": "đón",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在机场，李文和白家月在行李领取处。",
+     "sceneVi": "Lý Văn và Bạch Gia Nguyệt đang ở khu vực nhận hành lý tại sân bay.",
+     "audioDialogue": "1-3",
+     "audioVocab": "1-4",
+     "dialogue": [
+      {
+       "sp": "白家月",
+       "zh": "我的行李怎么还没出来？是不是丢了？",
+       "vi": "Hành lý của mình sao vẫn chưa ra nhỉ? Có phải bị mất rồi không?"
+      },
+      {
+       "sp": "李文",
+       "zh": "你的行李箱是什么样的？",
+       "vi": "Vali của bạn trông như thế nào?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "是一个黑色的箱子，上面写着我的名字和电话号码。",
+       "vi": "Là một chiếc vali màu đen, trên đó có ghi tên và số điện thoại của mình."
+      },
+      {
+       "sp": "李文",
+       "zh": "我好像在哪儿看到过这个箱子，是不是有人拿错了？",
+       "vi": "Mình dường như đã nhìn thấy chiếc vali này ở đâu rồi, có phải có ai đó cầm nhầm không?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "我们快找谁问一下吧，箱子里有不少重要的东西。",
+       "vi": "Chúng ta mau tìm ai đó hỏi một chút đi, trong vali có không ít đồ quan trọng."
+      },
+      {
+       "sp": "李文",
+       "zh": "别着急，我们拿着护照和机票，去服务台问问吧。",
+       "vi": "Đừng lo lắng, chúng ta cầm hộ chiếu và vé máy bay, ra quầy phục vụ hỏi xem sao nhé."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "行李",
+       "pos": "danh từ",
+       "vi": "hành lý",
+       "proper": false
+      },
+      {
+       "zh": "丢",
+       "pos": "động từ",
+       "vi": "làm mất, bị mất",
+       "proper": false
+      },
+      {
+       "zh": "箱子",
+       "pos": "danh từ",
+       "vi": "va li",
+       "proper": false
+      },
+      {
+       "zh": "号码",
+       "pos": "danh từ",
+       "vi": "số, mã số",
+       "proper": false
+      },
+      {
+       "zh": "好像",
+       "pos": "phó từ",
+       "vi": "dường như, có vẻ như",
+       "proper": false
+      },
+      {
+       "zh": "重要",
+       "pos": "tính từ",
+       "vi": "quan trọng",
+       "proper": false
+      },
+      {
+       "zh": "着急",
+       "pos": "tính từ",
+       "vi": "lo lắng, sốt ruột",
+       "proper": false
+      },
+      {
+       "zh": "护照",
+       "pos": "danh từ",
+       "vi": "hộ chiếu",
+       "proper": false
+      },
+      {
+       "zh": "服务台",
+       "pos": "danh từ",
+       "vi": "quầy phục vụ",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在机场大厅，刘明和王一雪接机。",
+     "sceneVi": "Lưu Minh và Vương Nhất Tuyết đang đón người tại sảnh sân bay.",
+     "audioDialogue": "1-5",
+     "audioVocab": "1-6",
+     "dialogue": [
+      {
+       "sp": "刘明",
+       "zh": "飞机早就到了，你看见白家月他们了吗？",
+       "vi": "Máy bay đã đến từ lâu rồi, em có nhìn thấy nhóm Bạch Gia Nguyệt không?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "没有，他们应该快出来了。",
+       "vi": "Chưa, họ chắc là sắp ra rồi."
+      },
+      {
+       "sp": "刘明",
+       "zh": "我们站到中间去吧，这样他们好找一些。",
+       "vi": "Chúng ta đứng ra giữa đi, như vậy họ dễ tìm hơn."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "你看那个高个子的人是李文吗？",
+       "vi": "Anh nhìn người cao to kia có phải là Lý Văn không?"
+      },
+      {
+       "sp": "刘明",
+       "zh": "你说的是哪个？那个穿着黑衣服的短头发的年轻人？",
+       "vi": "Em nói người nào cơ? Người trẻ tuổi mặc đồ đen và để tóc ngắn đó à?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "对，那个人就是李文！你看，家月在他后面呢。",
+       "vi": "Đúng vậy, người đó chính là Lý Văn! Anh nhìn xem, Gia Nguyệt đang ở đằng sau cậu ấy kìa."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "应该",
+       "pos": "động từ năng nguyện",
+       "vi": "nên, phải, chắc chắn",
+       "proper": false
+      },
+      {
+       "zh": "站",
+       "pos": "động từ",
+       "vi": "đứng",
+       "proper": false
+      },
+      {
+       "zh": "中间",
+       "pos": "danh từ",
+       "vi": "ở giữa, trung gian",
+       "proper": false
+      },
+      {
+       "zh": "短",
+       "pos": "tính từ",
+       "vi": "ngắn",
+       "proper": false
+      },
+      {
+       "zh": "头发",
+       "pos": "danh từ",
+       "vi": "tóc",
+       "proper": false
+      },
+      {
+       "zh": "年轻",
+       "pos": "tính từ",
+       "vi": "trẻ, trẻ tuổi",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "scene": "在宾馆房间，李文在写日记。",
+     "sceneVi": "Lý Văn đang viết nhật ký ở trong phòng khách sạn.",
+     "audioDialogue": "1-7",
+     "audioVocab": "1-8",
+     "dialogue": [
+      {
+       "sp": "",
+       "zh": "昨天我到北京了。虽然路上花了十几个小时，但是跟家月坐在一起，我觉得时间过得很快。到机场的时候，家月发现行李箱不见了，我带她去服务台，帮助她找到了行李箱。走出机场的时候，已经八点多了，我们一出来就看见了王老师的姐姐，她看起来比照片上年轻。晚上，一雪姐带我们去吃了一家很好吃的中国菜。",
+       "vi": "Hôm qua tôi đã đến Bắc Kinh. Tuy đã mất hơn mười tiếng trên đường, nhưng vì ngồi cùng Gia Nguyệt nên tôi cảm thấy thời gian trôi qua rất nhanh. Khi đến sân bay, Gia Nguyệt phát hiện vali bị mất, tôi đưa cô ấy đến quầy phục vụ để giúp cô ấy tìm lại được chiếc vali. Khi ra khỏi sân bay thì đã hơn 8 giờ, vừa bước ra chúng tôi đã nhìn thấy chị gái của cô Vương, chị ấy trông trẻ hơn trong ảnh. Buổi tối, chị Nhất Tuyết đã đưa chúng tôi đi ăn một nhà hàng món Trung Quốc rất ngon."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "发现",
+       "pos": "động từ",
+       "vi": "phát hiện, tìm thấy",
+       "proper": false
+      },
+      {
+       "zh": "不见",
+       "pos": "động từ",
+       "vi": "bị mất, không thấy",
+       "proper": false
+      },
+      {
+       "zh": "带",
+       "pos": "động từ",
+       "vi": "mang, dẫn, đưa",
+       "proper": false
+      },
+      {
+       "zh": "帮助",
+       "pos": "động từ",
+       "vi": "giúp, giúp đỡ",
+       "proper": false
+      },
+      {
+       "zh": "照片",
+       "pos": "danh từ",
+       "vi": "ảnh (chụp)",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "固定短语「看上去/看起来」",
+     "explain": "Cụm từ cố định “看上去” và “看起来” có thể được sử dụng để miêu tả ngoại hình hoặc trạng thái của người hoặc sự vật.",
+     "examples": [
+      "他们看上去有点儿像。",
+      "这些菜看起来都很好吃。",
+      "那个新来的老师看上去很年轻。"
+     ]
+    },
+    {
+     "title": "疑问代词的非疑问用法（1）",
+     "explain": "Các đại từ nghi vấn như “哪儿”, “什么”, “谁”, “哪” dùng trong câu trần thuật biểu thị những địa điểm, sự vật hoặc con người không biết hoặc không cần chỉ rõ.",
+     "examples": [
+      "我好像在哪儿看到过这个箱子。",
+      "你吃点儿什么再走吧。",
+      "我们哪天一起去踢足球吧。"
+     ]
+    },
+    {
+     "title": "多项定语",
+     "explain": "Trước trung tâm ngữ danh từ có thể cùng xuất hiện nhiều định ngữ. Các định ngữ này thường được sắp xếp theo trật tự như sau: thời gian/địa điểm → hành động/trạng thái → đặc điểm; trong đó, cụm từ chỉ số lượng hoặc cụm từ chỉ lượng có vị trí tương đối linh hoạt, có thể đặt trước hoặc sau định ngữ biểu thị hành động hoặc trạng thái.",
+     "examples": [
+      "李文是那个穿着黑衣服的短头发的年轻人吗？",
+      "昨天和家月一起看电影的两个人是我的朋友。",
+      "我那件新买的白色的衣服在哪儿？"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 2,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在饭馆，王一雪、刘明、白家月和李文在点菜。",
+     "sceneVi": "Vương Nhất Tuyết, Lưu Minh, Bạch Gia Nguyệt và Lý Văn đang gọi món tại nhà hàng.",
+     "audioDialogue": "2-1",
+     "audioVocab": "2-2",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "家月、李文，你们看看菜单，想吃点儿什么？",
+       "vi": "Gia Nguyệt, Lý Văn, hai em xem thực đơn, muốn ăn gì nào?"
+      },
+      {
+       "sp": "李文",
+       "zh": "谢谢一雪姐，我都可以，你们点吧。",
+       "vi": "Cảm ơn chị Nhất Tuyết, em ăn gì cũng được ạ, mọi người cứ gọi đi."
+      },
+      {
+       "sp": "白家月",
+       "zh": "飞了这么远，现在还真是又饿又渴。",
+       "vi": "Bay xa như vậy, bây giờ em thật sự vừa đói vừa khát."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "那多点点儿，别客气。你们喝什么饮料？",
+       "vi": "Vậy gọi nhiều một chút nhé, đừng khách sáo. Các em muốn uống đồ uống gì?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "好久没喝中国茶，也好久没吃饺子了。我想喝绿茶、吃饺子，可以吗？",
+       "vi": "Lâu lắm rồi em chưa uống trà Trung Quốc, cũng lâu rồi chưa ăn sủi cảo. Em muốn uống trà xanh và ăn sủi cảo, được không ạ?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "没问题。你们看看还想吃什么。",
+       "vi": "Không vấn đề gì. Các em xem còn muốn ăn gì nữa không."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "菜单",
+       "pos": "danh từ",
+       "vi": "thực đơn",
+       "proper": false
+      },
+      {
+       "zh": "又",
+       "pos": "phó từ",
+       "vi": "lại, vừa",
+       "proper": false
+      },
+      {
+       "zh": "饿",
+       "pos": "tính từ",
+       "vi": "đói",
+       "proper": false
+      },
+      {
+       "zh": "渴",
+       "pos": "tính từ",
+       "vi": "khát",
+       "proper": false
+      },
+      {
+       "zh": "客气",
+       "pos": "động từ/tính từ",
+       "vi": "khách sáo, khách khí",
+       "proper": false
+      },
+      {
+       "zh": "饮料",
+       "pos": "danh từ",
+       "vi": "đồ uống",
+       "proper": false
+      },
+      {
+       "zh": "好久",
+       "pos": "tính từ",
+       "vi": "lâu, rất lâu",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在饭馆，王一雪、刘明、白家月和李文一起吃饭。",
+     "sceneVi": "Vương Nhất Tuyết, Lưu Minh, Bạch Gia Nguyệt và Lý Văn đang ăn cùng nhau tại nhà hàng.",
+     "audioDialogue": "2-3",
+     "audioVocab": "2-4",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "服务员，再给我们拿一双筷子、一个勺子和一个碗。",
+       "vi": "Phục vụ ơi, cho chúng tôi thêm một đôi đũa, một chiếc thìa và một cái bát nhé."
+      },
+      {
+       "sp": "服务员",
+       "zh": "好的，请等一下，我马上去拿。",
+       "vi": "Vâng ạ, xin chị chờ một chút, tôi đi lấy ngay."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "这家饭馆的服务很热情，菜也都做得很好吃。你们尝尝，看喜不喜欢这些菜。",
+       "vi": "Nhà hàng này phục vụ rất nhiệt tình, món ăn cũng đều làm rất ngon. Các em thử xem có thích những món này không."
+      },
+      {
+       "sp": "白家月",
+       "zh": "哪个菜都好吃。您点的这些菜真不错。",
+       "vi": "Món nào cũng ngon cả. Những món chị gọi đều rất tuyệt."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "这里的饭菜又便宜又好吃，我们经常来，服务员都记住我们爱吃的菜了。",
+       "vi": "Cơm canh ở đây vừa rẻ vừa ngon, chúng tôi thường xuyên đến nên nhân viên đều nhớ những món chúng tôi thích ăn rồi."
+      },
+      {
+       "sp": "服务员",
+       "zh": "王姐，您经常来吃饭，今天送您一些水果，请慢用。",
+       "vi": "Chị Vương, chị thường xuyên đến ăn, hôm nay xin tặng chị một ít hoa quả, mời chị dùng ạ."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "服务",
+       "pos": "động từ",
+       "vi": "phục vụ",
+       "proper": false
+      },
+      {
+       "zh": "员",
+       "pos": "hậu tố",
+       "vi": "đặt sau danh từ hoặc động từ để chỉ người",
+       "proper": false
+      },
+      {
+       "zh": "双",
+       "pos": "lượng từ",
+       "vi": "đôi",
+       "proper": false
+      },
+      {
+       "zh": "筷子",
+       "pos": "danh từ",
+       "vi": "đũa",
+       "proper": false
+      },
+      {
+       "zh": "勺子",
+       "pos": "danh từ",
+       "vi": "thìa",
+       "proper": false
+      },
+      {
+       "zh": "碗",
+       "pos": "danh từ",
+       "vi": "bát",
+       "proper": false
+      },
+      {
+       "zh": "马上",
+       "pos": "phó từ",
+       "vi": "lập tức, ngay lập tức",
+       "proper": false
+      },
+      {
+       "zh": "热情",
+       "pos": "tính từ",
+       "vi": "nhiệt tình",
+       "proper": false
+      },
+      {
+       "zh": "尝",
+       "pos": "động từ",
+       "vi": "nếm, thử",
+       "proper": false
+      },
+      {
+       "zh": "记",
+       "pos": "động từ",
+       "vi": "nhớ, ghi nhớ",
+       "proper": false
+      },
+      {
+       "zh": "用",
+       "pos": "động từ",
+       "vi": "dùng, sử dụng",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在饭馆，王一雪、刘明、白家月和李文继续边吃边聊。",
+     "sceneVi": "Vương Nhất Tuyết, Lưu Minh, Bạch Gia Nguyệt và Lý Văn tiếp tục vừa ăn vừa trò chuyện trong nhà hàng.",
+     "audioDialogue": "2-5",
+     "audioVocab": "2-6",
+     "dialogue": [
+      {
+       "sp": "白家月",
+       "zh": "这个鸡肉饭太好吃了，我要再来吃一次。",
+       "vi": "Món cơm gà này ngon quá, em sẽ phải đến ăn thêm một lần nữa."
+      },
+      {
+       "sp": "李文",
+       "zh": "你可以拿走这张菜单，看看下次还吃点儿什么。",
+       "vi": "Bạn có thể cầm tờ thực đơn này đi, xem lần sau ăn thêm món gì."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "不用拿菜单，在手机上就能看到，也可以选好了让他们给你送。",
+       "vi": "Không cần lấy thực đơn đâu, trên điện thoại có thể xem được, cũng có thể chọn món xong để họ giao tới cho em."
+      },
+      {
+       "sp": "白家月",
+       "zh": "他们家还能送外卖？",
+       "vi": "Nhà hàng này còn có thể giao đồ ăn tận nơi à?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "对，现在很多饭馆都能送外卖，想吃什么就点什么。",
+       "vi": "Đúng vậy, bây giờ rất nhiều nhà hàng đều có thể giao đồ ăn, muốn ăn gì thì gọi món đó."
+      },
+      {
+       "sp": "白家月",
+       "zh": "那真是太方便了！",
+       "vi": "Vậy thì tiện lợi quá!"
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "鸡",
+       "pos": "danh từ",
+       "vi": "gà",
+       "proper": false
+      },
+      {
+       "zh": "张",
+       "pos": "lượng từ",
+       "vi": "tờ, bức (dùng cho giấy, tranh...)",
+       "proper": false
+      },
+      {
+       "zh": "不用",
+       "pos": "phó từ",
+       "vi": "không cần",
+       "proper": false
+      },
+      {
+       "zh": "选",
+       "pos": "động từ",
+       "vi": "chọn, lựa chọn",
+       "proper": false
+      },
+      {
+       "zh": "外卖",
+       "pos": "danh từ/động từ",
+       "vi": "đồ ăn giao tận nơi, đặt đồ ăn giao tận nơi",
+       "proper": false
+      },
+      {
+       "zh": "方便",
+       "pos": "tính từ",
+       "vi": "thuận tiện, tiện lợi",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "scene": "在李文家，李文在写日记。",
+     "sceneVi": "Lý Văn đang viết nhật ký ở trong nhà mình.",
+     "audioDialogue": "2-7",
+     "audioVocab": "2-8",
+     "dialogue": [
+      {
+       "sp": "",
+       "zh": "这些年在国外，我很少自己做饭。早饭我吃一个面包，有时候吃一块蛋糕，再喝一杯咖啡。午饭和晚饭也都在外面吃。快要考试的时候又忙又累，没时间出去吃饭，家里又什么吃的都没有，我可能好几天只吃方便面。现在回到中国了，每天能吃到妈妈做的饭，我真是太高兴了！有时候妈妈只做几个简单的菜，我也非常爱吃，因为什么都没有妈妈做的饭好吃。",
+       "vi": "Những năm ở nước ngoài, tôi rất ít khi tự nấu cơm. Bữa sáng tôi ăn một chiếc bánh mì, thỉnh thoảng ăn một miếng bánh ngọt, rồi uống thêm một ly cà phê. Bữa trưa và bữa tối cũng đều ăn ở ngoài. Khi sắp thi, vừa bận vừa mệt, không có thời gian ra ngoài ăn, ở nhà cũng chẳng có gì để ăn, nên có khi mấy ngày liền tôi chỉ ăn mì ăn liền. Giờ trở về Trung Quốc rồi, hằng ngày có thể ăn cơm mẹ nấu, tôi thật sự rất vui! Đôi khi mẹ chỉ nấu vài món đơn giản, tôi cũng vô cùng thích ăn, vì không có gì ngon bằng cơm mẹ nấu."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "蛋糕",
+       "pos": "danh từ",
+       "vi": "bánh ngọt, bánh kem, bánh ga tô",
+       "proper": false
+      },
+      {
+       "zh": "只",
+       "pos": "phó từ",
+       "vi": "chỉ",
+       "proper": false
+      },
+      {
+       "zh": "方便面",
+       "pos": "danh từ",
+       "vi": "mì ăn liền",
+       "proper": false
+      },
+      {
+       "zh": "简单",
+       "pos": "tính từ",
+       "vi": "đơn giản",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "并列复句「又……又……」",
+     "explain": "Câu ghép đẳng lập “又……又……” được sử dụng kết hợp với tính từ, biểu thị người hoặc sự vật đồng thời mang hai đặc điểm. Cấu trúc cơ bản: 又 + tính từ₁ + 又 + tính từ₂.",
+     "examples": [
+      "我现在还真是又饿又渴。",
+      "那个女孩儿又高又漂亮。",
+      "这个饭馆的菜又便宜又好吃。"
+     ]
+    },
+    {
+     "title": "疑问代词的非疑问用法（2）",
+     "explain": "Các đại từ nghi vấn “哪”, “哪儿”, “什么”, “谁”, “怎么”... còn có thể dùng để biểu thị ý nghĩa chỉ chung, ví dụ “谁” chỉ bất kỳ người nào, “什么” chỉ bất kỳ sự vật nào; thường dùng kết hợp với phó từ “都” trong câu.",
+     "examples": [
+      "哪个菜都好吃。",
+      "这次旅游，我去哪儿都可以。",
+      "我下午有时间，你想什么时候来都没问题。"
+     ]
+    },
+    {
+     "title": "疑问代词的非疑问用法（3）",
+     "explain": "Hai đại từ nghi vấn giống nhau có thể dùng để biểu thị ý nghĩa chỉ chung, chúng có sự tương ứng trước sau, chỉ cùng một người, một việc, một phương thức, một thời điểm, một địa điểm... Khi chủ ngữ của hai phân câu giống nhau, chủ ngữ của phân câu sau có thể được lược bỏ. Khi chủ ngữ của hai phân câu khác nhau, chủ ngữ thứ hai cần đặt trước “就”.",
+     "examples": [
+      "你们想吃什么就点什么。",
+      "你觉得哪个好看就买哪个。",
+      "你想去哪儿，我们就去哪儿。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在家里，刘明和王一雪在聊天儿。",
+     "sceneVi": "Lưu Minh và Vương Nhất Tuyết đang trò chuyện ở trong nhà.",
+     "audioDialogue": "3-1",
+     "audioVocab": "3-2",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "小雪的初中离家有点儿远，咱们换一个近点儿的房子吧。",
+       "vi": "Trường cấp hai của Tiểu Tuyết cách nhà hơi xa, chúng ta đổi sang một căn nhà gần hơn nhé."
+      },
+      {
+       "sp": "刘明",
+       "zh": "好啊，我上网看看。你觉得这个小区怎么样？",
+       "vi": "Được thôi, anh lên mạng xem thử. Em thấy khu dân cư này thế nào?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "环境挺好的，离地铁站还不远。",
+       "vi": "Môi trường khá tốt, cách ga tàu điện ngầm cũng không xa."
+      },
+      {
+       "sp": "刘明",
+       "zh": "房子里面也不错，空调和洗衣机都是新的。",
+       "vi": "Bên trong căn nhà cũng được, máy điều hoà và máy giặt đều là đồ mới."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "是不错，但是我不喜欢住一层。",
+       "vi": "Đúng là không tồi, nhưng em không thích ở tầng một."
+      },
+      {
+       "sp": "刘明",
+       "zh": "这个一层带一个小花园，我觉得咱们可以去看看。",
+       "vi": "Căn ở tầng một này có kèm một khu vườn nhỏ, anh thấy chúng ta có thể đến xem thử."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "初中",
+       "pos": "danh từ",
+       "vi": "trung học cơ sở, cấp hai",
+       "proper": false
+      },
+      {
+       "zh": "咱们",
+       "pos": "đại từ",
+       "vi": "chúng ta, chúng mình",
+       "proper": false
+      },
+      {
+       "zh": "换",
+       "pos": "động từ",
+       "vi": "thay, thay đổi, đổi",
+       "proper": false
+      },
+      {
+       "zh": "房子",
+       "pos": "danh từ",
+       "vi": "nhà, căn nhà",
+       "proper": false
+      },
+      {
+       "zh": "小区",
+       "pos": "danh từ",
+       "vi": "khu dân cư, khu nhà ở",
+       "proper": false
+      },
+      {
+       "zh": "环境",
+       "pos": "danh từ",
+       "vi": "môi trường",
+       "proper": false
+      },
+      {
+       "zh": "挺",
+       "pos": "phó từ",
+       "vi": "khá, rất",
+       "proper": false
+      },
+      {
+       "zh": "空调",
+       "pos": "danh từ",
+       "vi": "máy điều hoà",
+       "proper": false
+      },
+      {
+       "zh": "洗衣机",
+       "pos": "danh từ",
+       "vi": "máy giặt",
+       "proper": false
+      },
+      {
+       "zh": "层",
+       "pos": "lượng từ",
+       "vi": "tầng",
+       "proper": false
+      },
+      {
+       "zh": "花园",
+       "pos": "danh từ",
+       "vi": "vườn hoa",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在新家，王一雪在收拾房间，刘明进来了。",
+     "sceneVi": "Vương Nhất Tuyết đang dọn dẹp trong nhà mới thì Lưu Minh bước vào.",
+     "audioDialogue": "3-3",
+     "audioVocab": "3-4",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "我今天早上来的时候，灯还开着。",
+       "vi": "Sáng nay khi em đến, đèn vẫn đang bật."
+      },
+      {
+       "sp": "刘明",
+       "zh": "我这几天忙坏了，可能走的时候忘了关了。",
+       "vi": "Mấy ngày nay anh bận đến mức sắp kiệt sức, có thể khi đi đã quên tắt rồi."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "冰箱不能用，这些吃的东西放在哪儿？",
+       "vi": "Tủ lạnh không dùng được, những đồ ăn này để ở đâu bây giờ?"
+      },
+      {
+       "sp": "刘明",
+       "zh": "不可能吧？冰箱是新买的，我来看看。",
+       "vi": "Không thể nào? Tủ lạnh mới mua mà, để anh xem thử."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "洗衣机也坏了吗？",
+       "vi": "Máy giặt cũng bị hỏng rồi à?"
+      },
+      {
+       "sp": "刘明",
+       "zh": "没坏，但是卫生间没打扫好，还不能洗衣服。",
+       "vi": "Chưa hỏng, nhưng phòng vệ sinh chưa dọn xong nên chưa thể giặt quần áo được."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "星期天我们真的能搬家吗？",
+       "vi": "Chủ nhật này chúng ta thật sự có thể chuyển nhà không?"
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "灯",
+       "pos": "danh từ",
+       "vi": "đèn",
+       "proper": false
+      },
+      {
+       "zh": "关",
+       "pos": "động từ",
+       "vi": "tắt, đóng",
+       "proper": false
+      },
+      {
+       "zh": "冰箱",
+       "pos": "danh từ",
+       "vi": "tủ lạnh",
+       "proper": false
+      },
+      {
+       "zh": "卫生间",
+       "pos": "danh từ",
+       "vi": "nhà vệ sinh",
+       "proper": false
+      },
+      {
+       "zh": "打扫",
+       "pos": "động từ",
+       "vi": "dọn dẹp, quét dọn",
+       "proper": false
+      },
+      {
+       "zh": "搬家",
+       "pos": "động từ",
+       "vi": "chuyển nhà",
+       "proper": false
+      },
+      {
+       "zh": "坏",
+       "pos": "tính từ",
+       "vi": "hỏng",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在家里，刘明和王一雪在客厅聊天儿。",
+     "sceneVi": "Lưu Minh và Vương Nhất Tuyết đang trò chuyện trong phòng khách ở nhà.",
+     "audioDialogue": "3-5",
+     "audioVocab": "3-6",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "这个月花了不少钱。",
+       "vi": "Tháng này đã tiêu không ít tiền."
+      },
+      {
+       "sp": "刘明",
+       "zh": "是的，我们买了很多搬家时要用的东西。",
+       "vi": "Đúng vậy, chúng ta đã mua rất nhiều đồ dùng khi chuyển nhà."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "咱们办张信用卡吧，花的钱可以慢慢还。听说中国银行的服务不错，办了信用卡买东西还能便宜。",
+       "vi": "Chúng ta làm một chiếc thẻ tín dụng đi, tiền đã tiêu có thể trả dần dần. Nghe nói dịch vụ của Ngân hàng Trung Quốc khá tốt, có thẻ tín dụng mua đồ còn được rẻ hơn."
+      },
+      {
+       "sp": "刘明",
+       "zh": "好啊！中国银行很近，走路几分钟就能到。咱们什么时候去？",
+       "vi": "Hay đấy! Ngân hàng Trung Quốc rất gần, đi bộ vài phút là tới. Khi nào chúng ta đi?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "今天下午？",
+       "vi": "Chiều nay nhé?"
+      },
+      {
+       "sp": "刘明",
+       "zh": "我下午要去医院，很晚才能回来。",
+       "vi": "Chiều nay anh phải đến bệnh viện, rất muộn mới về được."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "那我下午自己去吧。",
+       "vi": "Vậy chiều nay em tự đi nhé."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "办",
+       "pos": "động từ",
+       "vi": "làm, xử lý",
+       "proper": false
+      },
+      {
+       "zh": "信用卡",
+       "pos": "danh từ",
+       "vi": "thẻ tín dụng",
+       "proper": false
+      },
+      {
+       "zh": "还",
+       "pos": "động từ",
+       "vi": "trả, hoàn trả",
+       "proper": false
+      },
+      {
+       "zh": "听说",
+       "pos": "động từ",
+       "vi": "nghe nói",
+       "proper": false
+      },
+      {
+       "zh": "银行",
+       "pos": "danh từ",
+       "vi": "ngân hàng",
+       "proper": false
+      },
+      {
+       "zh": "才",
+       "pos": "phó từ",
+       "vi": "(mãi)... mới",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "scene": "在家里，刘明和王一雪讨论搬家计划。",
+     "sceneVi": "Lưu Minh và Vương Nhất Tuyết đang ở trong nhà thảo luận về kế hoạch chuyển nhà.",
+     "audioDialogue": "3-7",
+     "audioVocab": "3-8",
+     "dialogue": [
+      {
+       "sp": "刘明",
+       "zh": "我觉得这个星期就能搬家。我明天去买一些纸箱，很快就能准备好。搬家那天，我想请几位朋友来帮忙，最多一天就能搬完。",
+       "vi": "Anh thấy tuần này có thể chuyển nhà được. Ngày mai anh đi mua một ít thùng giấy, rất nhanh là chuẩn bị xong. Hôm chuyển nhà, anh muốn nhờ vài người bạn đến giúp, nhiều nhất một ngày là có thể chuyển xong."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "我觉得下个月才能搬家。这周开始准备，下周去打扫新家，这么多事情最少需要两个星期才能做完。搬家那天，我们应该找一家搬家公司。",
+       "vi": "Em thấy tháng sau mới có thể chuyển nhà được. Tuần này bắt đầu chuẩn bị, tuần sau đi dọn dẹp nhà mới, từng này việc ít nhất cần hai tuần mới làm xong. Hôm chuyển nhà, chúng ta nên tìm một công ty chuyển nhà."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "纸",
+       "pos": "danh từ",
+       "vi": "giấy",
+       "proper": false
+      },
+      {
+       "zh": "搬",
+       "pos": "động từ",
+       "vi": "chuyển, mang, bê",
+       "proper": false
+      },
+      {
+       "zh": "需要",
+       "pos": "động từ/danh từ",
+       "vi": "cần, cần thiết, nhu cầu",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "程度副词「挺」",
+     "explain": "Phó từ chỉ mức độ “挺” thường dùng trong văn nói, đặt trước tính từ hoặc động từ chỉ tâm lý để biểu thị mức độ tương đối cao. Cấu trúc cơ bản: 挺 + tính từ/động từ chỉ tâm lý + 的.",
+     "examples": [
+      "这个小区环境挺好的。",
+      "这家饭馆的菜挺好吃的。",
+      "买这个吧，我挺喜欢这个颜色的。"
+     ]
+    },
+    {
+     "title": "程度补语（1）",
+     "explain": "Bổ ngữ trình độ “坏了” đặt sau tính từ, biểu thị mức độ rất cao, mang ngữ khí cường điệu, thường dùng trong các tình huống tiêu cực.",
+     "examples": [
+      "我这几天忙坏了。",
+      "我渴坏了，哪里能买水？",
+      "这几天非常忙，大家都累坏了。"
+     ]
+    },
+    {
+     "title": "副词「就」和「才」",
+     "explain": "Phó từ “就” và “才” đặt trước động từ làm trạng ngữ. “就” biểu thị hành động xảy ra sớm hoặc được thực hiện nhanh, thuận lợi theo nhận định của người nói; “才” biểu thị hành động xảy ra muộn hoặc được thực hiện chậm, không thuận lợi theo nhận định của người nói.",
+     "examples": [
+      "中国银行很近，走路几分钟就能到。",
+      "我下午要去医院，很晚才能回来。",
+      "我早上五点就起床了。",
+      "坐火车去北京，五个小时才能到。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在王一飞家客厅，杨同乐和王一飞在聊天儿。",
+     "sceneVi": "Dương Đồng Lạc và Vương Nhất Phi đang trò chuyện trong phòng khách nhà Vương Nhất Phi.",
+     "audioDialogue": "4-1",
+     "audioVocab": "4-2",
+     "dialogue": [
+      {
+       "sp": "杨同乐",
+       "zh": "这个假期咱们去哪儿玩玩吧。",
+       "vi": "Kỳ nghỉ này chúng mình đi đâu đó chơi đi."
+      },
+      {
+       "sp": "王一飞",
+       "zh": "好啊，你想去哪儿，咱们就去哪儿。",
+       "vi": "Được thôi, anh muốn đi đâu thì chúng mình đi đó."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "你喜欢海，找个海边住几天，怎么样？",
+       "vi": "Em thích biển, tìm một nơi ở ven biển vài ngày, em thấy thế nào?"
+      },
+      {
+       "sp": "王一飞",
+       "zh": "现在去海边有点儿冷。",
+       "vi": "Bây giờ đi biển hơi lạnh."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "那去草原吧？草原一点儿也不冷。",
+       "vi": "Vậy đi thảo nguyên nhé? Thảo nguyên không lạnh chút nào."
+      },
+      {
+       "sp": "王一飞",
+       "zh": "这个主意好！我好久没骑马了。",
+       "vi": "Ý kiến này hay đấy! Lâu lắm rồi em chưa cưỡi ngựa."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "对，在草原上骑马、吃羊肉、看月亮，一定很有意思。",
+       "vi": "Đúng vậy, trên thảo nguyên cưỡi ngựa, ăn thịt cừu, ngắm trăng, nhất định sẽ rất thú vị."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "假期",
+       "pos": "danh từ",
+       "vi": "kỳ nghỉ",
+       "proper": false
+      },
+      {
+       "zh": "海",
+       "pos": "danh từ",
+       "vi": "biển",
+       "proper": false
+      },
+      {
+       "zh": "草原",
+       "pos": "danh từ",
+       "vi": "thảo nguyên",
+       "proper": false
+      },
+      {
+       "zh": "主意",
+       "pos": "danh từ",
+       "vi": "ý tưởng, ý kiến",
+       "proper": false
+      },
+      {
+       "zh": "骑",
+       "pos": "động từ",
+       "vi": "cưỡi",
+       "proper": false
+      },
+      {
+       "zh": "马",
+       "pos": "danh từ",
+       "vi": "ngựa",
+       "proper": false
+      },
+      {
+       "zh": "羊",
+       "pos": "danh từ",
+       "vi": "cừu, dê",
+       "proper": false
+      },
+      {
+       "zh": "月亮",
+       "pos": "danh từ",
+       "vi": "mặt trăng",
+       "proper": false
+      },
+      {
+       "zh": "一定",
+       "pos": "phó từ",
+       "vi": "nhất định, chắc chắn",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在王一飞家客厅，杨同乐和王一飞在聊天儿。",
+     "sceneVi": "Dương Đồng Lạc và Vương Nhất Phi đang trò chuyện trong phòng khách nhà Vương Nhất Phi.",
+     "audioDialogue": "4-3",
+     "audioVocab": "4-4",
+     "dialogue": [
+      {
+       "sp": "杨同乐",
+       "zh": "出去玩的机票买好了吗？",
+       "vi": "Vé máy bay đi chơi mua xong chưa?"
+      },
+      {
+       "sp": "王一飞",
+       "zh": "买好了。星期六上午十点一刻起飞。",
+       "vi": "Mua xong rồi. Thứ Bảy 10 giờ 15 phút sáng cất cánh."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "宾馆也选好了吗？",
+       "vi": "Khách sạn cũng chọn xong rồi à?"
+      },
+      {
+       "sp": "王一飞",
+       "zh": "是的，这家宾馆很特别，跟别的都不一样，一出门就能看见牛和羊！",
+       "vi": "Vâng, khách sạn này rất đặc biệt, không giống với những khách sạn khác, vừa ra cửa là có thể nhìn thấy bò và cừu!"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "太好了！你看看要带什么东西？",
+       "vi": "Tuyệt quá! Em xem thử cần mang theo những gì?"
+      },
+      {
+       "sp": "王一飞",
+       "zh": "我们不用带太多东西，别忘了拿上新买的相机。",
+       "vi": "Chúng ta không cần mang quá nhiều đồ, đừng quên mang theo chiếc máy ảnh mới mua."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "一定不会忘带的。我现在就去准备行李。",
+       "vi": "Chắc chắn không quên mang đâu. Anh đi chuẩn bị hành lý ngay bây giờ."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "刻",
+       "pos": "lượng từ",
+       "vi": "khắc, 15 phút",
+       "proper": false
+      },
+      {
+       "zh": "起飞",
+       "pos": "động từ",
+       "vi": "cất cánh",
+       "proper": false
+      },
+      {
+       "zh": "宾馆",
+       "pos": "danh từ",
+       "vi": "khách sạn",
+       "proper": false
+      },
+      {
+       "zh": "特别",
+       "pos": "tính từ/phó từ",
+       "vi": "đặc biệt, rất, vô cùng",
+       "proper": false
+      },
+      {
+       "zh": "别的",
+       "pos": "danh từ",
+       "vi": "khác",
+       "proper": false
+      },
+      {
+       "zh": "一样",
+       "pos": "tính từ",
+       "vi": "giống nhau",
+       "proper": false
+      },
+      {
+       "zh": "牛",
+       "pos": "danh từ",
+       "vi": "bò",
+       "proper": false
+      },
+      {
+       "zh": "相机",
+       "pos": "danh từ",
+       "vi": "máy ảnh",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在机场，杨同乐和王一飞走出来，跟他们预约的司机兼导游见面。",
+     "sceneVi": "Dương Đồng Lạc và Vương Nhất Phi đi ra phía ngoài sân bay và gặp lái xe kiêm hướng dẫn viên mà họ đã đặt trước.",
+     "audioDialogue": "4-5",
+     "audioVocab": "4-6",
+     "dialogue": [
+      {
+       "sp": "小李",
+       "zh": "欢迎你们！我是你们的司机，我姓李，叫我小李就可以。",
+       "vi": "Hoan nghênh hai vị! Tôi là lái xe của hai vị, tôi họ Lý, hai vị cứ gọi tôi là Tiểu Lý là được."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "您好！不好意思，飞机晚点了，让您久等了。",
+       "vi": "Chào anh! Xin lỗi anh, máy bay bị trễ giờ, để anh phải chờ lâu rồi."
+      },
+      {
+       "sp": "小李",
+       "zh": "没关系。除了这个行李箱以外，还有别的东西吗？",
+       "vi": "Không sao ạ. Ngoài chiếc vali này ra, còn có đồ gì khác không?"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "还有一个包，我自己拿就可以。",
+       "vi": "Còn một cái túi nữa, tôi tự cầm được."
+      },
+      {
+       "sp": "小李",
+       "zh": "车在一层，请跟我来。",
+       "vi": "Xe ở tầng một, mời hai vị đi theo tôi."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "我们住的宾馆离机场远吗？",
+       "vi": "Khách sạn chúng tôi ở cách sân bay có xa không?"
+      },
+      {
+       "sp": "小李",
+       "zh": "不远，三十分钟就能到。两位到了可以先休息休息，晚饭的时候我叫你们。",
+       "vi": "Không xa, ba mươi phút là tới. Hai vị đến nơi có thể nghỉ ngơi trước, đến bữa tối tôi sẽ gọi hai vị."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "欢迎",
+       "pos": "động từ",
+       "vi": "chào đón, hoan nghênh",
+       "proper": false
+      },
+      {
+       "zh": "司机",
+       "pos": "danh từ",
+       "vi": "tài xế",
+       "proper": false
+      },
+      {
+       "zh": "晚点",
+       "pos": "động từ",
+       "vi": "muộn giờ, muộn",
+       "proper": false
+      },
+      {
+       "zh": "久",
+       "pos": "tính từ",
+       "vi": "lâu",
+       "proper": false
+      },
+      {
+       "zh": "除了",
+       "pos": "giới từ",
+       "vi": "ngoài... ra, trừ...",
+       "proper": false
+      },
+      {
+       "zh": "以外",
+       "pos": "danh từ",
+       "vi": "(ngoài)... ra",
+       "proper": false
+      },
+      {
+       "zh": "先",
+       "pos": "phó từ",
+       "vi": "trước, trước tiên",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "scene": "在宾馆房间，王一飞在写日记。",
+     "sceneVi": "Vương Nhất Phi đang viết nhật ký ở trong phòng khách sạn.",
+     "audioDialogue": "4-7",
+     "audioVocab": "4-8",
+     "dialogue": [
+      {
+       "sp": "",
+       "zh": "今天是我们旅游的第一天。我们很早就起床去机场了，没想到飞机晚点了。我们到的时候，天已经黑了，但是司机小李一直在机场等我们，一点儿也没着急。他特别热情，路上给我们介绍了很多东西，还准备了水果。宾馆的房间跟我想的一样漂亮，又大又干净，我非常满意。",
+       "vi": "Hôm nay là ngày đầu tiên chúng tôi đi du lịch. Chúng tôi dậy rất sớm để ra sân bay, không ngờ máy bay lại bị trễ. Khi chúng tôi đến nơi, trời đã tối, nhưng anh lái xe Tiểu Lý vẫn luôn đợi ở sân bay, không hề sốt ruột. Anh ấy rất nhiệt tình, trên đường đã giới thiệu cho chúng tôi rất nhiều điều, còn chuẩn bị cả hoa quả nữa. Phòng ở khách sạn đẹp đúng như tôi nghĩ, vừa rộng vừa sạch sẽ, tôi rất hài lòng."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "一直",
+       "pos": "phó từ",
+       "vi": "luôn luôn, suốt",
+       "proper": false
+      },
+      {
+       "zh": "干净",
+       "pos": "tính từ",
+       "vi": "sạch, sạch sẽ",
+       "proper": false
+      },
+      {
+       "zh": "满意",
+       "pos": "động từ",
+       "vi": "hài lòng",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "固定格式「一……也/都+不/没……」",
+     "explain": "Cấu trúc cố định “一……也/都 + 不/没……” biểu thị ý nghĩa phủ định hoàn toàn. “一 + lượng từ” đôi khi có thể được thay bằng “一点儿”. Khi vị ngữ là tính từ, thường dùng cấu trúc “一点儿也/都 + 不/没 + tính từ”.",
+     "examples": [
+      "她一件衣服都不想买。",
+      "我一个中国电影也没看过。",
+      "草原一点儿也不冷。",
+      "他们一点儿也没着急。"
+     ]
+    },
+    {
+     "title": "比较句（9）",
+     "explain": "Câu so sánh “A 跟 B 一样” biểu thị A và B có kết quả giống nhau sau khi so sánh. Sau “一样” có thể dùng tính từ để biểu thị một phương diện so sánh nào đó. Cấu trúc cơ bản: A 跟 B 一样 + tính từ. Hình thức phủ định thêm “不” trước “一样”.",
+     "examples": [
+      "这家宾馆跟别的都不一样。",
+      "他买的新手机跟我的一样。",
+      "这个房间跟那个房间一样大。"
+     ]
+    },
+    {
+     "title": "固定格式「除了……（以外），……都/还/也……」",
+     "explain": "Cấu trúc “除了……（以外），……都……” dùng để diễn đạt ý nghĩa sau khi đã loại trừ một phần, những phần còn lại đều giống nhau trong một phạm vi nào đó, “以外” có thể lược bỏ. Cấu trúc “除了……（以外），……还/也……” biểu thị loại trừ một phần và bổ sung thêm phần khác; chủ ngữ của câu đặt ở đầu câu hoặc đặt trước “还/也”.",
+     "examples": [
+      "除了我以外，大家都在玩手机。",
+      "除了这个汉字，别的汉字我都会写。",
+      "除了这个行李箱以外，还有别的东西吗？",
+      "除了唱歌以外，他也喜欢跳舞。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在街上，白家月和李文边散步边聊天儿。",
+     "sceneVi": "Bạch Gia Nguyệt và Lý Văn vừa đi dạo vừa trò chuyện trên đường phố.",
+     "audioDialogue": "5-1",
+     "audioVocab": "5-2",
+     "dialogue": [
+      {
+       "sp": "白家月",
+       "zh": "这个星期总是阴天，今天终于晴了。",
+       "vi": "Tuần này luôn là trời âm u, hôm nay cuối cùng cũng nắng rồi."
+      },
+      {
+       "sp": "李文",
+       "zh": "现在天气好得很！我们去爬山怎么样？",
+       "vi": "Bây giờ thời tiết tốt lắm! Chúng ta đi leo núi thế nào?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "好啊！又能锻炼身体，又能照好看的照片。",
+       "vi": "Được thôi! Vừa có thể rèn luyện sức khoẻ, vừa có thể chụp ảnh đẹp."
+      },
+      {
+       "sp": "李文",
+       "zh": "那我带点儿水和吃的，咱们现在就去？",
+       "vi": "Vậy mình sẽ mang theo ít nước và đồ ăn, chúng ta đi ngay bây giờ nhé?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "我回去穿上运动鞋，拿上大衣。要不要叫一雪姐一起去？",
+       "vi": "Mình về nhà đi giày thể thao, lấy áo khoác đã. Có nên rủ chị Nhất Tuyết cùng đi không?"
+      },
+      {
+       "sp": "李文",
+       "zh": "好主意。给她打个电话吧。",
+       "vi": "Ý kiến hay đấy. Gọi điện cho chị ấy đi."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "总是",
+       "pos": "phó từ",
+       "vi": "luôn luôn",
+       "proper": false
+      },
+      {
+       "zh": "终于",
+       "pos": "phó từ",
+       "vi": "cuối cùng",
+       "proper": false
+      },
+      {
+       "zh": "爬",
+       "pos": "động từ",
+       "vi": "leo, leo trèo",
+       "proper": false
+      },
+      {
+       "zh": "山",
+       "pos": "danh từ",
+       "vi": "núi, đồi",
+       "proper": false
+      },
+      {
+       "zh": "锻炼",
+       "pos": "động từ",
+       "vi": "tập luyện, tập thể dục",
+       "proper": false
+      },
+      {
+       "zh": "照",
+       "pos": "động từ",
+       "vi": "chụp (ảnh)",
+       "proper": false
+      },
+      {
+       "zh": "鞋",
+       "pos": "danh từ",
+       "vi": "giày",
+       "proper": false
+      },
+      {
+       "zh": "大衣",
+       "pos": "danh từ",
+       "vi": "áo khoác",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在出租车上，王一雪和白家月在聊天儿。",
+     "sceneVi": "Vương Nhất Tuyết và Bạch Gia Nguyệt đang trò chuyện trên xe taxi.",
+     "audioDialogue": "5-3",
+     "audioVocab": "5-4",
+     "dialogue": [
+      {
+       "sp": "白家月",
+       "zh": "这些照片是谁给您照的？张张都非常好看。",
+       "vi": "Những bức ảnh này là ai chụp cho chị vậy? Tấm nào cũng rất đẹp."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "一飞。她对拍照一直很感兴趣，经常给我照相。",
+       "vi": "Nhất Phi chụp đấy. Em ấy luôn hứng thú với chụp ảnh, thường xuyên chụp ảnh cho chị."
+      },
+      {
+       "sp": "白家月",
+       "zh": "我喜欢您大笑的这张，看起来很漂亮。",
+       "vi": "Em thích tấm chị đang cười lớn này, trông rất đẹp."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "我觉得这张有点儿难看，那时候我不知道她在给我照相。",
+       "vi": "Chị thấy tấm này hơi xấu, lúc đó chị không biết em ấy đang chụp ảnh cho chị."
+      },
+      {
+       "sp": "白家月",
+       "zh": "这样的照片才好看。我也喜欢拍照，爬山的时候我给您照几张照片吧。",
+       "vi": "Những bức ảnh như thế này mới đẹp. Em cũng thích chụp ảnh, lúc leo núi em chụp cho chị vài tấm nhé."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "好，我可以比较一下你们两个谁的水平高。",
+       "vi": "Được, chị có thể so sánh xem trình độ của hai em ai cao hơn."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "拍照",
+       "pos": "động từ",
+       "vi": "chụp ảnh",
+       "proper": false
+      },
+      {
+       "zh": "感兴趣",
+       "pos": "động từ",
+       "vi": "hứng thú, có hứng thú (với)",
+       "proper": false
+      },
+      {
+       "zh": "照相",
+       "pos": "động từ",
+       "vi": "chụp ảnh",
+       "proper": false
+      },
+      {
+       "zh": "难看",
+       "pos": "tính từ",
+       "vi": "xấu, khó coi",
+       "proper": false
+      },
+      {
+       "zh": "比较",
+       "pos": "động từ/phó từ",
+       "vi": "so sánh, tương đối",
+       "proper": false
+      },
+      {
+       "zh": "水平",
+       "pos": "danh từ",
+       "vi": "trình độ, mức",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在山上，王一雪和白家月边走边聊。",
+     "sceneVi": "Vương Nhất Tuyết và Bạch Gia Nguyệt vừa đi vừa trò chuyện trên núi.",
+     "audioDialogue": "5-5",
+     "audioVocab": "5-6",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "家月，这里挺漂亮的，咱们在这里拍照吧。",
+       "vi": "Gia Nguyệt, ở đây khá đẹp, chúng ta chụp ảnh ở đây nhé."
+      },
+      {
+       "sp": "白家月",
+       "zh": "这边没有太阳，咱们去那边吧。",
+       "vi": "Bên này không có nắng, chúng ta sang bên kia đi."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "好。你觉得我站在这些树中间怎么样？",
+       "vi": "Được. Em thấy chị đứng ở giữa những cái cây này thế nào?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "挺好的。等一下，后边走过去两个人。",
+       "vi": "Khá tốt đấy ạ. Chờ một chút, phía sau có hai người đi qua."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "我准备好了，你照的时候告诉我。",
+       "vi": "Chị chuẩn bị xong rồi, lúc chụp thì em báo cho chị nhé."
+      },
+      {
+       "sp": "白家月",
+       "zh": "你不用看着我，想干什么都可以。",
+       "vi": "Chị không cần nhìn em đâu, muốn làm gì cũng được."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "树上飞来了几只鸟，我就看它们吧。",
+       "vi": "Trên cây có mấy con chim bay đến, chị sẽ nhìn chúng vậy."
+      },
+      {
+       "sp": "白家月",
+       "zh": "啊，手机没电了。",
+       "vi": "Ôi, điện thoại hết pin rồi."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "太阳",
+       "pos": "danh từ",
+       "vi": "mặt trời",
+       "proper": false
+      },
+      {
+       "zh": "树",
+       "pos": "danh từ",
+       "vi": "cây",
+       "proper": false
+      },
+      {
+       "zh": "干",
+       "pos": "động từ",
+       "vi": "làm",
+       "proper": false
+      },
+      {
+       "zh": "电",
+       "pos": "danh từ",
+       "vi": "điện",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "scene": "在咖啡厅，王一雪给白家月发短信。",
+     "sceneVi": "Vương Nhất Tuyết gửi tin nhắn cho Bạch Gia Nguyệt trong quán cà phê.",
+     "audioDialogue": "5-7",
+     "audioVocab": "5-8",
+     "dialogue": [
+      {
+       "sp": "",
+       "zh": "家月，我收到了你的那封邮件，也看到了你给我照的照片，张张都很漂亮。我已经告诉了一飞，你的拍照水平比她高，她难过得很，哈哈。不知道你对中国的音乐有没有兴趣？我送你一张明天下午音乐会的门票。音乐会七点多结束，你听完了音乐会就来我家吃饭，尝尝我做的中国菜。你觉得怎么样？",
+       "vi": "Gia Nguyệt, chị đã nhận được email của em, cũng đã xem những bức ảnh em chụp cho chị, tấm nào cũng rất đẹp. Chị đã nói với Nhất Phi rằng trình độ chụp ảnh của em cao hơn em ấy, em ấy buồn lắm, ha ha. Không biết em có hứng thú với âm nhạc Trung Quốc không? Chị tặng em một vé buổi hoà nhạc chiều mai. Buổi hoà nhạc kết thúc hơn 7 giờ, nghe xong em đến nhà chị ăn cơm, thử món ăn Trung Quốc chị nấu nhé. Em thấy thế nào?"
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "收到",
+       "pos": "động từ",
+       "vi": "nhận được",
+       "proper": false
+      },
+      {
+       "zh": "封",
+       "pos": "lượng từ",
+       "vi": "bức, lá (thư)",
+       "proper": false
+      },
+      {
+       "zh": "邮件",
+       "pos": "danh từ",
+       "vi": "email, thư điện tử",
+       "proper": false
+      },
+      {
+       "zh": "难过",
+       "pos": "tính từ",
+       "vi": "buồn, buồn rầu",
+       "proper": false
+      },
+      {
+       "zh": "哈哈",
+       "pos": "từ tượng thanh",
+       "vi": "ha ha (tiếng cười)",
+       "proper": false
+      },
+      {
+       "zh": "音乐",
+       "pos": "danh từ",
+       "vi": "âm nhạc",
+       "proper": false
+      },
+      {
+       "zh": "兴趣",
+       "pos": "danh từ",
+       "vi": "hứng thú",
+       "proper": false
+      },
+      {
+       "zh": "会",
+       "pos": "danh từ",
+       "vi": "buổi gặp mặt, bữa tiệc",
+       "proper": false
+      },
+      {
+       "zh": "结束",
+       "pos": "động từ",
+       "vi": "kết thúc",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "程度补语（2）",
+     "explain": "Bổ ngữ trình độ “得很” đặt sau tính từ, biểu thị mức độ cao, thường dùng trong văn nói.",
+     "examples": [
+      "现在天气好得很。",
+      "房间里面热得很。",
+      "我觉得爬山累得很。"
+     ]
+    },
+    {
+     "title": "量词重叠",
+     "explain": "Trong tiếng Trung Quốc, nhiều lượng từ có thể lặp lại để nhấn mạnh mỗi thành viên trong một phạm vi nhất định đều có một đặc điểm nào đó, phía sau thường dùng “都”.",
+     "examples": [
+      "这些照片张张都非常好看。",
+      "这些苹果个个都很大。",
+      "我想出去拍照，但是天天下雨。"
+     ]
+    },
+    {
+     "title": "存现句（3）",
+     "explain": "Để miêu tả sự xuất hiện hoặc biến mất của người hoặc sự vật tại một địa điểm nhất định, người ta sử dụng câu tồn hiện. Cấu trúc cơ bản: Từ ngữ chỉ nơi chốn + động từ + bổ ngữ xu hướng/bổ ngữ kết quả + (trợ từ động thái) + cụm từ chỉ số lượng + danh từ chỉ người/sự vật.",
+     "examples": [
+      "后边走过去两个人。",
+      "前面开过来很多车。",
+      "楼上下来了几个人。"
+     ]
+    },
+    {
+     "title": "紧缩复句「……了……就……」",
+     "explain": "Câu ghép rút gọn “……了……就……” biểu thị hai hành động xảy ra liên tiếp. Nếu hành động thứ hai cũng đã hoàn thành thì cần thêm “了” vào cuối câu. Cấu trúc cơ bản: Động từ₁ + 了 ……就 + động từ₂……",
+     "examples": [
+      "你听完了音乐会就来我家吃饭。",
+      "我吃了早饭就去学校了。",
+      "昨天我们下了课就回家了。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在咖啡厅里，李文和白家月在聊天儿。",
+     "sceneVi": "Lý Văn và Bạch Gia Nguyệt đang trò chuyện trong quán cà phê.",
+     "audioDialogue": "6-1",
+     "audioVocab": "6-2",
+     "dialogue": [
+      {
+       "sp": "李文",
+       "zh": "家月，咱们该买去上海的票了。你打算怎么去上海？",
+       "vi": "Gia Nguyệt, chúng ta nên mua vé đi Thượng Hải rồi. Bạn định đi Thượng Hải bằng cách nào?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "我还没坐过高铁，咱们坐高铁去，怎么样？",
+       "vi": "Mình chưa đi tàu cao tốc bao giờ, chúng ta đi tàu cao tốc nhé, thế nào?"
+      },
+      {
+       "sp": "李文",
+       "zh": "没问题，从北京到上海的高铁很多，非常方便。",
+       "vi": "Không vấn đề gì, từ Bắc Kinh đến Thượng Hải có rất nhiều chuyến tàu cao tốc, rất thuận tiện."
+      },
+      {
+       "sp": "白家月",
+       "zh": "行！怎么买高铁票？",
+       "vi": "Được! Mua vé tàu cao tốc như thế nào?"
+      },
+      {
+       "sp": "李文",
+       "zh": "用手机App就能买。给我你的护照，我帮你买。",
+       "vi": "Dùng ứng dụng trên điện thoại là có thể mua. Đưa hộ chiếu của bạn cho mình, mình mua giúp bạn."
+      },
+      {
+       "sp": "白家月",
+       "zh": "早就听说过高铁，终于可以坐上了。",
+       "vi": "Từ lâu đã nghe nói về tàu cao tốc, cuối cùng cũng có thể được đi rồi."
+      },
+      {
+       "sp": "李文",
+       "zh": "高铁又快又舒服，你一定会喜欢的。",
+       "vi": "Tàu cao tốc vừa nhanh vừa thoải mái, bạn nhất định sẽ thích."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "该",
+       "pos": "động từ năng nguyện",
+       "vi": "nên",
+       "proper": false
+      },
+      {
+       "zh": "打算",
+       "pos": "động từ/danh từ",
+       "vi": "dự định, kế hoạch",
+       "proper": false
+      },
+      {
+       "zh": "高铁",
+       "pos": "danh từ",
+       "vi": "tàu cao tốc",
+       "proper": false
+      },
+      {
+       "zh": "行",
+       "pos": "động từ/tính từ",
+       "vi": "được, có thể",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在车上，刘明开车送白家月和李文去高铁站。",
+     "sceneVi": "Lưu Minh lái xe đưa Bạch Gia Nguyệt và Lý Văn đến ga tàu cao tốc.",
+     "audioDialogue": "6-3",
+     "audioVocab": "6-4",
+     "dialogue": [
+      {
+       "sp": "刘明",
+       "zh": "过了前面的路口就到高铁站了。",
+       "vi": "Qua ngã tư phía trước là đến ga tàu cao tốc rồi."
+      },
+      {
+       "sp": "白家月",
+       "zh": "我看见了。马上就到了，这条路车很多，您小心点儿。",
+       "vi": "Cháu nhìn thấy rồi. Sắp đến nơi rồi, con đường này có rất nhiều xe, chú lái cẩn thận nhé."
+      },
+      {
+       "sp": "刘明",
+       "zh": "好，你们还有一个小时，应该不会迟到的。",
+       "vi": "Được rồi, các cháu còn một tiếng nữa, chắc không bị muộn đâu."
+      },
+      {
+       "sp": "白家月",
+       "zh": "我发现这条路车多，红绿灯也多。",
+       "vi": "Cháu thấy con đường này đông xe, đèn đỏ cũng nhiều."
+      },
+      {
+       "sp": "刘明",
+       "zh": "是啊，这条路我走过一次，后来再也不走了。",
+       "vi": "Đúng vậy, con đường này chú đã đi một lần, về sau không bao giờ đi nữa."
+      },
+      {
+       "sp": "白家月",
+       "zh": "那您今天为什么走了这条路？",
+       "vi": "Vậy sao hôm nay chú lại đi đường này ạ?"
+      },
+      {
+       "sp": "刘明",
+       "zh": "我一急就走错了。如果没走错，二十分钟以前就到了。",
+       "vi": "Chú vội quá nên đi nhầm đường. Nếu không đi nhầm thì 20 phút trước đã đến rồi."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "路口",
+       "pos": "danh từ",
+       "vi": "giao lộ, lối rẽ, đầu đường",
+       "proper": false
+      },
+      {
+       "zh": "小心",
+       "pos": "động từ/tính từ",
+       "vi": "cẩn thận, chú ý",
+       "proper": false
+      },
+      {
+       "zh": "迟到",
+       "pos": "động từ",
+       "vi": "đến muộn",
+       "proper": false
+      },
+      {
+       "zh": "红绿灯",
+       "pos": "danh từ",
+       "vi": "đèn giao thông, đèn xanh đèn đỏ",
+       "proper": false
+      },
+      {
+       "zh": "后来",
+       "pos": "danh từ",
+       "vi": "sau đó, về sau",
+       "proper": false
+      },
+      {
+       "zh": "急",
+       "pos": "tính từ/động từ",
+       "vi": "gấp, lo lắng",
+       "proper": false
+      },
+      {
+       "zh": "如果",
+       "pos": "liên từ",
+       "vi": "nếu",
+       "proper": false
+      },
+      {
+       "zh": "以前",
+       "pos": "danh từ",
+       "vi": "trước đây",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在高铁站，李文和白家月排队安检、检票。",
+     "sceneVi": "Lý Văn và Bạch Gia Nguyệt xếp hàng kiểm tra an ninh và soát vé ở ga tàu cao tốc.",
+     "audioDialogue": "6-5",
+     "audioVocab": "6-6",
+     "dialogue": [
+      {
+       "sp": "白家月",
+       "zh": "李文，我的耳机没电了，你有充电宝吗？",
+       "vi": "Lý Văn, tai nghe của mình hết pin rồi, bạn có sạc dự phòng không?"
+      },
+      {
+       "sp": "李文",
+       "zh": "有，这些常用的东西我都放在包里了，我给你拿。",
+       "vi": "Có, những thứ hay dùng mình đều để ở trong túi rồi, mình lấy cho bạn."
+      },
+      {
+       "sp": "白家月",
+       "zh": "前面的人越来越多。",
+       "vi": "Người ở phía trước càng lúc càng đông."
+      },
+      {
+       "sp": "李文",
+       "zh": "对，马上就进高铁站了。咱们一起走，别分开。",
+       "vi": "Đúng vậy, sắp vào ga tàu cao tốc rồi. Chúng ta đi cùng nhau, đừng tách nhau ra."
+      },
+      {
+       "sp": "白家月",
+       "zh": "好，你检查一下，高铁票都拿好了吗？",
+       "vi": "Ừ, bạn kiểm tra xem, vé tàu cao tốc đã cầm cả chưa?"
+      },
+      {
+       "sp": "李文",
+       "zh": "不用拿票，刷护照就能检票进站。",
+       "vi": "Không cần cầm vé, quẹt hộ chiếu là có thể soát vé vào ga."
+      },
+      {
+       "sp": "白家月",
+       "zh": "去哪里检票？",
+       "vi": "Đi soát vé ở đâu?"
+      },
+      {
+       "sp": "李文",
+       "zh": "检票口在二层，我们一会儿坐电梯上去。",
+       "vi": "Cổng soát vé ở tầng hai, lát nữa chúng ta đi thang máy lên."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "耳机",
+       "pos": "danh từ",
+       "vi": "tai nghe",
+       "proper": false
+      },
+      {
+       "zh": "充电宝",
+       "pos": "danh từ",
+       "vi": "sạc dự phòng",
+       "proper": false
+      },
+      {
+       "zh": "常用",
+       "pos": "tính từ",
+       "vi": "thường dùng",
+       "proper": false
+      },
+      {
+       "zh": "越",
+       "pos": "phó từ",
+       "vi": "càng... (càng...)",
+       "proper": false
+      },
+      {
+       "zh": "分开",
+       "pos": "động từ",
+       "vi": "tách ra",
+       "proper": false
+      },
+      {
+       "zh": "检查",
+       "pos": "động từ",
+       "vi": "kiểm tra",
+       "proper": false
+      },
+      {
+       "zh": "刷",
+       "pos": "động từ",
+       "vi": "quẹt (thẻ, mã QR...)",
+       "proper": false
+      },
+      {
+       "zh": "检票",
+       "pos": "động từ",
+       "vi": "kiểm vé",
+       "proper": false
+      },
+      {
+       "zh": "电梯",
+       "pos": "danh từ",
+       "vi": "thang máy",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "scene": "在家里，白家月给安妮打电话介绍自己的旅行。",
+     "sceneVi": "Bạch Gia Nguyệt gọi điện cho Annie để giới thiệu về chuyến đi của mình khi ở trong nhà.",
+     "audioDialogue": "6-7",
+     "audioVocab": "6-8",
+     "dialogue": [
+      {
+       "sp": "",
+       "zh": "这次放假，我去了北京，还去了上海。我是从北京南站坐高铁去的上海。我觉得坐在高铁上跟坐在家里的沙发上一样，又安静又舒服。坐累了就站一会儿，饿了就点外卖。对，你没听错，高铁上可以点外卖，只需要选择好车站和想吃的东西，到站时不用下车，服务员就会给你拿过来。现在喜欢坐高铁的人越来越多。我爸妈来中国旅游的时候，必须带他们也坐一次高铁。",
+       "vi": "Kỳ nghỉ này, tôi đã đi Bắc Kinh, còn đi cả Thượng Hải nữa. Tôi từ ga Bắc Kinh Nam đi tàu cao tốc đến Thượng Hải. Tôi thấy ngồi trên tàu cao tốc cũng giống như ngồi trên ghế sofa ở nhà vậy, vừa yên tĩnh vừa thoải mái. Ngồi mệt thì đứng một lát, đói thì đặt đồ ăn giao tận nơi. Đúng vậy, bạn không nghe nhầm đâu, trên tàu cao tốc có thể đặt đồ ăn, chỉ cần chọn ga và món muốn ăn, khi tàu đến ga không cần xuống tàu, nhân viên phục vụ sẽ mang đến cho bạn. Hiện nay càng ngày càng nhiều người thích đi tàu cao tốc. Khi bố mẹ tôi đến Trung Quốc du lịch, tôi nhất định phải đưa họ đi tàu cao tốc một lần."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "放假",
+       "pos": "động từ",
+       "vi": "nghỉ phép, nghỉ lễ",
+       "proper": false
+      },
+      {
+       "zh": "沙发",
+       "pos": "danh từ",
+       "vi": "ghế sofa",
+       "proper": false
+      },
+      {
+       "zh": "安静",
+       "pos": "tính từ",
+       "vi": "yên tĩnh",
+       "proper": false
+      },
+      {
+       "zh": "选择",
+       "pos": "động từ",
+       "vi": "chọn, lựa chọn",
+       "proper": false
+      },
+      {
+       "zh": "必须",
+       "pos": "phó từ",
+       "vi": "phải, nhất định phải",
+       "proper": false
+      },
+      {
+       "zh": "北京南站",
+       "pos": "danh từ riêng",
+       "vi": "ga Bắc Kinh Nam",
+       "proper": true
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "固定格式「该……了」",
+     "explain": "Cấu trúc cố định “该……了” thường dùng trong văn nói, biểu thị đã đến lúc cần làm một việc gì đó.",
+     "examples": [
+      "咱们该买去上海的票了。",
+      "八点了，该上课了。",
+      "已经很晚了，我该睡觉了。"
+     ]
+    },
+    {
+     "title": "假设复句「如果……，就……」",
+     "explain": "Trong câu ghép giả định “如果……，就……”, mệnh đề đứng sau “如果” là giả thuyết, mệnh đề đứng sau “就” là kết quả có được dựa trên giả thuyết đó. Lưu ý, chủ ngữ của mệnh đề thứ hai phải đặt trước “就”.",
+     "examples": [
+      "如果没走错，二十分钟以前就到了。",
+      "如果你需要帮忙，就给我打电话。",
+      "如果有时间，我就去上海玩几天。"
+     ]
+    },
+    {
+     "title": "固定短语「越来越」",
+     "explain": "Sau cụm từ cố định “越来越” cộng với tính từ hoặc động từ chỉ tâm lý, biểu thị mức độ thay đổi theo thời gian. Tính từ hoặc động từ chỉ tâm lý phía sau không được thêm phó từ chỉ mức độ.",
+     "examples": [
+      "前面的人越来越多。",
+      "我越来越喜欢这里的生活了。",
+      "她越来越高，也越来越漂亮。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在家里，王一雪和刘明商量去买东西。",
+     "sceneVi": "Vương Nhất Tuyết và Lưu Minh đang ở trong nhà bàn bạc về việc đi mua đồ.",
+     "audioDialogue": "7-1",
+     "audioVocab": "7-2",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "这辆自行车是小雪八岁的时候买的，看起来有点儿旧了。",
+       "vi": "Chiếc xe đạp này mua hồi Tiểu Tuyết lên tám tuổi, trông có chút cũ rồi."
+      },
+      {
+       "sp": "刘明",
+       "zh": "是啊，她现在长高了，这辆车已经太矮了。",
+       "vi": "Đúng vậy, bây giờ con bé cao lên rồi, chiếc xe này đã quá thấp rồi."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "商场里开了一家自行车店，咱们给她买辆新的吧。",
+       "vi": "Trong trung tâm thương mại mới mở một cửa hàng xe đạp, chúng ta mua cho con bé một chiếc mới nhé."
+      },
+      {
+       "sp": "刘明",
+       "zh": "好，咱们带小雪一起去，让她试一下。",
+       "vi": "Được, chúng ta đưa Tiểu Tuyết đi cùng, để con bé thử một chút."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "那今天就去吧。我也想再看看衣服。咱们怎么去？",
+       "vi": "Vậy hôm nay đi luôn đi. Em cũng muốn xem thêm quần áo. Chúng ta đi bằng cách nào?"
+      },
+      {
+       "sp": "刘明",
+       "zh": "商场不远，咱们可以走着去。",
+       "vi": "Trung tâm thương mại không xa, chúng ta có thể đi bộ đến đó."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "辆",
+       "pos": "lượng từ",
+       "vi": "chiếc (dùng cho xe cộ)",
+       "proper": false
+      },
+      {
+       "zh": "自行车",
+       "pos": "danh từ",
+       "vi": "xe đạp",
+       "proper": false
+      },
+      {
+       "zh": "旧",
+       "pos": "tính từ",
+       "vi": "cũ",
+       "proper": false
+      },
+      {
+       "zh": "矮",
+       "pos": "tính từ",
+       "vi": "thấp, lùn",
+       "proper": false
+      },
+      {
+       "zh": "试",
+       "pos": "động từ",
+       "vi": "thử",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在商场，刘明和王一雪买完自行车，又来挑选衣服。",
+     "sceneVi": "Ở trung tâm thương mại, Lưu Minh và Vương Nhất Tuyết mua xong xe đạp rồi lại chọn quần áo.",
+     "audioDialogue": "7-3",
+     "audioVocab": "7-4",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "你看我穿这条黄色的短裤好看吗？",
+       "vi": "Anh xem em mặc chiếc quần soóc màu vàng này có đẹp không?"
+      },
+      {
+       "sp": "刘明",
+       "zh": "大小合适，但我觉得那条裙子比短裤更好看。",
+       "vi": "Kích cỡ hợp, nhưng anh thấy chiếc váy kia đẹp hơn quần soóc."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "裙子比短裤贵一点儿。",
+       "vi": "Váy đắt hơn quần soóc một chút."
+      },
+      {
+       "sp": "刘明",
+       "zh": "贵多少？",
+       "vi": "Đắt hơn bao nhiêu?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "裙子480，短裤400。",
+       "vi": "Váy 480, quần soóc 400."
+      },
+      {
+       "sp": "刘明",
+       "zh": "裙子不比短裤贵多少，还是买裙子吧，你穿裙子更好看。",
+       "vi": "Váy không đắt hơn quần soóc bao nhiêu, vẫn nên mua váy đi, em mặc váy đẹp hơn."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "我多看看再决定。你看，那边有买二送一！",
+       "vi": "Em xem thêm rồi quyết định. Anh nhìn kìa, bên kia có chương trình mua hai tặng một!"
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "黄色",
+       "pos": "danh từ",
+       "vi": "màu vàng",
+       "proper": false
+      },
+      {
+       "zh": "短裤",
+       "pos": "danh từ",
+       "vi": "quần soóc",
+       "proper": false
+      },
+      {
+       "zh": "大小",
+       "pos": "danh từ",
+       "vi": "kích cỡ",
+       "proper": false
+      },
+      {
+       "zh": "合适",
+       "pos": "tính từ",
+       "vi": "phù hợp",
+       "proper": false
+      },
+      {
+       "zh": "裙子",
+       "pos": "danh từ",
+       "vi": "váy, đầm",
+       "proper": false
+      },
+      {
+       "zh": "更",
+       "pos": "phó từ",
+       "vi": "càng, hơn",
+       "proper": false
+      },
+      {
+       "zh": "决定",
+       "pos": "động từ/danh từ",
+       "vi": "quyết định",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在商店，王一雪在买东西。",
+     "sceneVi": "Vương Nhất Tuyết đang mua đồ ở cửa hàng.",
+     "audioDialogue": "7-5",
+     "audioVocab": "7-6",
+     "dialogue": [
+      {
+       "sp": "店员",
+       "zh": "西瓜又大又新鲜，不甜不要钱！",
+       "vi": "Dưa hấu vừa to vừa tươi, không ngọt không lấy tiền!"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "西瓜看起来不错，怎么卖？",
+       "vi": "Dưa hấu trông không tồi, bán thế nào vậy?"
+      },
+      {
+       "sp": "店员",
+       "zh": "五块钱一公斤。来，您先尝尝这块冰西瓜，甜极了！",
+       "vi": "Năm đồng một ki-lô-gam. Nào, chị nếm thử miếng dưa hấu ướp lạnh này trước, ngọt cực kỳ!"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "是挺甜的！帮我选个大点儿的，再来两斤香蕉。",
+       "vi": "Đúng là khá ngọt! Chọn giúp tôi một quả to hơn một chút, lại thêm hai cân chuối nữa."
+      },
+      {
+       "sp": "店员",
+       "zh": "一共五十八块五毛。",
+       "vi": "Tổng cộng 58 đồng 5 hào."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "我买了这么多，便宜点儿吧。",
+       "vi": "Tôi mua nhiều như vậy, bớt cho tôi chút đi."
+      },
+      {
+       "sp": "店员",
+       "zh": "您给我五十五吧，不能再便宜了。",
+       "vi": "Chị đưa tôi 55 đồng thôi, không thể rẻ hơn nữa đâu."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "西瓜",
+       "pos": "danh từ",
+       "vi": "dưa hấu",
+       "proper": false
+      },
+      {
+       "zh": "新鲜",
+       "pos": "tính từ",
+       "vi": "tươi, tươi mới",
+       "proper": false
+      },
+      {
+       "zh": "甜",
+       "pos": "tính từ",
+       "vi": "ngọt",
+       "proper": false
+      },
+      {
+       "zh": "公斤",
+       "pos": "lượng từ",
+       "vi": "ki-lô-gam",
+       "proper": false
+      },
+      {
+       "zh": "冰",
+       "pos": "động từ/danh từ",
+       "vi": "đông, đá",
+       "proper": false
+      },
+      {
+       "zh": "极",
+       "pos": "phó từ",
+       "vi": "cực kỳ",
+       "proper": false
+      },
+      {
+       "zh": "斤",
+       "pos": "lượng từ",
+       "vi": "cân (0,5 kilôgam)",
+       "proper": false
+      },
+      {
+       "zh": "香蕉",
+       "pos": "danh từ",
+       "vi": "chuối tiêu",
+       "proper": false
+      },
+      {
+       "zh": "一共",
+       "pos": "phó từ",
+       "vi": "tổng cộng",
+       "proper": false
+      },
+      {
+       "zh": "毛",
+       "pos": "lượng từ",
+       "vi": "hào (đơn vị tiền tệ)",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "scene": "在家里，刘明在看电视。",
+     "sceneVi": "Lưu Minh đang xem ti vi ở trong nhà.",
+     "audioDialogue": "7-7",
+     "audioVocab": "7-8",
+     "dialogue": [
+      {
+       "sp": "",
+       "zh": "这几天我们在新家坐着看电视的时候，又发现了新问题。房子大了，电视看起来就有点儿小。这个电视是我们结婚时买的，是时候换个新电视了。今天我一直在网上选电视，没想到，现在的电视不但便宜，而且用着非常方便，有的电视叫它一声就能开机。我看了好几个，都很满意，晚上让一雪来决定吧。",
+       "vi": "Mấy ngày nay khi ngồi xem ti vi ở nhà mới, chúng tôi lại phát hiện ra vấn đề mới. Nhà lớn hơn nên ti vi nhìn có chút nhỏ. Chiếc ti vi này mua hồi chúng tôi kết hôn, đã đến lúc thay một chiếc ti vi mới rồi. Hôm nay tôi chọn ti vi trên mạng suốt, không ngờ ti vi hiện nay không những rẻ mà còn rất tiện dụng, có loại chỉ cần gọi một tiếng là bật máy. Tôi xem mấy chiếc, đều rất hài lòng, tối để Nhất Tuyết quyết định vậy."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "结婚",
+       "pos": "động từ",
+       "vi": "kết hôn",
+       "proper": false
+      },
+      {
+       "zh": "不但",
+       "pos": "liên từ",
+       "vi": "không những",
+       "proper": false
+      },
+      {
+       "zh": "而且",
+       "pos": "liên từ",
+       "vi": "mà còn",
+       "proper": false
+      },
+      {
+       "zh": "声",
+       "pos": "lượng từ",
+       "vi": "tiếng (dùng cho âm thanh)",
+       "proper": false
+      },
+      {
+       "zh": "开机",
+       "pos": "động từ",
+       "vi": "mở máy, bật máy",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "连动句（2）",
+     "explain": "Trợ từ động thái “着” được dùng sau động từ thứ nhất trong câu liên động, biểu thị trạng thái hoặc cách thức khi thực hiện hành động thứ hai. Cấu trúc cơ bản: động từ₁ + 着 + (tân ngữ₁) + động từ₂ + (tân ngữ₂).",
+     "examples": [
+      "咱们可以走着去。",
+      "弟弟吃着苹果写作业。",
+      "他们坐着看电视。"
+     ]
+    },
+    {
+     "title": "比较句（10）",
+     "explain": "“A 不比 B + tính từ” có nghĩa là A và B gần giống nhau. Cấu trúc này thường dùng trong ngữ cảnh nhấn mạnh sự tương đồng giữa hai sự vật hoặc để phản bác ý kiến của người khác.",
+     "examples": [
+      "裙子不比短裤贵多少。",
+      "他的中文不比你好。",
+      "他跑得不比我快多少。"
+     ]
+    },
+    {
+     "title": "程度补语（3）",
+     "explain": "Bổ ngữ trình độ “极了” đặt sau tính từ hoặc động từ chỉ tâm lý, biểu thị tính chất, trạng thái của người hoặc sự vật, hoặc cảm xúc của con người đạt đến mức rất cao.",
+     "examples": [
+      "这块冰西瓜甜极了。",
+      "今年夏天热极了。",
+      "这本书我喜欢极了。"
+     ]
+    },
+    {
+     "title": "递进复句「不但……，而且……」",
+     "explain": "Câu ghép tăng tiến “不但……，而且……” dùng để nối hai mệnh đề, biểu thị quan hệ tăng tiến. Nếu chủ ngữ của hai mệnh đề giống nhau thì “不但” đặt sau chủ ngữ thứ nhất; nếu chủ ngữ của hai mệnh đề khác nhau thì “不但” đặt trước chủ ngữ thứ nhất.",
+     "examples": [
+      "现在的电视不但便宜，而且用着非常方便。",
+      "家月不但喜欢唱歌，而且唱得很好听。",
+      "不但家月会说汉语，而且天中也会说汉语。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在学校的体育馆，李文遇到了陈天中。",
+     "sceneVi": "Lý Văn đã gặp Trần Thiên Trung ở nhà thi đấu của trường.",
+     "audioDialogue": "8-1",
+     "audioVocab": "8-2",
+     "dialogue": [
+      {
+       "sp": "李文",
+       "zh": "天中，最近常看见你来体育馆。",
+       "vi": "Thiên Trung, dạo này mình thường thấy bạn đến nhà thi đấu."
+      },
+      {
+       "sp": "陈天中",
+       "zh": "我每天下午都来跑一个小时步。",
+       "vi": "Chiều nào mình cũng đến chạy bộ một tiếng."
+      },
+      {
+       "sp": "李文",
+       "zh": "你的运动习惯真不错。",
+       "vi": "Thói quen vận động của bạn thật tốt."
+      },
+      {
+       "sp": "陈天中",
+       "zh": "因为我今天胖了十多斤，不能再胖下去了，有点儿不健康。",
+       "vi": "Vì năm nay mình béo lên hơn mười cân, không thể béo thêm nữa, có chút không khoẻ mạnh."
+      },
+      {
+       "sp": "李文",
+       "zh": "我下课以后常去打羽毛球，你也来玩吧。",
+       "vi": "Sau khi tan học mình thường đi chơi cầu lông, bạn cũng đến chơi đi."
+      },
+      {
+       "sp": "陈天中",
+       "zh": "我知道，但是你们的水平太高了，我打得不怎么样。",
+       "vi": "Mình biết, nhưng trình độ của các bạn cao quá, mình chơi không ra sao cả."
+      },
+      {
+       "sp": "李文",
+       "zh": "没关系，我可以教你。",
+       "vi": "Không sao, mình có thể dạy bạn."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "最近",
+       "pos": "danh từ",
+       "vi": "gần đây",
+       "proper": false
+      },
+      {
+       "zh": "常",
+       "pos": "phó từ",
+       "vi": "thường, thường xuyên",
+       "proper": false
+      },
+      {
+       "zh": "体育馆",
+       "pos": "danh từ",
+       "vi": "nhà thi đấu",
+       "proper": false
+      },
+      {
+       "zh": "习惯",
+       "pos": "danh từ/động từ",
+       "vi": "thói quen, quen với",
+       "proper": false
+      },
+      {
+       "zh": "胖",
+       "pos": "tính từ",
+       "vi": "béo",
+       "proper": false
+      },
+      {
+       "zh": "健康",
+       "pos": "tính từ",
+       "vi": "khoẻ mạnh",
+       "proper": false
+      },
+      {
+       "zh": "以后",
+       "pos": "danh từ",
+       "vi": "sau, sau này, về sau",
+       "proper": false
+      },
+      {
+       "zh": "羽毛球",
+       "pos": "danh từ",
+       "vi": "cầu lông",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在教室，安妮问候陈天中。",
+     "sceneVi": "Annie hỏi thăm Trần Thiên Trung ở trong lớp học.",
+     "audioDialogue": "8-3",
+     "audioVocab": "8-4",
+     "dialogue": [
+      {
+       "sp": "安妮",
+       "zh": "你怎么了？看上去有点儿不舒服。",
+       "vi": "Bạn sao thế? Trông bạn có vẻ không được khoẻ."
+      },
+      {
+       "sp": "陈天中",
+       "zh": "昨天游完泳以后，耳朵一直有点儿疼。",
+       "vi": "Sau khi bơi xong hôm qua, tai mình cứ hơi đau."
+      },
+      {
+       "sp": "安妮",
+       "zh": "是不是感冒了？发烧吗？",
+       "vi": "Có phải bị cảm rồi không? Có sốt không?"
+      },
+      {
+       "sp": "陈天中",
+       "zh": "好像发低烧了。",
+       "vi": "Hình như bị sốt nhẹ."
+      },
+      {
+       "sp": "安妮",
+       "zh": "我送你去医院，让医生检查一下吧。",
+       "vi": "Mình đưa bạn đến bệnh viện để bác sĩ kiểm tra nhé."
+      },
+      {
+       "sp": "陈天中",
+       "zh": "我先回去睡一觉，可能休息休息就好了。",
+       "vi": "Mình về nhà ngủ một giấc trước, có lẽ nghỉ ngơi một chút là khỏi."
+      },
+      {
+       "sp": "安妮",
+       "zh": "好吧，如果下午还发烧，就一定要去看医生。",
+       "vi": "Được rồi, nếu buổi chiều vẫn còn sốt thì nhất định phải đi khám bác sĩ."
+      },
+      {
+       "sp": "陈天中",
+       "zh": "谢谢关心，我会注意的。",
+       "vi": "Cảm ơn bạn đã quan tâm, mình sẽ chú ý."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "耳朵",
+       "pos": "danh từ",
+       "vi": "tai",
+       "proper": false
+      },
+      {
+       "zh": "感冒",
+       "pos": "động từ/danh từ",
+       "vi": "bị cảm, cảm",
+       "proper": false
+      },
+      {
+       "zh": "发烧",
+       "pos": "động từ",
+       "vi": "sốt",
+       "proper": false
+      },
+      {
+       "zh": "低",
+       "pos": "tính từ",
+       "vi": "thấp",
+       "proper": false
+      },
+      {
+       "zh": "关心",
+       "pos": "động từ",
+       "vi": "quan tâm",
+       "proper": false
+      },
+      {
+       "zh": "注意",
+       "pos": "động từ",
+       "vi": "chú ý",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在医院病房，安妮探望陈天中。",
+     "sceneVi": "Annie đến thăm Trần Thiên Trung ở phòng bệnh của bệnh viện.",
+     "audioDialogue": "8-5",
+     "audioVocab": "8-6",
+     "dialogue": [
+      {
+       "sp": "安妮",
+       "zh": "你怎么突然住院了？大家都很担心你。",
+       "vi": "Sao bạn đột nhiên phải nhập viện vậy? Mọi người đều rất lo cho bạn."
+      },
+      {
+       "sp": "陈天中",
+       "zh": "我的腿疼了几个星期了，医生说需要住院做检查。",
+       "vi": "Chân mình đã đau mấy tuần rồi, bác sĩ nói cần nhập viện để kiểm tra."
+      },
+      {
+       "sp": "安妮",
+       "zh": "你看起来一点儿也不像病人。",
+       "vi": "Nhìn bạn chẳng giống bệnh nhân chút nào."
+      },
+      {
+       "sp": "陈天中",
+       "zh": "是啊，我很少生病。我上次来医院已经过去差不多两年了。",
+       "vi": "Đúng vậy, mình rất ít khi bị ốm. Lần trước mình đến bệnh viện đã qua gần hai năm rồi."
+      },
+      {
+       "sp": "安妮",
+       "zh": "你每天跑步，有时候还去游泳，是不是运动太多了？",
+       "vi": "Hằng ngày bạn đều chạy bộ, đôi khi còn đi bơi nữa, có phải vận động quá nhiều không?"
+      },
+      {
+       "sp": "陈天中",
+       "zh": "医生也这么说，但是还得做完检查才能知道。",
+       "vi": "Bác sĩ cũng nói vậy, nhưng còn phải làm xong kiểm tra mới biết được."
+      },
+      {
+       "sp": "安妮",
+       "zh": "别担心！听医生的话，好好休息，你的腿一定能好。",
+       "vi": "Đừng lo lắng! Nghe lời bác sĩ, nghỉ ngơi thật tốt, chân bạn nhất định sẽ khỏi."
+      },
+      {
+       "sp": "陈天中",
+       "zh": "谢谢。有人来看我，我就开心多了。",
+       "vi": "Cảm ơn bạn. Có người đến thăm mình, mình thấy vui hơn nhiều rồi."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "突然",
+       "pos": "tính từ",
+       "vi": "đột nhiên, đột ngột",
+       "proper": false
+      },
+      {
+       "zh": "住院",
+       "pos": "động từ",
+       "vi": "nằm viện, nhập viện",
+       "proper": false
+      },
+      {
+       "zh": "担心",
+       "pos": "động từ",
+       "vi": "lo lắng",
+       "proper": false
+      },
+      {
+       "zh": "腿",
+       "pos": "danh từ",
+       "vi": "chân",
+       "proper": false
+      },
+      {
+       "zh": "病人",
+       "pos": "danh từ",
+       "vi": "bệnh nhân",
+       "proper": false
+      },
+      {
+       "zh": "差不多",
+       "pos": "phó từ/tính từ",
+       "vi": "gần như, tương tự, xấp xỉ",
+       "proper": false
+      },
+      {
+       "zh": "得",
+       "pos": "động từ năng nguyện",
+       "vi": "phải, cần",
+       "proper": false
+      },
+      {
+       "zh": "开心",
+       "pos": "tính từ",
+       "vi": "vui vẻ",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "scene": "在家里，陈天中吃药、休息。",
+     "sceneVi": "Trần Thiên Trung uống thuốc và nghỉ ngơi ở nhà.",
+     "audioDialogue": "8-7",
+     "audioVocab": "8-8",
+     "dialogue": [
+      {
+       "sp": "",
+       "zh": "今天我出院了。出院前，医生给我开了几种药，而且告诉了我吃药的方法。有一种药需要每天睡前吃一次，其他几种每天吃三次，饭后吃。除了吃药，医生还说最重要的是多休息。我都记在心里了，回家以后一定会多注意。希望我的腿能快一点儿好。",
+       "vi": "Hôm nay tôi được xuất viện. Trước khi xuất viện, bác sĩ đã kê cho tôi vài loại thuốc, và còn dặn tôi cách uống thuốc. Có một loại thuốc cần uống mỗi ngày một lần trước khi đi ngủ, mấy loại khác mỗi ngày uống ba lần, uống sau bữa ăn. Ngoài uống thuốc ra, bác sĩ còn nói điều quan trọng nhất là nghỉ ngơi nhiều. Tôi đều ghi nhớ trong lòng, sau khi về nhà nhất định sẽ chú ý nhiều hơn. Hy vọng chân tôi sớm khỏi."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "出院",
+       "pos": "động từ",
+       "vi": "xuất viện",
+       "proper": false
+      },
+      {
+       "zh": "开",
+       "pos": "động từ",
+       "vi": "kê (đơn thuốc)",
+       "proper": false
+      },
+      {
+       "zh": "种",
+       "pos": "lượng từ",
+       "vi": "loại",
+       "proper": false
+      },
+      {
+       "zh": "方法",
+       "pos": "danh từ",
+       "vi": "phương pháp",
+       "proper": false
+      },
+      {
+       "zh": "其他",
+       "pos": "đại từ",
+       "vi": "khác",
+       "proper": false
+      },
+      {
+       "zh": "心里",
+       "pos": "danh từ",
+       "vi": "trong lòng",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "趋向补语的引申用法（1）",
+     "explain": "Bổ ngữ xu hướng “下去” đặt sau động từ hoặc tính từ, biểu thị hành động hoặc trạng thái đã bắt đầu và sẽ tiếp tục diễn ra.",
+     "examples": [
+      "我今年胖了十多斤，不能再胖下去了。",
+      "她读完了第一个问题，后面的你读下去。",
+      "这几天太热了，如果再热下去就不能出门了。"
+     ]
+    },
+    {
+     "title": "离合词（2）",
+     "explain": "Từ li hợp thường không thể trực tiếp mang tân ngữ. Trong câu sử dụng từ li hợp, nếu có bổ ngữ thì thường đặt bổ ngữ ở giữa hai phần của từ li hợp.",
+     "examples": [
+      "昨天游完泳以后，我的耳朵一直有点儿疼。",
+      "今年夏天只下了两次雨。",
+      "小张下个月跟他女朋友结婚。"
+     ]
+    },
+    {
+     "title": "时量补语（2）",
+     "explain": "Bổ ngữ thời lượng đặt sau động từ, biểu thị khoảng thời gian mà hành động hoặc trạng thái duy trì. Có một số động từ không thể duy trì thì bổ ngữ thời lượng đứng sau động từ biểu thị khoảng thời gian từ lúc hành động hoàn thành đến thời điểm nói.",
+     "examples": [
+      "我上次来医院已经过去差不多两年了。",
+      "她回家两个月了。",
+      "开学已经三个多星期了。"
+     ]
+    },
+    {
+     "title": "固定格式「……以前/以后/前/后」",
+     "explain": "“Thời gian/sự việc + 以前/前” biểu thị trước một thời điểm hoặc một sự kiện nào đó; “Thời gian/sự việc + 以后/后” biểu thị sau một thời điểm hoặc một sự kiện nào đó.",
+     "examples": [
+      "这种药需要每天睡前吃一次。",
+      "我们决定下班后一起去看个电影。",
+      "考完试以后，咱们一起去旅游吧。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在图书馆门口，李文向白家月跑过去。",
+     "sceneVi": "Ở trước cửa thư viện, Lý Văn chạy về phía Bạch Gia Nguyệt.",
+     "audioDialogue": "9-1",
+     "audioVocab": "9-2",
+     "dialogue": [
+      {
+       "sp": "李文",
+       "zh": "家月，对不起，我昨天忘了还你校园卡了。",
+       "vi": "Gia Nguyệt, xin lỗi bạn, hôm qua mình quên trả lại thẻ sinh viên cho bạn."
+      },
+      {
+       "sp": "白家月",
+       "zh": "没关系。你怎么这么快就过来了？",
+       "vi": "Không sao. Sao bạn lại đến đây nhanh vậy?"
+      },
+      {
+       "sp": "李文",
+       "zh": "我正在球场打球呢，接了你的电话就跑过来了。",
+       "vi": "Mình đang chơi bóng ở sân bóng, nghe điện thoại của bạn xong là chạy qua đây ngay."
+      },
+      {
+       "sp": "白家月",
+       "zh": "听说为了准备运动会，你们几个男生每天都练球。",
+       "vi": "Nghe nói để chuẩn bị cho hội thao, mấy bạn nam các cậu ngày nào cũng luyện bóng."
+      },
+      {
+       "sp": "李文",
+       "zh": "是啊！你打算参加运动会吗？",
+       "vi": "Đúng vậy! Bạn định tham gia hội thao không?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "我想参加网球比赛，最近一直在练习。",
+       "vi": "Mình muốn tham gia thi đấu quần vợt, dạo này vẫn luôn luyện tập."
+      },
+      {
+       "sp": "李文",
+       "zh": "好，到时候我去看你的比赛。",
+       "vi": "Được, đến lúc đó mình sẽ đến xem bạn thi đấu."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "校园",
+       "pos": "danh từ",
+       "vi": "khuôn viên trường",
+       "proper": false
+      },
+      {
+       "zh": "卡",
+       "pos": "danh từ",
+       "vi": "thẻ",
+       "proper": false
+      },
+      {
+       "zh": "球场",
+       "pos": "danh từ",
+       "vi": "sân bóng",
+       "proper": false
+      },
+      {
+       "zh": "为了",
+       "pos": "giới từ",
+       "vi": "vì, để",
+       "proper": false
+      },
+      {
+       "zh": "运动会",
+       "pos": "danh từ",
+       "vi": "đại hội thể dục thể thao, hội thao",
+       "proper": false
+      },
+      {
+       "zh": "男生",
+       "pos": "danh từ",
+       "vi": "nam sinh, nam giới",
+       "proper": false
+      },
+      {
+       "zh": "练",
+       "pos": "động từ",
+       "vi": "luyện, tập",
+       "proper": false
+      },
+      {
+       "zh": "参加",
+       "pos": "động từ",
+       "vi": "tham gia",
+       "proper": false
+      },
+      {
+       "zh": "网球",
+       "pos": "danh từ",
+       "vi": "quần vợt, tennis",
+       "proper": false
+      },
+      {
+       "zh": "比赛",
+       "pos": "danh từ/động từ",
+       "vi": "trận đấu, thi đấu",
+       "proper": false
+      },
+      {
+       "zh": "练习",
+       "pos": "động từ/danh từ",
+       "vi": "luyện tập, bài tập",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在校园里，李文和白家月在聊天儿。",
+     "sceneVi": "Lý Văn và Bạch Gia Nguyệt đang trò chuyện trong khuôn viên trường.",
+     "audioDialogue": "9-3",
+     "audioVocab": "9-4",
+     "dialogue": [
+      {
+       "sp": "李文",
+       "zh": "家月，你跟我们一起打羽毛球吧？",
+       "vi": "Gia Nguyệt, bạn chơi cầu lông cùng chúng mình nhé?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "我好多年没打羽毛球了，几乎忘了怎么打了。",
+       "vi": "Đã nhiều năm mình không chơi cầu lông, gần như quên cách chơi rồi."
+      },
+      {
+       "sp": "李文",
+       "zh": "不是比赛，打不好没关系。",
+       "vi": "Không phải thi đấu, chơi không tốt cũng không sao."
+      },
+      {
+       "sp": "白家月",
+       "zh": "这么多同学一起打，如果总是接不住球，就太不好意思了。",
+       "vi": "Nhiều bạn chơi cùng nhau như vậy, nếu cứ không đỡ được bóng thì ngại lắm."
+      },
+      {
+       "sp": "李文",
+       "zh": "你想得太多了！大家打球只是为了锻炼身体。",
+       "vi": "Bạn nghĩ nhiều quá rồi! Mọi người chơi bóng chỉ là để rèn luyện sức khoẻ."
+      },
+      {
+       "sp": "白家月",
+       "zh": "我先自己练练吧，下周再跟你们一起打。",
+       "vi": "Mình luyện tập một mình trước đã, tuần sau mình sẽ chơi cùng các bạn."
+      },
+      {
+       "sp": "李文",
+       "zh": "我在教天中打羽毛球，你可以过来跟我们一起练。",
+       "vi": "Mình đang dạy Thiên Trung chơi cầu lông, bạn có thể qua đây cùng luyện với bọn mình."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "好多",
+       "pos": "数词",
+       "vi": "khá nhiều",
+       "proper": false
+      },
+      {
+       "zh": "几乎",
+       "pos": "phó từ",
+       "vi": "hầu như",
+       "proper": false
+      },
+      {
+       "zh": "只是",
+       "pos": "phó từ/liên từ",
+       "vi": "chỉ là, nhưng",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在李文家，李文、白家月和陈天中一起看电视。",
+     "sceneVi": "Lý Văn xem ti vi cùng Bạch Gia Nguyệt và Trần Thiên Trung ở nhà của anh ấy.",
+     "audioDialogue": "9-5",
+     "audioVocab": "9-6",
+     "dialogue": [
+      {
+       "sp": "陈天中",
+       "zh": "足球比赛已经开始了，快过来看吧！",
+       "vi": "Trận đấu bóng đá đã bắt đầu rồi, mau lại đây xem đi!"
+      },
+      {
+       "sp": "李文",
+       "zh": "你们先看，冰箱里有啤酒和饮料，我去拿一下。",
+       "vi": "Các bạn xem trước đi, trong tủ lạnh có bia và đồ uống, mình đi lấy một chút."
+      },
+      {
+       "sp": "白家月",
+       "zh": "今天怎么回事？总是踢不进去！",
+       "vi": "Hôm nay làm sao vậy? Cứ đá mãi không vào!"
+      },
+      {
+       "sp": "陈天中",
+       "zh": "几个老球员生病了，新球员第一次参加这么重要的比赛，太紧张了。",
+       "vi": "Mấy cầu thủ kỳ cựu bị ốm, các cầu thủ mới lần đầu tham gia trận đấu quan trọng thế này nên căng thẳng quá."
+      },
+      {
+       "sp": "李文",
+       "zh": "是啊，主要的球员没参加比赛，所以大家也都受到影响了。",
+       "vi": "Đúng vậy, những cầu thủ chủ chốt không tham gia thi đấu nên mọi người cũng đều bị ảnh hưởng."
+      },
+      {
+       "sp": "白家月",
+       "zh": "越看越着急。我不看了，你们告诉我得分吧。",
+       "vi": "Càng xem càng sốt ruột. Mình không xem nữa, các bạn báo tỉ số cho mình nhé."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "啤酒",
+       "pos": "danh từ",
+       "vi": "bia",
+       "proper": false
+      },
+      {
+       "zh": "回",
+       "pos": "lượng từ",
+       "vi": "vụ, lần",
+       "proper": false
+      },
+      {
+       "zh": "紧张",
+       "pos": "tính từ",
+       "vi": "căng thẳng, hồi hộp",
+       "proper": false
+      },
+      {
+       "zh": "主要",
+       "pos": "tính từ",
+       "vi": "chủ yếu, chính",
+       "proper": false
+      },
+      {
+       "zh": "受到",
+       "pos": "động từ",
+       "vi": "bị, nhận, chịu, nhận được",
+       "proper": false
+      },
+      {
+       "zh": "影响",
+       "pos": "danh từ/động từ",
+       "vi": "sự ảnh hưởng, ảnh hưởng",
+       "proper": false
+      },
+      {
+       "zh": "得分",
+       "pos": "động từ/danh từ",
+       "vi": "ghi điểm, ghi bàn, tỉ số",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "scene": "在家里，李文准备演讲稿。",
+     "sceneVi": "Lý Văn chuẩn bị bài phát biểu ở trong nhà.",
+     "audioDialogue": "9-7",
+     "audioVocab": "9-8",
+     "dialogue": [
+      {
+       "sp": "",
+       "zh": "我喜欢看体育比赛，最爱看的就是奥运会。奥运会是世界上影响最大的体育比赛。从1896年到2024年，每次奥运会都有非常多的运动员参加。第一位参加奥运会的中国运动员是刘长春，他1932年参加了100米和200米短跑比赛。虽然他没有得到好成绩，但是他让世界认识了中国。",
+       "vi": "Tôi thích xem thi đấu thể thao, thích xem nhất là Thế vận hội Olympic. Thế vận hội là cuộc thi đấu thể thao có sức ảnh hưởng lớn nhất trên thế giới. Từ năm 1896 đến năm 2024, mỗi kỳ Thế vận hội đều có rất nhiều vận động viên tham gia. Vận động viên Trung Quốc đầu tiên tham gia Thế vận hội là Lưu Trường Xuân, ông đã tham gia thi chạy nước rút 100 mét và 200 mét vào năm 1932. Mặc dù ông không đạt thành tích tốt, nhưng ông đã khiến thế giới biết đến Trung Quốc."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "体育",
+       "pos": "danh từ",
+       "vi": "thể dục, thể thao",
+       "proper": false
+      },
+      {
+       "zh": "世界",
+       "pos": "danh từ",
+       "vi": "thế giới",
+       "proper": false
+      },
+      {
+       "zh": "运动员",
+       "pos": "danh từ",
+       "vi": "vận động viên",
+       "proper": false
+      },
+      {
+       "zh": "得到",
+       "pos": "động từ",
+       "vi": "đạt được, nhận được",
+       "proper": false
+      },
+      {
+       "zh": "成绩",
+       "pos": "danh từ",
+       "vi": "thành tích, kết quả",
+       "proper": false
+      },
+      {
+       "zh": "奥运会",
+       "pos": "danh từ riêng",
+       "vi": "Thế vận hội Olympic",
+       "proper": true
+      },
+      {
+       "zh": "刘长春",
+       "pos": "danh từ riêng",
+       "vi": "Lưu Trường Xuân",
+       "proper": true
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "目的复句「为了……，……」",
+     "explain": "Câu ghép chỉ mục đích “为了……，……” trong đó mệnh đề đứng sau “为了” biểu thị mục đích, mệnh đề còn lại biểu thị hành động được thực hiện để đạt mục đích đó.",
+     "examples": [
+      "听说为了准备运动会，你们几个男生每天都练球。",
+      "为了考上大学，她每天努力学习。",
+      "为了早点儿到家，我打算坐飞机回去。"
+     ]
+    },
+    {
+     "title": "可能补语",
+     "explain": "Thêm “得” hoặc “不” vào giữa động từ và bổ ngữ kết quả hoặc bổ ngữ xu hướng để tạo thành bổ ngữ khả năng, biểu thị điều kiện có cho phép thực hiện một kết quả hoặc phương hướng nào đó hay không. Hình thức khẳng định là “động từ + 得 + bổ ngữ”, hình thức phủ định là “động từ + 不 + bổ ngữ”, hình thức nghi vấn là “động từ + 得 + bổ ngữ + động từ + 不 + bổ ngữ” hoặc “động từ + 得 + bổ ngữ + 吗”.",
+     "examples": [
+      "打不好没关系。",
+      "这本书你看得懂看不懂？",
+      "你只有一个星期的时间，学得会游泳吗？"
+     ]
+    },
+    {
+     "title": "固定格式「越A越B」",
+     "explain": "Trong câu sử dụng cấu trúc cố định “越 A 越 B”, A và B có thể đều là cụm động từ hoặc cụm tính từ, cũng có thể A là cụm động từ, B là cụm tính từ, để biểu thị B thay đổi theo sự thay đổi của A.",
+     "examples": [
+      "今天的足球比赛我越看越着急。",
+      "妈妈越说，他越不高兴。",
+      "我想认识中国朋友，越多越好。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 10,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在教室里，刘小雪跟同学聊学习方法。",
+     "sceneVi": "Lưu Tiểu Tuyết trò chuyện với bạn học về phương pháp học tập ở trong lớp học.",
+     "audioDialogue": "10-1",
+     "audioVocab": "10-2",
+     "dialogue": [
+      {
+       "sp": "同学",
+       "zh": "你的数学越来越好，能不能介绍一下学习方法？",
+       "vi": "Môn Toán của bạn ngày càng tốt, bạn có thể giới thiệu phương pháp học không?"
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "没有什么特别的方法，认真听课，认真记笔记。",
+       "vi": "Không có phương pháp gì đặc biệt cả, chỉ là nghe giảng nghiêm túc, ghi chép nghiêm túc."
+      },
+      {
+       "sp": "同学",
+       "zh": "我看过你的笔记，记得非常清楚。",
+       "vi": "Mình đã xem vở ghi của bạn, ghi chép rất rõ ràng."
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "老师写在黑板上的题都很重要，所以我会把这些题都记在本子上。",
+       "vi": "Những bài mà thầy cô viết trên bảng đen đều rất quan trọng nên mình sẽ ghi tất cả vào vở."
+      },
+      {
+       "sp": "同学",
+       "zh": "你说得对。我没有记笔记的习惯。",
+       "vi": "Bạn nói đúng. Mình không có thói quen ghi chép."
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "笔记挺重要的，我每天写作业以前，都要看一遍。",
+       "vi": "Ghi chép khá quan trọng, trước khi làm bài tập mỗi ngày mình đều xem lại một lượt."
+      },
+      {
+       "sp": "同学",
+       "zh": "这个方法真好！我以后也试试，希望能提高成绩。",
+       "vi": "Phương pháp này thật tuyệt! Sau này mình cũng sẽ thử, hy vọng có thể nâng cao thành tích."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "数学",
+       "pos": "danh từ",
+       "vi": "môn Toán, toán học",
+       "proper": false
+      },
+      {
+       "zh": "认真",
+       "pos": "tính từ",
+       "vi": "chăm chỉ, nghiêm túc",
+       "proper": false
+      },
+      {
+       "zh": "笔记",
+       "pos": "danh từ",
+       "vi": "ghi chép",
+       "proper": false
+      },
+      {
+       "zh": "清楚",
+       "pos": "tính từ/động từ",
+       "vi": "rõ ràng, hiểu rõ",
+       "proper": false
+      },
+      {
+       "zh": "黑板",
+       "pos": "danh từ",
+       "vi": "bảng đen",
+       "proper": false
+      },
+      {
+       "zh": "把",
+       "pos": "giới từ",
+       "vi": "dùng để đưa tân ngữ của động từ lên trước động từ",
+       "proper": false
+      },
+      {
+       "zh": "作业",
+       "pos": "danh từ",
+       "vi": "bài tập về nhà",
+       "proper": false
+      },
+      {
+       "zh": "遍",
+       "pos": "lượng từ",
+       "vi": "lượt",
+       "proper": false
+      },
+      {
+       "zh": "提高",
+       "pos": "động từ",
+       "vi": "nâng cao",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在教室里，刘小雪跟同学聊昨天的考试。",
+     "sceneVi": "Lưu Tiểu Tuyết trò chuyện với bạn học về bài kiểm tra hôm qua ở trong lớp học.",
+     "audioDialogue": "10-3",
+     "audioVocab": "10-4",
+     "dialogue": [
+      {
+       "sp": "同学",
+       "zh": "小雪，昨天的考试，你考得怎么样？",
+       "vi": "Tiểu Tuyết, bài kiểm tra hôm qua bạn làm thế nào?"
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "我觉得历史有点儿难，你呢？",
+       "vi": "Mình thấy môn Lịch sử hơi khó, còn bạn?"
+      },
+      {
+       "sp": "同学",
+       "zh": "数学考试我没看清楚要求，做错了好几个题，考得挺差的。",
+       "vi": "Bài thi Toán mình không đọc rõ yêu cầu, làm sai mấy câu, làm khá tệ."
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "明天还有考试呢，别想那么多了，先复习外语吧。",
+       "vi": "Ngày mai còn có bài thi nữa, đừng nghĩ nhiều nữa, ôn tập ngoại ngữ trước đi."
+      },
+      {
+       "sp": "同学",
+       "zh": "外语作业里有几个问题，我可以问问你吗？",
+       "vi": "Trong bài tập ngoại ngữ có mấy vấn đề, mình hỏi bạn được không?"
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "当然可以。在学习上，遇到什么问题都可以问我。",
+       "vi": "Tất nhiên là được. Trong học tập, gặp vấn đề gì cũng có thể hỏi mình."
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "不好意思，这几个题我也不会。咱们还是一起去办公室问问李老师吧。",
+       "vi": "Xin lỗi, mấy câu này mình cũng không biết. Chúng ta vẫn nên cùng đến văn phòng hỏi cô Lý đi."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "历史",
+       "pos": "danh từ",
+       "vi": "lịch sử",
+       "proper": false
+      },
+      {
+       "zh": "难",
+       "pos": "tính từ",
+       "vi": "khó, khó khăn",
+       "proper": false
+      },
+      {
+       "zh": "要求",
+       "pos": "danh từ/động từ",
+       "vi": "yêu cầu, đòi hỏi",
+       "proper": false
+      },
+      {
+       "zh": "差",
+       "pos": "tính từ/động từ",
+       "vi": "kém, thiếu",
+       "proper": false
+      },
+      {
+       "zh": "复习",
+       "pos": "động từ",
+       "vi": "ôn tập",
+       "proper": false
+      },
+      {
+       "zh": "外语",
+       "pos": "danh từ",
+       "vi": "ngoại ngữ",
+       "proper": false
+      },
+      {
+       "zh": "当然",
+       "pos": "phó từ",
+       "vi": "đương nhiên, dĩ nhiên",
+       "proper": false
+      },
+      {
+       "zh": "遇到",
+       "pos": "động từ",
+       "vi": "gặp, gặp phải",
+       "proper": false
+      },
+      {
+       "zh": "办公室",
+       "pos": "danh từ",
+       "vi": "văn phòng, phòng làm việc",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在李老师办公室，刘小雪跟同学问问题。",
+     "sceneVi": "Lưu Tiểu Tuyết hỏi bài bạn học ở trong phòng làm việc của cô Lý.",
+     "audioDialogue": "10-5",
+     "audioVocab": "10-6",
+     "dialogue": [
+      {
+       "sp": "同学",
+       "zh": "李老师，书上有几个问题，我们想问问您。",
+       "vi": "Cô Lý ơi, trong sách có mấy vấn đề, chúng em muốn hỏi cô."
+      },
+      {
+       "sp": "李老师",
+       "zh": "好，坐下说吧，哪个题不会？",
+       "vi": "Được, ngồi xuống nói đi, câu nào không biết?"
+      },
+      {
+       "sp": "同学",
+       "zh": "书上第五页的这个对话我看不懂，小雪也不明白。",
+       "vi": "Đoạn hội thoại này ở trang năm của sách em đọc không hiểu, Tiểu Tuyết cũng không hiểu ạ."
+      },
+      {
+       "sp": "李老师",
+       "zh": "我课上讲过这几句话，再给你们讲一遍。",
+       "vi": "Cô đã giảng mấy câu này trên lớp, cô giảng lại cho các em một lần nữa."
+      },
+      {
+       "sp": "同学",
+       "zh": "我终于懂了。这些句子一点儿也不难。",
+       "vi": "Em cuối cùng cũng hiểu rồi. Những câu này không khó chút nào."
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "我也明白了，谢谢您，李老师。",
+       "vi": "Em cũng hiểu rồi, cảm ơn cô, cô Lý ạ."
+      },
+      {
+       "sp": "李老师",
+       "zh": "我这本书上还有几个练习，你们回家也做一做，明天再把书还给我。",
+       "vi": "Trong quyển sách này của cô còn có mấy bài tập, các em về nhà cũng làm thử, ngày mai trả lại sách cho cô nhé."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "页",
+       "pos": "lượng từ",
+       "vi": "trang (giấy, sách)",
+       "proper": false
+      },
+      {
+       "zh": "对话",
+       "pos": "động từ",
+       "vi": "đối thoại, hội thoại, trò chuyện",
+       "proper": false
+      },
+      {
+       "zh": "明白",
+       "pos": "động từ/tính từ",
+       "vi": "hiểu, rõ ràng",
+       "proper": false
+      },
+      {
+       "zh": "讲",
+       "pos": "动词",
+       "vi": "giảng, giải thích",
+       "proper": false
+      },
+      {
+       "zh": "句",
+       "pos": "lượng từ",
+       "vi": "câu (nói, văn)",
+       "proper": false
+      },
+      {
+       "zh": "句子",
+       "pos": "danh từ",
+       "vi": "câu",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "scene": "在家里，刘小雪在写邮件。",
+     "sceneVi": "Lưu Tiểu Tuyết đang viết email ở trong nhà.",
+     "audioDialogue": "10-7",
+     "audioVocab": "10-8",
+     "dialogue": [
+      {
+       "sp": "",
+       "zh": "家月姐姐：你最近怎么样？忙不忙？我现在上初中二年级，学习越来越忙，后年就要考高中了。中国的学校一般是小学六年，初中三年，高中三年。妈妈说想考上好大学，就得上一个好高中；为了考上好高中，初中就得有一个不错的成绩，所以我现在非常努力。家月姐姐，你知道吗？在你的影响下，我也开始喜欢拍照了。下次你再来北京，我给你看看我照的照片。",
+       "vi": "Chị Gia Nguyệt: Dạo này chị thế nào? Có bận không? Hiện em đang học lớp 8, việc học ngày càng bận rộn, hai năm nữa là phải thi lên cấp ba rồi. Trường học ở Trung Quốc thường là tiểu học 6 năm, trung học cơ sở 3 năm, trung học phổ thông 3 năm. Mẹ nói muốn thi đỗ đại học tốt thì phải vào một trường cấp ba tốt; để thi đỗ trường cấp ba tốt thì ở cấp hai phải có thành tích khá, nên bây giờ em đang rất nỗ lực. Chị Gia Nguyệt, chị có biết không? Dưới ảnh hưởng của chị, em cũng bắt đầu thích chụp ảnh rồi. Lần sau chị lại đến Bắc Kinh, em sẽ cho chị xem những tấm ảnh em chụp."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "年级",
+       "pos": "danh từ",
+       "vi": "khối lớp",
+       "proper": false
+      },
+      {
+       "zh": "后年",
+       "pos": "danh từ",
+       "vi": "năm kia, năm sau nữa",
+       "proper": false
+      },
+      {
+       "zh": "一般",
+       "pos": "tính từ",
+       "vi": "bình thường, phổ biến",
+       "proper": false
+      },
+      {
+       "zh": "努力",
+       "pos": "tính từ/động từ",
+       "vi": "chăm chỉ, nỗ lực",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "「把」字句（1）",
+     "explain": "Câu chữ “把” miêu tả việc thực hiện một hành động tác động tới người hoặc sự vật đã xác định, khiến vị trí của nó thay đổi. Phó từ phủ định “不/没” và động từ năng nguyện phải đặt trước “把”. Cấu trúc cơ bản: Chủ ngữ + (不/没/động từ năng nguyện) + 把 + tân ngữ + động từ + 在/到 + địa điểm.",
+     "examples": [
+      "我会把这些题都记在本子上。",
+      "老师把作业本放到桌子上了。",
+      "你不能把名字写在这里。"
+     ]
+    },
+    {
+     "title": "固定格式「在……上/中/下」",
+     "explain": "Giới từ “在” kết hợp với các từ phương vị “上”, “中”, “下” tạo thành cấu trúc “在……上/中/下”, biểu thị phạm vi, thời gian, điều kiện...",
+     "examples": [
+      "在学习上，遇到什么问题都可以问我。",
+      "在比赛中，他得分最高。",
+      "在她的影响下，我开始喜欢拍照。"
+     ]
+    },
+    {
+     "title": "「把」字句（2）",
+     "explain": "Câu chữ “把” biểu thị thông qua hành động khiến sự vật đã được xác định xảy ra sự chuyển đổi về quan hệ. Cấu trúc cơ bản: Chủ ngữ + 把 + tân ngữ₁ + động từ + 给 + tân ngữ₂.",
+     "examples": [
+      "你明天再把书还给我。",
+      "我把礼物送给她了。",
+      "请你把这本书带给老师。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 11,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在办公室里，王一雪跟杨同乐在讨论工作。",
+     "sceneVi": "Vương Nhất Tuyết và Dương Đồng Lạc đang thảo luận công việc trong văn phòng.",
+     "audioDialogue": "11-1",
+     "audioVocab": "11-2",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "会议下午几点开始？",
+       "vi": "Cuộc họp chiều nay mấy giờ bắt đầu?"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "今天下午经理不在，不开会了。",
+       "vi": "Chiều nay giám đốc không có mặt, không họp nữa."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "那什么时候开会？",
+       "vi": "Vậy khi nào họp?"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "后天上午十点，会议地点换到第一会议室。我正要给大家发邮件。",
+       "vi": "10 giờ sáng ngày kia, địa điểm họp đổi sang phòng họp số một. Em đang định gửi email cho mọi người."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "开会的时候，我们用会议室的电脑还是自己的笔记本电脑？",
+       "vi": "Khi họp, chúng ta dùng máy tính của phòng họp hay máy tính xách tay của mình?"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "会议室的电脑或者自己的电脑都可以。",
+       "vi": "Máy tính của phòng họp hoặc máy tính của mình đều được ạ."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "那到时候咱们早点儿过去，你帮我把电脑接好吧。",
+       "vi": "Vậy đến lúc đó chúng ta qua sớm một chút, em giúp chị kết nối máy tính nhé."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "会议",
+       "pos": "danh từ",
+       "vi": "cuộc họp, hội nghị",
+       "proper": false
+      },
+      {
+       "zh": "经理",
+       "pos": "danh từ",
+       "vi": "giám đốc",
+       "proper": false
+      },
+      {
+       "zh": "开会",
+       "pos": "động từ",
+       "vi": "họp",
+       "proper": false
+      },
+      {
+       "zh": "后天",
+       "pos": "danh từ",
+       "vi": "ngày kia",
+       "proper": false
+      },
+      {
+       "zh": "地点",
+       "pos": "danh từ",
+       "vi": "địa điểm",
+       "proper": false
+      },
+      {
+       "zh": "室",
+       "pos": "danh từ",
+       "vi": "phòng",
+       "proper": false
+      },
+      {
+       "zh": "发",
+       "pos": "động từ",
+       "vi": "gửi",
+       "proper": false
+      },
+      {
+       "zh": "笔记本（电脑）",
+       "pos": "danh từ",
+       "vi": "máy tính xách tay",
+       "proper": false
+      },
+      {
+       "zh": "或者",
+       "pos": "liên từ",
+       "vi": "hoặc, hoặc là",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在会议室，王一雪跟杨同乐在做会前准备。",
+     "sceneVi": "Vương Nhất Tuyết và Dương Đồng Lạc đang chuẩn bị trước cuộc họp ở trong phòng họp.",
+     "audioDialogue": "11-3",
+     "audioVocab": "11-4",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "电脑接好了吗？",
+       "vi": "Máy tính kết nối xong chưa em?"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "已经接好了，您开机看看有没有问题。",
+       "vi": "Kết nối xong rồi ạ, chị bật máy xem có vấn đề gì không."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "现在什么都看不见。",
+       "vi": "Bây giờ chẳng nhìn thấy gì cả."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "我检查一下哪里出问题了……您再试一下。",
+       "vi": "Em kiểm tra xem chỗ nào bị lỗi... chị thử lại lần nữa nhé."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "看见了，但是听不见声音。",
+       "vi": "Nhìn thấy rồi, nhưng không nghe thấy âm thanh."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "现在呢？",
+       "vi": "Bây giờ thì sao ạ?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "听得见声音，但是声音有点儿小，听不清楚。",
+       "vi": "Nghe thấy âm thanh rồi, nhưng âm thanh hơi nhỏ, nghe không rõ."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "看来我没办法解决这个问题，只能找别人来帮帮忙了。",
+       "vi": "Xem ra em không thể giải quyết vấn đề này, chỉ có thể tìm người khác đến giúp thôi."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "声音",
+       "pos": "danh từ",
+       "vi": "âm thanh",
+       "proper": false
+      },
+      {
+       "zh": "看来",
+       "pos": "động từ",
+       "vi": "xem ra, dường như",
+       "proper": false
+      },
+      {
+       "zh": "办法",
+       "pos": "danh từ",
+       "vi": "biện pháp, cách",
+       "proper": false
+      },
+      {
+       "zh": "解决",
+       "pos": "động từ",
+       "vi": "giải quyết",
+       "proper": false
+      },
+      {
+       "zh": "只能",
+       "pos": "phó từ",
+       "vi": "chỉ có thể",
+       "proper": false
+      },
+      {
+       "zh": "别人",
+       "pos": "danh từ",
+       "vi": "người khác",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在办公室里，王一雪跟杨同乐在聊天儿。",
+     "sceneVi": "Vương Nhất Tuyết và Dương Đồng Lạc đang trò chuyện trong văn phòng.",
+     "audioDialogue": "11-5",
+     "audioVocab": "11-6",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "同乐，你看见老张了吗？",
+       "vi": "Đồng Lạc, em có nhìn thấy anh Trương không?"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "老张没来。他说家里有点儿事，所以请假了。",
+       "vi": "Anh Trương không đến. Anh ấy nói trong nhà có chút việc nên xin nghỉ rồi."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "好几个同事都休假了，开会前这么多工作我怕干不完。",
+       "vi": "Mấy đồng nghiệp đều nghỉ phép rồi, trước buổi họp có nhiều công việc như vậy chị sợ làm không xong."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "十二点多了，咱们先去吃饭吧。吃完饭，我跟您一起把这些工作做完。",
+       "vi": "Hơn 12 giờ rồi, chúng ta đi ăn cơm trước nhé. Ăn xong em cùng chị hoàn thành những việc này."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "你先去吃，我想再干一会儿。明天开会前要发到公司的邮箱里。",
+       "vi": "Em đi ăn trước đi, chị muốn làm thêm một lát. Trước cuộc họp ngày mai phải gửi vào hộp thư của công ty."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "您没看到邮件吗？经理还没回来呢，下周才能开会。",
+       "vi": "Chị không nhìn thấy email à? Giám đốc vẫn chưa quay lại, tuần sau mới có thể họp."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "那不着急了。走，吃饭去。",
+       "vi": "Vậy thì không vội nữa. Đi, ăn cơm thôi."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "请假",
+       "pos": "động từ",
+       "vi": "xin nghỉ, xin nghỉ phép",
+       "proper": false
+      },
+      {
+       "zh": "同事",
+       "pos": "danh từ",
+       "vi": "đồng nghiệp",
+       "proper": false
+      },
+      {
+       "zh": "休假",
+       "pos": "động từ",
+       "vi": "nghỉ phép",
+       "proper": false
+      },
+      {
+       "zh": "怕",
+       "pos": "động từ",
+       "vi": "sợ",
+       "proper": false
+      },
+      {
+       "zh": "邮箱",
+       "pos": "danh từ",
+       "vi": "hộp thư điện tử",
+       "proper": false
+      },
+      {
+       "zh": "老张",
+       "pos": "danh từ riêng",
+       "vi": "ông Trương, anh Trương",
+       "proper": true
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "scene": "在家里，王一雪在写日记。",
+     "sceneVi": "Vương Nhất Tuyết đang ngồi viết nhật ký ở trong nhà.",
+     "audioDialogue": "11-7",
+     "audioVocab": "11-8",
+     "dialogue": [
+      {
+       "sp": "",
+       "zh": "前几天，上海的同事来北京了。一起吃饭时，他们跟我说最近有不少同事去上海工作了，问我愿意不愿意也去上海。我是这样想的：现在丈夫和孩子都在北京，刘明的工作很忙，小雪和小明也还小，我去别的城市工作就要离开他们。虽然去上海可能会有更好的机会，但是对我来说，生活也很重要，我不愿意为工作或学习离开家人。",
+       "vi": "Mấy hôm trước, đồng nghiệp ở Thượng Hải đến Bắc Kinh. Khi cùng ăn cơm, họ nói với tôi gần đây có không ít đồng nghiệp đã đi Thượng Hải làm việc, hỏi tôi có muốn cũng đi Thượng Hải không. Tôi nghĩ thế này: hiện giờ chồng và các con đều ở Bắc Kinh, công việc của Lưu Minh rất bận, Tiểu Tuyết và Tiểu Minh còn nhỏ, nếu tôi đến thành phố khác làm việc thì phải xa họ. Mặc dù đi Thượng Hải có thể có cơ hội tốt hơn, nhưng đối với tôi, cuộc sống cũng rất quan trọng, tôi không muốn vì công việc hay học tập mà rời xa gia đình."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "愿意",
+       "pos": "động từ năng nguyện",
+       "vi": "sẵn lòng, bằng lòng",
+       "proper": false
+      },
+      {
+       "zh": "城市",
+       "pos": "danh từ",
+       "vi": "thành phố",
+       "proper": false
+      },
+      {
+       "zh": "离开",
+       "pos": "động từ",
+       "vi": "rời khỏi",
+       "proper": false
+      },
+      {
+       "zh": "机会",
+       "pos": "danh từ",
+       "vi": "cơ hội",
+       "proper": false
+      },
+      {
+       "zh": "生活",
+       "pos": "danh từ/động từ",
+       "vi": "cuộc sống, sinh sống",
+       "proper": false
+      },
+      {
+       "zh": "为",
+       "pos": "giới từ",
+       "vi": "vì",
+       "proper": false
+      },
+      {
+       "zh": "或",
+       "pos": "liên từ",
+       "vi": "hoặc, hoặc là",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "「还是」和「或者」",
+     "explain": "“还是” thường được dùng trong câu hỏi, đưa ra hai hoặc nhiều phương án để người nghe lựa chọn. “或者” thường dùng trong câu trần thuật, không dùng trong câu hỏi.",
+     "examples": [
+      "我们用会议室的电脑还是自己的笔记本电脑？",
+      "我们今天去、明天去还是后天去？",
+      "会议室的电脑或者自己的电脑都可以。",
+      "你可以坐地铁或者打车去学校。"
+     ]
+    },
+    {
+     "title": "固定短语「看来」",
+     "explain": "Sau cụm từ cố định “看来” có thể thêm một kết luận, thể hiện sự phân tích hoặc suy đoán của người nói về tình huống hiện tại thông qua việc quan sát hoặc suy nghĩ.",
+     "examples": [
+      "看来我没办法解决这个问题。",
+      "这么晚了，看来他今天不会来了。",
+      "电梯坏了，看来咱们只能走下去了。"
+     ]
+    },
+    {
+     "title": "「把」字句（3）",
+     "explain": "Câu chữ “把” biểu thị hành động tác động lên một đối tượng xác định và tạo ra kết quả cụ thể. Cấu trúc cơ bản: Chủ ngữ + 把 + tân ngữ + động từ + bổ ngữ kết quả.",
+     "examples": [
+      "我跟您一起把这些工作做完。",
+      "妈妈把衣服洗干净了。",
+      "他还没把笔记本电脑接好呢。"
+     ]
+    },
+    {
+     "title": "固定格式「对……来说」",
+     "explain": "Cấu trúc cố định “对……来说” dùng để chỉ rõ đối tượng liên quan trực tiếp đến một quan điểm, cảm nhận hoặc tình huống cụ thể.",
+     "examples": [
+      "对我来说，生活也很重要，我不愿意为工作或学习离开家人。",
+      "对她来说，学习汉语很有意思。",
+      "对孩子来说，玩也是一种学习。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 12,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在街上，王一飞和白家月边走边聊。",
+     "sceneVi": "Vương Nhất Phi và Bạch Gia Nguyệt vừa đi vừa trò chuyện trên đường phố.",
+     "audioDialogue": "12-1",
+     "audioVocab": "12-2",
+     "dialogue": [
+      {
+       "sp": "白家月",
+       "zh": "王老师，您看，这条街上的树都开花了。",
+       "vi": "Cô Vương ơi, cô nhìn kìa, cây trên con phố này đều nở hoa rồi."
+      },
+      {
+       "sp": "王一飞",
+       "zh": "上周我去公园坐船了，公园里的花也开了。",
+       "vi": "Tuần trước cô đi công viên chèo thuyền, hoa trong công viên cũng đã nở rồi."
+      },
+      {
+       "sp": "白家月",
+       "zh": "天气这么好，下午我也想去公园坐船。",
+       "vi": "Thời tiết đẹp như vậy, chiều nay em cũng muốn đi công viên chèo thuyền."
+      },
+      {
+       "sp": "王一飞",
+       "zh": "去吧！今天是工作日，人应该不多。",
+       "vi": "Đi đi! Hôm nay là ngày làm việc, người chắc không đông đâu."
+      },
+      {
+       "sp": "白家月",
+       "zh": "您有时间吗？我想跟您一起去。",
+       "vi": "Cô có thời gian không ạ? Em muốn đi cùng cô."
+      },
+      {
+       "sp": "王一飞",
+       "zh": "我今天下午有课，不能去太远的地方。",
+       "vi": "Chiều nay cô có tiết, không đi nơi quá xa được."
+      },
+      {
+       "sp": "白家月",
+       "zh": "那咱们换一天去？",
+       "vi": "Vậy chúng ta đổi sang ngày khác nhé?"
+      },
+      {
+       "sp": "王一飞",
+       "zh": "行。或者明天去，或者后天去，我给你打电话。",
+       "vi": "Được. Hoặc mai đi, hoặc ngày kia đi, cô sẽ gọi điện cho em."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "街",
+       "pos": "danh từ",
+       "vi": "phố, đường phố",
+       "proper": false
+      },
+      {
+       "zh": "开花",
+       "pos": "động từ",
+       "vi": "nở hoa, trổ hoa",
+       "proper": false
+      },
+      {
+       "zh": "公园",
+       "pos": "danh từ",
+       "vi": "công viên",
+       "proper": false
+      },
+      {
+       "zh": "船",
+       "pos": "danh từ",
+       "vi": "thuyền",
+       "proper": false
+      },
+      {
+       "zh": "工作日",
+       "pos": "danh từ",
+       "vi": "ngày làm việc",
+       "proper": false
+      },
+      {
+       "zh": "地方",
+       "pos": "danh từ",
+       "vi": "địa điểm, nơi",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在街上，王一飞和白家月一起散步。",
+     "sceneVi": "Vương Nhất Phi và Bạch Gia Nguyệt đang đi dạo cùng nhau trên đường phố.",
+     "audioDialogue": "12-3",
+     "audioVocab": "12-4",
+     "dialogue": [
+      {
+       "sp": "白家月",
+       "zh": "刚才还是大晴天呢，怎么突然就刮起风来了？",
+       "vi": "Vừa nãy trời còn nắng to, sao đột nhiên nổi gió thế này?"
+      },
+      {
+       "sp": "王一飞",
+       "zh": "好像新闻里说今天有雨。",
+       "vi": "Hình như trong bản tin nói hôm nay có mưa."
+      },
+      {
+       "sp": "白家月",
+       "zh": "啊？我每天书包里都放着雨伞，就今天没带。",
+       "vi": "Ôi? Mỗi ngày em đều để ô trong cặp sách, chỉ hôm nay là không mang."
+      },
+      {
+       "sp": "王一飞",
+       "zh": "我可以借给你，我车里有一把伞和一件雨衣。",
+       "vi": "Cô có thể cho em mượn, trong xe của cô có một chiếc ô và một cái áo mưa."
+      },
+      {
+       "sp": "白家月",
+       "zh": "谢谢，希望下午天气能变好。",
+       "vi": "Cảm ơn cô, hy vọng buổi chiều thời tiết sẽ khá hơn."
+      },
+      {
+       "sp": "王一飞",
+       "zh": "这个季节天气变化很快。",
+       "vi": "Mùa này thời tiết thay đổi rất nhanh."
+      },
+      {
+       "sp": "白家月",
+       "zh": "雨已经下起来了，咱们快点儿走吧。",
+       "vi": "Mưa đã rơi rồi, chúng ta đi nhanh lên một chút."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "刚才",
+       "pos": "danh từ",
+       "vi": "vừa rồi, lúc nãy",
+       "proper": false
+      },
+      {
+       "zh": "刮",
+       "pos": "động từ",
+       "vi": "thổi (gió)",
+       "proper": false
+      },
+      {
+       "zh": "风",
+       "pos": "danh từ",
+       "vi": "gió",
+       "proper": false
+      },
+      {
+       "zh": "新闻",
+       "pos": "danh từ",
+       "vi": "tin tức",
+       "proper": false
+      },
+      {
+       "zh": "伞",
+       "pos": "danh từ",
+       "vi": "ô, dù",
+       "proper": false
+      },
+      {
+       "zh": "借",
+       "pos": "động từ",
+       "vi": "mượn",
+       "proper": false
+      },
+      {
+       "zh": "把",
+       "pos": "lượng từ",
+       "vi": "cái, chiếc (vật có tay cầm)",
+       "proper": false
+      },
+      {
+       "zh": "雨衣",
+       "pos": "danh từ",
+       "vi": "áo mưa",
+       "proper": false
+      },
+      {
+       "zh": "变",
+       "pos": "động từ",
+       "vi": "thay đổi",
+       "proper": false
+      },
+      {
+       "zh": "季节",
+       "pos": "danh từ",
+       "vi": "mùa",
+       "proper": false
+      },
+      {
+       "zh": "变化",
+       "pos": "động từ/danh từ",
+       "vi": "thay đổi, sự thay đổi",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在教室里，王一飞和白家月躲雨。",
+     "sceneVi": "Vương Nhất Phi và Bạch Gia Nguyệt đang trú mưa trong lớp học.",
+     "audioDialogue": "12-5",
+     "audioVocab": "12-6",
+     "dialogue": [
+      {
+       "sp": "白家月",
+       "zh": "您来这里已经一年多了，习惯了吧？",
+       "vi": "Cô đến đây đã hơn một năm rồi, quen rồi đúng không ạ?"
+      },
+      {
+       "sp": "王一飞",
+       "zh": "别的早就习惯了，就是天气我还不太习惯。",
+       "vi": "Những cái khác thì cô đã quen từ lâu, chỉ có thời tiết là cô vẫn chưa quen lắm."
+      },
+      {
+       "sp": "白家月",
+       "zh": "为什么？您不喜欢这里的天气吗？",
+       "vi": "Tại sao ạ? Cô không thích thời tiết ở đây sao?"
+      },
+      {
+       "sp": "王一飞",
+       "zh": "我觉得冬天太冷了。",
+       "vi": "Cô thấy mùa đông lạnh quá."
+      },
+      {
+       "sp": "白家月",
+       "zh": "冬天虽然冷，但是下雪的时候特别漂亮。",
+       "vi": "Mùa đông tuy lạnh, nhưng khi có tuyết rơi thì đẹp lắm."
+      },
+      {
+       "sp": "王一飞",
+       "zh": "我也喜欢雪。北京常常下雪，但听说今年就下了一次。",
+       "vi": "Cô cũng thích tuyết. Bắc Kinh thường có tuyết rơi, nhưng nghe nói năm nay chỉ rơi có một lần."
+      },
+      {
+       "sp": "白家月",
+       "zh": "我没关注过北京的天气，但是新闻里说过，今年冬天很多地方雪下得都少了。",
+       "vi": "Em chưa từng quan tâm đến thời tiết ở Bắc Kinh, nhưng trong bản tin có nói, mùa đông năm nay ở nhiều nơi tuyết rơi đều ít đi."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "冬天",
+       "pos": "danh từ",
+       "vi": "mùa đông",
+       "proper": false
+      },
+      {
+       "zh": "常常",
+       "pos": "phó từ",
+       "vi": "thường xuyên",
+       "proper": false
+      },
+      {
+       "zh": "关注",
+       "pos": "động từ",
+       "vi": "quan tâm",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "scene": "在家里，王一飞在写日记。",
+     "sceneVi": "Vương Nhất Phi đang viết nhật ký ở trong nhà.",
+     "audioDialogue": "12-7",
+     "audioVocab": "12-8",
+     "dialogue": [
+      {
+       "sp": "",
+       "zh": "我离开北京到这里工作一年多了。这一年多住下来，我还是更喜欢北京的四季。北京的春天最舒服，天气不冷不热。夏天白天很热，但是晚上比较凉快。秋天树上的叶子都变成了红色、黄色，非常漂亮。冬天不但冷，而且风很大，我最不喜欢冬天。每个人都有自己最喜欢的季节，你最喜欢哪个季节呢？",
+       "vi": "Tôi rời Bắc Kinh đến đây làm việc đã hơn một năm. Hơn một năm sống ở đây, tôi vẫn thích bốn mùa của Bắc Kinh hơn. Mùa xuân ở Bắc Kinh dễ chịu nhất, thời tiết không lạnh không nóng. Mùa hè ban ngày rất nóng, nhưng buổi tối khá mát mẻ. Mùa thu, lá trên cây đều chuyển sang màu đỏ, màu vàng, vô cùng đẹp. Mùa đông không những lạnh mà gió còn rất lớn, tôi không thích mùa đông nhất. Mỗi người đều có mùa mà mình yêu thích nhất, còn bạn thích mùa nào nhất?"
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "四季",
+       "pos": "danh từ",
+       "vi": "bốn mùa",
+       "proper": false
+      },
+      {
+       "zh": "春天",
+       "pos": "danh từ",
+       "vi": "mùa xuân",
+       "proper": false
+      },
+      {
+       "zh": "夏天",
+       "pos": "danh từ",
+       "vi": "mùa hè",
+       "proper": false
+      },
+      {
+       "zh": "凉快",
+       "pos": "tính từ",
+       "vi": "mát mẻ",
+       "proper": false
+      },
+      {
+       "zh": "秋天",
+       "pos": "danh từ",
+       "vi": "mùa thu",
+       "proper": false
+      },
+      {
+       "zh": "叶子",
+       "pos": "danh từ",
+       "vi": "lá",
+       "proper": false
+      },
+      {
+       "zh": "变成",
+       "pos": "động từ",
+       "vi": "trở thành, biến thành",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "选择复句「或者……，或者……」",
+     "explain": "Câu ghép lựa chọn “或者……，或者……” biểu thị việc chọn một trong hai hoặc nhiều lựa chọn khả dĩ, thường dùng trong văn nói.",
+     "examples": [
+      "或者明天去，或者后天去，我给你打电话。",
+      "我们或者今天去电影院看电影，或者明天在家看电影。",
+      "晚饭你自己选，或者吃中国菜，或者吃日本菜，或者吃泰国菜。"
+     ]
+    },
+    {
+     "title": "趋向补语的引申用法（2）",
+     "explain": "Bổ ngữ xu hướng “起来” đặt sau động từ hoặc tính từ, biểu thị hành động bắt đầu diễn ra hoặc bước vào một trạng thái mới. Nếu động từ mang tân ngữ thì tân ngữ phải đặt ở giữa “起” và “来”.",
+     "examples": [
+      "雨已经下起来了。",
+      "最近天气热起来了。",
+      "怎么突然刮起风来了？"
+     ]
+    },
+    {
+     "title": "范围副词「就」",
+     "explain": "Phó từ chỉ phạm vi “就” đặt trước động từ mang số lượng từ để biểu thị số lượng ít, mức độ thấp hoặc thời gian ngắn. “就” đặt trước danh từ hoặc cụm danh từ để biểu thị tình huống ngoại lệ.",
+     "examples": [
+      "北京常常下雪，但听说今年就下了一次。",
+      "他昨天就看了十分钟书。",
+      "我每天书包里都放着雨伞，就今天没带。",
+      "你们点的菜都挺好吃的，就我点的这个菜不太好吃。"
+     ]
+    },
+    {
+     "title": "趋向补语的引申用法（3）",
+     "explain": "Bổ ngữ xu hướng “下来” đặt sau động từ, biểu thị việc hoàn thành một hành động tốn nhiều thời gian, công sức hoặc phải vượt qua khó khăn nhất định.",
+     "examples": [
+      "这一年多住下来，我还是更喜欢北京的四季。",
+      "这半年练下来，他画画的水平提高了不少。",
+      "5000米的长跑比赛，没想到我跑下来了。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 13,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在饭馆，杨同乐请同事吃饭。",
+     "sceneVi": "Dương Đồng Lạc mời đồng nghiệp ăn cơm tại nhà hàng.",
+     "audioDialogue": "13-1",
+     "audioVocab": "13-2",
+     "dialogue": [
+      {
+       "sp": "杨同乐",
+       "zh": "今天我请客，你们想吃什么就点什么！",
+       "vi": "Hôm nay tôi mời, các bạn muốn ăn gì thì gọi món đó!"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "那我就不客气了。听说这家饭馆的鱼做得很特别？",
+       "vi": "Vậy tôi không khách sáo nữa. Nghe nói món cá của nhà hàng này làm rất đặc biệt?"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "对，南方菜跟你们北方菜的做法不同。除了鱼，你们还想吃什么？",
+       "vi": "Đúng vậy, món miền Nam khác với cách làm món miền Bắc của các bạn. Ngoài cá ra, các bạn còn muốn ăn gì nữa?"
+      },
+      {
+       "sp": "同事",
+       "zh": "我不常吃南方菜，还是你决定吧。",
+       "vi": "Tôi ít khi ăn món miền Nam, vẫn là anh quyết định đi."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "好，那再加一个鸡肉，一个……",
+       "vi": "Được, vậy gọi thêm một món gà, một món..."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "咱们就三个人，别点那么多。",
+       "vi": "Chúng ta chỉ có ba người, đừng gọi nhiều như vậy."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "好，那先来这几个菜。",
+       "vi": "Được, vậy gọi mấy món này trước nhé."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "对了，下周我儿子过生日，你们有时间的话，就来我家做客，我给你们做北京菜。",
+       "vi": "À đúng rồi, tuần sau con trai tôi sinh nhật, nếu các bạn có thời gian thì đến nhà tôi chơi, tôi nấu món Bắc Kinh cho các bạn."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "请客",
+       "pos": "động từ",
+       "vi": "đãi khách, mời khách",
+       "proper": false
+      },
+      {
+       "zh": "南方",
+       "pos": "danh từ",
+       "vi": "miền Nam",
+       "proper": false
+      },
+      {
+       "zh": "北方",
+       "pos": "danh từ",
+       "vi": "miền Bắc",
+       "proper": false
+      },
+      {
+       "zh": "做法",
+       "pos": "danh từ",
+       "vi": "cách làm",
+       "proper": false
+      },
+      {
+       "zh": "不同",
+       "pos": "tính từ",
+       "vi": "khác nhau",
+       "proper": false
+      },
+      {
+       "zh": "加",
+       "pos": "động từ",
+       "vi": "thêm",
+       "proper": false
+      },
+      {
+       "zh": "的话",
+       "pos": "trợ từ",
+       "vi": "nếu",
+       "proper": false
+      },
+      {
+       "zh": "做客",
+       "pos": "động từ",
+       "vi": "làm khách",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在家里，王一雪和刘明为生日会做准备。",
+     "sceneVi": "Vương Nhất Tuyết và Lưu Minh đang chuẩn bị cho bữa tiệc sinh nhật ở nhà.",
+     "audioDialogue": "13-3",
+     "audioVocab": "13-4",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "第一次请新邻居来做客，总是担心有什么没准备好。",
+       "vi": "Lần đầu mời hàng xóm mới đến chơi, em luôn lo lắng có thứ gì chưa chuẩn bị xong."
+      },
+      {
+       "sp": "刘明",
+       "zh": "放心吧，我帮你看了，都已经准备好了。",
+       "vi": "Yên tâm đi, anh đã xem giúp em rồi, đều đã chuẩn bị xong."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "我记得刚才已经把饮料拿出来了，怎么不见了？",
+       "vi": "Em nhớ lúc nãy em đã lấy đồ uống ra rồi, sao lại không thấy đâu?"
+      },
+      {
+       "sp": "刘明",
+       "zh": "我把饮料和酒都放进冰箱里了，客人来了再拿出来。",
+       "vi": "Anh để đồ uống và rượu vào tủ lạnh rồi, khách đến rồi lấy ra sau."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "音乐的声音合适吗？",
+       "vi": "Âm lượng nhạc có hợp lý không?"
+      },
+      {
+       "sp": "刘明",
+       "zh": "你把声音开得太大了，我去关小一点儿。",
+       "vi": "Em mở âm thanh quá lớn rồi, anh đi vặn nhỏ lại một chút."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "好，那我们就等客人来吧。",
+       "vi": "Được, vậy chúng ta chờ khách đến thôi."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "邻居",
+       "pos": "danh từ",
+       "vi": "hàng xóm, láng giềng",
+       "proper": false
+      },
+      {
+       "zh": "放心",
+       "pos": "động từ",
+       "vi": "yên tâm",
+       "proper": false
+      },
+      {
+       "zh": "酒",
+       "pos": "danh từ",
+       "vi": "rượu",
+       "proper": false
+      },
+      {
+       "zh": "放",
+       "pos": "động từ",
+       "vi": "đặt, để",
+       "proper": false
+      },
+      {
+       "zh": "客人",
+       "pos": "danh từ",
+       "vi": "khách, khách hàng",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在家里，王一雪和刘明办生日会。",
+     "sceneVi": "Vương Nhất Tuyết và Lưu Minh đang tổ chức tiệc sinh nhật ở trong nhà.",
+     "audioDialogue": "13-5",
+     "audioVocab": "13-6",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "谢谢你们来参加我儿子的生日晚会，希望大家今晚玩得开心。",
+       "vi": "Cảm ơn mọi người đến dự tiệc sinh nhật của con trai tôi, hy vọng tối nay mọi người sẽ chơi thật vui."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "小明，生日快乐！我准备了一个小礼物，希望你喜欢！",
+       "vi": "Tiểu Minh, chúc mừng sinh nhật! Chú đã chuẩn bị một món quà nhỏ, hy vọng cháu thích!"
+      },
+      {
+       "sp": "刘小明",
+       "zh": "谢谢您，我可以打开吗？",
+       "vi": "Cháu cảm ơn chú, cháu có thể mở ra không ạ?"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "当然可以，你妈妈说你跟姐姐一样，都喜欢画画，对吗？",
+       "vi": "Tất nhiên là được, mẹ cháu nói cháu giống chị gái, đều thích vẽ tranh, đúng không?"
+      },
+      {
+       "sp": "刘小明",
+       "zh": "对，我想做一名画家。啊！画板和画笔，这正是我需要的。我太喜欢了。",
+       "vi": "Vâng, cháu muốn làm một họa sĩ. Ôi! Bảng vẽ và bút vẽ, đây chính là thứ cháu cần. Cháu thích quá!"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "我去把盘子拿过来，咱们一边吃蛋糕，一边聊天儿吧。",
+       "vi": "Em đi lấy đĩa đến đây, chúng ta vừa ăn bánh vừa trò chuyện nhé."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "晚会",
+       "pos": "danh từ",
+       "vi": "dạ hội, buổi biểu diễn, giao lưu vào buổi tối",
+       "proper": false
+      },
+      {
+       "zh": "礼物",
+       "pos": "danh từ",
+       "vi": "quà, món quà",
+       "proper": false
+      },
+      {
+       "zh": "画家",
+       "pos": "danh từ",
+       "vi": "hoạ sĩ",
+       "proper": false
+      },
+      {
+       "zh": "盘子",
+       "pos": "danh từ",
+       "vi": "đĩa",
+       "proper": false
+      },
+      {
+       "zh": "一边",
+       "pos": "phó từ",
+       "vi": "vừa (...vừa...)",
+       "proper": false
+      },
+      {
+       "zh": "聊天儿",
+       "pos": "động từ",
+       "vi": "trò chuyện, nói chuyện, tán gẫu",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "scene": "在家里，王一雪在写日记。",
+     "sceneVi": "Vương Nhất Tuyết đang viết nhật ký ở trong nhà.",
+     "audioDialogue": "13-7",
+     "audioVocab": "13-8",
+     "dialogue": [
+      {
+       "sp": "",
+       "zh": "我的新邻居是来自英国的夫妻。上周我去他们家做客了。他们做了很多好吃的，还准备了英国的红茶。那天我跟他们一边喝红茶，一边聊天儿，直到十二点多才回家。他们年轻的时候喜欢旅游，他家有一张世界地图，上面每一个红点都是他们去过的地方。后来，他们感到东方的文化很特别，就开始学习中文。今天是小明的生日，我请他们到我家玩，来看看中国人的家，也尝尝中国菜。",
+       "vi": "Hàng xóm mới của tôi là một cặp vợ chồng đến từ nước Anh. Tuần trước tôi đã đến nhà họ chơi. Họ nấu rất nhiều món ngon, còn chuẩn bị cả trà đen của nước Anh nữa. Hôm đó tôi vừa uống trà đen vừa trò chuyện với họ, mãi đến hơn mười hai giờ mới về nhà. Khi còn trẻ họ thích đi du lịch, nhà họ có một tấm bản đồ thế giới, mỗi chấm đỏ trên đó đều là nơi họ đã đến. Sau này, họ cảm thấy văn hoá phương Đông rất đặc biệt nên bắt đầu học tiếng Trung. Hôm nay là sinh nhật của Tiểu Minh, tôi mời họ đến nhà tôi chơi, xem nhà của người Trung Quốc, cũng thử món ăn Trung Quốc."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "来自",
+       "pos": "động từ",
+       "vi": "đến từ",
+       "proper": false
+      },
+      {
+       "zh": "夫妻",
+       "pos": "danh từ",
+       "vi": "vợ chồng",
+       "proper": false
+      },
+      {
+       "zh": "直到",
+       "pos": "động từ",
+       "vi": "cho đến, mãi đến",
+       "proper": false
+      },
+      {
+       "zh": "地图",
+       "pos": "danh từ",
+       "vi": "bản đồ",
+       "proper": false
+      },
+      {
+       "zh": "点",
+       "pos": "danh từ",
+       "vi": "điểm, chấm nhỏ",
+       "proper": false
+      },
+      {
+       "zh": "感到",
+       "pos": "động từ",
+       "vi": "cảm thấy",
+       "proper": false
+      },
+      {
+       "zh": "东方",
+       "pos": "danh từ",
+       "vi": "phương Đông",
+       "proper": false
+      },
+      {
+       "zh": "文化",
+       "pos": "danh từ",
+       "vi": "văn hoá",
+       "proper": false
+      },
+      {
+       "zh": "英国",
+       "pos": "danh từ riêng",
+       "vi": "Vương quốc Anh",
+       "proper": true
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "假设复句「……的话，就……」",
+     "explain": "Trong câu ghép giả định “……的话，就……”, mệnh đề trước biểu thị tình huống giả định, mệnh đề sau biểu thị kết quả hoặc kết luận có được, thường dùng trong văn nói.",
+     "examples": [
+      "你们有时间的话，就来我家做客。",
+      "你觉得满意的话，咱们就买。",
+      "明天天气好的话，我就去爬山。"
+     ]
+    },
+    {
+     "title": "「把」字句（4）",
+     "explain": "Trong câu chữ “把”, sau động từ có thể dùng bổ ngữ xu hướng hoặc bổ ngữ trạng thái để biểu thị ảnh hưởng của hành động đối với vị trí hoặc trạng thái thay đổi của người hay vật đã xác định. Cấu trúc cơ bản: Chủ ngữ + 把 + tân ngữ + động từ + bổ ngữ xu hướng/trạng thái.",
+     "examples": [
+      "你把声音开得太大了。",
+      "他把球踢进去了吗？",
+      "你把字写得太小了，我看不清楚。"
+     ]
+    },
+    {
+     "title": "并列复句「一边……，一边……」",
+     "explain": "Câu ghép đẳng lập “一边……，一边……” biểu thị hai hành động diễn ra đồng thời, có thể rút gọn thành “边……边……”.",
+     "examples": [
+      "咱们一边吃蛋糕，一边聊天儿吧。",
+      "我喜欢一边跑步，一边听音乐。",
+      "你不应该边开车边打电话。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 14,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在校园餐厅，李文和白家月在聊天儿。",
+     "sceneVi": "Lý Văn và Bạch Gia Nguyệt đang trò chuyện trong căng tin trường.",
+     "audioDialogue": "14-1",
+     "audioVocab": "14-2",
+     "dialogue": [
+      {
+       "sp": "李文",
+       "zh": "我借的这本词典最好今天还，但是我没时间去。",
+       "vi": "Quyển từ điển mình mượn tốt nhất là hôm nay phải trả, nhưng mình không có thời gian đi."
+      },
+      {
+       "sp": "白家月",
+       "zh": "下午我只有两节课，可以帮你去图书馆还书。",
+       "vi": "Buổi chiều mình chỉ có hai tiết học, có thể giúp bạn đến thư viện trả sách."
+      },
+      {
+       "sp": "李文",
+       "zh": "那太谢谢了。你能再帮我借本书吗？",
+       "vi": "Vậy cảm ơn bạn nhiều. Bạn có thể mượn giúp mình thêm một quyển sách nữa không?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "行，你告诉我书名。",
+       "vi": "Được, bạn nói cho mình tên sách."
+      },
+      {
+       "sp": "李文",
+       "zh": "我把名字写在纸上吧。我去了好几次图书馆，这本书都被别人借走了。",
+       "vi": "Mình viết tên lên giấy nhé. Mình đã đến thư viện mấy lần, quyển sách này đều bị người khác mượn mất rồi."
+      },
+      {
+       "sp": "白家月",
+       "zh": "《名人的故事》？我有这本书。明天我借给你吧。",
+       "vi": "“Chuyện về những người nổi tiếng” à? Mình có quyển sách này. Ngày mai mình cho bạn mượn nhé."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "词典",
+       "pos": "danh từ",
+       "vi": "từ điển",
+       "proper": false
+      },
+      {
+       "zh": "最好",
+       "pos": "phó từ",
+       "vi": "tốt nhất",
+       "proper": false
+      },
+      {
+       "zh": "节",
+       "pos": "lượng từ",
+       "vi": "tiết, giờ (học)",
+       "proper": false
+      },
+      {
+       "zh": "图书馆",
+       "pos": "danh từ",
+       "vi": "thư viện",
+       "proper": false
+      },
+      {
+       "zh": "被",
+       "pos": "giới từ",
+       "vi": "bị, được",
+       "proper": false
+      },
+      {
+       "zh": "名人",
+       "pos": "danh từ",
+       "vi": "người nổi tiếng, danh nhân",
+       "proper": false
+      },
+      {
+       "zh": "故事",
+       "pos": "danh từ",
+       "vi": "câu chuyện",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在校园里，白家月和安妮在聊天儿。",
+     "sceneVi": "Bạch Gia Nguyệt và Annie đang trò chuyện trong khuôn viên trường.",
+     "audioDialogue": "14-3",
+     "audioVocab": "14-4",
+     "dialogue": [
+      {
+       "sp": "安妮",
+       "zh": "今天下课早，你一会儿做什么？",
+       "vi": "Hôm nay tan học sớm, lát nữa bạn làm gì?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "我今天忙得很，要先去图书馆借书，然后去游泳。",
+       "vi": "Hôm nay mình bận lắm, phải đến thư viện mượn sách trước, sau đó đi bơi."
+      },
+      {
+       "sp": "安妮",
+       "zh": "咱们一起走吧，我想去图书馆看看中文报纸。",
+       "vi": "Chúng ta đi cùng nhau nhé, mình muốn đến thư viện xem báo tiếng Trung."
+      },
+      {
+       "sp": "白家月",
+       "zh": "等等，我的校园卡不见了，没有卡进不去图书馆。",
+       "vi": "Đợi chút, thẻ sinh viên của mình không thấy đâu, không có thẻ thì không vào được thư viện."
+      },
+      {
+       "sp": "安妮",
+       "zh": "你想想上一次用是什么时候？",
+       "vi": "Bạn thử nghĩ xem lần gần nhất dùng là khi nào?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "我忘记了，可能被我放在家里了。",
+       "vi": "Mình quên rồi, có thể mình để quên ở nhà."
+      },
+      {
+       "sp": "安妮",
+       "zh": "进不去图书馆也没关系，上网看看有没有电子书。",
+       "vi": "Không vào được thư viện cũng không sao, lên mạng xem có sách điện tử không."
+      },
+      {
+       "sp": "白家月",
+       "zh": "不行，我必须去，我还得帮李文还书呢。",
+       "vi": "Không được, mình phải đi, mình còn phải trả sách giúp Lý Văn nữa."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "然后",
+       "pos": "liên từ",
+       "vi": "sau đó",
+       "proper": false
+      },
+      {
+       "zh": "报纸",
+       "pos": "danh từ",
+       "vi": "báo, tờ báo",
+       "proper": false
+      },
+      {
+       "zh": "忘记",
+       "pos": "động từ",
+       "vi": "quên",
+       "proper": false
+      },
+      {
+       "zh": "电子书",
+       "pos": "danh từ",
+       "vi": "sách điện tử",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在校园餐厅，李文和白家月边吃边聊。",
+     "sceneVi": "Lý Văn và Bạch Gia Nguyệt vừa ăn vừa trò chuyện trong căng tin trường.",
+     "audioDialogue": "14-5",
+     "audioVocab": "14-6",
+     "dialogue": [
+      {
+       "sp": "李文",
+       "zh": "下周学校有晚会，你知道吗？",
+       "vi": "Tuần sau trường có dạ hội, bạn biết không?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "知道，我和几个女生要表演一个节目。你也参加吗？",
+       "vi": "Biết, mình và mấy bạn nữ sẽ biểu diễn một tiết mục. Bạn cũng tham gia chứ?"
+      },
+      {
+       "sp": "李文",
+       "zh": "我想唱中文歌，但是还没找到人一起表演，不知道怎么办。",
+       "vi": "Mình muốn hát một bài tiếng Trung, nhưng vẫn chưa tìm được người biểu diễn cùng, không biết làm thế nào."
+      },
+      {
+       "sp": "白家月",
+       "zh": "找不到人，你就一个人唱吧。",
+       "vi": "Không tìm được người thì bạn cứ hát một mình đi."
+      },
+      {
+       "sp": "李文",
+       "zh": "一想到要在校长、老师和那么多同学面前表演，我就有些紧张。",
+       "vi": "Vừa nghĩ đến việc phải biểu diễn trước mặt hiệu trưởng, giáo viên và nhiều bạn học như vậy là mình thấy hơi căng thẳng."
+      },
+      {
+       "sp": "白家月",
+       "zh": "紧张什么啊，我们都喜欢听你唱歌，你要相信自己。",
+       "vi": "Căng thẳng gì chứ, chúng mình đều thích nghe bạn hát, bạn phải tin vào bản thân."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "女生",
+       "pos": "danh từ",
+       "vi": "nữ sinh, nữ giới",
+       "proper": false
+      },
+      {
+       "zh": "表演",
+       "pos": "động từ",
+       "vi": "biểu diễn, diễn",
+       "proper": false
+      },
+      {
+       "zh": "节目",
+       "pos": "danh từ",
+       "vi": "tiết mục",
+       "proper": false
+      },
+      {
+       "zh": "怎么办",
+       "pos": "cụm từ",
+       "vi": "làm thế nào",
+       "proper": false
+      },
+      {
+       "zh": "校长",
+       "pos": "danh từ",
+       "vi": "hiệu trưởng",
+       "proper": false
+      },
+      {
+       "zh": "面前",
+       "pos": "danh từ",
+       "vi": "phía trước, trước mặt",
+       "proper": false
+      },
+      {
+       "zh": "有些",
+       "pos": "phó từ",
+       "vi": "có một vài, có một số",
+       "proper": false
+      },
+      {
+       "zh": "相信",
+       "pos": "động từ",
+       "vi": "tin, tin tưởng, tin rằng",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "scene": "在家里，白家月在写日记。",
+     "sceneVi": "Bạch Gia Nguyệt đang viết nhật ký ở trong nhà.",
+     "audioDialogue": "14-7",
+     "audioVocab": "14-8",
+     "dialogue": [
+      {
+       "sp": "",
+       "zh": "昨天是我们学校的新年晚会，每个班级的同学都表演节目了。晚会是八点开始的，差不多十二点才结束。我一个晚上跟大家一起又唱又跳，开心极了，也累坏了。我最喜欢的节目是留学生们跳舞，最后老师和校长也被叫起来一块儿跳，特别有意思。过几天学校的网站上会有晚会的视频，我打算再看一遍。",
+       "vi": "Hôm qua là dạ hội năm mới của trường chúng tôi, học sinh mỗi lớp đều biểu diễn tiết mục. Dạ hội bắt đầu lúc 8 giờ, gần 12 giờ mới kết thúc. Cả buổi tối tôi vừa hát vừa nhảy cùng mọi người, vui cực kỳ nhưng cũng mệt lả. Tiết mục tôi thích nhất là tiết mục nhảy của các du học sinh, cuối cùng thầy cô và hiệu trưởng cũng bị gọi lên cùng nhảy, rất thú vị. Mấy ngày nữa trên trang web của trường sẽ có video về dạ hội, tôi dự định xem lại một lần nữa."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "新年",
+       "pos": "danh từ",
+       "vi": "năm mới",
+       "proper": false
+      },
+      {
+       "zh": "班级",
+       "pos": "danh từ",
+       "vi": "lớp học, cấp học",
+       "proper": false
+      },
+      {
+       "zh": "跳",
+       "pos": "động từ",
+       "vi": "nhảy, khiêu vũ",
+       "proper": false
+      },
+      {
+       "zh": "留学生",
+       "pos": "danh từ",
+       "vi": "lưu học sinh, du học sinh",
+       "proper": false
+      },
+      {
+       "zh": "最后",
+       "pos": "danh từ",
+       "vi": "cuối cùng",
+       "proper": false
+      },
+      {
+       "zh": "一块儿",
+       "pos": "phó từ/danh từ",
+       "vi": "cùng, cùng nhau, cùng một chỗ",
+       "proper": false
+      },
+      {
+       "zh": "网站",
+       "pos": "danh từ",
+       "vi": "trang web",
+       "proper": false
+      },
+      {
+       "zh": "视频",
+       "pos": "danh từ",
+       "vi": "đoạn phim, video",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "被动句（1）",
+     "explain": "Câu có chữ “被” trong tiếng Trung biểu thị ý bị động, nhấn mạnh chủ ngữ bị ảnh hưởng bởi hành động nào đó, ngữ khí thường mang sắc thái bị động, bất lực hoặc tiêu cực. Phó từ và động từ năng nguyện đặt trước “被”, tân ngữ sau “被” có thể được lược bỏ. Cấu trúc cơ bản: Chủ ngữ + 被 + tân ngữ + động từ + thành phần khác.",
+     "examples": [
+      "这本书被别人借走了。",
+      "水果可能被弟弟吃了。",
+      "我们俩经常被叫错名字。"
+     ]
+    },
+    {
+     "title": "承接复句「先……，再/然后……」",
+     "explain": "Trong câu ghép tiếp nối “先……，再/然后……”, hai mệnh đề biểu thị thứ tự trước sau của hành động.",
+     "examples": [
+      "我要先去图书馆借书，然后去游泳。",
+      "你先去买门票，再来这里找我。",
+      "你们先回房间休息一会儿，然后再出来吃晚饭。"
+     ]
+    },
+    {
+     "title": "固定格式「×什么（啊）」",
+     "explain": "Cấu trúc cố định “× 什么 (啊)” thường dùng để phủ định sự lo lắng, nghi vấn của đối phương hoặc nhấn mạnh sự thật, mang ngữ khí phản bác hoặc an ủi.",
+     "examples": [
+      "紧张什么啊，我们都喜欢听你唱歌，你要相信自己。",
+      "胖什么啊，你看起来不胖也不瘦。",
+      "急什么啊，马上就到了。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 15,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在办公室里，王一雪和杨同乐在聊天儿。",
+     "sceneVi": "Vương Nhất Tuyết và Dương Đồng Lạc đang trò chuyện trong văn phòng.",
+     "audioDialogue": "15-1",
+     "audioVocab": "15-2",
+     "dialogue": [
+      {
+       "sp": "杨同乐",
+       "zh": "您搬到蓝天小区一段时间了，觉得怎么样？",
+       "vi": "Chị chuyển đến khu dân cư Lam Thiên một thời gian rồi, chị thấy thế nào?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "小区环境挺好的，附近买东西也很方便，过马路就是超市。",
+       "vi": "Môi trường trong khu khá tốt, mua đồ ở gần đây cũng rất tiện, qua đường là có siêu thị."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "平时孩子们在哪儿玩？",
+       "vi": "Bình thường bọn trẻ chơi ở đâu?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "小区里有很多树，孩子们放学后就在树下做游戏。你想买房子吗？",
+       "vi": "Trong khu có rất nhiều cây, bọn trẻ tan học là chơi trò chơi dưới gốc cây. Em muốn mua nhà à?"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "是。我想买一个大房子，让我爸妈过来跟我一起住。",
+       "vi": "Vâng. Em muốn mua một căn nhà lớn để bố mẹ em đến ở cùng em."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "蓝天小区的老人挺多的，这几年小区根据他们的需要，有了很多变化。",
+       "vi": "Khu Lam Thiên có khá nhiều người cao tuổi, mấy năm nay khu dân cư căn cứ vào nhu cầu của họ nên đã có rất nhiều thay đổi."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "真不错！过几天我去蓝天小区看看。",
+       "vi": "Tuyệt quá! Mấy hôm nữa em sẽ đến khu Lam Thiên xem thử."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "蓝",
+       "pos": "tính từ",
+       "vi": "màu xanh lam, xanh dương",
+       "proper": false
+      },
+      {
+       "zh": "段",
+       "pos": "lượng từ",
+       "vi": "đoạn, quãng (thời gian, không gian)",
+       "proper": false
+      },
+      {
+       "zh": "附近",
+       "pos": "danh từ",
+       "vi": "gần đó, lân cận",
+       "proper": false
+      },
+      {
+       "zh": "马路",
+       "pos": "danh từ",
+       "vi": "đường chính, đường cái",
+       "proper": false
+      },
+      {
+       "zh": "平时",
+       "pos": "danh từ",
+       "vi": "thường ngày",
+       "proper": false
+      },
+      {
+       "zh": "放学",
+       "pos": "động từ",
+       "vi": "tan học",
+       "proper": false
+      },
+      {
+       "zh": "游戏",
+       "pos": "danh từ",
+       "vi": "trò chơi",
+       "proper": false
+      },
+      {
+       "zh": "老人",
+       "pos": "danh từ",
+       "vi": "người già",
+       "proper": false
+      },
+      {
+       "zh": "根据",
+       "pos": "giới từ/động từ",
+       "vi": "căn cứ vào, dựa vào",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在办公室里，王一雪和杨同乐在聊天儿。",
+     "sceneVi": "Vương Nhất Tuyết và Dương Đồng Lạc đang trò chuyện trong văn phòng.",
+     "audioDialogue": "15-3",
+     "audioVocab": "15-4",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "假期我想去南京旅游，但是我不太了解那里。",
+       "vi": "Kỳ nghỉ chị muốn đi Nam Kinh du lịch, nhưng chị không hiểu lắm về nơi đó."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "我虽然不是南京人，可是我是在南京上的大学，可以说是半个南京人。",
+       "vi": "Em tuy không phải người Nam Kinh, nhưng em học đại học ở Nam Kinh, có thể nói em là nửa người Nam Kinh."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "太好了！你快给我介绍一下南京吧。",
+       "vi": "Tốt quá! Em mau giới thiệu cho chị về Nam Kinh đi."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "南京有两千年以上的历史，有老城、老街，还有很多有名的景点，每年去旅游的游客特别多。",
+       "vi": "Nam Kinh có lịch sử hơn hai nghìn năm, có thành cổ, phố cổ, còn có rất nhiều danh lam thắng cảnh nổi tiếng, mỗi năm lượng du khách đến du lịch rất đông."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "除了这些以外，你再告诉我一些外地人不知道的地方。",
+       "vi": "Ngoài những nơi này ra, em hãy kể thêm cho chị một số nơi mà người ngoại tỉnh không biết."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "那太多了，我得一点儿一点儿给您讲。",
+       "vi": "Nhiều lắm, em phải kể cho chị từng chút một."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "行，下班后我请你吃晚饭，咱们边吃边聊。",
+       "vi": "Được, sau giờ làm chị mời em ăn tối, chúng ta vừa ăn vừa nói chuyện."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "了解",
+       "pos": "động từ",
+       "vi": "hiểu, hiểu rõ, tìm hiểu",
+       "proper": false
+      },
+      {
+       "zh": "可是",
+       "pos": "liên từ",
+       "vi": "nhưng, tuy nhiên",
+       "proper": false
+      },
+      {
+       "zh": "以上",
+       "pos": "danh từ",
+       "vi": "trở lên, trên",
+       "proper": false
+      },
+      {
+       "zh": "有名",
+       "pos": "tính từ",
+       "vi": "nổi tiếng, có tiếng",
+       "proper": false
+      },
+      {
+       "zh": "景点",
+       "pos": "danh từ",
+       "vi": "cảnh điểm, điểm du lịch",
+       "proper": false
+      },
+      {
+       "zh": "游客",
+       "pos": "danh từ",
+       "vi": "du khách",
+       "proper": false
+      },
+      {
+       "zh": "外地",
+       "pos": "danh từ",
+       "vi": "nơi khác, vùng khác, địa phương khác",
+       "proper": false
+      },
+      {
+       "zh": "聊",
+       "pos": "động từ",
+       "vi": "trò chuyện, nói chuyện",
+       "proper": false
+      },
+      {
+       "zh": "南京",
+       "pos": "danh từ riêng",
+       "vi": "Nam Kinh (thủ phủ của tỉnh Giang Tô, Trung Quốc)",
+       "proper": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在家里，王一雪和刘小明在聊天儿。",
+     "sceneVi": "Vương Nhất Tuyết và Lưu Tiểu Minh đang trò chuyện ở trong nhà.",
+     "audioDialogue": "15-5",
+     "audioVocab": "15-6",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "小明，中国有一条大河，它的名字跟颜色有关系，你知道是什么河吗？",
+       "vi": "Tiểu Minh, Trung Quốc có một con sông lớn, tên của nó có liên quan đến màu sắc, con có biết là sông nào không?"
+      },
+      {
+       "sp": "刘小明",
+       "zh": "我知道，是黄河！",
+       "vi": "Con biết, là sông Hoàng Hà!"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "你说对了。我再问问你，你知道它为什么叫黄河吗？",
+       "vi": "Con nói đúng rồi. Mẹ hỏi con thêm nhé, con có biết vì sao nó được gọi là Hoàng Hà không?"
+      },
+      {
+       "sp": "刘小明",
+       "zh": "因为河水看起来是黄色的，所以叫这个名字。黄河是中国最长的河吗？",
+       "vi": "Vì nước sông trông có màu vàng nên gọi tên như vậy. Hoàng Hà có phải là con sông dài nhất Trung Quốc không ạ?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "不是。黄河虽然不是最长的河，可是在历史上很重要。",
+       "vi": "Không phải. Hoàng Hà tuy không phải là con sông dài nhất, nhưng rất quan trọng trong lịch sử."
+      },
+      {
+       "sp": "刘小明",
+       "zh": "这个我知道。很久以前，很多中国人都住在黄河边上。",
+       "vi": "Điều này con biết. Từ rất lâu về trước, rất nhiều người Trung Quốc sống bên bờ sông Hoàng Hà."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "对。在我们中国人看来，黄河像妈妈一样，养了我们几千年。",
+       "vi": "Đúng vậy. Trong mắt người Trung Quốc chúng ta, Hoàng Hà giống như người mẹ, đã nuôi dưỡng chúng ta hàng nghìn năm."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "河",
+       "pos": "danh từ",
+       "vi": "sông",
+       "proper": false
+      },
+      {
+       "zh": "关系",
+       "pos": "danh từ",
+       "vi": "quan hệ",
+       "proper": false
+      },
+      {
+       "zh": "养",
+       "pos": "động từ",
+       "vi": "nuôi dưỡng",
+       "proper": false
+      },
+      {
+       "zh": "黄河",
+       "pos": "danh từ riêng",
+       "vi": "sông Hoàng Hà",
+       "proper": true
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "scene": "在家里，王一雪在写日记。",
+     "sceneVi": "Vương Nhất Tuyết đang viết nhật ký ở trong nhà.",
+     "audioDialogue": "15-7",
+     "audioVocab": "15-8",
+     "dialogue": [
+      {
+       "sp": "",
+       "zh": "我小时候住在北京的西北边，有一条非常有名的河经过那里。我家就住在河边。那里有高高的大树和绿绿的草地。春天，河边的花都开了，看起来特别漂亮。还记得小时候，一到夏天我就去河里游泳。长大以后，遇到什么不开心的事情，我就去河边的树下坐着，听听鸟叫，看看河水，跟遇见的朋友聊聊天儿，难过的事情不一会儿就忘了。那是我最喜欢的地方。",
+       "vi": "Hồi nhỏ tôi sống ở phía tây bắc Bắc Kinh, có một con sông rất nổi tiếng chảy qua nơi đó. Nhà tôi nằm ngay bên bờ sông. Ở đó có những cây to cao và bãi cỏ xanh mướt. Mùa xuân, hoa bên bờ sông đều nở, trông đặc biệt đẹp. Tôi vẫn nhớ hồi nhỏ, cứ đến mùa hè là tôi lại xuống sông bơi. Sau khi lớn lên, gặp phải chuyện gì không vui, tôi liền đến ngồi dưới gốc cây bên bờ sông, nghe tiếng chim hót, ngắm dòng nước, trò chuyện với bạn bè gặp được, những chuyện buồn chẳng mấy chốc đã quên. Đó là nơi tôi yêu thích nhất."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "西北",
+       "pos": "danh từ",
+       "vi": "tây bắc",
+       "proper": false
+      },
+      {
+       "zh": "经过",
+       "pos": "động từ/danh từ",
+       "vi": "đi qua, trải qua, trải nghiệm",
+       "proper": false
+      },
+      {
+       "zh": "草地",
+       "pos": "danh từ",
+       "vi": "thảm cỏ, đồng cỏ",
+       "proper": false
+      },
+      {
+       "zh": "遇见",
+       "pos": "động từ",
+       "vi": "gặp, tình cờ gặp",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "介词「根据」",
+     "explain": "Giới từ “根据” dùng để dẫn ra căn cứ hoặc lý do của một hành động trong câu.",
+     "examples": [
+      "这几年小区根据他们的需要，有了很多变化。",
+      "根据要求，我们必须参加明天的会议。",
+      "老师根据每个学生的兴趣，选择了不一样的书。"
+     ]
+    },
+    {
+     "title": "数量重叠「数词+量词+数词+量词」",
+     "explain": "Cụm từ chỉ số lượng có thể lặp lại, làm trạng ngữ, thường dùng để chỉ phương thức của hành động, có tác dụng hình tượng hoá. Cấu trúc cơ bản: số từ + lượng từ + số từ + lượng từ + (地) + động từ.",
+     "examples": [
+      "我得一点儿一点儿给您讲。",
+      "学生们的汉语水平一天一天地提高了。",
+      "他们两个两个地走进去了。"
+     ]
+    },
+    {
+     "title": "固定短语「在……看来」",
+     "explain": "Cấu trúc cố định “在……看来” biểu thị quan điểm của cá nhân hoặc tập thể.",
+     "examples": [
+      "在我们中国人看来，黄河像妈妈一样，养了我们几千年。",
+      "在同事们看来，她工作非常认真。",
+      "在我看来，每天读书是一种很好的习惯。"
+     ]
+    },
+    {
+     "title": "固定短语「不一会儿」",
+     "explain": "Cụm từ cố định “不一会儿” biểu thị khoảng thời gian rất ngắn, làm trạng ngữ trong câu, thường dùng trong văn nói.",
+     "examples": [
+      "难过的事情不一会儿就忘了。",
+      "不一会儿，张校长就来了。",
+      "两个小时看起来长，但是不一会儿就过去了。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 16,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在一家宠物领养店，王一雪和孩子们在看动物。",
+     "sceneVi": "Tại một trung tâm nhận nuôi thú cưng, Vương Nhất Tuyết và các em nhỏ đang xem động vật.",
+     "audioDialogue": "16-1",
+     "audioVocab": "16-2",
+     "dialogue": [
+      {
+       "sp": "刘小雪",
+       "zh": "这只小猫你们养了多久了？",
+       "vi": "Chú mèo con này các bạn nuôi được bao lâu rồi?"
+      },
+      {
+       "sp": "服务员",
+       "zh": "已经一年多了。第一天看见它的时候，它又脏又小。",
+       "vi": "Đã hơn một năm rồi. Hôm đầu tiên nhìn thấy nó, nó vừa bẩn vừa nhỏ."
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "现在它变得又干净又漂亮了。",
+       "vi": "Bây giờ nó trở nên vừa sạch sẽ vừa xinh đẹp."
+      },
+      {
+       "sp": "服务员",
+       "zh": "是啊。它还特别可爱，一会儿在你脚边睡觉，一会儿在你身上爬。",
+       "vi": "Đúng vậy. Nó còn đặc biệt đáng yêu, lúc thì ngủ bên chân bạn, lúc thì trèo lên người bạn."
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "你们把它照顾得真好。",
+       "vi": "Các bạn chăm sóc nó thật tốt."
+      },
+      {
+       "sp": "服务员",
+       "zh": "它就好像我们的孩子，我们照顾它，它也认得我们了。",
+       "vi": "Nó giống như con của chúng tôi, chúng tôi chăm sóc nó, nó cũng nhận ra chúng tôi rồi."
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "妈妈，我们家也养一只小猫吧。",
+       "vi": "Mẹ ơi, nhà mình cũng nuôi một chú mèo nhỏ đi."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "咱们没时间照顾，还是别养了，我周末带你们去北京动物园看动物吧。",
+       "vi": "Chúng ta không có thời gian chăm sóc, thôi đừng nuôi nữa, cuối tuần mẹ đưa các con đi Vườn bách thú Bắc Kinh xem động vật nhé."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "脏",
+       "pos": "tính từ",
+       "vi": "bẩn",
+       "proper": false
+      },
+      {
+       "zh": "可爱",
+       "pos": "tính từ",
+       "vi": "đáng yêu, dễ thương",
+       "proper": false
+      },
+      {
+       "zh": "一会儿",
+       "pos": "phó từ",
+       "vi": "một lúc, một lát",
+       "proper": false
+      },
+      {
+       "zh": "脚",
+       "pos": "danh từ",
+       "vi": "chân, bàn chân",
+       "proper": false
+      },
+      {
+       "zh": "照顾",
+       "pos": "động từ",
+       "vi": "chăm sóc",
+       "proper": false
+      },
+      {
+       "zh": "好像",
+       "pos": "động từ",
+       "vi": "dường như",
+       "proper": false
+      },
+      {
+       "zh": "认得",
+       "pos": "động từ",
+       "vi": "nhận ra",
+       "proper": false
+      },
+      {
+       "zh": "周末",
+       "pos": "danh từ",
+       "vi": "cuối tuần",
+       "proper": false
+      },
+      {
+       "zh": "动物园",
+       "pos": "danh từ",
+       "vi": "vườn bách thú, sở thú",
+       "proper": false
+      },
+      {
+       "zh": "动物",
+       "pos": "danh từ",
+       "vi": "động vật",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在动物园，王一雪和孩子们边走边聊。",
+     "sceneVi": "Vương Nhất Tuyết và các em nhỏ vừa đi vừa trò chuyện ở vườn bách thú.",
+     "audioDialogue": "16-3",
+     "audioVocab": "16-4",
+     "dialogue": [
+      {
+       "sp": "刘小明",
+       "zh": "妈妈，大熊猫这个名字很奇怪，它们跟猫有什么关系？",
+       "vi": "Mẹ ơi, cái tên gấu trúc rất kỳ lạ, chúng có quan hệ gì với mèo vậy ạ?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "这个问题问得好，它们跟猫没什么关系，其实应该叫大猫熊。",
+       "vi": "Câu hỏi này hay đấy, chúng không có quan hệ gì với mèo, thực ra phải gọi là gấu mèo to."
+      },
+      {
+       "sp": "刘小明",
+       "zh": "大熊猫为什么只吃竹子不吃肉？",
+       "vi": "Tại sao gấu trúc chỉ ăn tre mà không ăn thịt?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "它们跟人一样，也可以吃肉，但是对肉不感兴趣。",
+       "vi": "Chúng giống con người, cũng có thể ăn thịt, nhưng không có hứng thú với thịt."
+      },
+      {
+       "sp": "刘小明",
+       "zh": "大熊猫为什么是中国的国宝？",
+       "vi": "Tại sao gấu trúc là quốc bảo của Trung Quốc?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "全世界只有中国有野生大熊猫，中国是大熊猫的家。",
+       "vi": "Trên toàn thế giới chỉ có Trung Quốc có gấu trúc hoang dã, Trung Quốc là nhà của gấu trúc."
+      },
+      {
+       "sp": "刘小明",
+       "zh": "我听说有的熊猫出国了，他们去哪儿了？",
+       "vi": "Con nghe nói có một số con gấu trúc đã ra nước ngoài, chúng đi đâu rồi ạ?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "关于这个问题，我得慢慢给你讲。",
+       "vi": "Về vấn đề này, mẹ phải từ từ giải thích cho con."
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "弟弟，你真是“十万个为什么”。",
+       "vi": "Em trai, em đúng là “mười vạn câu hỏi vì sao”."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "大熊猫",
+       "pos": "danh từ",
+       "vi": "gấu trúc, gấu mèo",
+       "proper": false
+      },
+      {
+       "zh": "奇怪",
+       "pos": "tính từ",
+       "vi": "kỳ lạ, kỳ quái",
+       "proper": false
+      },
+      {
+       "zh": "其实",
+       "pos": "phó từ",
+       "vi": "thực ra",
+       "proper": false
+      },
+      {
+       "zh": "竹子",
+       "pos": "danh từ",
+       "vi": "tre",
+       "proper": false
+      },
+      {
+       "zh": "国宝",
+       "pos": "danh từ",
+       "vi": "quốc bảo, bảo vật quốc gia",
+       "proper": false
+      },
+      {
+       "zh": "全",
+       "pos": "tính từ",
+       "vi": "toàn bộ",
+       "proper": false
+      },
+      {
+       "zh": "野生",
+       "pos": "tính từ",
+       "vi": "hoang dã",
+       "proper": false
+      },
+      {
+       "zh": "关于",
+       "pos": "giới từ",
+       "vi": "liên quan tới, về",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在熊猫馆，王一雪和孩子们在看大熊猫。",
+     "sceneVi": "Vương Nhất Tuyết và các em nhỏ đang xem gấu trúc ở nhà của chúng.",
+     "audioDialogue": "16-5",
+     "audioVocab": "16-6",
+     "dialogue": [
+      {
+       "sp": "刘小雪",
+       "zh": "这只大熊猫一会儿爬上去，一会儿跳下来，可爱极了！",
+       "vi": "Chú gấu trúc này lúc thì trèo lên, lúc lại nhảy xuống, đáng yêu cực kỳ!"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "它好像还没吃饱，站起来张着嘴找吃的呢。",
+       "vi": "Hình như nó vẫn chưa ăn no, đứng dậy há miệng tìm đồ ăn kìa."
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "它身边那只熊猫半天没动，是不是在睡觉呢？",
+       "vi": "Con gấu trúc bên cạnh nó nãy giờ không nhúc nhích, có phải đang ngủ không?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "我看不见它的脸，可能是吧。一般来说，熊猫每天要睡很多次觉。",
+       "vi": "Mẹ không nhìn thấy mặt nó, có thể là vậy. Nói chung, gấu trúc mỗi ngày phải ngủ rất nhiều giấc."
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "对，除了睡觉以外，很多时间都在吃东西。",
+       "vi": "Đúng vậy, ngoài ngủ ra, rất nhiều thời gian chúng đều ăn."
+      },
+      {
+       "sp": "刘小明",
+       "zh": "大熊猫的生活真舒服啊！",
+       "vi": "Cuộc sống của gấu trúc thật thoải mái!"
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "妈妈，您帮我和这两只大熊猫照一张照片吧。",
+       "vi": "Mẹ ơi, mẹ chụp giúp con một tấm ảnh cùng hai chú gấu trúc này nhé."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "饱",
+       "pos": "tính từ",
+       "vi": "no",
+       "proper": false
+      },
+      {
+       "zh": "张",
+       "pos": "động từ",
+       "vi": "mở (miệng)",
+       "proper": false
+      },
+      {
+       "zh": "嘴",
+       "pos": "danh từ",
+       "vi": "miệng",
+       "proper": false
+      },
+      {
+       "zh": "身边",
+       "pos": "danh từ",
+       "vi": "bên cạnh",
+       "proper": false
+      },
+      {
+       "zh": "半天",
+       "pos": "số lượng từ",
+       "vi": "nửa ngày, một lúc lâu",
+       "proper": false
+      },
+      {
+       "zh": "脸",
+       "pos": "danh từ",
+       "vi": "mặt, khuôn mặt",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "scene": "在家里，王一雪在写日记。",
+     "sceneVi": "Vương Nhất Tuyết đang viết nhật ký ở trong nhà.",
+     "audioDialogue": "16-7",
+     "audioVocab": "16-8",
+     "dialogue": [
+      {
+       "sp": "",
+       "zh": "今天我带小雪和小明去动物园玩了。北京动物园是中国很有名的动物园，里面有非常多的动物，当然，大人和孩子最喜爱的还是大熊猫。每天有很多游客去熊猫馆，他们带着相机去给可爱的大熊猫拍照。动物园早上七点半开门，晚上七点关门，冬天比夏天游客少，所以也比平时早关门一个小时。如果第一次来北京旅游，跟家人一起去北京动物园是个不错的选择。",
+       "vi": "Hôm nay tôi đưa Tiểu Tuyết và Tiểu Minh đến sở thú chơi. Vườn bách thú Bắc Kinh là một vườn bách thú rất nổi tiếng của Trung Quốc, bên trong có rất nhiều loài động vật, tất nhiên, thứ mà người lớn và trẻ em yêu thích nhất vẫn là gấu trúc. Mỗi ngày có rất nhiều du khách đến nhà gấu trúc, họ mang theo máy ảnh để chụp ảnh những chú gấu trúc đáng yêu. Vườn bách thú mở cửa lúc 7 giờ rưỡi sáng, đóng cửa lúc 7 giờ tối, mùa đông ít du khách hơn mùa hè nên cũng đóng cửa sớm hơn bình thường một tiếng. Nếu lần đầu đến Bắc Kinh du lịch, cùng gia đình đến Vườn bách thú Bắc Kinh là một lựa chọn không tồi."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "大人",
+       "pos": "danh từ",
+       "vi": "người lớn",
+       "proper": false
+      },
+      {
+       "zh": "喜爱",
+       "pos": "động từ",
+       "vi": "yêu thích",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "并列复句「一会儿……，一会儿……」",
+     "explain": "Câu ghép đẳng lập “一会儿……，一会儿……” biểu thị nhiều hành động khác nhau xảy ra trong thời gian ngắn hoặc một tình huống đối lập.",
+     "examples": [
+      "它一会儿在你脚边睡觉，一会儿在你身上爬。",
+      "他一会儿进来，一会儿出去，忙得很。",
+      "最近天气变化很快，一会儿冷，一会儿热。"
+     ]
+    },
+    {
+     "title": "介词「关于」",
+     "explain": "Sau giới từ “关于” có thể thêm danh từ, dùng để dẫn nhập nội dung được đề cập đến.",
+     "examples": [
+      "关于这个问题，我得慢慢给你讲。",
+      "关于他的要求，我们还要开会以后再决定。",
+      "关于比赛的时间，我明天一定告诉大家。"
+     ]
+    },
+    {
+     "title": "固定短语「一般来说」",
+     "explain": "“一般来说” là một cụm từ cố định, có nghĩa là trong hầu hết các tình huống thì đều như vậy, thường dùng đầu câu.",
+     "examples": [
+      "一般来说，熊猫每天要睡很多次觉。",
+      "一般来说，这种树每年开一次花。",
+      "一般来说，学习外语需要多练习。"
+     ]
+    },
+    {
+     "title": "比较句（11）",
+     "explain": "Trong câu so sánh dùng “比”, khi vị ngữ là động từ thì phía trước nó có thể thêm “多”, “少”, “早”, “晚”, biểu thị sự khác biệt về số lượng và thời gian của hai đối tượng. Cấu trúc cơ bản: A 比 B + 多/少/早/晚 + động từ + cụm từ chỉ số lượng.",
+     "examples": [
+      "冬天比夏天早关门一个小时。",
+      "哥哥比弟弟多吃了三个饺子。",
+      "我比他晚到了十分钟。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 17,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在教学楼里，刘小雪和同学边走边聊。",
+     "sceneVi": "Trong giảng đường, Lưu Tiểu Tuyết và bạn học đang vừa đi vừa trò chuyện.",
+     "audioDialogue": "17-1",
+     "audioVocab": "17-2",
+     "dialogue": [
+      {
+       "sp": "刘小雪",
+       "zh": "别再向前走了，李老师的办公室已经到了。",
+       "vi": "Đừng đi về phía trước nữa, văn phòng cô Lý đến rồi."
+      },
+      {
+       "sp": "同学",
+       "zh": "你进去吧，我在楼梯那儿等你。我害怕见李老师。",
+       "vi": "Bạn vào đi, mình đợi bạn ở chỗ cầu thang. Mình sợ gặp cô Lý."
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "怎么回事？",
+       "vi": "Có chuyện gì vậy?"
+      },
+      {
+       "sp": "同学",
+       "zh": "最近我做错了好几件事，我怕李老师生气。",
+       "vi": "Gần đây mình làm sai mấy việc, mình sợ cô Lý tức giận."
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "你想多了，做错事情是很常见的。",
+       "vi": "Bạn nghĩ nhiều rồi, làm sai việc là chuyện rất thường thấy mà."
+      },
+      {
+       "sp": "同学",
+       "zh": "我把简单的事情做错了，李老师一定觉得我不认真。",
+       "vi": "Mình làm sai những việc đơn giản, cô Lý chắc chắn cho rằng mình không nghiêm túc."
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "有的人虽然很聪明，但是会在简单的事情中出错，因为他们认为事情简单，就不会认真去做了。",
+       "vi": "Có những người tuy rất thông minh nhưng lại mắc lỗi trong những việc đơn giản, vì họ cho rằng việc đơn giản nên không làm nghiêm túc."
+      },
+      {
+       "sp": "同学",
+       "zh": "你说的就是我，以后我要多向认真的人学习。",
+       "vi": "Bạn nói chính là mình đấy, sau này mình phải học hỏi nhiều hơn từ những người cẩn thận."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "向",
+       "pos": "giới từ",
+       "vi": "hướng về",
+       "proper": false
+      },
+      {
+       "zh": "楼梯",
+       "pos": "danh từ",
+       "vi": "cầu thang bộ",
+       "proper": false
+      },
+      {
+       "zh": "害怕",
+       "pos": "động từ",
+       "vi": "sợ, sợ hãi",
+       "proper": false
+      },
+      {
+       "zh": "生气",
+       "pos": "động từ",
+       "vi": "giận, tức giận",
+       "proper": false
+      },
+      {
+       "zh": "常见",
+       "pos": "tính từ",
+       "vi": "thường thấy",
+       "proper": false
+      },
+      {
+       "zh": "聪明",
+       "pos": "tính từ",
+       "vi": "thông minh",
+       "proper": false
+      },
+      {
+       "zh": "错",
+       "pos": "danh từ",
+       "vi": "sai, lỗi, lỗi sai",
+       "proper": false
+      },
+      {
+       "zh": "认为",
+       "pos": "động từ",
+       "vi": "cho rằng, nhận thấy",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在阅览室门口，白家月碰到了陈天中。",
+     "sceneVi": "Bạch Gia Nguyệt gặp Trần Thiên Trung ở cửa phòng đọc sách.",
+     "audioDialogue": "17-3",
+     "audioVocab": "17-4",
+     "dialogue": [
+      {
+       "sp": "白家月",
+       "zh": "太阳从西边出来了？这几天怎么总是在图书馆看见你？",
+       "vi": "Mặt trời mọc đằng Tây à? Mấy hôm nay sao toàn thấy bạn ở thư viện thế?"
+      },
+      {
+       "sp": "陈天中",
+       "zh": "这有什么奇怪的？我是来学习的。",
+       "vi": "Có gì lạ đâu? Mình đến để học mà."
+      },
+      {
+       "sp": "白家月",
+       "zh": "你怎么还来图书馆学习？同学们都在到处找工作呢。",
+       "vi": "Sao bạn còn đến thư viện học? Các bạn học đều đang khắp nơi tìm việc."
+      },
+      {
+       "sp": "陈天中",
+       "zh": "我不想现在就工作，还想继续学习，我爸妈也同意。可我还没想好学什么，所以来图书馆看看。",
+       "vi": "Mình không muốn đi làm ngay bây giờ, còn muốn tiếp tục học, bố mẹ mình cũng đồng ý. Nhưng mình vẫn chưa nghĩ ra sẽ học gì nên đến thư viện xem thử."
+      },
+      {
+       "sp": "白家月",
+       "zh": "你不是喜欢玩电脑吗？你可以去看看跟电脑有关系的书。",
+       "vi": "Chẳng phải bạn thích chơi máy tính sao? Bạn có thể đi xem những cuốn sách liên quan đến máy tính."
+      },
+      {
+       "sp": "陈天中",
+       "zh": "你说得对，我记得那个屋子里有些跟电脑有关的书，我去找找。",
+       "vi": "Bạn nói đúng, mình nhớ trong căn phòng đó có một số sách liên quan đến máy tính, mình đi tìm thử."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "到处",
+       "pos": "phó từ",
+       "vi": "khắp nơi, mọi nơi",
+       "proper": false
+      },
+      {
+       "zh": "继续",
+       "pos": "động từ",
+       "vi": "tiếp tục",
+       "proper": false
+      },
+      {
+       "zh": "同意",
+       "pos": "động từ",
+       "vi": "đồng ý",
+       "proper": false
+      },
+      {
+       "zh": "可",
+       "pos": "liên từ",
+       "vi": "nhưng, nhưng mà",
+       "proper": false
+      },
+      {
+       "zh": "屋子",
+       "pos": "danh từ",
+       "vi": "phòng, căn phòng, ngôi nhà",
+       "proper": false
+      },
+      {
+       "zh": "有关",
+       "pos": "động từ/giới từ",
+       "vi": "liên quan, có liên quan",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在校园里，李文和陈天中在聊天儿。",
+     "sceneVi": "Lý Văn và Trần Thiên Trung đang trò chuyện trong khuôn viên trường.",
+     "audioDialogue": "17-5",
+     "audioVocab": "17-6",
+     "dialogue": [
+      {
+       "sp": "李文",
+       "zh": "天中，你的手机怎么关机了？",
+       "vi": "Thiên Trung, điện thoại của bạn sao lại tắt máy rồi?"
+      },
+      {
+       "sp": "陈天中",
+       "zh": "我的手机没电了。你找我有事吗？",
+       "vi": "Điện thoại của mình hết pin rồi. Bạn tìm mình có việc gì không?"
+      },
+      {
+       "sp": "李文",
+       "zh": "前天我看见家月了，她告诉我你打算继续留学？",
+       "vi": "Hôm kia mình gặp Gia Nguyệt, bạn ấy nói bạn dự định tiếp tục du học?"
+      },
+      {
+       "sp": "陈天中",
+       "zh": "是，可是我还没想好学什么，更没想好去哪个国家。",
+       "vi": "Đúng vậy, nhưng mình vẫn chưa nghĩ ra sẽ học gì, càng chưa nghĩ ra sẽ đi nước nào."
+      },
+      {
+       "sp": "李文",
+       "zh": "你可以去中国学中文啊。比如可以去北京、上海这样的大城市，那里有很多好大学，也有很多留学生。",
+       "vi": "Bạn có thể đến Trung Quốc học tiếng Trung. Ví dụ có thể đi những thành phố lớn như Bắc Kinh, Thượng Hải, ở đó có rất nhiều trường đại học tốt, cũng có rất nhiều lưu học sinh."
+      },
+      {
+       "sp": "陈天中",
+       "zh": "好，那我上网查一查。",
+       "vi": "Được, vậy mình lên mạng tra cứu thử."
+      },
+      {
+       "sp": "李文",
+       "zh": "我给你介绍几个有用的网站。",
+       "vi": "Mình giới thiệu cho bạn mấy trang web hữu ích."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "关机",
+       "pos": "động từ",
+       "vi": "tắt máy",
+       "proper": false
+      },
+      {
+       "zh": "前天",
+       "pos": "danh từ",
+       "vi": "hôm kia",
+       "proper": false
+      },
+      {
+       "zh": "留学",
+       "pos": "động từ",
+       "vi": "du học",
+       "proper": false
+      },
+      {
+       "zh": "国家",
+       "pos": "danh từ",
+       "vi": "quốc gia, đất nước",
+       "proper": false
+      },
+      {
+       "zh": "比如",
+       "pos": "động từ",
+       "vi": "ví dụ",
+       "proper": false
+      },
+      {
+       "zh": "查",
+       "pos": "động từ",
+       "vi": "tra, tìm",
+       "proper": false
+      },
+      {
+       "zh": "有用",
+       "pos": "tính từ",
+       "vi": "hữu ích",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "scene": "在家里，陈天中在写日记。",
+     "sceneVi": "Trần Thiên Trung đang viết nhật ký ở trong nhà.",
+     "audioDialogue": "17-7",
+     "audioVocab": "17-8",
+     "dialogue": [
+      {
+       "sp": "",
+       "zh": "大学生活马上就要结束了，我最近经常被问到一个问题——“你以后想做什么”，这个问题真不容易回答。我也问了几个同学，大家选择的方向都不同。有的想继续在学校学习，有的打算出国留学，还有的决定先找工作。我认为只有想清楚自己真正喜欢什么，才能做出最合适的选择。对我来说，想清楚“真正喜欢什么”是个难题。",
+       "vi": "Cuộc sống đại học sắp kết thúc rồi, gần đây tôi thường xuyên bị hỏi một câu: “Sau này bạn muốn làm gì?”, câu hỏi này thật không dễ trả lời. Tôi cũng đã hỏi vài bạn học, hướng lựa chọn của mọi người đều khác nhau. Có người muốn tiếp tục học ở trường, có người dự định đi du học, còn có người quyết định tìm việc làm trước. Tôi cho rằng chỉ có nghĩ rõ mình thực sự thích điều gì thì mới có thể đưa ra lựa chọn phù hợp nhất. Đối với tôi, nghĩ rõ “thực sự thích điều gì” là một vấn đề khó."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "容易",
+       "pos": "tính từ",
+       "vi": "dễ, dễ dàng",
+       "proper": false
+      },
+      {
+       "zh": "回答",
+       "pos": "động từ",
+       "vi": "trả lời",
+       "proper": false
+      },
+      {
+       "zh": "方向",
+       "pos": "danh từ",
+       "vi": "phương hướng",
+       "proper": false
+      },
+      {
+       "zh": "只有",
+       "pos": "liên từ",
+       "vi": "chỉ có",
+       "proper": false
+      },
+      {
+       "zh": "真正",
+       "pos": "phó từ",
+       "vi": "thực sự, thực ra",
+       "proper": false
+      },
+      {
+       "zh": "难题",
+       "pos": "danh từ",
+       "vi": "vấn đề khó, vấn đề nan giải",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "介词「向」",
+     "explain": "Giới từ “向” đứng trước đại từ, danh từ hoặc cụm danh từ để chỉ phương hướng hoặc đối tượng của hành động.",
+     "examples": [
+      "别再向前走了。",
+      "以后我要多向认真的人学习。",
+      "孩子一看见妈妈，就向她跑过去了。"
+     ]
+    },
+    {
+     "title": "反问句「不是……吗？」",
+     "explain": "Câu phản vấn sử dụng cấu trúc “不是……吗？” thường được dùng để biểu đạt người nói không hiểu hoặc không hài lòng, có lúc biểu đạt sự nhắc nhở hoặc xác nhận. Tuy hình thức phủ định nhưng lại biểu thị ý nghĩa khẳng định.",
+     "examples": [
+      "你不是喜欢玩电脑吗？你可以去看看跟电脑有关系的书。",
+      "你不是说今天有事吗？为什么来了？",
+      "考试不是下个月吗？你怎么今天就开始复习了？"
+     ]
+    },
+    {
+     "title": "递进复句「……，更……」",
+     "explain": "Trong câu ghép tăng tiến “……，更……”, mệnh đề thứ hai biểu thị mức độ cao hơn một bậc.",
+     "examples": [
+      "我还没想好学什么，更没想好去哪个国家。",
+      "想提高中文水平要多听多看，更要多说多练。",
+      "来中国学习，我学会了中文，更了解了中国文化。"
+     ]
+    },
+    {
+     "title": "条件复句「只有……，才……」",
+     "explain": "Trong câu ghép điều kiện “只有……，才……”, thành phần đứng sau “只有” biểu thị điều kiện duy nhất để đạt được kết quả, nếu không có điều kiện này, kết quả đứng sau “才” sẽ không thể xảy ra.",
+     "examples": [
+      "只有想清楚自己真正喜欢什么，才能做出最合适的选择。",
+      "只有每天锻炼身体，才会越来越健康。",
+      "只有多听、多说、多看，你的中文水平才能提高。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 18,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在飞机上，白家月和李文在聊天儿。",
+     "sceneVi": "Bạch Gia Nguyệt và Lý Văn đang trò chuyện trên máy bay.",
+     "audioDialogue": "18-1",
+     "audioVocab": "18-2",
+     "dialogue": [
+      {
+       "sp": "白家月",
+       "zh": "我要在中国过年，真开心。",
+       "vi": "Mình sẽ đón Tết ở Trung Quốc, thật vui."
+      },
+      {
+       "sp": "李文",
+       "zh": "第一次请外国朋友来家里过春节，我也很高兴。",
+       "vi": "Lần đầu mời bạn bè nước ngoài đến nhà đón Tết Nguyên đán, mình cũng rất vui."
+      },
+      {
+       "sp": "白家月",
+       "zh": "你们怎样过节？",
+       "vi": "Các bạn đón Tết như thế nào?"
+      },
+      {
+       "sp": "李文",
+       "zh": "春节是中国最重要的节日，我们一般会回家，跟家人一起过。",
+       "vi": "Tết Nguyên đán là ngày lễ quan trọng nhất ở Trung Quốc, chúng mình thường về nhà, đón Tết cùng người thân."
+      },
+      {
+       "sp": "白家月",
+       "zh": "那你跟家人会一起做什么？",
+       "vi": "Vậy bạn sẽ cùng người nhà làm những gì?"
+      },
+      {
+       "sp": "李文",
+       "zh": "我们家会一边包饺子，一边看春节联欢晚会，一直到十二点以后才睡觉。",
+       "vi": "Nhà mình sẽ vừa gói sủi cảo vừa xem Gala mừng Xuân, mãi đến sau 12 giờ mới đi ngủ."
+      },
+      {
+       "sp": "白家月",
+       "zh": "听起来很有意思。春节放几天假？",
+       "vi": "Nghe có vẻ rất thú vị. Tết Nguyên đán nghỉ mấy ngày?"
+      },
+      {
+       "sp": "李文",
+       "zh": "大概七八天。",
+       "vi": "Khoảng bảy tám ngày."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "怎样",
+       "pos": "đại từ",
+       "vi": "thế nào",
+       "proper": false
+      },
+      {
+       "zh": "过节",
+       "pos": "động từ",
+       "vi": "đón lễ",
+       "proper": false
+      },
+      {
+       "zh": "节",
+       "pos": "danh từ",
+       "vi": "lễ",
+       "proper": false
+      },
+      {
+       "zh": "节日",
+       "pos": "danh từ",
+       "vi": "ngày lễ",
+       "proper": false
+      },
+      {
+       "zh": "联欢",
+       "pos": "động từ",
+       "vi": "liên hoan",
+       "proper": false
+      },
+      {
+       "zh": "大概",
+       "pos": "phó từ/tính từ",
+       "vi": "khoảng, đại khái, chung chung",
+       "proper": false
+      },
+      {
+       "zh": "春节",
+       "pos": "danh từ riêng",
+       "vi": "Tết Nguyên đán",
+       "proper": true
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在李文家，白家月给李文的父母拜年。",
+     "sceneVi": "Bạch Gia Nguyệt đến chúc Tết bố mẹ của Lý Văn tại nhà anh ấy.",
+     "audioDialogue": "18-3",
+     "audioVocab": "18-4",
+     "dialogue": [
+      {
+       "sp": "白家月",
+       "zh": "张阿姨，李叔叔。过年好！这是我准备的礼物，请收下。",
+       "vi": "Cháu chào dì Trương, chú Lý. Chúc mừng năm mới! Đây là quà cháu chuẩn bị, xin dì chú nhận cho ạ."
+      },
+      {
+       "sp": "李叔叔",
+       "zh": "谢谢家月，你太客气了！",
+       "vi": "Cảm ơn Gia Nguyệt, cháu khách sáo quá!"
+      },
+      {
+       "sp": "张阿姨",
+       "zh": "总听小文说起你，今天终于有机会见面了。",
+       "vi": "Dì luôn nghe Tiểu Văn nhắc đến cháu, hôm nay cuối cùng cũng có dịp gặp mặt rồi."
+      },
+      {
+       "sp": "白家月",
+       "zh": "谢谢您和叔叔请我来家里做客。",
+       "vi": "Cảm ơn dì và chú đã mời cháu đến nhà chơi ạ."
+      },
+      {
+       "sp": "李叔叔",
+       "zh": "桌子上有饮料，还有矿泉水，你想喝什么就自己拿。",
+       "vi": "Trên bàn có đồ uống, còn có nước khoáng, cháu muốn uống gì thì cứ tự lấy."
+      },
+      {
+       "sp": "张阿姨",
+       "zh": "你先坐着看会儿电视，饺子很快就包好了。",
+       "vi": "Cháu ngồi xem ti vi một lát, sủi cảo sẽ gói xong rất nhanh thôi."
+      },
+      {
+       "sp": "白家月",
+       "zh": "我刚刚看视频学会了包饺子，我跟你们一起包吧。",
+       "vi": "Cháu vừa mới xem video học gói sủi cảo, cháu gói cùng dì chú nhé."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "阿姨",
+       "pos": "danh từ",
+       "vi": "cô, dì",
+       "proper": false
+      },
+      {
+       "zh": "叔叔",
+       "pos": "danh từ",
+       "vi": "chú",
+       "proper": false
+      },
+      {
+       "zh": "收",
+       "pos": "động từ",
+       "vi": "nhận, thu",
+       "proper": false
+      },
+      {
+       "zh": "总",
+       "pos": "phó từ",
+       "vi": "luôn luôn",
+       "proper": false
+      },
+      {
+       "zh": "起",
+       "pos": "động từ",
+       "vi": "(nói) đến (dùng sau động từ, chỉ người/vật liên quan)",
+       "proper": false
+      },
+      {
+       "zh": "见面",
+       "pos": "động từ",
+       "vi": "gặp mặt",
+       "proper": false
+      },
+      {
+       "zh": "矿泉水",
+       "pos": "danh từ",
+       "vi": "nước khoáng, nước suối",
+       "proper": false
+      },
+      {
+       "zh": "刚刚",
+       "pos": "phó từ",
+       "vi": "vừa mới",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在李文家，李文妈妈和白家月在聊天儿。",
+     "sceneVi": "Mẹ của Lý Văn đang trò chuyện cùng với Bạch Gia Nguyệt tại nhà anh ấy.",
+     "audioDialogue": "18-5",
+     "audioVocab": "18-6",
+     "dialogue": [
+      {
+       "sp": "白家月",
+       "zh": "这张照片是李文出国前照的吗？",
+       "vi": "Bức ảnh này là Lý Văn chụp trước khi ra nước ngoài phải không ạ?"
+      },
+      {
+       "sp": "张阿姨",
+       "zh": "对，这是他从北京出发时，我们全家在机场照的。",
+       "vi": "Đúng vậy, đây là lúc anh ấy xuất phát từ Bắc Kinh, cả nhà dì đã chụp ở sân bay."
+      },
+      {
+       "sp": "白家月",
+       "zh": "那是三四年前吧？",
+       "vi": "Đó là chuyện của ba bốn năm trước nhỉ?"
+      },
+      {
+       "sp": "张阿姨",
+       "zh": "是啊，时间过得真快，好像是不久前发生的一样。",
+       "vi": "Đúng vậy, thời gian trôi nhanh thật, cứ như mới xảy ra chưa lâu vậy."
+      },
+      {
+       "sp": "白家月",
+       "zh": "您一定特别想李文吧？",
+       "vi": "Dì nhất định rất nhớ Lý Văn phải không ạ?"
+      },
+      {
+       "sp": "张阿姨",
+       "zh": "他刚离开家时，我很不习惯，只要几天不跟他视频，就很想他。",
+       "vi": "Khi anh ấy vừa rời nhà, dì rất không quen, chỉ cần mấy ngày không gọi video với anh ấy là rất nhớ."
+      },
+      {
+       "sp": "白家月",
+       "zh": "还有最后一个学期就要毕业了，他很快就会回来了。",
+       "vi": "Còn một học kỳ cuối nữa là tốt nghiệp rồi, anh ấy sẽ sớm quay về thôi ạ."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "出发",
+       "pos": "động từ",
+       "vi": "xuất phát",
+       "proper": false
+      },
+      {
+       "zh": "不久",
+       "pos": "tính từ",
+       "vi": "không lâu",
+       "proper": false
+      },
+      {
+       "zh": "发生",
+       "pos": "động từ",
+       "vi": "xảy ra",
+       "proper": false
+      },
+      {
+       "zh": "刚",
+       "pos": "phó từ",
+       "vi": "vừa, vừa mới",
+       "proper": false
+      },
+      {
+       "zh": "只要",
+       "pos": "liên từ",
+       "vi": "chỉ cần",
+       "proper": false
+      },
+      {
+       "zh": "学期",
+       "pos": "danh từ",
+       "vi": "học kỳ",
+       "proper": false
+      },
+      {
+       "zh": "毕业",
+       "pos": "động từ",
+       "vi": "tốt nghiệp",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 4,
+     "scene": "在家里，白家月在写日记。",
+     "sceneVi": "Bạch Gia Nguyệt đang viết nhật ký ở trong nhà.",
+     "audioDialogue": "18-7",
+     "audioVocab": "18-8",
+     "dialogue": [
+      {
+       "sp": "",
+       "zh": "这次来中国，我最高兴的是认识了李文的父母。他们给我看了李文出生时的照片，还给我讲了很多他过去的故事。李文高中的时候想学医，从那时起就努力学习。高三的时候，因为成绩特别好，他得到了出国留学的机会。在他身上，我懂得了，只要一直坚持，就能完成自己的目标。我相信，他以后一定会发展得更好。",
+       "vi": "Lần này đến Trung Quốc, điều khiến tôi vui nhất là được quen biết bố mẹ của Lý Văn. Họ cho tôi xem ảnh lúc Lý Văn mới sinh, còn kể cho tôi nghe rất nhiều câu chuyện trong quá khứ của anh ấy. Hồi học trung học phổ thông, Lý Văn muốn học y, từ lúc đó anh ấy đã chăm chỉ học tập. Khi học lớp 12, do thành tích đặc biệt xuất sắc, anh ấy đã có cơ hội đi du học. Qua anh ấy, tôi hiểu ra rằng, chỉ cần luôn kiên trì thì sẽ có thể hoàn thành mục tiêu của mình. Tôi tin rằng sau này anh ấy nhất định sẽ phát triển tốt hơn nữa."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "出生",
+       "pos": "động từ",
+       "vi": "sinh, sinh ra",
+       "proper": false
+      },
+      {
+       "zh": "过去",
+       "pos": "danh từ",
+       "vi": "quá khứ, trước kia",
+       "proper": false
+      },
+      {
+       "zh": "懂得",
+       "pos": "động từ",
+       "vi": "hiểu",
+       "proper": false
+      },
+      {
+       "zh": "坚持",
+       "pos": "động từ",
+       "vi": "kiên trì",
+       "proper": false
+      },
+      {
+       "zh": "完成",
+       "pos": "động từ",
+       "vi": "hoàn thành",
+       "proper": false
+      },
+      {
+       "zh": "目标",
+       "pos": "danh từ",
+       "vi": "mục tiêu",
+       "proper": false
+      },
+      {
+       "zh": "发展",
+       "pos": "động từ",
+       "vi": "phát triển",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "概数表达法",
+     "explain": "Trong tiếng Trung Quốc, sử dụng hai con số liền kề nhau để diễn đạt số ước lượng.",
+     "examples": [
+      "春节大概放七八天假。",
+      "教室里来了五六个学生。",
+      "这些照片是三四年前照的吧？"
+     ]
+    },
+    {
+     "title": "「刚才」和「刚刚」",
+     "explain": "“刚才” là danh từ chỉ thời gian, biểu thị khoảng thời gian ngắn ngay trước thời điểm nói, thông thường là vài phút trước đó; có thể đứng đầu câu, hoặc đứng sau chủ ngữ và trước động từ. “刚刚” là phó từ chỉ thời gian, dùng để chỉ hành động xảy ra trong thời gian ngắn theo quan điểm của người nói, có thể là vài phút, vài ngày, thậm chí vài tháng; thường đứng sau chủ ngữ và trước động từ.",
+     "examples": [
+      "刚才的电话是我妈妈打来的。",
+      "我刚才看过一遍，不想再看了。",
+      "我刚刚看视频学会了包饺子。",
+      "他刚刚来北京两个月。"
+     ]
+    },
+    {
+     "title": "条件复句「只要……，就……」",
+     "explain": "Trong câu ghép điều kiện “只要……，就……”, thành phần đứng sau “只要” biểu thị điều kiện đủ; chỉ cần có điều kiện này là có thể đạt được kết quả đứng sau “就”. Chủ ngữ có thể đặt trước hoặc sau “只要”. Nếu câu có hai chủ ngữ khác nhau, chủ ngữ thứ hai sẽ được đặt trước “就”.",
+     "examples": [
+      "我只要几天不跟他视频，就很想他。",
+      "只要你同意，我们就这么决定了。",
+      "只要你坚持每天早睡，身体就一定会好起来。"
+     ]
+    },
+    {
+     "title": "固定格式「从……起」",
+     "explain": "Cấu trúc cố định “从……起” mang ý nghĩa tương tự như “从……开始”, thường được đặt ở đầu câu, làm trạng ngữ, đa phần biểu thị thời gian.",
+     "examples": [
+      "他从那时起就努力学习。",
+      "从那天起，我们就变成了好朋友。",
+      "从那次旅游起，我对中国文化更有兴趣了。"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -20,6 +20,8 @@ import {
   Gem,
 } from 'lucide-react';
 import confetti from 'canvas-confetti';
+import { LessonStudy } from './LessonStudy';
+import { SbtPractice } from './SbtPractice';
 
 interface LessonModalProps {
   lesson: Lesson;
@@ -34,6 +36,7 @@ export const LessonModal: React.FC<LessonModalProps> = ({
   onClose,
   onFinishLesson,
 }) => {
+  const [phase, setPhase] = useState<'study' | 'practice'>(lesson.study ? 'study' : 'practice');
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedOption, setSelectedOption] = useState<string | null>(null);
   const [reorderedWords, setReorderedWords] = useState<string[]>([]);
@@ -127,6 +130,27 @@ export const LessonModal: React.FC<LessonModalProps> = ({
       onFinishLesson(lesson.xp);
     }
   };
+
+  if (lesson.sbt && !lesson.study) {
+    return (
+      <div className="fixed inset-0 z-50 flex items-center justify-center bg-slate-950/80 p-3 backdrop-blur-md sm:p-4">
+        <div className="flex max-h-[94vh] w-full max-w-3xl flex-col overflow-hidden rounded-3xl border border-slate-700 bg-slate-900 shadow-2xl">
+          <div className="flex items-center justify-between gap-3 border-b border-slate-800 px-5 py-4">
+            <h2 className="text-lg font-black text-white">{lesson.title}</h2>
+            <button onClick={onClose} aria-label="Đóng" className="rounded-xl p-1.5 text-slate-400 hover:bg-slate-800 hover:text-white"><X className="h-5 w-5" /></button>
+          </div>
+          <div className="flex-1 overflow-y-auto p-5"><SbtPractice sbt={lesson.sbt} /></div>
+          <div className="flex justify-end border-t border-slate-800 px-5 py-3.5">
+            <button onClick={() => { onFinishLesson(lesson.xp); onClose(); }} className="btn-tactile-green rounded-2xl px-5 py-2.5 text-sm font-extrabold text-slate-950">Hoàn thành đề</button>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  if (phase === 'study' && lesson.study) {
+    return <LessonStudy lesson={lesson} currentLang={currentLang} onClose={onClose} onStartPractice={() => setPhase('practice')} />;
+  }
 
   return (
     <div className="fixed inset-0 z-50 bg-slate-950/80 backdrop-blur-md flex items-center justify-center p-4">

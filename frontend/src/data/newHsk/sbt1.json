@@ -1,0 +1,1623 @@
+{
+ "book": 1,
+ "lessons": [
+  {
+   "no": 4,
+   "questions": [
+    {
+     "kind": "pic",
+     "prompt": "老师，您好！",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "C",
+     "image": "/sbt-img/h1-4.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "我家有四口人。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "D",
+     "image": "/sbt-img/h1-4.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "我哥哥今年20岁。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "B",
+     "image": "/sbt-img/h1-4.jpg"
+    },
+    {
+     "kind": "match",
+     "prompt": "她是谁？",
+     "options": [
+      "好的，谢谢！",
+      "他今年5岁。",
+      "我女朋友。",
+      "是的。"
+     ],
+     "answer": "我女朋友。"
+    },
+    {
+     "kind": "match",
+     "prompt": "你是法国人吗？",
+     "options": [
+      "好的，谢谢！",
+      "他今年5岁。",
+      "我女朋友。",
+      "是的。"
+     ],
+     "answer": "是的。"
+    },
+    {
+     "kind": "match",
+     "prompt": "您儿子多大？",
+     "options": [
+      "好的，谢谢！",
+      "他今年5岁。",
+      "我女朋友。",
+      "是的。"
+     ],
+     "answer": "他今年5岁。"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "她工作很（　　）。",
+     "options": [
+      "想",
+      "忙",
+      "名字"
+     ],
+     "answer": "忙"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "男：你们好吗？\n女：很好，我们很（　　）你。",
+     "options": [
+      "想",
+      "忙",
+      "名字"
+     ],
+     "answer": "想"
+    },
+    {
+     "kind": "read",
+     "prompt": "我家有三口人，爸爸、妈妈和我。\n说话人家里有：",
+     "options": [
+      "姐姐",
+      "三口人",
+      "四口人"
+     ],
+     "answer": "三口人"
+    },
+    {
+     "kind": "read",
+     "prompt": "她是法国人，我不是。\n“她”是：",
+     "options": [
+      "法国人",
+      "中国人",
+      "泰国人"
+     ],
+     "answer": "法国人"
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "questions": [
+    {
+     "kind": "pic",
+     "prompt": "王老师，再见。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "D",
+     "image": "/sbt-img/h1-5.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "今天我休息。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "C",
+     "image": "/sbt-img/h1-5.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "我有一个儿子，他今年7岁。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "B",
+     "image": "/sbt-img/h1-5.jpg"
+    },
+    {
+     "kind": "match",
+     "prompt": "你去超市买什么？",
+     "options": [
+      "好的，谢谢！",
+      "我不会。",
+      "面条儿。",
+      "5月6号。"
+     ],
+     "answer": "面条儿。"
+    },
+    {
+     "kind": "match",
+     "prompt": "你会做饭吗？",
+     "options": [
+      "好的，谢谢！",
+      "我不会。",
+      "面条儿。",
+      "5月6号。"
+     ],
+     "answer": "我不会。"
+    },
+    {
+     "kind": "match",
+     "prompt": "今天几号？",
+     "options": [
+      "好的，谢谢！",
+      "我不会。",
+      "面条儿。",
+      "5月6号。"
+     ],
+     "answer": "5月6号。"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "今天（　　）号？",
+     "options": [
+      "几",
+      "好看",
+      "名字"
+     ],
+     "answer": "几"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "男：你的新电脑真（　　）。\n女：谢谢，我也很喜欢。",
+     "options": [
+      "几",
+      "好看",
+      "名字"
+     ],
+     "answer": "好看"
+    },
+    {
+     "kind": "read",
+     "prompt": "我非常喜欢我的中文名字。\n说话人喜欢什么？",
+     "options": [
+      "新电脑",
+      "中国菜",
+      "中文名字"
+     ],
+     "answer": "中文名字"
+    },
+    {
+     "kind": "read",
+     "prompt": "今天8号，你几号休息？\n说话人想知道什么？",
+     "options": [
+      "今天几号",
+      "哪天休息",
+      "星期几上班"
+     ],
+     "answer": "哪天休息"
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "questions": [
+    {
+     "kind": "pic",
+     "prompt": "我有一个新电脑。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "C",
+     "image": "/sbt-img/h1-6.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "今天星期二。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "B",
+     "image": "/sbt-img/h1-6.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "我想去超市买东西。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "D",
+     "image": "/sbt-img/h1-6.jpg"
+    },
+    {
+     "kind": "match",
+     "prompt": "你吃什么？",
+     "options": [
+      "坐出租车。",
+      "真好看！",
+      "包子。",
+      "好的，谢谢！"
+     ],
+     "answer": "包子。"
+    },
+    {
+     "kind": "match",
+     "prompt": "我们怎么去？",
+     "options": [
+      "坐出租车。",
+      "真好看！",
+      "包子。",
+      "好的，谢谢！"
+     ],
+     "answer": "坐出租车。"
+    },
+    {
+     "kind": "match",
+     "prompt": "这是老师的新电脑。",
+     "options": [
+      "坐出租车。",
+      "真好看！",
+      "包子。",
+      "好的，谢谢！"
+     ],
+     "answer": "真好看！"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "我想买（　　）。",
+     "options": [
+      "有",
+      "牛奶",
+      "名字"
+     ],
+     "answer": "牛奶"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "男：我的手机号是+86 13552721160。\n女：我（　　）你的手机号，你的电话号呢？",
+     "options": [
+      "有",
+      "牛奶",
+      "名字"
+     ],
+     "answer": "有"
+    },
+    {
+     "kind": "read",
+     "prompt": "我家有三口人：爸爸、妈妈和我。\n说话人家里有几口人？",
+     "options": [
+      "三口人",
+      "四口人",
+      "六口人"
+     ],
+     "answer": "三口人"
+    },
+    {
+     "kind": "read",
+     "prompt": "明天星期天，我休息，想去超市买牛奶。\n说话人想买什么？",
+     "options": [
+      "菜",
+      "牛奶",
+      "饺子"
+     ],
+     "answer": "牛奶"
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "questions": [
+    {
+     "kind": "pic",
+     "prompt": "我在上课呢。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "D",
+     "image": "/sbt-img/h1-7.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "我下午有事，晚上7:00见吧。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "C",
+     "image": "/sbt-img/h1-7.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "今天不上班，我去超市买东西。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "B",
+     "image": "/sbt-img/h1-7.jpg"
+    },
+    {
+     "kind": "match",
+     "prompt": "我们在哪儿见？",
+     "options": [
+      "早上七点半。",
+      "对不起，我有课。",
+      "电影院。",
+      "好的，谢谢！"
+     ],
+     "answer": "电影院。"
+    },
+    {
+     "kind": "match",
+     "prompt": "现在几点？",
+     "options": [
+      "早上七点半。",
+      "对不起，我有课。",
+      "电影院。",
+      "好的，谢谢！"
+     ],
+     "answer": "早上七点半。"
+    },
+    {
+     "kind": "match",
+     "prompt": "我们下午去超市吧。",
+     "options": [
+      "早上七点半。",
+      "对不起，我有课。",
+      "电影院。",
+      "好的，谢谢！"
+     ],
+     "answer": "对不起，我有课。"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "我们（　　）12:00下课。",
+     "options": [
+      "医院",
+      "中午",
+      "名字"
+     ],
+     "answer": "中午"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "男：你现在在哪儿？\n女：我在（　　）呢。",
+     "options": [
+      "医院",
+      "中午",
+      "名字"
+     ],
+     "answer": "医院"
+    },
+    {
+     "kind": "read",
+     "prompt": "我今天早上八点半上课，十点十分下课。\n说话人今天几点下课？",
+     "options": [
+      "8:30",
+      "10:10",
+      "10:20"
+     ],
+     "answer": "10:10"
+    },
+    {
+     "kind": "read",
+     "prompt": "妈妈今天休息，下午想去菜店买些菜。\n妈妈下午想去菜店买：",
+     "options": [
+      "菜",
+      "饺子",
+      "牛奶"
+     ],
+     "answer": "菜"
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "questions": [
+    {
+     "kind": "pic",
+     "prompt": "你的手机在桌子上呢。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "B",
+     "image": "/sbt-img/h1-8.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "我在学校吃午饭。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "D",
+     "image": "/sbt-img/h1-8.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "这个医院里病人多，医生工作很忙。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "C",
+     "image": "/sbt-img/h1-8.jpg"
+    },
+    {
+     "kind": "match",
+     "prompt": "桌子上有什么？",
+     "options": [
+      "医院。",
+      "我老师。",
+      "饺子和面条儿。",
+      "好的，谢谢！"
+     ],
+     "answer": "饺子和面条儿。"
+    },
+    {
+     "kind": "match",
+     "prompt": "她是谁？",
+     "options": [
+      "医院。",
+      "我老师。",
+      "饺子和面条儿。",
+      "好的，谢谢！"
+     ],
+     "answer": "我老师。"
+    },
+    {
+     "kind": "match",
+     "prompt": "你爸爸在哪儿工作？",
+     "options": [
+      "医院。",
+      "我老师。",
+      "饺子和面条儿。",
+      "好的，谢谢！"
+     ],
+     "answer": "医院。"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "我的房间里（　　）一只小猫。",
+     "options": [
+      "能",
+      "有",
+      "名字"
+     ],
+     "answer": "有"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "男：我们下午在书店见吧。\n女：好的，我7:00（　　）到。",
+     "options": [
+      "能",
+      "有",
+      "名字"
+     ],
+     "answer": "能"
+    },
+    {
+     "kind": "read",
+     "prompt": "昨天爸爸在医院工作，哥哥在家里休息，没去书店。\n说话人的哥哥昨天：",
+     "options": [
+      "在家里",
+      "在书店",
+      "在医院工作"
+     ],
+     "answer": "在家里"
+    },
+    {
+     "kind": "read",
+     "prompt": "我喜欢吃米饭，我女朋友不喜欢。\n说话人的女朋友不喜欢吃：",
+     "options": [
+      "米饭",
+      "包子",
+      "面条儿"
+     ],
+     "answer": "米饭"
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "questions": [
+    {
+     "kind": "pic",
+     "prompt": "妹妹和小狗今天在家里玩。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "D",
+     "image": "/sbt-img/h1-9.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "房间外有一只小猫。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "C",
+     "image": "/sbt-img/h1-9.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "这是我的第三个电脑。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "B",
+     "image": "/sbt-img/h1-9.jpg"
+    },
+    {
+     "kind": "match",
+     "prompt": "桌子上有什么？",
+     "options": [
+      "在家里。",
+      "我女朋友。",
+      "一只小猫。",
+      "好的，谢谢！"
+     ],
+     "answer": "一只小猫。"
+    },
+    {
+     "kind": "match",
+     "prompt": "你今天下午在哪儿？",
+     "options": [
+      "在家里。",
+      "我女朋友。",
+      "一只小猫。",
+      "好的，谢谢！"
+     ],
+     "answer": "在家里。"
+    },
+    {
+     "kind": "match",
+     "prompt": "你和谁在超市呢？",
+     "options": [
+      "在家里。",
+      "我女朋友。",
+      "一只小猫。",
+      "好的，谢谢！"
+     ],
+     "answer": "我女朋友。"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "我上午在学校（　　），我们下午去看电影吧。",
+     "options": [
+      "2:00",
+      "上课",
+      "名字"
+     ],
+     "answer": "上课"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "男：我们下午几点在学校见？\n女：下午（　　）吧。",
+     "options": [
+      "2:00",
+      "上课",
+      "名字"
+     ],
+     "answer": "2:00"
+    },
+    {
+     "kind": "read",
+     "prompt": "我有一只小狗，很漂亮，它是我的好朋友。\n说话人有几只小狗？",
+     "options": [
+      "一",
+      "四",
+      "十一"
+     ],
+     "answer": "一"
+    },
+    {
+     "kind": "read",
+     "prompt": "星期天中午妈妈在做饭，我和妹妹在房间里玩。\n说话人和妹妹在哪儿？",
+     "options": [
+      "外边",
+      "房间里",
+      "超市里"
+     ],
+     "answer": "房间里"
+    }
+   ]
+  },
+  {
+   "no": 10,
+   "questions": [
+    {
+     "kind": "pic",
+     "prompt": "请问，包子多少钱一个？",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "C",
+     "image": "/sbt-img/h1-10.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "这边的苹果真便宜。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "B",
+     "image": "/sbt-img/h1-10.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "这些是男孩子穿的衣服。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "D",
+     "image": "/sbt-img/h1-10.jpg"
+    },
+    {
+     "kind": "match",
+     "prompt": "女孩子的衣服在哪儿？",
+     "options": [
+      "十块钱。",
+      "对不起，没有。",
+      "在那边。",
+      "好的，谢谢！"
+     ],
+     "answer": "在那边。"
+    },
+    {
+     "kind": "match",
+     "prompt": "杯子多少钱一个？",
+     "options": [
+      "十块钱。",
+      "对不起，没有。",
+      "在那边。",
+      "好的，谢谢！"
+     ],
+     "answer": "十块钱。"
+    },
+    {
+     "kind": "match",
+     "prompt": "请问这儿有牛奶吗？",
+     "options": [
+      "十块钱。",
+      "对不起，没有。",
+      "在那边。",
+      "好的，谢谢！"
+     ],
+     "answer": "对不起，没有。"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "那些苹果两（　　）钱一斤，很便宜。",
+     "options": [
+      "穿",
+      "块",
+      "名字"
+     ],
+     "answer": "块"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "男：这件衣服怎么样？\n女：很好看，10岁的男孩子能（　　）。",
+     "options": [
+      "穿",
+      "块",
+      "名字"
+     ],
+     "answer": "穿"
+    },
+    {
+     "kind": "read",
+     "prompt": "我没有手机，今天想去商店买一个。\n说话人想买什么？",
+     "options": [
+      "杯子",
+      "手机",
+      "水果"
+     ],
+     "answer": "手机"
+    },
+    {
+     "kind": "read",
+     "prompt": "这件衣服很好看，你也能穿，买一件吧。\n那件衣服：",
+     "options": [
+      "好看",
+      "便宜",
+      "很贵"
+     ],
+     "answer": "好看"
+    }
+   ]
+  },
+  {
+   "no": 11,
+   "questions": [
+    {
+     "kind": "pic",
+     "prompt": "妈妈正在做饭呢。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "C",
+     "image": "/sbt-img/h1-11.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "你今天不想去学校吗？",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "B",
+     "image": "/sbt-img/h1-11.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "我和朋友们在外边玩呢。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "D",
+     "image": "/sbt-img/h1-11.jpg"
+    },
+    {
+     "kind": "match",
+     "prompt": "你开车去吗？",
+     "options": [
+      "不，我坐出租车。",
+      "非常忙。",
+      "没有，我在开车呢。",
+      "好的，谢谢！"
+     ],
+     "answer": "不，我坐出租车。"
+    },
+    {
+     "kind": "match",
+     "prompt": "你们学习忙不忙？",
+     "options": [
+      "不，我坐出租车。",
+      "非常忙。",
+      "没有，我在开车呢。",
+      "好的，谢谢！"
+     ],
+     "answer": "非常忙。"
+    },
+    {
+     "kind": "match",
+     "prompt": "你在吃午饭吗？",
+     "options": [
+      "不，我坐出租车。",
+      "非常忙。",
+      "没有，我在开车呢。",
+      "好的，谢谢！"
+     ],
+     "answer": "没有，我在开车呢。"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "弟弟没起床，还在（　　）呢。",
+     "options": [
+      "找",
+      "睡觉",
+      "名字"
+     ],
+     "answer": "睡觉"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "男：喂，你到没到饭店呢？\n女：没到呢，我正在（　　）饭店在哪里呢。",
+     "options": [
+      "找",
+      "睡觉",
+      "名字"
+     ],
+     "answer": "找"
+    },
+    {
+     "kind": "read",
+     "prompt": "我姐姐今年20岁，正在读大学呢，她学医。\n说话人的姐姐是：",
+     "options": [
+      "老师",
+      "医生",
+      "大学生"
+     ],
+     "answer": "大学生"
+    },
+    {
+     "kind": "read",
+     "prompt": "我明天有事，要去学校找老师，不知道老师在不在。\n说话人明天要去学校见：",
+     "options": [
+      "朋友",
+      "学生",
+      "老师"
+     ],
+     "answer": "老师"
+    }
+   ]
+  },
+  {
+   "no": 12,
+   "questions": [
+    {
+     "kind": "pic",
+     "prompt": "我女儿生病了。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "D",
+     "image": "/sbt-img/h1-12.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "今天天不太好，下雪了。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "B",
+     "image": "/sbt-img/h1-12.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "12:00了，你们怎么还在看电视？",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "C",
+     "image": "/sbt-img/h1-12.jpg"
+    },
+    {
+     "kind": "match",
+     "prompt": "你怎么了？",
+     "options": [
+      "热水。",
+      "我病了。",
+      "对。",
+      "好的，谢谢！"
+     ],
+     "answer": "我病了。"
+    },
+    {
+     "kind": "match",
+     "prompt": "你想喝点儿什么？",
+     "options": [
+      "热水。",
+      "我病了。",
+      "对。",
+      "好的，谢谢！"
+     ],
+     "answer": "热水。"
+    },
+    {
+     "kind": "match",
+     "prompt": "你开车了？",
+     "options": [
+      "热水。",
+      "我病了。",
+      "对。",
+      "好的，谢谢！"
+     ],
+     "answer": "对。"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "他（　　）了，没来上班。",
+     "options": [
+      "冷",
+      "生病",
+      "名字"
+     ],
+     "answer": "生病"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "男：外边雨大吗？\n女：很大，我觉得有点儿（　　）。",
+     "options": [
+      "冷",
+      "生病",
+      "名字"
+     ],
+     "answer": "冷"
+    },
+    {
+     "kind": "read",
+     "prompt": "昨天的天气很好，我和朋友们去外边玩了。\n说话人觉得昨天：",
+     "options": [
+      "天气好",
+      "雨不大",
+      "有点儿冷"
+     ],
+     "answer": "天气好"
+    },
+    {
+     "kind": "read",
+     "prompt": "老张去看病，医生说他要吃三天药。\n医生说老张：",
+     "options": [
+      "要吃药",
+      "要多睡觉",
+      "要多喝水"
+     ],
+     "answer": "要吃药"
+    }
+   ]
+  },
+  {
+   "no": 13,
+   "questions": [
+    {
+     "kind": "pic",
+     "prompt": "她太小了，这个苹果给她一半吧。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "B",
+     "image": "/sbt-img/h1-13.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "请给我一杯牛奶，谢谢。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "D",
+     "image": "/sbt-img/h1-13.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "我打电话问一下吧。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "C",
+     "image": "/sbt-img/h1-13.jpg"
+    },
+    {
+     "kind": "match",
+     "prompt": "那里卖不卖手机？",
+     "options": [
+      "不客气。",
+      "一个面包。",
+      "不知道。",
+      "好的，谢谢！"
+     ],
+     "answer": "不知道。"
+    },
+    {
+     "kind": "match",
+     "prompt": "我会写了，谢谢老师。",
+     "options": [
+      "不客气。",
+      "一个面包。",
+      "不知道。",
+      "好的，谢谢！"
+     ],
+     "answer": "不客气。"
+    },
+    {
+     "kind": "match",
+     "prompt": "你要什么？",
+     "options": [
+      "不客气。",
+      "一个面包。",
+      "不知道。",
+      "好的，谢谢！"
+     ],
+     "answer": "一个面包。"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "你看（　　），你要什么？",
+     "options": [
+      "给",
+      "一下",
+      "名字"
+     ],
+     "answer": "一下"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "男：请坐，您要什么？\n女：请（　　）我一杯茶。",
+     "options": [
+      "给",
+      "一下",
+      "名字"
+     ],
+     "answer": "给"
+    },
+    {
+     "kind": "read",
+     "prompt": "明天星期天，我们可以去饭店吃饺子吗？\n明天是：",
+     "options": [
+      "星期五",
+      "星期六",
+      "星期日"
+     ],
+     "answer": "星期日"
+    },
+    {
+     "kind": "read",
+     "prompt": "爸爸今天在家里工作，我们不要去他的房间。\n爸爸今天：",
+     "options": [
+      "在家里工作",
+      "做了面条儿",
+      "不能去公司"
+     ],
+     "answer": "在家里工作"
+    }
+   ]
+  },
+  {
+   "no": 14,
+   "questions": [
+    {
+     "kind": "pic",
+     "prompt": "王先生今天生病了，没来上班。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "C",
+     "image": "/sbt-img/h1-14.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "火车上，有的人在读书，有的人在睡觉。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "B",
+     "image": "/sbt-img/h1-14.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "喂，他们都来我家了，你也来吧。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "D",
+     "image": "/sbt-img/h1-14.jpg"
+    },
+    {
+     "kind": "match",
+     "prompt": "谁去学校了？",
+     "options": [
+      "是的，我睡了一觉。",
+      "我们都去了。",
+      "写字、看书、吃饭。",
+      "好的，谢谢！"
+     ],
+     "answer": "我们都去了。"
+    },
+    {
+     "kind": "match",
+     "prompt": "你下午没去医院吗？",
+     "options": [
+      "是的，我睡了一觉。",
+      "我们都去了。",
+      "写字、看书、吃饭。",
+      "好的，谢谢！"
+     ],
+     "answer": "是的，我睡了一觉。"
+    },
+    {
+     "kind": "match",
+     "prompt": "你今天上午都忙了些什么？",
+     "options": [
+      "是的，我睡了一觉。",
+      "我们都去了。",
+      "写字、看书、吃饭。",
+      "好的，谢谢！"
+     ],
+     "answer": "写字、看书、吃饭。"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "我喝了一杯（　　）。",
+     "options": [
+      "都",
+      "茶",
+      "名字"
+     ],
+     "answer": "茶"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "男：上课了，请大家不要说话。\n女：好的，老师，我们（　　）不说话了。",
+     "options": [
+      "都",
+      "茶",
+      "名字"
+     ],
+     "answer": "都"
+    },
+    {
+     "kind": "read",
+     "prompt": "服务员，我想问一下，我们的房间号是多少？\n说话人想知道什么？",
+     "options": [
+      "时间",
+      "电话号",
+      "房间号"
+     ],
+     "answer": "房间号"
+    },
+    {
+     "kind": "read",
+     "prompt": "儿子和女儿都上小学了，他们会写很多字了。\n说话人的两个孩子是：",
+     "options": [
+      "小学生",
+      "中学生",
+      "大学生"
+     ],
+     "answer": "小学生"
+    }
+   ]
+  },
+  {
+   "no": 15,
+   "questions": [
+    {
+     "kind": "pic",
+     "prompt": "我家有五口人，我们现在住在北京。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "D",
+     "image": "/sbt-img/h1-15.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "这里有好吃的，还有好玩儿的。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "B",
+     "image": "/sbt-img/h1-15.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "现在我会说一点儿汉语，也会写一些汉字了。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": "C",
+     "image": "/sbt-img/h1-15.jpg"
+    },
+    {
+     "kind": "match",
+     "prompt": "你会写几个汉字？",
+     "options": [
+      "我女儿。",
+      "十个。",
+      "苹果。",
+      "好的，谢谢！"
+     ],
+     "answer": "十个。"
+    },
+    {
+     "kind": "match",
+     "prompt": "谁上中学了？",
+     "options": [
+      "我女儿。",
+      "十个。",
+      "苹果。",
+      "好的，谢谢！"
+     ],
+     "answer": "我女儿。"
+    },
+    {
+     "kind": "match",
+     "prompt": "你爱吃什么？",
+     "options": [
+      "我女儿。",
+      "十个。",
+      "苹果。",
+      "好的，谢谢！"
+     ],
+     "answer": "苹果。"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "今年我们都想去（　　）。",
+     "options": [
+      "电视",
+      "北京",
+      "名字"
+     ],
+     "answer": "北京"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "男：我爱看电影，也爱唱歌。你呢？\n女：我喜欢看（　　）。",
+     "options": [
+      "电视",
+      "北京",
+      "名字"
+     ],
+     "answer": "电视"
+    },
+    {
+     "kind": "read",
+     "prompt": "明天星期天，儿子想去看一个电影。\n儿子明天想：",
+     "options": [
+      "买电脑",
+      "打电话",
+      "看电影"
+     ],
+     "answer": "看电影"
+    },
+    {
+     "kind": "read",
+     "prompt": "下小雨了，小狗非常高兴，它喜欢小雨。\n小狗喜欢：",
+     "options": [
+      "下小雨",
+      "下大雨",
+      "下小雪"
+     ],
+     "answer": "下小雨"
+    }
+   ]
+  },
+  {
+   "no": 0,
+   "questions": [
+    {
+     "kind": "pic",
+     "prompt": "王先生是医生。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "answer": "B",
+     "image": "/sbt-img/h1-mock.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "姐姐上午去超市买了菜。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "answer": "D",
+     "image": "/sbt-img/h1-mock.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "今天的早饭是牛奶和鸡蛋。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "answer": "A",
+     "image": "/sbt-img/h1-mock.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "我家有四口人，爸爸、妈妈、弟弟和我。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "answer": "C",
+     "image": "/sbt-img/h1-mock.jpg"
+    },
+    {
+     "kind": "pic",
+     "prompt": "她和好朋友都爱唱歌。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "answer": "F",
+     "image": "/sbt-img/h1-mock.jpg"
+    },
+    {
+     "kind": "match",
+     "prompt": "这是我的书，你的呢？",
+     "options": [
+      "商店。",
+      "我学生。",
+      "在桌子上。",
+      "还没有。",
+      "下雪了。"
+     ],
+     "answer": "在桌子上。"
+    },
+    {
+     "kind": "match",
+     "prompt": "你去哪儿买苹果？",
+     "options": [
+      "商店。",
+      "我学生。",
+      "在桌子上。",
+      "还没有。",
+      "下雪了。"
+     ],
+     "answer": "商店。"
+    },
+    {
+     "kind": "match",
+     "prompt": "昨天天气怎么样？",
+     "options": [
+      "商店。",
+      "我学生。",
+      "在桌子上。",
+      "还没有。",
+      "下雪了。"
+     ],
+     "answer": "下雪了。"
+    },
+    {
+     "kind": "match",
+     "prompt": "你和谁打电话呢？",
+     "options": [
+      "商店。",
+      "我学生。",
+      "在桌子上。",
+      "还没有。",
+      "下雪了。"
+     ],
+     "answer": "我学生。"
+    },
+    {
+     "kind": "match",
+     "prompt": "你下班了吗？",
+     "options": [
+      "商店。",
+      "我学生。",
+      "在桌子上。",
+      "还没有。",
+      "下雪了。"
+     ],
+     "answer": "还没有。"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "大家都没吃（　　）呢。",
+     "options": [
+      "认识",
+      "住",
+      "晚饭",
+      "叫",
+      "汉字",
+      "块"
+     ],
+     "answer": "晚饭"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "在今天的中文课上，我学了很多（　　）。",
+     "options": [
+      "认识",
+      "住",
+      "晚饭",
+      "叫",
+      "汉字",
+      "块"
+     ],
+     "answer": "汉字"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "对不起，我不（　　）这个人。",
+     "options": [
+      "认识",
+      "住",
+      "晚饭",
+      "叫",
+      "汉字",
+      "块"
+     ],
+     "answer": "认识"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "我和家人（　　）在北京。",
+     "options": [
+      "认识",
+      "住",
+      "晚饭",
+      "叫",
+      "汉字",
+      "块"
+     ],
+     "answer": "住"
+    },
+    {
+     "kind": "cloze",
+     "prompt": "男：这些东西可以卖多少钱？\n女：80（　　）。",
+     "options": [
+      "认识",
+      "住",
+      "晚饭",
+      "叫",
+      "汉字",
+      "块"
+     ],
+     "answer": "块"
+    },
+    {
+     "kind": "read",
+     "prompt": "下雨了，我们坐出租车回家吧。\n说话人想怎么回家？",
+     "options": [
+      "开车",
+      "坐飞机",
+      "坐出租车"
+     ],
+     "answer": "坐出租车"
+    },
+    {
+     "kind": "read",
+     "prompt": "我儿子今年16岁了，正在上中学。\n说话人的儿子是：",
+     "options": [
+      "小学生",
+      "中学生",
+      "大学生"
+     ],
+     "answer": "中学生"
+    },
+    {
+     "kind": "read",
+     "prompt": "小猫和小狗都在房间外睡觉呢。\n小狗在：",
+     "options": [
+      "桌子下",
+      "房间里",
+      "房间外"
+     ],
+     "answer": "房间外"
+    },
+    {
+     "kind": "read",
+     "prompt": "我同学在这个学校工作很多年了，你有问题可以问他。\n说话人的同学在哪儿上班？",
+     "options": [
+      "饭店",
+      "医院",
+      "学校"
+     ],
+     "answer": "学校"
+    },
+    {
+     "kind": "read",
+     "prompt": "这个小朋友写字真好看。\n那个小朋友：",
+     "options": [
+      "名字好听",
+      "写字好看",
+      "正在读书"
+     ],
+     "answer": "写字好看"
+    }
+   ]
+  }
+ ]
+}

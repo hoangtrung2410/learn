@@ -1,0 +1,3978 @@
+{
+ "book": 1,
+ "lessons": [
+  {
+   "no": 1,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "开学第一天，在办公室里，王一飞和AI助教小语打招呼。",
+     "sceneVi": "Ngày đầu tiên đi học, Vương Nhất Phi chào hỏi trợ giảng AI Tiểu Ngữ ở trong văn phòng.",
+     "audioDialogue": "1-1",
+     "audioVocab": "1-2",
+     "dialogue": [
+      {
+       "sp": "王一飞",
+       "zh": "AI小语，你好！",
+       "vi": "Xin chào AI Tiểu Ngữ!"
+      },
+      {
+       "sp": "小语",
+       "zh": "王老师，你好！",
+       "vi": "Chào cô Vương!"
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "你好",
+       "pos": "cụm từ",
+       "vi": "xin chào, chào bạn",
+       "proper": false
+      },
+      {
+       "zh": "王老师",
+       "pos": "danh từ riêng",
+       "vi": "cô Vương",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "开学第一天，课堂上，学生们学习打招呼用语。",
+     "sceneVi": "Ngày đầu tiên đi học, các bạn học sinh học cách diễn đạt chào hỏi tại lớp.",
+     "audioDialogue": "1-3",
+     "audioVocab": "1-4",
+     "dialogue": [
+      {
+       "sp": "王一飞",
+       "zh": "大家好！",
+       "vi": "Chào cả lớp!"
+      },
+      {
+       "sp": "学生们",
+       "zh": "老师，您好！",
+       "vi": "Chào cô ạ!"
+      },
+      {
+       "sp": "小语",
+       "zh": "你们好！",
+       "vi": "Chào các bạn!"
+      },
+      {
+       "sp": "学生们",
+       "zh": "你好，小语！",
+       "vi": "Chào Tiểu Ngữ!"
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "大家",
+       "pos": "đại từ",
+       "vi": "mọi người",
+       "proper": false
+      },
+      {
+       "zh": "好",
+       "pos": "tính từ",
+       "vi": "tốt, khoẻ",
+       "proper": false
+      },
+      {
+       "zh": "学生",
+       "pos": "danh từ",
+       "vi": "học sinh, sinh viên",
+       "proper": false
+      },
+      {
+       "zh": "们",
+       "pos": "hậu tố",
+       "vi": "dùng sau đại từ nhân xưng hoặc danh từ để chỉ số nhiều",
+       "proper": false
+      },
+      {
+       "zh": "老师",
+       "pos": "danh từ",
+       "vi": "thầy giáo, cô giáo, giáo viên",
+       "proper": false
+      },
+      {
+       "zh": "您",
+       "pos": "đại từ",
+       "vi": "ngài, ông, bà... (đại từ nhân xưng ngôi thứ hai thể hiện sự trang trọng)",
+       "proper": false
+      },
+      {
+       "zh": "你们",
+       "pos": "đại từ",
+       "vi": "các bạn, các anh, các chị...",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "开学第一天，课堂上，学生们学习致谢语、告别语。",
+     "sceneVi": "Ngày đầu tiên đi học, các bạn học sinh học các mẫu câu cảm ơn và tạm biệt ở trong lớp học.",
+     "audioDialogue": "1-5",
+     "audioVocab": "1-6",
+     "dialogue": [
+      {
+       "sp": "学生们",
+       "zh": "谢谢！",
+       "vi": "Cảm ơn bạn!"
+      },
+      {
+       "sp": "小语",
+       "zh": "不客气！",
+       "vi": "Đừng khách sáo!"
+      },
+      {
+       "sp": "王一飞",
+       "zh": "同学们，再见！",
+       "vi": "Tạm biệt các em!"
+      },
+      {
+       "sp": "学生们",
+       "zh": "老师，再见！",
+       "vi": "Tạm biệt cô ạ!"
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "谢谢",
+       "pos": "động từ",
+       "vi": "cảm ơn",
+       "proper": false
+      },
+      {
+       "zh": "不客气",
+       "pos": "cụm từ",
+       "vi": "đừng khách sáo, không cần khách khí",
+       "proper": false
+      },
+      {
+       "zh": "同学",
+       "pos": "danh từ",
+       "vi": "bạn học",
+       "proper": false
+      },
+      {
+       "zh": "再见",
+       "pos": "động từ",
+       "vi": "tạm biệt",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": []
+  },
+  {
+   "no": 2,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在教室里，王一飞在认识学生。",
+     "sceneVi": "Vương Nhất Phi đang làm quen với học sinh ở trong lớp học.",
+     "audioDialogue": "2-1",
+     "audioVocab": "2-2",
+     "dialogue": [
+      {
+       "sp": "王一飞",
+       "zh": "请问，你叫什么名字？",
+       "vi": "Xin hỏi, em tên là gì?"
+      },
+      {
+       "sp": "陈天中",
+       "zh": "我叫陈天中。",
+       "vi": "Em tên là Trần Thiên Trung ạ."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "请问",
+       "pos": "động từ",
+       "vi": "xin hỏi",
+       "proper": false
+      },
+      {
+       "zh": "你",
+       "pos": "đại từ",
+       "vi": "bạn, anh, chị, em... (đại từ nhân xưng ngôi thứ hai số ít)",
+       "proper": false
+      },
+      {
+       "zh": "叫",
+       "pos": "động từ",
+       "vi": "gọi là, tên là",
+       "proper": false
+      },
+      {
+       "zh": "什么",
+       "pos": "đại từ",
+       "vi": "gì, cái gì",
+       "proper": false
+      },
+      {
+       "zh": "名字",
+       "pos": "danh từ",
+       "vi": "tên",
+       "proper": false
+      },
+      {
+       "zh": "我",
+       "pos": "đại từ",
+       "vi": "tôi, mình... (đại từ nhân xưng ngôi thứ nhất số ít)",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在校园里，陈天中和白家月打招呼时认错了人。",
+     "sceneVi": "Trần Thiên Trung đã nhầm Bạch Gia Nguyệt với người khác khi chào hỏi cô ấy ở trong khuôn viên trường.",
+     "audioDialogue": "2-3",
+     "audioVocab": "2-4",
+     "dialogue": [
+      {
+       "sp": "陈天中",
+       "zh": "你好，安妮！",
+       "vi": "Chào Annie!"
+      },
+      {
+       "sp": "白家月",
+       "zh": "你好，陈天中！我不是安妮，我是白家月。",
+       "vi": "Chào Trần Thiên Trung! Mình không phải là Annie, mình là Bạch Gia Nguyệt."
+      },
+      {
+       "sp": "陈天中",
+       "zh": "对不起！",
+       "vi": "Xin lỗi bạn!"
+      },
+      {
+       "sp": "白家月",
+       "zh": "没关系！",
+       "vi": "Không sao đâu!"
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "不",
+       "pos": "phó từ",
+       "vi": "không",
+       "proper": false
+      },
+      {
+       "zh": "是",
+       "pos": "động từ",
+       "vi": "là",
+       "proper": false
+      },
+      {
+       "zh": "对不起",
+       "pos": "động từ",
+       "vi": "xin lỗi",
+       "proper": false
+      },
+      {
+       "zh": "没关系",
+       "pos": "cụm từ",
+       "vi": "không sao, không có gì",
+       "proper": false
+      },
+      {
+       "zh": "没事",
+       "pos": "động từ",
+       "vi": "không sao, không có gì",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在校园里，李文和白家月第一次相遇。",
+     "sceneVi": "Lý Văn và Bạch Gia Nguyệt lần đầu gặp nhau trong khuôn viên trường.",
+     "audioDialogue": "2-5",
+     "audioVocab": "2-6",
+     "dialogue": [
+      {
+       "sp": "李文",
+       "zh": "你好！我叫李文。",
+       "vi": "Chào bạn! Mình tên là Lý Văn."
+      },
+      {
+       "sp": "白家月",
+       "zh": "你好！我叫白家月。",
+       "vi": "Chào bạn! Mình tên là Bạch Gia Nguyệt."
+      },
+      {
+       "sp": "李文",
+       "zh": "很高兴认识你。",
+       "vi": "Rất vui được làm quen với bạn."
+      },
+      {
+       "sp": "白家月",
+       "zh": "认识你我也很高兴。",
+       "vi": "Mình cũng rất vui được làm quen với bạn."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "很",
+       "pos": "phó từ",
+       "vi": "rất",
+       "proper": false
+      },
+      {
+       "zh": "高兴",
+       "pos": "tính từ",
+       "vi": "vui, vui vẻ",
+       "proper": false
+      },
+      {
+       "zh": "认识",
+       "pos": "động từ",
+       "vi": "quen, làm quen",
+       "proper": false
+      },
+      {
+       "zh": "也",
+       "pos": "phó từ",
+       "vi": "cũng",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "汉语的基本语序",
+     "explain": "Trật tự từ cơ bản của câu tiếng Trung là: Chủ ngữ + Vị ngữ + Tân ngữ.",
+     "examples": [
+      "你叫什么名字？",
+      "我叫白家月。",
+      "我是学生。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 3,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在校园里，李文和白家月第一次相遇，两人继续聊天儿。",
+     "sceneVi": "Lý Văn và Bạch Gia Nguyệt gặp nhau lần đầu, hai người tiếp tục trò chuyện trong khuôn viên trường.",
+     "audioDialogue": "3-1",
+     "audioVocab": "3-2",
+     "dialogue": [
+      {
+       "sp": "李文",
+       "zh": "我是中国人。",
+       "vi": "Mình là người Trung Quốc."
+      },
+      {
+       "sp": "白家月",
+       "zh": "我是法国人。我的中文老师也是中国人。",
+       "vi": "Mình là người Pháp. Giáo viên tiếng Trung Quốc của mình cũng là người Trung Quốc."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "人",
+       "pos": "danh từ",
+       "vi": "người",
+       "proper": false
+      },
+      {
+       "zh": "的",
+       "pos": "trợ từ",
+       "vi": "của (dùng sau định ngữ)",
+       "proper": false
+      },
+      {
+       "zh": "中国",
+       "pos": "danh từ riêng",
+       "vi": "Trung Quốc (tên nước)",
+       "proper": true
+      },
+      {
+       "zh": "法国",
+       "pos": "danh từ riêng",
+       "vi": "Pháp (tên nước)",
+       "proper": true
+      },
+      {
+       "zh": "中文",
+       "pos": "danh từ riêng",
+       "vi": "tiếng Trung Quốc",
+       "proper": true
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在教室里，下课后，安妮在看陈天中手机里的照片。",
+     "sceneVi": "Sau giờ học, Annie đang xem ảnh trên điện thoại di động của Trần Thiên Trung ở trong lớp học.",
+     "audioDialogue": "3-3",
+     "audioVocab": "3-4",
+     "dialogue": [
+      {
+       "sp": "安妮",
+       "zh": "这是谁？",
+       "vi": "Đây là ai vậy?"
+      },
+      {
+       "sp": "陈天中",
+       "zh": "这是我女朋友。",
+       "vi": "Đây là bạn gái mình."
+      },
+      {
+       "sp": "安妮",
+       "zh": "你女朋友是哪国人？",
+       "vi": "Bạn gái của bạn là người nước nào?"
+      },
+      {
+       "sp": "陈天中",
+       "zh": "她也是泰国人。",
+       "vi": "Cô ấy cũng là người Thái Lan."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "这",
+       "pos": "đại từ",
+       "vi": "này, đây",
+       "proper": false
+      },
+      {
+       "zh": "谁",
+       "pos": "đại từ",
+       "vi": "ai",
+       "proper": false
+      },
+      {
+       "zh": "女朋友",
+       "pos": "danh từ",
+       "vi": "bạn gái, người yêu",
+       "proper": false
+      },
+      {
+       "zh": "哪",
+       "pos": "đại từ",
+       "vi": "nào",
+       "proper": false
+      },
+      {
+       "zh": "国",
+       "pos": "danh từ",
+       "vi": "quốc gia, đất nước",
+       "proper": false
+      },
+      {
+       "zh": "她",
+       "pos": "đại từ",
+       "vi": "cô ấy, chị ấy, bạn ấy...",
+       "proper": false
+      },
+      {
+       "zh": "泰国",
+       "pos": "danh từ riêng",
+       "vi": "Thái Lan (tên nước)",
+       "proper": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在家里，王一雪给王一飞打视频电话。",
+     "sceneVi": "Vương Nhất Tuyết đang gọi video cho Vương Nhất Phi ở trong nhà.",
+     "audioDialogue": "3-5",
+     "audioVocab": "3-6",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "喂，一飞！",
+       "vi": "A lô, Nhất Phi à!"
+      },
+      {
+       "sp": "王一飞",
+       "zh": "姐姐！",
+       "vi": "Vâng, chị!"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "你工作还忙吗？",
+       "vi": "Công việc của em vẫn bận lắm à?"
+      },
+      {
+       "sp": "王一飞",
+       "zh": "对，还很忙。你也很忙吗？",
+       "vi": "Vâng, vẫn rất bận. Chị cũng bận lắm phải không?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "我不太忙。我们很想你。",
+       "vi": "Chị không bận lắm. Mọi người đều rất nhớ em."
+      },
+      {
+       "sp": "王一飞",
+       "zh": "我也想你们。",
+       "vi": "Em cũng nhớ mọi người."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "喂",
+       "pos": "thán từ",
+       "vi": "a lô",
+       "proper": false
+      },
+      {
+       "zh": "姐姐",
+       "pos": "danh từ",
+       "vi": "chị gái",
+       "proper": false
+      },
+      {
+       "zh": "工作",
+       "pos": "danh từ",
+       "vi": "công việc",
+       "proper": false
+      },
+      {
+       "zh": "还",
+       "pos": "phó từ",
+       "vi": "vẫn",
+       "proper": false
+      },
+      {
+       "zh": "忙",
+       "pos": "tính từ",
+       "vi": "bận, bận rộn",
+       "proper": false
+      },
+      {
+       "zh": "吗",
+       "pos": "trợ từ",
+       "vi": "... phải không? (dùng ở cuối câu để hỏi)",
+       "proper": false
+      },
+      {
+       "zh": "对",
+       "pos": "tính từ",
+       "vi": "đúng",
+       "proper": false
+      },
+      {
+       "zh": "太",
+       "pos": "phó từ",
+       "vi": "quá, lắm",
+       "proper": false
+      },
+      {
+       "zh": "我们",
+       "pos": "đại từ",
+       "vi": "chúng tôi, chúng ta (đại từ nhân xưng ngôi thứ nhất số nhiều)",
+       "proper": false
+      },
+      {
+       "zh": "想",
+       "pos": "động từ",
+       "vi": "nhớ",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "「是」字句",
+     "explain": "Câu chữ “是” dùng để định danh người hoặc sự vật; hình thức phủ định là “不是”.",
+     "examples": [
+      "我是法国人。",
+      "她是中文老师。",
+      "我老师不是法国人。"
+     ]
+    },
+    {
+     "title": "结构助词「的」",
+     "explain": "Trợ từ kết cấu “的” đặt giữa định ngữ và trung tâm ngữ để diễn đạt quan hệ sở hữu. Nếu trước “的” là đại từ nhân xưng, sau “的” là từ chỉ quan hệ thân thuộc hoặc danh từ chỉ người, “的” có thể được lược bỏ.",
+     "examples": [
+      "白家月的中文老师",
+      "你的名字",
+      "我老师",
+      "我妈妈"
+     ]
+    },
+    {
+     "title": "用「吗」的是非问句",
+     "explain": "“吗” là trợ từ ngữ khí, thường đặt ở cuối câu để tạo thành câu hỏi “có... (hay) không?”. Cấu trúc cơ bản: ……吗？",
+     "examples": [
+      "你也很忙吗？",
+      "你是他的中文老师吗？",
+      "你有姐姐吗？"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 4,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在家里，刘明和王一雪在聊天儿。",
+     "sceneVi": "Lưu Minh và Vương Nhất Tuyết đang trò chuyện ở trong nhà.",
+     "audioDialogue": "4-1",
+     "audioVocab": "4-2",
+     "dialogue": [
+      {
+       "sp": "刘明",
+       "zh": "一飞忙吗？",
+       "vi": "Nhất Phi có bận không?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "她很忙。",
+       "vi": "Dì ấy rất bận."
+      },
+      {
+       "sp": "刘明",
+       "zh": "她有多少个学生？",
+       "vi": "Dì ấy có bao nhiêu học sinh?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "她有二十个学生。",
+       "vi": "Dì ấy có hai mươi học sinh."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "有",
+       "pos": "động từ",
+       "vi": "có",
+       "proper": false
+      },
+      {
+       "zh": "多少",
+       "pos": "đại từ",
+       "vi": "bao nhiêu",
+       "proper": false
+      },
+      {
+       "zh": "个",
+       "pos": "lượng từ",
+       "vi": "dùng chung cho nhiều danh từ",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在公司里，王一雪和杨同乐休息时聊天儿。",
+     "sceneVi": "Vương Nhất Tuyết và Dương Đồng Lạc trò chuyện với nhau trong giờ nghỉ ở công ty.",
+     "audioDialogue": "4-3",
+     "audioVocab": "4-4",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "我有两个哥哥，你呢？",
+       "vi": "Chị có hai anh trai. Em thì sao?"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "我没有哥哥。",
+       "vi": "Em không có anh trai."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "你家有几口人？",
+       "vi": "Nhà em có mấy người?"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "我家有四口人，爸爸、妈妈、妹妹和我。",
+       "vi": "Nhà em có bốn người: bố, mẹ, em gái và em."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "哥哥",
+       "pos": "danh từ",
+       "vi": "anh trai",
+       "proper": false
+      },
+      {
+       "zh": "呢",
+       "pos": "trợ từ",
+       "vi": "thì sao (dùng ở cuối câu hỏi)",
+       "proper": false
+      },
+      {
+       "zh": "没有",
+       "pos": "động từ",
+       "vi": "không có",
+       "proper": false
+      },
+      {
+       "zh": "家",
+       "pos": "danh từ",
+       "vi": "gia đình, nhà",
+       "proper": false
+      },
+      {
+       "zh": "几",
+       "pos": "đại từ",
+       "vi": "mấy",
+       "proper": false
+      },
+      {
+       "zh": "口",
+       "pos": "lượng từ",
+       "vi": "chỉ người trong gia đình",
+       "proper": false
+      },
+      {
+       "zh": "爸爸",
+       "pos": "danh từ",
+       "vi": "bố, ba",
+       "proper": false
+      },
+      {
+       "zh": "妈妈",
+       "pos": "danh từ",
+       "vi": "mẹ",
+       "proper": false
+      },
+      {
+       "zh": "妹妹",
+       "pos": "danh từ",
+       "vi": "em gái",
+       "proper": false
+      },
+      {
+       "zh": "和",
+       "pos": "liên từ",
+       "vi": "và",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在街上，王一雪带着儿子偶遇杨同乐。",
+     "sceneVi": "Vương Nhất Tuyết đang đi cùng con trai trên phố thì tình cờ gặp Dương Đồng Lạc.",
+     "audioDialogue": "4-5",
+     "audioVocab": "4-6",
+     "dialogue": [
+      {
+       "sp": "杨同乐",
+       "zh": "这是您儿子吗？",
+       "vi": "Đây là con trai chị phải không?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "是的。我有两个孩子，一个儿子，一个女儿。",
+       "vi": "Đúng vậy. Chị có hai con, một con trai và một con gái."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "您儿子几岁？",
+       "vi": "Con trai chị mấy tuổi rồi?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "他今年五岁。",
+       "vi": "Cháu năm nay năm tuổi."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "您女儿多大？",
+       "vi": "Con gái chị bao nhiêu tuổi?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "她今年十二。",
+       "vi": "Cháu năm nay mười hai tuổi."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "儿子",
+       "pos": "danh từ",
+       "vi": "con trai",
+       "proper": false
+      },
+      {
+       "zh": "孩子",
+       "pos": "danh từ",
+       "vi": "con, trẻ con, trẻ em",
+       "proper": false
+      },
+      {
+       "zh": "女儿",
+       "pos": "danh từ",
+       "vi": "con gái",
+       "proper": false
+      },
+      {
+       "zh": "岁",
+       "pos": "lượng từ",
+       "vi": "tuổi",
+       "proper": false
+      },
+      {
+       "zh": "他",
+       "pos": "đại từ",
+       "vi": "anh ấy, cậu ấy, ông ấy...",
+       "proper": false
+      },
+      {
+       "zh": "今年",
+       "pos": "danh từ",
+       "vi": "năm nay",
+       "proper": false
+      },
+      {
+       "zh": "多",
+       "pos": "đại từ",
+       "vi": "bao nhiêu (phó từ chỉ mức độ)",
+       "proper": false
+      },
+      {
+       "zh": "大",
+       "pos": "tính từ",
+       "vi": "lớn (chỉ tuổi tác)",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "「有」字句（1）",
+     "explain": "Chữ “有” trong bài này biểu thị sự sở hữu. Phủ định của “有” là “没/没有”.",
+     "examples": [
+      "她有二十个学生。",
+      "她有一个姐姐。",
+      "我没/没有姐姐。"
+     ]
+    },
+    {
+     "title": "数字的表达",
+     "explain": "Các con số có thể viết bằng số Ả Rập hoặc chữ Hán. “2” đọc là “二 (èr)” hoặc “两 (liǎng)”: “二” dùng cho số thứ tự (第二), “两” dùng trước lượng từ (两个人).",
+     "examples": [
+      "十二",
+      "二十二",
+      "一百二十二",
+      "两个人",
+      "两口人",
+      "两本书"
+     ]
+    },
+    {
+     "title": "语气助词「呢」（1）",
+     "explain": "Trợ từ “呢” ở cuối câu biểu thị nghi vấn, hỏi về tình huống đã nêu ở trước đó. Cấu trúc: A……，B呢？",
+     "examples": [
+      "我有两个哥哥，你呢？",
+      "我叫白家月，你呢？",
+      "我是中国人，你呢？"
+     ]
+    },
+    {
+     "title": "名量词和名量结构",
+     "explain": "Khi biểu đạt số lượng, sau số từ thường phải có lượng từ: [số từ + lượng từ + (danh từ)], ví dụ 四口人, 两个哥哥.",
+     "examples": [
+      "四口",
+      "四口人",
+      "两个",
+      "两个学生"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 5,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在家里，刘明和王一雪在聊天儿。",
+     "sceneVi": "Lưu Minh và Vương Nhất Tuyết đang trò chuyện ở trong nhà.",
+     "audioDialogue": "5-1",
+     "audioVocab": "5-2",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "今天几号？",
+       "vi": "Hôm nay ngày mấy anh nhỉ?"
+      },
+      {
+       "sp": "刘明",
+       "zh": "今天9月8号。",
+       "vi": "Hôm nay là ngày 8 tháng 9."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "星期几？",
+       "vi": "Thứ mấy vậy?"
+      },
+      {
+       "sp": "刘明",
+       "zh": "星期日。今天我休息。",
+       "vi": "Chủ nhật. Hôm nay anh được nghỉ."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "今天",
+       "pos": "danh từ",
+       "vi": "hôm nay",
+       "proper": false
+      },
+      {
+       "zh": "号",
+       "pos": "lượng từ",
+       "vi": "ngày, mùng",
+       "proper": false
+      },
+      {
+       "zh": "月",
+       "pos": "danh từ",
+       "vi": "tháng",
+       "proper": false
+      },
+      {
+       "zh": "日",
+       "pos": "lượng từ",
+       "vi": "ngày",
+       "proper": false
+      },
+      {
+       "zh": "星期",
+       "pos": "danh từ",
+       "vi": "thứ, tuần",
+       "proper": false
+      },
+      {
+       "zh": "星期日",
+       "pos": "danh từ",
+       "vi": "Chủ nhật",
+       "proper": false
+      },
+      {
+       "zh": "星期天",
+       "pos": "danh từ",
+       "vi": "Chủ nhật",
+       "proper": false
+      },
+      {
+       "zh": "休息",
+       "pos": "động từ",
+       "vi": "nghỉ, nghỉ ngơi",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在公司里，王一雪和杨同乐休息时聊天儿。",
+     "sceneVi": "Vương Nhất Tuyết và Dương Đồng Lạc đang trò chuyện trong giờ nghỉ tại công ty.",
+     "audioDialogue": "5-3",
+     "audioVocab": "5-4",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "你会做饭吗？",
+       "vi": "Em có biết nấu ăn không?"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "我会做。",
+       "vi": "Em biết."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "你会做什么？",
+       "vi": "Em biết nấu món gì?"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "我会做面条儿、饺子，也会做一些菜。星期天我也做饭。",
+       "vi": "Em biết nấu mì, sủi cảo và biết chế biến một số món ăn khác. Chủ nhật em cũng nấu ăn."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "会",
+       "pos": "động từ năng nguyện",
+       "vi": "biết, có thể",
+       "proper": false
+      },
+      {
+       "zh": "做饭",
+       "pos": "động từ",
+       "vi": "nấu ăn",
+       "proper": false
+      },
+      {
+       "zh": "做",
+       "pos": "động từ",
+       "vi": "làm, nấu",
+       "proper": false
+      },
+      {
+       "zh": "面条儿",
+       "pos": "danh từ",
+       "vi": "mì, mì sợi",
+       "proper": false
+      },
+      {
+       "zh": "饺子",
+       "pos": "danh từ",
+       "vi": "sủi cảo",
+       "proper": false
+      },
+      {
+       "zh": "一些",
+       "pos": "số lượng từ",
+       "vi": "một số, một vài",
+       "proper": false
+      },
+      {
+       "zh": "菜",
+       "pos": "danh từ",
+       "vi": "món ăn, rau",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在公司里，王一雪和杨同乐下班时聊天儿。",
+     "sceneVi": "Vương Nhất Tuyết và Dương Đồng Lạc đang trò chuyện sau giờ làm ở công ty.",
+     "audioDialogue": "5-5",
+     "audioVocab": "5-6",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "同乐，下班吗？",
+       "vi": "Đồng Lạc, em tan làm rồi à?"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "下班。",
+       "vi": "Em tan làm rồi."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "这是你的新电脑吗？",
+       "vi": "Đây là máy tính mới của em à?"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "是的，是我的新电脑。",
+       "vi": "Đúng vậy, đây là máy tính mới của em."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "真好看！",
+       "vi": "Đẹp thật đấy!"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "我也很喜欢它。",
+       "vi": "Em cũng rất thích nó."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "下班",
+       "pos": "động từ",
+       "vi": "tan làm, tan ca",
+       "proper": false
+      },
+      {
+       "zh": "新",
+       "pos": "tính từ",
+       "vi": "mới",
+       "proper": false
+      },
+      {
+       "zh": "电脑",
+       "pos": "danh từ",
+       "vi": "máy tính, máy vi tính",
+       "proper": false
+      },
+      {
+       "zh": "真",
+       "pos": "phó từ",
+       "vi": "thật, thực sự",
+       "proper": false
+      },
+      {
+       "zh": "好看",
+       "pos": "tính từ",
+       "vi": "đẹp",
+       "proper": false
+      },
+      {
+       "zh": "喜欢",
+       "pos": "động từ",
+       "vi": "thích",
+       "proper": false
+      },
+      {
+       "zh": "它",
+       "pos": "đại từ",
+       "vi": "nó",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "时间的表达（1）",
+     "explain": "Trật tự diễn đạt ngày tháng và thứ trong tuần là: 年→月→日/号→星期.",
+     "examples": [
+      "今天几号？",
+      "今天5月1号。",
+      "我妹妹12岁。"
+     ]
+    },
+    {
+     "title": "名词谓语句",
+     "explain": "Trong câu vị ngữ danh từ, thành phần vị ngữ chỉ có danh từ hoặc thành phần có tính chất như danh từ, thường là những từ chỉ thời gian, ngày tháng, tuổi tác...",
+     "examples": [
+      "今天9月8号。",
+      "今天星期日。",
+      "我妹妹12岁。"
+     ]
+    },
+    {
+     "title": "能愿动词「会」",
+     "explain": "Động từ năng nguyện “会” đặt trước động từ, biểu thị việc biết hoặc có khả năng làm một việc nào đó thông qua học tập.",
+     "examples": [
+      "你会做饭吗？",
+      "我会做面条儿。",
+      "我不会做菜。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 6,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在校园里，李文向白家月要手机号。",
+     "sceneVi": "Lý Văn đang hỏi xin số điện thoại di động của Bạch Gia Nguyệt trong khuôn viên trường.",
+     "audioDialogue": "6-1",
+     "audioVocab": "6-2",
+     "dialogue": [
+      {
+       "sp": "李文",
+       "zh": "家月，你的手机号是多少？",
+       "vi": "Gia Nguyệt, số điện thoại di động của bạn là bao nhiêu?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "我的手机号是+33 601493190。",
+       "vi": "Số điện thoại di động của mình là +33 601493190."
+      },
+      {
+       "sp": "李文",
+       "zh": "我的手机号是+86 13552721160。",
+       "vi": "Số của mình là +86 13552721160."
+      },
+      {
+       "sp": "白家月",
+       "zh": "好的。",
+       "vi": "Ừ."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "手机",
+       "pos": "danh từ",
+       "vi": "điện thoại di động",
+       "proper": false
+      },
+      {
+       "zh": "电话",
+       "pos": "danh từ",
+       "vi": "điện thoại (máy cố định)",
+       "proper": false
+      },
+      {
+       "zh": "号",
+       "pos": "danh từ",
+       "vi": "số",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在教室里，下课后，白家月和陈天中在聊天儿。",
+     "sceneVi": "Bạch Gia Nguyệt và Trần Thiên Trung đang trò chuyện trong lớp sau khi tan học.",
+     "audioDialogue": "6-3",
+     "audioVocab": "6-4",
+     "dialogue": [
+      {
+       "sp": "陈天中",
+       "zh": "家月，明天你去哪儿？",
+       "vi": "Gia Nguyệt, ngày mai bạn đi đâu?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "我想去超市买东西。",
+       "vi": "Mình muốn đi siêu thị mua đồ."
+      },
+      {
+       "sp": "陈天中",
+       "zh": "你去超市买什么？",
+       "vi": "Bạn đi siêu thị mua gì vậy?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "我想买些牛奶。",
+       "vi": "Mình muốn mua ít sữa."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "明天",
+       "pos": "danh từ",
+       "vi": "ngày mai",
+       "proper": false
+      },
+      {
+       "zh": "去",
+       "pos": "động từ",
+       "vi": "đi",
+       "proper": false
+      },
+      {
+       "zh": "哪儿",
+       "pos": "đại từ",
+       "vi": "đâu, chỗ nào, nơi nào",
+       "proper": false
+      },
+      {
+       "zh": "想",
+       "pos": "động từ năng nguyện",
+       "vi": "muốn",
+       "proper": false
+      },
+      {
+       "zh": "超市",
+       "pos": "danh từ",
+       "vi": "siêu thị",
+       "proper": false
+      },
+      {
+       "zh": "买",
+       "pos": "động từ",
+       "vi": "mua",
+       "proper": false
+      },
+      {
+       "zh": "东西",
+       "pos": "danh từ",
+       "vi": "đồ, đồ đạc",
+       "proper": false
+      },
+      {
+       "zh": "些",
+       "pos": "lượng từ",
+       "vi": "một ít, một vài",
+       "proper": false
+      },
+      {
+       "zh": "牛奶",
+       "pos": "danh từ",
+       "vi": "sữa (bò)",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在家里，王一雪全家在讨论周末晚餐安排。",
+     "sceneVi": "Gia đình Vương Nhất Tuyết đang bàn về kế hoạch cho bữa tối cuối tuần ở trong nhà.",
+     "audioDialogue": "6-5",
+     "audioVocab": "6-6",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "星期天我们去哪儿吃晚饭？",
+       "vi": "Chủ nhật này nhà mình đi đâu ăn tối nhỉ?"
+      },
+      {
+       "sp": "刘明",
+       "zh": "我还想去西安饭店。",
+       "vi": "Bố vẫn muốn đến nhà hàng Tây An."
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "那边的包子非常好吃，我想吃包子。",
+       "vi": "Bánh bao ở đó rất ngon, con muốn ăn bánh bao."
+      },
+      {
+       "sp": "刘小明",
+       "zh": "妈妈，我想吃米饭，不想吃包子。",
+       "vi": "Mẹ ơi, con muốn ăn cơm, không muốn ăn bánh bao đâu."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "好的。我们怎么去？",
+       "vi": "Được thôi. Chúng ta đi thế nào nhỉ?"
+      },
+      {
+       "sp": "刘明",
+       "zh": "坐出租车去。",
+       "vi": "Đi taxi nhé."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "吃",
+       "pos": "động từ",
+       "vi": "ăn",
+       "proper": false
+      },
+      {
+       "zh": "晚饭",
+       "pos": "danh từ",
+       "vi": "bữa tối",
+       "proper": false
+      },
+      {
+       "zh": "那边",
+       "pos": "danh từ",
+       "vi": "bên kia, chỗ đó",
+       "proper": false
+      },
+      {
+       "zh": "包子",
+       "pos": "danh từ",
+       "vi": "bánh bao (có nhân)",
+       "proper": false
+      },
+      {
+       "zh": "非常",
+       "pos": "phó từ",
+       "vi": "rất, vô cùng, cực kỳ",
+       "proper": false
+      },
+      {
+       "zh": "好吃",
+       "pos": "tính từ",
+       "vi": "ngon",
+       "proper": false
+      },
+      {
+       "zh": "米饭",
+       "pos": "danh từ",
+       "vi": "cơm (trắng)",
+       "proper": false
+      },
+      {
+       "zh": "怎么",
+       "pos": "đại từ",
+       "vi": "thế nào, bằng cách nào, như thế nào",
+       "proper": false
+      },
+      {
+       "zh": "坐",
+       "pos": "động từ",
+       "vi": "ngồi, đi (xe, tàu...)",
+       "proper": false
+      },
+      {
+       "zh": "出租车",
+       "pos": "danh từ",
+       "vi": "xe taxi",
+       "proper": false
+      },
+      {
+       "zh": "西安饭店",
+       "pos": "danh từ riêng",
+       "vi": "nhà hàng Tây An",
+       "proper": true
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "能愿动词「想」",
+     "explain": "Động từ năng nguyện “想” đặt trước động từ, dùng để biểu thị mong muốn hoặc dự định.",
+     "examples": [
+      "我想去超市。",
+      "我哥哥不想休息。"
+     ]
+    },
+    {
+     "title": "连动句（1）",
+     "explain": "Câu liên động là câu mà vị ngữ do hai hoặc nhiều hơn hai cụm động từ tạo nên. Có hai ý nghĩa: chỉ mục đích của hành động, hoặc chỉ phương thức của hành động.",
+     "examples": [
+      "我想去超市买东西。",
+      "我们去西安饭店吃晚饭。",
+      "我们坐出租车去西安饭店。",
+      "她坐出租车去超市。"
+     ]
+    },
+    {
+     "title": "疑问代词「怎么」",
+     "explain": "Đại từ nghi vấn “怎么” đặt trước động từ, để hỏi về phương thức thực hiện hành động.",
+     "examples": [
+      "我们怎么去？",
+      "她怎么去超市？"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 7,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "白家月和安妮在打电话。",
+     "sceneVi": "Bạch Gia Nguyệt và Annie đang nói chuyện điện thoại.",
+     "audioDialogue": "7-1",
+     "audioVocab": "7-2",
+     "dialogue": [
+      {
+       "sp": "白家月",
+       "zh": "现在几点？",
+       "vi": "Bây giờ là mấy giờ rồi?"
+      },
+      {
+       "sp": "安妮",
+       "zh": "早上八点四十。",
+       "vi": "8 giờ 40 sáng."
+      },
+      {
+       "sp": "白家月",
+       "zh": "我上午十点十分有课。",
+       "vi": "Mình có tiết học lúc 10 giờ 10 phút sáng."
+      },
+      {
+       "sp": "安妮",
+       "zh": "好的，我们下午两点见吧。",
+       "vi": "Ừ, vậy chúng ta gặp nhau lúc 2 giờ chiều nhé."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "现在",
+       "pos": "danh từ",
+       "vi": "bây giờ, hiện tại",
+       "proper": false
+      },
+      {
+       "zh": "点",
+       "pos": "lượng từ",
+       "vi": "giờ",
+       "proper": false
+      },
+      {
+       "zh": "早上",
+       "pos": "danh từ",
+       "vi": "buổi sáng, sáng sớm",
+       "proper": false
+      },
+      {
+       "zh": "上午",
+       "pos": "danh từ",
+       "vi": "buổi sáng",
+       "proper": false
+      },
+      {
+       "zh": "分",
+       "pos": "lượng từ",
+       "vi": "phút",
+       "proper": false
+      },
+      {
+       "zh": "课",
+       "pos": "danh từ",
+       "vi": "tiết học, giờ học",
+       "proper": false
+      },
+      {
+       "zh": "下午",
+       "pos": "danh từ",
+       "vi": "buổi chiều",
+       "proper": false
+      },
+      {
+       "zh": "见",
+       "pos": "động từ",
+       "vi": "gặp, gặp mặt",
+       "proper": false
+      },
+      {
+       "zh": "吧",
+       "pos": "trợ từ",
+       "vi": "nhé (đặt ở cuối câu để đưa ra đề nghị, gợi ý, thương lượng hoặc yêu cầu)",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在校园里，李文遇到白家月。",
+     "sceneVi": "Lý Văn gặp Bạch Gia Nguyệt trong khuôn viên trường.",
+     "audioDialogue": "7-3",
+     "audioVocab": "7-4",
+     "dialogue": [
+      {
+       "sp": "李文",
+       "zh": "下午我想去电影院看电影，你去吗？",
+       "vi": "Chiều nay mình muốn đi xem phim ở rạp chiếu phim. Bạn có đi không?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "我不想去，下午还有事。",
+       "vi": "Mình không muốn đi. Chiều nay mình còn việc."
+      },
+      {
+       "sp": "李文",
+       "zh": "好的。明天呢？",
+       "vi": "Ừ. Vậy ngày mai thì sao?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "我明天下午两点还上课呢，四点半下课。",
+       "vi": "2 giờ chiều mai mình phải lên lớp, 4 giờ rưỡi tan học."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "电影院",
+       "pos": "danh từ",
+       "vi": "rạp chiếu phim, rạp chiếu bóng",
+       "proper": false
+      },
+      {
+       "zh": "看",
+       "pos": "động từ",
+       "vi": "xem, nhìn, đọc",
+       "proper": false
+      },
+      {
+       "zh": "电影",
+       "pos": "danh từ",
+       "vi": "phim, điện ảnh",
+       "proper": false
+      },
+      {
+       "zh": "事",
+       "pos": "danh từ",
+       "vi": "việc, sự việc",
+       "proper": false
+      },
+      {
+       "zh": "上课",
+       "pos": "động từ",
+       "vi": "lên lớp, đi học",
+       "proper": false
+      },
+      {
+       "zh": "呢",
+       "pos": "trợ từ",
+       "vi": "đặt ở cuối câu, dùng để nhấn mạnh hoặc duy trì ngữ khí trong câu trần thuật và câu hỏi",
+       "proper": false
+      },
+      {
+       "zh": "半",
+       "pos": "số từ",
+       "vi": "một nửa, rưỡi",
+       "proper": false
+      },
+      {
+       "zh": "下课",
+       "pos": "động từ",
+       "vi": "tan học",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "王一雪在办公室给刘明打电话。",
+     "sceneVi": "Vương Nhất Tuyết đang gọi điện cho Lưu Minh ở trong phòng làm việc.",
+     "audioDialogue": "7-5",
+     "audioVocab": "7-6",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "喂，你在哪儿呢？",
+       "vi": "A lô, anh đang ở đâu thế?"
+      },
+      {
+       "sp": "刘明",
+       "zh": "我在家里呢。",
+       "vi": "Anh đang ở nhà."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "我晚上六点半下班。",
+       "vi": "Em tan làm lúc 6 rưỡi tối."
+      },
+      {
+       "sp": "刘明",
+       "zh": "我八点去医院上班。",
+       "vi": "8 giờ anh đến bệnh viện làm việc."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "好的，你去店里买些菜吧。",
+       "vi": "Vâng, anh ra cửa hàng mua ít thức ăn nhé."
+      },
+      {
+       "sp": "刘明",
+       "zh": "好，我十分钟后去。",
+       "vi": "Ừ, 10 phút nữa anh đi."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "在",
+       "pos": "động từ",
+       "vi": "ở, tại",
+       "proper": false
+      },
+      {
+       "zh": "家",
+       "pos": "danh từ",
+       "vi": "nhà",
+       "proper": false
+      },
+      {
+       "zh": "里",
+       "pos": "danh từ",
+       "vi": "trong, bên trong",
+       "proper": false
+      },
+      {
+       "zh": "晚上",
+       "pos": "danh từ",
+       "vi": "buổi tối",
+       "proper": false
+      },
+      {
+       "zh": "医院",
+       "pos": "danh từ",
+       "vi": "bệnh viện",
+       "proper": false
+      },
+      {
+       "zh": "上班",
+       "pos": "động từ",
+       "vi": "đi làm, vào ca",
+       "proper": false
+      },
+      {
+       "zh": "店",
+       "pos": "danh từ",
+       "vi": "cửa hàng, cửa tiệm",
+       "proper": false
+      },
+      {
+       "zh": "分钟",
+       "pos": "lượng từ",
+       "vi": "phút",
+       "proper": false
+      },
+      {
+       "zh": "后",
+       "pos": "danh từ",
+       "vi": "sau, sau đó",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "时间的表达（2）",
+     "explain": "Dùng “点” và “分” để diễn đạt thời điểm: giờ chẵn dùng “点”, giờ không chẵn thì thêm “分” (“分” có thể lược bỏ; khi dưới 10 phút cần đọc thêm “零”). Dùng 上午, 中午, 下午, 晚上 để chỉ khoảng thời gian trong ngày.",
+     "examples": [
+      "九点",
+      "二十点",
+      "十五点四十",
+      "二十一点十分",
+      "二十二点零五分",
+      "下午两点半",
+      "晚上九点十分"
+     ]
+    },
+    {
+     "title": "语气助词「吧」（1）",
+     "explain": "Trợ từ ngữ khí “吧” đọc thanh nhẹ (ba), đứng cuối câu, biểu thị đề nghị, bàn bạc, khuyên nhủ hoặc yêu cầu.",
+     "examples": [
+      "我们下午三点见吧。",
+      "你去超市买吧。",
+      "我们去西安饭店吃晚饭吧。"
+     ]
+    },
+    {
+     "title": "副词、时间词语作状语的位置",
+     "explain": "Trong tiếng Trung, phó từ và từ ngữ chỉ thời gian khi làm trạng ngữ trong câu thường được đặt trước động từ hoặc tính từ.",
+     "examples": [
+      "我不想去。",
+      "妹妹很高兴。",
+      "她上午十点半上课。"
+     ]
+    },
+    {
+     "title": "语气助词「呢」（2）",
+     "explain": "Trợ từ ngữ khí “呢” đứng cuối câu để biểu thị một sự thực được xác nhận. Cấu trúc cơ bản: ……呢。",
+     "examples": [
+      "我明天下午两点还上课呢。",
+      "妹妹会做两个菜呢。",
+      "李文晚上还有事呢。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 8,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在王一飞家，白家月和陈天中来做客。",
+     "sceneVi": "Bạch Gia Nguyệt và Trần Thiên Trung đến thăm nhà Vương Nhất Phi.",
+     "audioDialogue": "8-1",
+     "audioVocab": "8-2",
+     "dialogue": [
+      {
+       "sp": "白家月",
+       "zh": "房间外有一只小猫。",
+       "vi": "Bên ngoài phòng có một con mèo nhỏ."
+      },
+      {
+       "sp": "陈天中",
+       "zh": "我没看见，它在哪儿呢？",
+       "vi": "Mình không nhìn thấy, nó ở đâu thế?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "它在桌子下呢。",
+       "vi": "Nó ở dưới cái bàn kia."
+      },
+      {
+       "sp": "陈天中",
+       "zh": "这只小猫真漂亮！",
+       "vi": "Con mèo nhỏ này xinh thật!"
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "房间",
+       "pos": "danh từ",
+       "vi": "căn phòng",
+       "proper": false
+      },
+      {
+       "zh": "外",
+       "pos": "danh từ",
+       "vi": "ngoài, bên ngoài",
+       "proper": false
+      },
+      {
+       "zh": "只",
+       "pos": "lượng từ",
+       "vi": "con (chim, chó, hổ...)",
+       "proper": false
+      },
+      {
+       "zh": "小",
+       "pos": "tính từ",
+       "vi": "nhỏ, bé",
+       "proper": false
+      },
+      {
+       "zh": "猫",
+       "pos": "danh từ",
+       "vi": "mèo",
+       "proper": false
+      },
+      {
+       "zh": "没",
+       "pos": "phó từ",
+       "vi": "không, chưa",
+       "proper": false
+      },
+      {
+       "zh": "看见",
+       "pos": "động từ",
+       "vi": "nhìn thấy, trông thấy",
+       "proper": false
+      },
+      {
+       "zh": "桌子",
+       "pos": "danh từ",
+       "vi": "bàn, cái bàn",
+       "proper": false
+      },
+      {
+       "zh": "下",
+       "pos": "danh từ",
+       "vi": "dưới, bên dưới",
+       "proper": false
+      },
+      {
+       "zh": "漂亮",
+       "pos": "tính từ",
+       "vi": "đẹp, xinh đẹp",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在教室里，下课后，白家月给李文打电话。",
+     "sceneVi": "Bạch Gia Nguyệt gọi điện thoại cho Lý Văn ở trong lớp sau khi tan học.",
+     "audioDialogue": "8-3",
+     "audioVocab": "8-4",
+     "dialogue": [
+      {
+       "sp": "白家月",
+       "zh": "我们在哪儿见呢？",
+       "vi": "Chúng mình gặp nhau ở đâu nhỉ?"
+      },
+      {
+       "sp": "李文",
+       "zh": "在学校书店前见吧。",
+       "vi": "Ở trước cửa hiệu sách của trường nhé."
+      },
+      {
+       "sp": "白家月",
+       "zh": "好的。下午两点你能到吗？",
+       "vi": "Ừ. 2 giờ chiều bạn đến được không?"
+      },
+      {
+       "sp": "李文",
+       "zh": "我能到。我在学校吃午饭。",
+       "vi": "Mình đến được. Mình ăn trưa ở trường."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "在",
+       "pos": "giới từ",
+       "vi": "ở, tại",
+       "proper": false
+      },
+      {
+       "zh": "学校",
+       "pos": "danh từ",
+       "vi": "trường học",
+       "proper": false
+      },
+      {
+       "zh": "书店",
+       "pos": "danh từ",
+       "vi": "hiệu sách, nhà sách",
+       "proper": false
+      },
+      {
+       "zh": "前",
+       "pos": "danh từ",
+       "vi": "phía trước",
+       "proper": false
+      },
+      {
+       "zh": "能",
+       "pos": "động từ năng nguyện",
+       "vi": "có thể",
+       "proper": false
+      },
+      {
+       "zh": "到",
+       "pos": "động từ",
+       "vi": "đến",
+       "proper": false
+      },
+      {
+       "zh": "午饭",
+       "pos": "danh từ",
+       "vi": "bữa trưa",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在医院里，刘明和同事胡医生在聊天儿。",
+     "sceneVi": "Lưu Minh đang trò chuyện với đồng nghiệp của anh là bác sĩ Hồ trong bệnh viện.",
+     "audioDialogue": "8-5",
+     "audioVocab": "8-6",
+     "dialogue": [
+      {
+       "sp": "刘明",
+       "zh": "小胡，还没吃饭呢？",
+       "vi": "Tiểu Hồ, em vẫn chưa ăn cơm à?"
+      },
+      {
+       "sp": "胡医生",
+       "zh": "没吃呢。",
+       "vi": "Em chưa ăn ạ."
+      },
+      {
+       "sp": "刘明",
+       "zh": "大医院病人多，医生非常忙。",
+       "vi": "Ở bệnh viện lớn, bệnh nhân rất đông, bác sĩ cực kỳ bận."
+      },
+      {
+       "sp": "胡医生",
+       "zh": "是的。我爸爸也在医院工作，他也非常忙。",
+       "vi": "Vâng. Bố em cũng làm việc ở bệnh viện, ông ấy cũng bận lắm."
+      },
+      {
+       "sp": "刘明",
+       "zh": "你家有两个医生？",
+       "vi": "Nhà em có hai bác sĩ cơ à?"
+      },
+      {
+       "sp": "胡医生",
+       "zh": "对。",
+       "vi": "Vâng."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "饭",
+       "pos": "danh từ",
+       "vi": "cơm",
+       "proper": false
+      },
+      {
+       "zh": "大",
+       "pos": "tính từ",
+       "vi": "lớn, to",
+       "proper": false
+      },
+      {
+       "zh": "病人",
+       "pos": "danh từ",
+       "vi": "bệnh nhân",
+       "proper": false
+      },
+      {
+       "zh": "多",
+       "pos": "tính từ",
+       "vi": "nhiều",
+       "proper": false
+      },
+      {
+       "zh": "医生",
+       "pos": "danh từ",
+       "vi": "bác sĩ",
+       "proper": false
+      },
+      {
+       "zh": "工作",
+       "pos": "động từ",
+       "vi": "làm việc",
+       "proper": false
+      },
+      {
+       "zh": "胡医生",
+       "pos": "danh từ riêng",
+       "vi": "bác sĩ Hồ",
+       "proper": true
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "方位词",
+     "explain": "Các phương vị từ dùng để biểu đạt phương hướng, vị trí được giới thiệu trong sách gồm: 上, 下, 里, 外, 前, 后, 外边.",
+     "examples": [
+      "房间里有一只小猫。",
+      "我们去书店外吧。",
+      "小雪的手机在桌子上呢。"
+     ]
+    },
+    {
+     "title": "介词「在」",
+     "explain": "Giới từ “在” kết hợp với từ ngữ chỉ vị trí, nơi chốn, đặt trước động từ, biểu thị vị trí, nơi chốn diễn ra hành động.",
+     "examples": [
+      "我在学校吃午饭。",
+      "他爸爸在医院工作。",
+      "你在哪儿买菜？"
+     ]
+    },
+    {
+     "title": "能愿动词「能」",
+     "explain": "Động từ năng nguyện “能” đứng trước động từ, biểu thị có năng lực, có điều kiện hoặc khả năng làm một việc gì đó.",
+     "examples": [
+      "下午两点你能到吗？",
+      "爸爸能去。",
+      "我不能去学校吃午饭。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 9,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在校园里，李文和白家月在聊天儿。",
+     "sceneVi": "Lý Văn và Bạch Gia Nguyệt đang trò chuyện ở trong khuôn viên trường.",
+     "audioDialogue": "9-1",
+     "audioVocab": "9-2",
+     "dialogue": [
+      {
+       "sp": "李文",
+       "zh": "学校前边有一家电影院。",
+       "vi": "Phía trước trường học có một rạp chiếu phim."
+      },
+      {
+       "sp": "白家月",
+       "zh": "对。我们晚上去那个电影院看电影吧。",
+       "vi": "Đúng vậy. Tối chúng mình đến đó xem phim nhé."
+      },
+      {
+       "sp": "李文",
+       "zh": "好！我们七点在电影院外边见，好吗？",
+       "vi": "Được, chúng mình gặp nhau lúc 7 giờ ở bên ngoài rạp chiếu phim, được không?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "好的，晚上七点见！",
+       "vi": "Ừ, tối 7 giờ gặp nhau nhé!"
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "前边",
+       "pos": "danh từ",
+       "vi": "phía trước",
+       "proper": false
+      },
+      {
+       "zh": "边",
+       "pos": "hậu tố",
+       "vi": "phía, bên",
+       "proper": false
+      },
+      {
+       "zh": "家",
+       "pos": "lượng từ",
+       "vi": "cái, chiếc (dùng cho cửa hàng, cơ quan, doanh nghiệp)",
+       "proper": false
+      },
+      {
+       "zh": "那个",
+       "pos": "đại từ",
+       "vi": "đó, cái đó",
+       "proper": false
+      },
+      {
+       "zh": "外边",
+       "pos": "danh từ",
+       "vi": "phía ngoài, bên ngoài",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在教室里，下课后，白家月和陈天中在对话。",
+     "sceneVi": "Bạch Gia Nguyệt đang trò chuyện với Trần Thiên Trung ở trong lớp sau khi tan học.",
+     "audioDialogue": "9-3",
+     "audioVocab": "9-4",
+     "dialogue": [
+      {
+       "sp": "白家月",
+       "zh": "椅子上有一本中文书，那是谁的书？",
+       "vi": "Có một quyển sách tiếng Trung Quốc ở trên ghế. Đó là sách của ai vậy?"
+      },
+      {
+       "sp": "陈天中",
+       "zh": "是我的书，谢谢。这是我的第二本中文书。",
+       "vi": "Là sách của mình, cảm ơn bạn. Đây là quyển sách tiếng Trung Quốc thứ hai của mình."
+      },
+      {
+       "sp": "白家月",
+       "zh": "不客气。你明天上午在哪儿？",
+       "vi": "Đừng khách sáo nhé. Sáng mai bạn ở đâu?"
+      },
+      {
+       "sp": "陈天中",
+       "zh": "我明天上午在学校学习。",
+       "vi": "Sáng mai mình học ở trường."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "椅子",
+       "pos": "danh từ",
+       "vi": "ghế",
+       "proper": false
+      },
+      {
+       "zh": "上",
+       "pos": "danh từ",
+       "vi": "trên, trước (dùng sau danh từ, chỉ vị trí)",
+       "proper": false
+      },
+      {
+       "zh": "本",
+       "pos": "lượng từ",
+       "vi": "quyển, cuốn",
+       "proper": false
+      },
+      {
+       "zh": "书",
+       "pos": "danh từ",
+       "vi": "sách",
+       "proper": false
+      },
+      {
+       "zh": "那",
+       "pos": "đại từ",
+       "vi": "kia, đó",
+       "proper": false
+      },
+      {
+       "zh": "第",
+       "pos": "tiền tố",
+       "vi": "thứ (dùng để biểu thị số thứ tự)",
+       "proper": false
+      },
+      {
+       "zh": "学习",
+       "pos": "động từ",
+       "vi": "học, học tập",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在办公室里，休息时，王一雪和杨同乐谈论周末生活。",
+     "sceneVi": "Vương Nhất Tuyết và Dương Đồng Lạc đang trò chuyện về cuộc sống cuối tuần của họ trong lúc nghỉ ngơi ở văn phòng.",
+     "audioDialogue": "9-5",
+     "audioVocab": "9-6",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "明天星期六，你做什么？",
+       "vi": "Mai là thứ Bảy rồi, em định làm gì?"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "我白天在家里读书，晚上和朋友们去外边唱歌。",
+       "vi": "Ban ngày em sẽ ở nhà đọc sách, buổi tối sẽ ra ngoài hát cùng bạn bè."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "你唱歌很好听。",
+       "vi": "Em hát rất hay."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "谢谢！您星期六做什么？",
+       "vi": "Cảm ơn chị! Thứ Bảy chị làm gì?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "我在家里做饭、看电视，和孩子们、小狗玩。",
+       "vi": "Chị ở nhà nấu ăn, xem ti vi, chơi với các con và con chó nhỏ của chị."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "我也有一只小狗。",
+       "vi": "Em cũng có một con chó nhỏ đấy."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "做",
+       "pos": "động từ",
+       "vi": "làm",
+       "proper": false
+      },
+      {
+       "zh": "白天",
+       "pos": "danh từ",
+       "vi": "ban ngày",
+       "proper": false
+      },
+      {
+       "zh": "读书",
+       "pos": "động từ",
+       "vi": "đọc sách, xem sách",
+       "proper": false
+      },
+      {
+       "zh": "和",
+       "pos": "giới từ",
+       "vi": "với, cùng",
+       "proper": false
+      },
+      {
+       "zh": "朋友",
+       "pos": "danh từ",
+       "vi": "bạn, bạn bè",
+       "proper": false
+      },
+      {
+       "zh": "唱",
+       "pos": "động từ",
+       "vi": "hát",
+       "proper": false
+      },
+      {
+       "zh": "歌",
+       "pos": "danh từ",
+       "vi": "bài hát",
+       "proper": false
+      },
+      {
+       "zh": "好听",
+       "pos": "tính từ",
+       "vi": "hay, nghe hay",
+       "proper": false
+      },
+      {
+       "zh": "电视",
+       "pos": "danh từ",
+       "vi": "ti vi, vô tuyến",
+       "proper": false
+      },
+      {
+       "zh": "狗",
+       "pos": "danh từ",
+       "vi": "chó",
+       "proper": false
+      },
+      {
+       "zh": "玩",
+       "pos": "động từ",
+       "vi": "chơi",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "存现句（1）",
+     "explain": "Câu tồn hiện biểu thị sự tồn tại của người hoặc sự vật ở một nơi hoặc vị trí nào đó, thường nhận biết khi có từ “有” hoặc “是”. Khi phủ định, không thêm số lượng từ vào trước tân ngữ.",
+     "examples": [
+      "学校前边有一家电影院。",
+      "电影院前边是一家超市。",
+      "电影院前边不是超市。",
+      "桌子上没有小猫。"
+     ]
+    },
+    {
+     "title": "时间词语和处所词语同时作状语的顺序",
+     "explain": "Khi từ ngữ chỉ thời gian và từ ngữ chỉ nơi chốn cùng làm trạng ngữ thì từ ngữ chỉ thời gian đứng trước từ ngữ chỉ nơi chốn.",
+     "examples": [
+      "我们七点在电影院外边见。",
+      "安妮下午在家里学中文。",
+      "陈天中明天中午在学校吃午饭。"
+     ]
+    },
+    {
+     "title": "表示序数的「第」",
+     "explain": "“第” đặt trước số nguyên để biểu thị số thứ tự. Cấu trúc cơ bản: (1) 第 + số từ; (2) 第 + số từ + lượng từ + (danh từ).",
+     "examples": [
+      "第一",
+      "第二",
+      "第三",
+      "第一个",
+      "第二个",
+      "第一本",
+      "第一个学生",
+      "第一本书"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 10,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在一家小店，王一雪在买杯子。",
+     "sceneVi": "Vương Nhất Tuyết đang mua cốc ở một cửa hàng nhỏ.",
+     "audioDialogue": "10-1",
+     "audioVocab": "10-2",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "请问，有杯子吗？",
+       "vi": "Xin hỏi, ở đây có bán cốc không?"
+      },
+      {
+       "sp": "售货员",
+       "zh": "有，杯子在这边。",
+       "vi": "Có ạ, cốc ở phía bên này."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "多少钱一个？",
+       "vi": "Bao nhiêu tiền một chiếc vậy?"
+      },
+      {
+       "sp": "售货员",
+       "zh": "这些五块钱一个，那些十块钱一个。",
+       "vi": "Những chiếc này 5 đồng một chiếc, còn những chiếc kia 10 đồng một chiếc."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "我买这个吧。",
+       "vi": "Tôi lấy chiếc này."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "杯子",
+       "pos": "danh từ",
+       "vi": "cốc, ly",
+       "proper": false
+      },
+      {
+       "zh": "售货员",
+       "pos": "danh từ",
+       "vi": "nhân viên bán hàng",
+       "proper": false
+      },
+      {
+       "zh": "这边",
+       "pos": "danh từ",
+       "vi": "bên này, phía này",
+       "proper": false
+      },
+      {
+       "zh": "钱",
+       "pos": "danh từ",
+       "vi": "tiền",
+       "proper": false
+      },
+      {
+       "zh": "这些",
+       "pos": "đại từ",
+       "vi": "những cái này",
+       "proper": false
+      },
+      {
+       "zh": "块",
+       "pos": "lượng từ",
+       "vi": "đồng (đơn vị tiền tệ)",
+       "proper": false
+      },
+      {
+       "zh": "那些",
+       "pos": "đại từ",
+       "vi": "những cái kia",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在菜市场，王一雪在买水果。",
+     "sceneVi": "Vương Nhất Tuyết đang mua hoa quả ở chợ.",
+     "audioDialogue": "10-3",
+     "audioVocab": "10-4",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "这儿的水果真不少！",
+       "vi": "Hoa quả ở đây nhiều nhỉ!"
+      },
+      {
+       "sp": "售货员",
+       "zh": "您想买什么？",
+       "vi": "Chị muốn mua gì?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "我想买两斤苹果。",
+       "vi": "Tôi muốn mua hai cân táo."
+      },
+      {
+       "sp": "售货员",
+       "zh": "苹果三块五一斤。这些七块二，七块钱吧。",
+       "vi": "Táo 3 đồng rưỡi một cân. Chỗ này 7,2 đồng, lấy chị 7 đồng nhé."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "好的，这儿的苹果真便宜！",
+       "vi": "Vâng, táo ở đây rẻ thật!"
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "这儿",
+       "pos": "đại từ",
+       "vi": "ở đây, chỗ này",
+       "proper": false
+      },
+      {
+       "zh": "水果",
+       "pos": "danh từ",
+       "vi": "hoa quả, trái cây",
+       "proper": false
+      },
+      {
+       "zh": "少",
+       "pos": "tính từ",
+       "vi": "ít",
+       "proper": false
+      },
+      {
+       "zh": "斤",
+       "pos": "lượng từ",
+       "vi": "cân (đơn vị đo lường của Trung Quốc, 1 cân bằng 0,5 kg)",
+       "proper": false
+      },
+      {
+       "zh": "苹果",
+       "pos": "danh từ",
+       "vi": "táo",
+       "proper": false
+      },
+      {
+       "zh": "便宜",
+       "pos": "tính từ",
+       "vi": "rẻ",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在商场里，刘明和王一雪在给孩子买衣服。",
+     "sceneVi": "Lưu Minh và Vương Nhất Tuyết đang mua quần áo cho các con trong trung tâm thương mại.",
+     "audioDialogue": "10-5",
+     "audioVocab": "10-6",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "这家商店衣服真多！这件一百元，怎么样？",
+       "vi": "Cửa hàng này nhiều quần áo thật đấy! Chiếc này 100 đồng, anh thấy thế nào?"
+      },
+      {
+       "sp": "刘明",
+       "zh": "好看，也不贵。",
+       "vi": "Đẹp đấy, mà cũng không đắt."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "小雪能穿，买一件吧。",
+       "vi": "Tiểu Tuyết mặc được đấy, mua một chiếc nhé."
+      },
+      {
+       "sp": "刘明",
+       "zh": "好的。小明能穿吗？",
+       "vi": "Ừ. Tiểu Minh có mặc được không?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "不能。这些是女孩子穿的衣服，男孩子的衣服在那儿。",
+       "vi": "Không được đâu. Những cái này là quần áo dành cho bé gái. Quần áo dành cho bé trai ở đằng kia cơ."
+      },
+      {
+       "sp": "刘明",
+       "zh": "好的。",
+       "vi": "Ừ nhỉ."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "商店",
+       "pos": "danh từ",
+       "vi": "cửa hàng",
+       "proper": false
+      },
+      {
+       "zh": "衣服",
+       "pos": "danh từ",
+       "vi": "quần áo",
+       "proper": false
+      },
+      {
+       "zh": "件",
+       "pos": "lượng từ",
+       "vi": "chiếc, cái (dùng cho quần áo)",
+       "proper": false
+      },
+      {
+       "zh": "元",
+       "pos": "lượng từ",
+       "vi": "đồng (nhân dân tệ)",
+       "proper": false
+      },
+      {
+       "zh": "怎么样",
+       "pos": "đại từ",
+       "vi": "thế nào, như thế nào",
+       "proper": false
+      },
+      {
+       "zh": "贵",
+       "pos": "tính từ",
+       "vi": "đắt",
+       "proper": false
+      },
+      {
+       "zh": "穿",
+       "pos": "động từ",
+       "vi": "mặc",
+       "proper": false
+      },
+      {
+       "zh": "女",
+       "pos": "tính từ",
+       "vi": "nữ, con gái",
+       "proper": false
+      },
+      {
+       "zh": "男",
+       "pos": "tính từ",
+       "vi": "nam, con trai",
+       "proper": false
+      },
+      {
+       "zh": "那儿",
+       "pos": "đại từ",
+       "vi": "ở kia, chỗ đó",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "钱数的表达",
+     "explain": "Đơn vị tiền tệ Trung Quốc là Nhân dân tệ (RMB). Các đơn vị theo thứ tự từ lớn đến nhỏ là 元, 角, 分; trong văn nói lần lượt gọi là 块, 毛, 分. Trật tự diễn đạt: 元/块→角/毛→分.",
+     "examples": [
+      "三块",
+      "三块二",
+      "两毛",
+      "两分",
+      "六块零两分",
+      "二百零二块两毛"
+     ]
+    },
+    {
+     "title": "形容词谓语句",
+     "explain": "Tính từ có thể trực tiếp làm vị ngữ, trước tính từ có thể thêm phó từ chỉ mức độ hoặc phó từ phủ định.",
+     "examples": [
+      "这儿的水果真不少！",
+      "我的房间不大。",
+      "那个苹果好吃。"
+     ]
+    },
+    {
+     "title": "疑问代词「怎么样」",
+     "explain": "Đại từ nghi vấn “怎么样” dùng để hỏi ý kiến hoặc hỏi thăm về tình hình. Cấu trúc cơ bản: ……怎么样？",
+     "examples": [
+      "这个杯子怎么样？",
+      "这本书怎么样？",
+      "这个菜怎么样？"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 11,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在路上，李文在找饭店，王一飞给他打电话。",
+     "sceneVi": "Lý Văn đang tìm nhà hàng trên đường đi, Vương Nhất Phi gọi điện cho anh ấy.",
+     "audioDialogue": "11-1",
+     "audioVocab": "11-2",
+     "dialogue": [
+      {
+       "sp": "王一飞",
+       "zh": "喂，李文，你什么时候能到饭店？",
+       "vi": "A lô, Lý Văn à, khi nào em có thể đến nhà hàng?"
+      },
+      {
+       "sp": "李文",
+       "zh": "还不知道，正在找呢。它是不是在超市后边？",
+       "vi": "Cũng không biết ạ, em đang tìm đây. Nó có phải ở phía sau siêu thị không?"
+      },
+      {
+       "sp": "王一飞",
+       "zh": "是的。你开车没开车？",
+       "vi": "Đúng rồi. Em có lái xe không?"
+      },
+      {
+       "sp": "李文",
+       "zh": "我没开车，坐车呢。",
+       "vi": "Em không lái xe, đang đi taxi đây."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "时候",
+       "pos": "danh từ",
+       "vi": "lúc, khi",
+       "proper": false
+      },
+      {
+       "zh": "饭店",
+       "pos": "danh từ",
+       "vi": "nhà hàng, khách sạn",
+       "proper": false
+      },
+      {
+       "zh": "知道",
+       "pos": "động từ",
+       "vi": "biết, nhận ra",
+       "proper": false
+      },
+      {
+       "zh": "正在",
+       "pos": "phó từ",
+       "vi": "đang (làm gì)",
+       "proper": false
+      },
+      {
+       "zh": "找",
+       "pos": "động từ",
+       "vi": "tìm, kiếm",
+       "proper": false
+      },
+      {
+       "zh": "开车",
+       "pos": "động từ",
+       "vi": "lái xe (ô tô)",
+       "proper": false
+      },
+      {
+       "zh": "车",
+       "pos": "danh từ",
+       "vi": "xe",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在饭店里，王一飞和李文见面后聊天儿。",
+     "sceneVi": "Vương Nhất Phi và Lý Văn trò chuyện sau khi gặp nhau tại nhà hàng.",
+     "audioDialogue": "11-3",
+     "audioVocab": "11-4",
+     "dialogue": [
+      {
+       "sp": "王一飞",
+       "zh": "你还在读大学吗？",
+       "vi": "Em vẫn đang học đại học à?"
+      },
+      {
+       "sp": "李文",
+       "zh": "对，我读大学呢，还是大学生。",
+       "vi": "Đúng vậy, em đang học đại học, vẫn đang là sinh viên."
+      },
+      {
+       "sp": "王一飞",
+       "zh": "你们学习忙不忙？",
+       "vi": "Việc học của các em có bận không?"
+      },
+      {
+       "sp": "李文",
+       "zh": "非常忙，我学医，我们的课很多。",
+       "vi": "Bận lắm ạ, em học ngành y, chúng em có rất nhiều môn học."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "在",
+       "pos": "phó từ",
+       "vi": "đang",
+       "proper": false
+      },
+      {
+       "zh": "读",
+       "pos": "động từ",
+       "vi": "học, đọc",
+       "proper": false
+      },
+      {
+       "zh": "大学",
+       "pos": "danh từ",
+       "vi": "đại học",
+       "proper": false
+      },
+      {
+       "zh": "大学生",
+       "pos": "danh từ",
+       "vi": "sinh viên",
+       "proper": false
+      },
+      {
+       "zh": "学",
+       "pos": "động từ",
+       "vi": "học",
+       "proper": false
+      },
+      {
+       "zh": "医",
+       "pos": "danh từ",
+       "vi": "y, y học, y khoa",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "星期六早上，刘明要去医院加班，出门前和女儿对话。",
+     "sceneVi": "Sáng thứ Bảy, Lưu Minh phải đến bệnh viện làm thêm giờ, anh trò chuyện với con gái trước khi ra khỏi nhà.",
+     "audioDialogue": "11-5",
+     "audioVocab": "11-6",
+     "dialogue": [
+      {
+       "sp": "刘明",
+       "zh": "弟弟起床没起床呢？",
+       "vi": "Em đã thức dậy chưa con?"
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "没起床呢，还在睡觉。",
+       "vi": "Chưa thức dậy ạ, em vẫn còn đang ngủ."
+      },
+      {
+       "sp": "刘明",
+       "zh": "还睡呢？他今天不去那里？",
+       "vi": "Vẫn còn ngủ à? Hôm nay em có đi đến đó không?"
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "去哪里？",
+       "vi": "Đi đâu ạ?"
+      },
+      {
+       "sp": "刘明",
+       "zh": "去超市。",
+       "vi": "Đi siêu thị."
+      },
+      {
+       "sp": "刘小雪",
+       "zh": "我昨天问他，他对我说，他不去，他今天要和小朋友玩。",
+       "vi": "Hôm qua con hỏi em rồi. Em nói với con là em không đi, hôm nay em muốn chơi với các bạn."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "弟弟",
+       "pos": "danh từ",
+       "vi": "em trai",
+       "proper": false
+      },
+      {
+       "zh": "起床",
+       "pos": "động từ",
+       "vi": "thức dậy, ngủ dậy, dậy",
+       "proper": false
+      },
+      {
+       "zh": "睡觉",
+       "pos": "động từ",
+       "vi": "ngủ",
+       "proper": false
+      },
+      {
+       "zh": "睡",
+       "pos": "động từ",
+       "vi": "ngủ",
+       "proper": false
+      },
+      {
+       "zh": "那里",
+       "pos": "đại từ",
+       "vi": "ở kia, chỗ đó",
+       "proper": false
+      },
+      {
+       "zh": "哪里",
+       "pos": "đại từ",
+       "vi": "đâu, chỗ nào, nơi nào",
+       "proper": false
+      },
+      {
+       "zh": "昨天",
+       "pos": "danh từ",
+       "vi": "hôm qua",
+       "proper": false
+      },
+      {
+       "zh": "问",
+       "pos": "động từ",
+       "vi": "hỏi",
+       "proper": false
+      },
+      {
+       "zh": "对",
+       "pos": "giới từ",
+       "vi": "với, đối với",
+       "proper": false
+      },
+      {
+       "zh": "说",
+       "pos": "động từ",
+       "vi": "nói",
+       "proper": false
+      },
+      {
+       "zh": "要",
+       "pos": "động từ năng nguyện",
+       "vi": "cần, muốn, phải",
+       "proper": false
+      },
+      {
+       "zh": "小朋友",
+       "pos": "danh từ",
+       "vi": "bạn nhỏ",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "正反问",
+     "explain": "Cấu trúc của câu hỏi chính phản là “×+不/没+×”, “×” là động từ hoặc tính từ. Dùng “不/没” cho câu hỏi chính phản động từ và “不” cho câu hỏi chính phản tính từ.",
+     "examples": [
+      "它是不是在超市后边？",
+      "你去没去学校？",
+      "这件衣服好看不好看？"
+     ]
+    },
+    {
+     "title": "时间副词「在/正在」",
+     "explain": "Phó từ chỉ thời gian “在/正在” đứng trước động từ để biểu thị hành động đang diễn ra hoặc tình huống đang tiếp diễn: (1) 在/正在 + động từ; (2) 在/正在 + động từ + 呢; (3) động từ + 呢. Khi trả lời phủ định dùng “没(有)”.",
+     "examples": [
+      "你还在读大学吗？",
+      "学生们在/正在上课呢。",
+      "我们读书呢。"
+     ]
+    },
+    {
+     "title": "能愿动词「要」",
+     "explain": "Động từ năng nguyện “要” đặt trước động từ, biểu thị mong muốn hoặc dự định làm việc gì đó.",
+     "examples": [
+      "他今天要和小朋友玩。",
+      "妈妈要去超市。",
+      "白家月要在家里学中文。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 12,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "王一雪给王一飞打电话，询问王一飞那边的情况。",
+     "sceneVi": "Vương Nhất Tuyết gọi điện cho Vương Nhất Phi để hỏi thăm tình hình chỗ cô ấy.",
+     "audioDialogue": "12-1",
+     "audioVocab": "12-2",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "今天天气怎么样？",
+       "vi": "Hôm nay thời tiết thế nào?"
+      },
+      {
+       "sp": "王一飞",
+       "zh": "这里的天不太好，下雨了。",
+       "vi": "Thời tiết ở đây không ổn lắm, mưa rồi ạ."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "雨大吗？",
+       "vi": "Mưa to không?"
+      },
+      {
+       "sp": "王一飞",
+       "zh": "有点儿大，我觉得很冷。",
+       "vi": "Hơi to ạ, em cảm thấy rất lạnh."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "天气",
+       "pos": "danh từ",
+       "vi": "thời tiết",
+       "proper": false
+      },
+      {
+       "zh": "这里",
+       "pos": "đại từ",
+       "vi": "ở đây, chỗ này",
+       "proper": false
+      },
+      {
+       "zh": "天",
+       "pos": "danh từ",
+       "vi": "thời tiết, trời",
+       "proper": false
+      },
+      {
+       "zh": "下雨",
+       "pos": "động từ",
+       "vi": "mưa, mưa rơi",
+       "proper": false
+      },
+      {
+       "zh": "了",
+       "pos": "trợ từ",
+       "vi": "dùng cuối câu chỉ sự thay đổi tình hình hoặc trạng thái",
+       "proper": false
+      },
+      {
+       "zh": "雨",
+       "pos": "danh từ",
+       "vi": "mưa",
+       "proper": false
+      },
+      {
+       "zh": "有点儿",
+       "pos": "phó từ",
+       "vi": "hơi, hơi... một chút",
+       "proper": false
+      },
+      {
+       "zh": "觉得",
+       "pos": "động từ",
+       "vi": "cảm thấy",
+       "proper": false
+      },
+      {
+       "zh": "冷",
+       "pos": "tính từ",
+       "vi": "lạnh",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在公司电梯里，王一雪和杨同乐在聊天儿。",
+     "sceneVi": "Vương Nhất Tuyết và Dương Đồng Lạc đang trò chuyện trong thang máy công ty.",
+     "audioDialogue": "12-3",
+     "audioVocab": "12-4",
+     "dialogue": [
+      {
+       "sp": "王一雪",
+       "zh": "昨天下雪了。",
+       "vi": "Hôm qua tuyết rơi rồi."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "是的，太冷了。",
+       "vi": "Vâng, trời lạnh quá."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "你昨天没来公司，生病了？",
+       "vi": "Hôm qua em không đến công ty, bị ốm à?"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "对，我昨天去医院看病了。",
+       "vi": "Vâng, hôm qua em đi bệnh viện khám bệnh."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "下",
+       "pos": "động từ",
+       "vi": "(mưa, tuyết...) rơi",
+       "proper": false
+      },
+      {
+       "zh": "雪",
+       "pos": "danh từ",
+       "vi": "tuyết",
+       "proper": false
+      },
+      {
+       "zh": "来",
+       "pos": "động từ",
+       "vi": "đến",
+       "proper": false
+      },
+      {
+       "zh": "公司",
+       "pos": "danh từ",
+       "vi": "công ty",
+       "proper": false
+      },
+      {
+       "zh": "生病",
+       "pos": "động từ",
+       "vi": "ốm, bị ốm, bệnh, bị bệnh",
+       "proper": false
+      },
+      {
+       "zh": "看病",
+       "pos": "động từ",
+       "vi": "khám bệnh",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "昨天在医院，医生给杨同乐看病。",
+     "sceneVi": "Hôm qua, bác sĩ khám bệnh cho Dương Đồng Lạc tại bệnh viện.",
+     "audioDialogue": "12-5",
+     "audioVocab": "12-6",
+     "dialogue": [
+      {
+       "sp": "杨同乐",
+       "zh": "医生，我病了。",
+       "vi": "Thưa bác sĩ, tôi bị ốm rồi."
+      },
+      {
+       "sp": "胡医生",
+       "zh": "我看看。你觉得怎么样？",
+       "vi": "Để tôi khám xem. Anh cảm thấy thế nào?"
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "我很冷。",
+       "vi": "Tôi rất lạnh."
+      },
+      {
+       "sp": "胡医生",
+       "zh": "好的，吃一点儿药，今天休息半天吧。",
+       "vi": "Được rồi, uống một ít thuốc nhé, hôm nay nghỉ ngơi nửa ngày nhé."
+      },
+      {
+       "sp": "杨同乐",
+       "zh": "好的。",
+       "vi": "Vâng."
+      },
+      {
+       "sp": "胡医生",
+       "zh": "回家后再喝些热水。",
+       "vi": "Sau khi về nhà nhớ uống thêm ít nước ấm nhé."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "病",
+       "pos": "động từ",
+       "vi": "ốm, bị ốm, bệnh, bị bệnh",
+       "proper": false
+      },
+      {
+       "zh": "一点儿",
+       "pos": "số lượng từ",
+       "vi": "một chút, một ít",
+       "proper": false
+      },
+      {
+       "zh": "药",
+       "pos": "danh từ",
+       "vi": "thuốc",
+       "proper": false
+      },
+      {
+       "zh": "天",
+       "pos": "lượng từ",
+       "vi": "ngày",
+       "proper": false
+      },
+      {
+       "zh": "回",
+       "pos": "động từ",
+       "vi": "về, quay về",
+       "proper": false
+      },
+      {
+       "zh": "再",
+       "pos": "phó từ",
+       "vi": "sau đó, mới (chỉ trình tự)",
+       "proper": false
+      },
+      {
+       "zh": "喝",
+       "pos": "động từ",
+       "vi": "uống",
+       "proper": false
+      },
+      {
+       "zh": "热",
+       "pos": "tính từ",
+       "vi": "nóng, ấm",
+       "proper": false
+      },
+      {
+       "zh": "水",
+       "pos": "danh từ",
+       "vi": "nước",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "非主谓句",
+     "explain": "Câu phi chủ vị là câu được cấu tạo bởi từ hoặc cụm từ, không phân biệt rõ chủ ngữ và vị ngữ, thường dùng trong văn nói.",
+     "examples": [
+      "下雨了。",
+      "下雪了。",
+      "上课了。",
+      "真漂亮！",
+      "对不起！",
+      "没关系！"
+     ]
+    },
+    {
+     "title": "语气助词「了」（1）",
+     "explain": "Trợ từ ngữ khí “了” (1) đặt ở cuối câu hoặc chỗ ngắt quãng trong câu để biểu thị sự thay đổi hoặc xuất hiện tình huống mới. Khi trả lời phủ định, dùng phó từ “没” và lược bỏ “了” ở cuối câu.",
+     "examples": [
+      "下雨了。",
+      "十二点了，吃午饭吧。",
+      "弟弟起床了吗？没起床呢。"
+     ]
+    },
+    {
+     "title": "「太……了」格式",
+     "explain": "Cấu trúc “太……了!” dùng để diễn đạt cảm thán về mức độ rất cao hoặc rất sâu sắc.",
+     "examples": [
+      "太冷了！",
+      "这个杯子太小了。",
+      "我们今天太高兴了！"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 13,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在教室里，下课后，白家月问王老师问题。",
+     "sceneVi": "Bạch Gia Nguyệt hỏi bài cô Vương ở trong lớp sau khi tan học.",
+     "audioDialogue": "13-1",
+     "audioVocab": "13-2",
+     "dialogue": [
+      {
+       "sp": "白家月",
+       "zh": "王老师，我可以再问您一个问题吗？",
+       "vi": "Thưa cô Vương, em có thể hỏi thêm cô một câu nữa không ạ?"
+      },
+      {
+       "sp": "王一飞",
+       "zh": "可以。你有什么问题？",
+       "vi": "Được chứ. Em có vấn đề gì nào?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "那个小店卖不卖手机？",
+       "vi": "Cửa hàng nhỏ kia có bán điện thoại di động không ạ?"
+      },
+      {
+       "sp": "王一飞",
+       "zh": "我不知道。你可以打电话问一下。",
+       "vi": "Cô không biết. Em có thể gọi điện thoại hỏi xem."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "可以",
+       "pos": "động từ năng nguyện",
+       "vi": "có thể, được (cho phép làm gì)",
+       "proper": false
+      },
+      {
+       "zh": "再",
+       "pos": "phó từ",
+       "vi": "lại, thêm lần nữa",
+       "proper": false
+      },
+      {
+       "zh": "问题",
+       "pos": "danh từ",
+       "vi": "câu hỏi, vấn đề",
+       "proper": false
+      },
+      {
+       "zh": "卖",
+       "pos": "động từ",
+       "vi": "bán",
+       "proper": false
+      },
+      {
+       "zh": "打电话",
+       "pos": "cụm từ",
+       "vi": "gọi điện thoại",
+       "proper": false
+      },
+      {
+       "zh": "一下",
+       "pos": "số lượng từ",
+       "vi": "một chút, thử (dùng sau động từ, biểu thị hành động xảy ra nhanh hoặc thử làm)",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在咖啡馆里，王一雪想吃早餐。",
+     "sceneVi": "Vương Nhất Tuyết muốn ăn sáng ở trong quán cà phê.",
+     "audioDialogue": "13-3",
+     "audioVocab": "13-4",
+     "dialogue": [
+      {
+       "sp": "服务员",
+       "zh": "女士，请坐！您喝什么？",
+       "vi": "Mời cô ngồi! Cô uống gì ạ?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "我看一下。请给我一杯牛奶。",
+       "vi": "Để tôi xem một chút. Cho tôi một cốc sữa."
+      },
+      {
+       "sp": "服务员",
+       "zh": "好的。您还要什么？",
+       "vi": "Vâng. Cô còn dùng thêm gì nữa không?"
+      },
+      {
+       "sp": "王一雪",
+       "zh": "我还没吃早饭，再要这个面包和鸡蛋吧。",
+       "vi": "Tôi vẫn chưa ăn sáng, cho tôi cái bánh mì này và trứng nhé."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "服务员",
+       "pos": "danh từ",
+       "vi": "nhân viên phục vụ, người phục vụ",
+       "proper": false
+      },
+      {
+       "zh": "女士",
+       "pos": "danh từ",
+       "vi": "bà, cô, quý bà, quý cô",
+       "proper": false
+      },
+      {
+       "zh": "请",
+       "pos": "động từ",
+       "vi": "mời, xin, hãy",
+       "proper": false
+      },
+      {
+       "zh": "坐",
+       "pos": "động từ",
+       "vi": "ngồi",
+       "proper": false
+      },
+      {
+       "zh": "给",
+       "pos": "động từ",
+       "vi": "đưa cho, cho",
+       "proper": false
+      },
+      {
+       "zh": "杯",
+       "pos": "danh từ",
+       "vi": "ly, cốc, tách",
+       "proper": false
+      },
+      {
+       "zh": "要",
+       "pos": "động từ",
+       "vi": "cần, muốn",
+       "proper": false
+      },
+      {
+       "zh": "早饭",
+       "pos": "danh từ",
+       "vi": "bữa sáng",
+       "proper": false
+      },
+      {
+       "zh": "这个",
+       "pos": "đại từ",
+       "vi": "cái này",
+       "proper": false
+      },
+      {
+       "zh": "面包",
+       "pos": "danh từ",
+       "vi": "bánh mì",
+       "proper": false
+      },
+      {
+       "zh": "鸡蛋",
+       "pos": "danh từ",
+       "vi": "trứng gà",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在餐馆里，刘明在点餐。",
+     "sceneVi": "Lưu Minh đang gọi món ăn ở nhà hàng.",
+     "audioDialogue": "13-5",
+     "audioVocab": "13-6",
+     "dialogue": [
+      {
+       "sp": "服务员",
+       "zh": "先生，请坐！您要什么？",
+       "vi": "Mời anh ngồi! Anh cần gì ạ?"
+      },
+      {
+       "sp": "刘明",
+       "zh": "我要一斤饺子。",
+       "vi": "Cho tôi một cân sủi cảo."
+      },
+      {
+       "sp": "服务员",
+       "zh": "好的。一斤饺子是40个。",
+       "vi": "Vâng ạ. Một cân sủi cảo có 40 cái."
+      },
+      {
+       "sp": "刘明",
+       "zh": "40个太多了，我要一半吧。",
+       "vi": "40 cái thì nhiều quá, tôi lấy nửa cân thôi nhé."
+      },
+      {
+       "sp": "服务员",
+       "zh": "半斤20个。您想喝什么？",
+       "vi": "Nửa cân là 20 cái. Anh muốn uống gì không ạ?"
+      },
+      {
+       "sp": "刘明",
+       "zh": "请给我一杯茶吧。",
+       "vi": "Cho tôi một cốc trà nhé."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "先生",
+       "pos": "danh từ",
+       "vi": "anh, ông, ngài, quý ông",
+       "proper": false
+      },
+      {
+       "zh": "一半",
+       "pos": "số từ",
+       "vi": "một nửa",
+       "proper": false
+      },
+      {
+       "zh": "茶",
+       "pos": "danh từ",
+       "vi": "trà, chè",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "能愿动词「可以」",
+     "explain": "Động từ năng nguyện “可以” đặt trước động từ để biểu thị khả năng, năng lực hoặc sự cho phép.",
+     "examples": [
+      "我可以再问您一个问题吗？",
+      "你们可以看这本书。",
+      "我可以坐吗？可以，请坐！"
+     ]
+    },
+    {
+     "title": "「动词+一下」结构",
+     "explain": "Cấu trúc “động từ + 一下” biểu thị việc thực hiện hành động một lần hoặc thử làm việc gì đó, hành động diễn ra trong thời gian ngắn.",
+     "examples": [
+      "你可以打电话问一下。",
+      "请休息一下。",
+      "你看一下吧。"
+     ]
+    },
+    {
+     "title": "双宾语句（1）",
+     "explain": "Câu có hai tân ngữ là câu mà một động từ mang hai tân ngữ. Trong sách này học câu có hai tân ngữ tạo bởi động từ “给” và “问”.",
+     "examples": [
+      "请给我一杯牛奶。",
+      "白家月给安妮一个苹果。",
+      "我问老师两个问题。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 14,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在教室里，下课后，白家月和陈天中在谈论上一次课外旅行。",
+     "sceneVi": "Bạch Gia Nguyệt và Trần Thiên Trung đang thảo luận về chuyến đi du lịch ngoại khoá lần trước ở trong lớp sau giờ tan học.",
+     "audioDialogue": "14-1",
+     "audioVocab": "14-2",
+     "dialogue": [
+      {
+       "sp": "白家月",
+       "zh": "你们上火车后看见王老师了吗？",
+       "vi": "Sau khi lên tàu các bạn có nhìn thấy cô Vương không?"
+      },
+      {
+       "sp": "陈天中",
+       "zh": "没看见。中午车开后，有些人在看书，有些人睡觉了。",
+       "vi": "Không nhìn thấy đâu. Buổi trưa, sau khi tàu chạy, có một số người đọc sách, một số người ngủ."
+      },
+      {
+       "sp": "白家月",
+       "zh": "你呢？",
+       "vi": "Còn bạn thì sao?"
+      },
+      {
+       "sp": "陈天中",
+       "zh": "我看了一个电影。",
+       "vi": "Mình đã xem một bộ phim."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "上",
+       "pos": "động từ",
+       "vi": "lên (xe, tàu...)",
+       "proper": false
+      },
+      {
+       "zh": "火车",
+       "pos": "danh từ",
+       "vi": "tàu, tàu hoả, xe lửa",
+       "proper": false
+      },
+      {
+       "zh": "中午",
+       "pos": "danh từ",
+       "vi": "buổi trưa",
+       "proper": false
+      },
+      {
+       "zh": "开",
+       "pos": "động từ",
+       "vi": "lái, chạy, khởi hành (phương tiện giao thông)",
+       "proper": false
+      },
+      {
+       "zh": "有些",
+       "pos": "đại từ",
+       "vi": "có một số, có một vài",
+       "proper": false
+      },
+      {
+       "zh": "有的",
+       "pos": "đại từ",
+       "vi": "có người, có cái",
+       "proper": false
+      },
+      {
+       "zh": "了",
+       "pos": "trợ từ",
+       "vi": "dùng sau động từ chỉ sự hoàn thành của động tác",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在课堂上，王一飞询问学生们的学习情况。",
+     "sceneVi": "Cô Vương Nhất Phi hỏi thăm tình hình học tập của học sinh ở trong lớp học.",
+     "audioDialogue": "14-3",
+     "audioVocab": "14-4",
+     "dialogue": [
+      {
+       "sp": "王一飞",
+       "zh": "你们会说汉语了，也会写汉字了吗？",
+       "vi": "Các em đã biết nói tiếng Trung Quốc rồi, cũng đã biết viết chữ Hán rồi phải không?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "我们都会写了。",
+       "vi": "Chúng em đều biết viết rồi ạ."
+      },
+      {
+       "sp": "陈天中",
+       "zh": "老师，我听不见。",
+       "vi": "Thưa cô, em không nghe thấy ạ."
+      },
+      {
+       "sp": "王一飞",
+       "zh": "请大家不要说话！请听老师的问题：你们都会写哪些汉字了？",
+       "vi": "Mọi người đừng nói chuyện! Hãy lắng nghe câu hỏi của cô: Các em đã biết viết những chữ Hán nào rồi?"
+      },
+      {
+       "sp": "陈天中",
+       "zh": "我会写这些字了，您看！",
+       "vi": "Cô xem này, em đã biết viết những chữ này rồi!"
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "写",
+       "pos": "động từ",
+       "vi": "viết",
+       "proper": false
+      },
+      {
+       "zh": "都",
+       "pos": "phó từ",
+       "vi": "đều",
+       "proper": false
+      },
+      {
+       "zh": "听见",
+       "pos": "động từ",
+       "vi": "nghe thấy",
+       "proper": false
+      },
+      {
+       "zh": "不要",
+       "pos": "phó từ",
+       "vi": "đừng, không được",
+       "proper": false
+      },
+      {
+       "zh": "说话",
+       "pos": "động từ",
+       "vi": "nói chuyện",
+       "proper": false
+      },
+      {
+       "zh": "听",
+       "pos": "động từ",
+       "vi": "nghe",
+       "proper": false
+      },
+      {
+       "zh": "哪些",
+       "pos": "đại từ",
+       "vi": "những... nào",
+       "proper": false
+      },
+      {
+       "zh": "字",
+       "pos": "danh từ",
+       "vi": "chữ",
+       "proper": false
+      },
+      {
+       "zh": "汉语",
+       "pos": "danh từ riêng",
+       "vi": "tiếng Trung Quốc, tiếng Hán",
+       "proper": true
+      },
+      {
+       "zh": "汉字",
+       "pos": "danh từ riêng",
+       "vi": "chữ Hán",
+       "proper": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在家里，刘明和王一雪在谈论孩子的升学情况。",
+     "sceneVi": "Lưu Minh và Vương Nhất Tuyết đang trò chuyện về tình hình học tập của các con ở trong nhà.",
+     "audioDialogue": "14-5",
+     "audioVocab": "14-6",
+     "dialogue": [
+      {
+       "sp": "刘明",
+       "zh": "明年女儿上中学。",
+       "vi": "Sang năm con gái lên trung học."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "对。儿子也上小学了。",
+       "vi": "Đúng vậy. Con trai cũng lên tiểu học rồi."
+      },
+      {
+       "sp": "刘明",
+       "zh": "我们家有了一个中学生。",
+       "vi": "Nhà mình có một học sinh trung học rồi."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "还有了一个小学生。",
+       "vi": "Còn có thêm một học sinh tiểu học nữa."
+      },
+      {
+       "sp": "刘明",
+       "zh": "上学后，他们都忙了。",
+       "vi": "Sau khi vào học, các con đều bận cả."
+      },
+      {
+       "sp": "王一雪",
+       "zh": "是的。太晚了，睡觉吧。",
+       "vi": "Đúng vậy. Muộn quá rồi, đi ngủ thôi."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "明年",
+       "pos": "danh từ",
+       "vi": "sang năm, năm tới",
+       "proper": false
+      },
+      {
+       "zh": "上",
+       "pos": "động từ",
+       "vi": "lên, bắt đầu (làm gì đó vào thời gian cố định)",
+       "proper": false
+      },
+      {
+       "zh": "中学",
+       "pos": "danh từ",
+       "vi": "trường trung học, trung học",
+       "proper": false
+      },
+      {
+       "zh": "小学",
+       "pos": "danh từ",
+       "vi": "trường tiểu học, tiểu học",
+       "proper": false
+      },
+      {
+       "zh": "中学生",
+       "pos": "danh từ",
+       "vi": "học sinh trung học, học sinh cấp hai",
+       "proper": false
+      },
+      {
+       "zh": "小学生",
+       "pos": "danh từ",
+       "vi": "học sinh tiểu học, học sinh cấp một",
+       "proper": false
+      },
+      {
+       "zh": "上学",
+       "pos": "động từ",
+       "vi": "đi học, bắt đầu đi học",
+       "proper": false
+      },
+      {
+       "zh": "他们",
+       "pos": "đại từ",
+       "vi": "họ, chúng, bọn họ, các anh ấy, các em ấy...",
+       "proper": false
+      },
+      {
+       "zh": "她们",
+       "pos": "đại từ",
+       "vi": "họ, chúng, bọn họ, các chị ấy, các em ấy...",
+       "proper": false
+      },
+      {
+       "zh": "它们",
+       "pos": "đại từ",
+       "vi": "chúng (đại từ nhân xưng ngôi thứ ba số nhiều, chỉ vật)",
+       "proper": false
+      },
+      {
+       "zh": "晚",
+       "pos": "tính từ",
+       "vi": "muộn, trễ",
+       "proper": false
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "动态助词「了」（2）",
+     "explain": "Trợ từ động thái “了” (2) đứng sau động từ để biểu thị hành động đã xảy ra hoặc đã hoàn thành. Khi phủ định dùng “没”, bỏ “了”.",
+     "examples": [
+      "我看了一个电影。",
+      "我买了一个新电脑。",
+      "我昨天没去商店买东西。"
+     ]
+    },
+    {
+     "title": "离合词（1）",
+     "explain": "“上课, 下课, 上班, 下班, 说话, 读书, 睡觉, 看病, 生病”... là một loại cấu trúc động từ đặc biệt: khi hợp lại là từ, khi thêm thành phần khác vào giữa thì trở thành cụm từ nên gọi là từ li hợp.",
+     "examples": [
+      "睡了觉",
+      "睡了一觉",
+      "上了课",
+      "上中文课",
+      "下了班",
+      "生了病",
+      "说了话",
+      "说了很多话"
+     ]
+    },
+    {
+     "title": "范围副词「都」",
+     "explain": "Phó từ chỉ phạm vi “都” biểu thị toàn bộ, tất cả; đối tượng được bao quát đứng trước “都”. Khi phủ định, từ phủ định đứng sau “都”.",
+     "examples": [
+      "我们都会写了。",
+      "我和我的朋友们都去。",
+      "同学们都没听见。"
+     ]
+    }
+   ]
+  },
+  {
+   "no": 15,
+   "texts": [
+    {
+     "n": 1,
+     "scene": "在李文家，李文邀请陈天中、白家月等朋友品尝中餐。",
+     "sceneVi": "Lý Văn mời các bạn Trần Thiên Trung, Bạch Gia Nguyệt thưởng thức món ăn Trung Quốc tại nhà mình.",
+     "audioDialogue": "15-1",
+     "audioVocab": "15-2",
+     "dialogue": [
+      {
+       "sp": "李文",
+       "zh": "你们爱吃哪个菜？",
+       "vi": "Các bạn thích món ăn nào?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "我喜欢这个，也喜欢那个。",
+       "vi": "Mình thích món này, cũng thích món kia nữa."
+      },
+      {
+       "sp": "陈天中",
+       "zh": "这些菜都好吃，还很好看。",
+       "vi": "Những món ăn này đều ngon, còn rất đẹp mắt nữa."
+      },
+      {
+       "sp": "李文",
+       "zh": "我爱吃中国菜，也喜欢做。大家多吃点儿。",
+       "vi": "Mình thích ăn món Trung Quốc, cũng rất thích nấu nữa. Mọi người ăn nhiều một chút nhé."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "爱",
+       "pos": "động từ",
+       "vi": "thích, yêu thích",
+       "proper": false
+      },
+      {
+       "zh": "哪个",
+       "pos": "đại từ",
+       "vi": "cái nào, nào",
+       "proper": false
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "scene": "在李文家，大家边吃饭边谈论假期计划。",
+     "sceneVi": "Mọi người vừa ăn vừa thảo luận về kế hoạch kỳ nghỉ tại nhà Lý Văn.",
+     "audioDialogue": "15-3",
+     "audioVocab": "15-4",
+     "dialogue": [
+      {
+       "sp": "李文",
+       "zh": "你们都想去哪儿？",
+       "vi": "Các bạn đều muốn đi đâu vậy?"
+      },
+      {
+       "sp": "安妮",
+       "zh": "去年我和男朋友去了西安，今年我想去北京。",
+       "vi": "Năm ngoái mình và bạn trai đã đi Tây An, năm nay mình muốn đi Bắc Kinh."
+      },
+      {
+       "sp": "白家月",
+       "zh": "前几年我去了西安，非常好玩儿。今年我也想去北京。",
+       "vi": "Mấy năm trước mình đã đi Tây An, rất vui. Năm nay mình cũng muốn đi Bắc Kinh."
+      },
+      {
+       "sp": "李文",
+       "zh": "我和王老师都是北京人，北京非常漂亮。",
+       "vi": "Mình và cô Vương đều là người Bắc Kinh, Bắc Kinh rất đẹp."
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "去年",
+       "pos": "danh từ",
+       "vi": "năm ngoái",
+       "proper": false
+      },
+      {
+       "zh": "男朋友",
+       "pos": "danh từ",
+       "vi": "bạn trai, người yêu",
+       "proper": false
+      },
+      {
+       "zh": "几",
+       "pos": "số từ",
+       "vi": "vài, mấy",
+       "proper": false
+      },
+      {
+       "zh": "年",
+       "pos": "danh từ",
+       "vi": "năm",
+       "proper": false
+      },
+      {
+       "zh": "好玩儿",
+       "pos": "tính từ",
+       "vi": "vui, thích, thú vị",
+       "proper": false
+      },
+      {
+       "zh": "西安",
+       "pos": "danh từ riêng",
+       "vi": "Tây An",
+       "proper": true
+      },
+      {
+       "zh": "北京",
+       "pos": "danh từ riêng",
+       "vi": "Bắc Kinh",
+       "proper": true
+      }
+     ]
+    },
+    {
+     "n": 3,
+     "scene": "在教室外，白家月、安妮和王老师在谈论去北京旅游的事。",
+     "sceneVi": "Bạch Gia Nguyệt, Annie và cô Vương đang nói chuyện về việc đi du lịch Bắc Kinh ở bên ngoài lớp học.",
+     "audioDialogue": "15-5",
+     "audioVocab": "15-6",
+     "dialogue": [
+      {
+       "sp": "王一飞",
+       "zh": "你们的飞机到北京要几个小时？",
+       "vi": "Chuyến bay của các em đến Bắc Kinh mất mấy tiếng?"
+      },
+      {
+       "sp": "白家月",
+       "zh": "九个小时。",
+       "vi": "9 tiếng ạ."
+      },
+      {
+       "sp": "王一飞",
+       "zh": "我家人都在北京，星期天我姐姐也有时间，她可以去机场接你们，你们也可以住我家。",
+       "vi": "Người nhà cô đều ở Bắc Kinh, Chủ nhật chị gái cô cũng có thời gian, chị ấy có thể đi sân bay đón các em, các em cũng có thể ở nhà cô."
+      },
+      {
+       "sp": "安妮",
+       "zh": "我们星期日早上八点到大兴机场，早不早？",
+       "vi": "8 giờ sáng Chủ nhật chúng em đã đến sân bay Đại Hưng, có sớm không cô?"
+      },
+      {
+       "sp": "王一飞",
+       "zh": "不早。",
+       "vi": "Không sớm đâu."
+      },
+      {
+       "sp": "白家月",
+       "zh": "谢谢老师！那我们和您姐姐在大兴机场见！",
+       "vi": "Cảm ơn cô! Vậy chúng em hẹn gặp chị của cô ở sân bay Đại Hưng nhé!"
+      }
+     ],
+     "vocab": [
+      {
+       "zh": "飞机",
+       "pos": "danh từ",
+       "vi": "máy bay",
+       "proper": false
+      },
+      {
+       "zh": "要",
+       "pos": "động từ",
+       "vi": "cần, mất (thời gian)",
+       "proper": false
+      },
+      {
+       "zh": "小时",
+       "pos": "danh từ",
+       "vi": "tiếng đồng hồ, giờ",
+       "proper": false
+      },
+      {
+       "zh": "家人",
+       "pos": "danh từ",
+       "vi": "người nhà",
+       "proper": false
+      },
+      {
+       "zh": "时间",
+       "pos": "danh từ",
+       "vi": "thời gian",
+       "proper": false
+      },
+      {
+       "zh": "机场",
+       "pos": "danh từ",
+       "vi": "sân bay",
+       "proper": false
+      },
+      {
+       "zh": "接",
+       "pos": "động từ",
+       "vi": "đón, tiếp đón",
+       "proper": false
+      },
+      {
+       "zh": "住",
+       "pos": "động từ",
+       "vi": "ở",
+       "proper": false
+      },
+      {
+       "zh": "早",
+       "pos": "tính từ",
+       "vi": "sớm",
+       "proper": false
+      },
+      {
+       "zh": "那",
+       "pos": "liên từ",
+       "vi": "vậy thì, thế thì",
+       "proper": false
+      },
+      {
+       "zh": "大兴机场",
+       "pos": "danh từ riêng",
+       "vi": "sân bay Đại Hưng",
+       "proper": true
+      }
+     ]
+    }
+   ],
+   "grammar": [
+    {
+     "title": "并列复句「……，还/也……」",
+     "explain": "Câu ghép đẳng lập là câu được tạo bởi hai hay nhiều vế câu có liên quan về mặt logic và đối xứng với nhau về mặt cấu trúc. Sách giới thiệu câu ghép đẳng lập “……，还/也……”.",
+     "examples": [
+      "我喜欢这个，也喜欢那个。",
+      "王老师是北京人，李文也是北京人。",
+      "我喜欢喝中国茶，还喜欢吃中国菜。"
+     ]
+    }
+   ]
+  }
+ ]
+}

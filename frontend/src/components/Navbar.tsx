@@ -104,8 +104,9 @@ export const Navbar: React.FC<NavbarProps> = ({
       <header
         className="sticky top-0 z-40"
         style={{
-          background: 'rgb(8, 12, 24)',
-          borderBottom: '1px solid rgba(255,255,255,0.06)',
+          background: 'linear-gradient(180deg, rgb(11, 18, 32) 0%, rgb(8, 12, 24) 100%)',
+          borderBottom: '1px solid rgba(255,255,255,0.08)',
+          boxShadow: '0 1px 0 rgba(16,185,129,0.15), 0 10px 30px -18px rgba(0,0,0,0.8)',
         }}
       >
         <div className="max-w-7xl mx-auto px-3 sm:px-6 h-16 lg:h-auto lg:min-h-16 lg:py-2 flex items-center justify-between lg:flex-wrap gap-2 sm:gap-4 lg:gap-y-2">
@@ -253,102 +254,38 @@ export const Navbar: React.FC<NavbarProps> = ({
           </div>
 
           {/* ── Desktop Navigation Tabs ── */}
-          <nav
-            className="hidden lg:flex order-last basis-full max-w-full items-center justify-start xl:justify-center gap-0.5 p-1.5 rounded-2xl overflow-x-auto no-scrollbar"
-            style={{ background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.07)' }}
-          >
-            {/* Lộ Trình */}
-            <button
-              onClick={() => { playPopSound(); onChangeTab('learn'); }}
-              className={`nav-tab-btn shrink-0 whitespace-nowrap flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${activeTab === 'learn' ? 'active-tab' : ''}`}
-              style={activeTab === 'learn'
-                ? { background: 'linear-gradient(135deg,#10b981,#059669)', color: '#fff', boxShadow: '0 4px 14px rgba(16,185,129,0.35)' }
-                : { color: 'rgba(255,255,255,0.45)' }}
-            >
-              <BookOpen className="w-3.5 h-3.5" /> Lộ Trình
-            </button>
-
-            {currentLang === 'zh' && (
-              <button
-                onClick={() => { playPopSound(); onChangeTab('hsk-prep'); }}
-                className={`nav-tab-btn shrink-0 whitespace-nowrap flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${activeTab === 'hsk-prep' ? 'active-tab' : ''}`}
-                style={activeTab === 'hsk-prep'
-                  ? { background: 'linear-gradient(135deg,#f59e0b,#ef4444)', color: '#fff', boxShadow: '0 4px 14px rgba(245,158,11,0.35)' }
-                  : { color: '#fbbf24' }}
-              >
-                <GraduationCap className="w-3.5 h-3.5" /> Ôn Thi HSK 1-6
-              </button>
-            )}
-            {currentLang === 'en' && (
-              <button
-                onClick={() => { playPopSound(); onChangeTab('english-vocab'); }}
-                className={`nav-tab-btn shrink-0 whitespace-nowrap flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${activeTab === 'english-vocab' ? 'active-tab' : ''}`}
-                style={activeTab === 'english-vocab'
-                  ? { background: 'linear-gradient(135deg,#10b981,#0ea5e9)', color: '#fff', boxShadow: '0 4px 14px rgba(16,185,129,0.35)' }
-                  : { color: '#34d399' }}
-              >
-                <GraduationCap className="w-3.5 h-3.5" /> Từ Vựng A1-C1
-              </button>
-            )}
-            {(currentLang === 'zh' || currentLang === 'en') && (
-              <button
-                onClick={() => { playPopSound(); onChangeTab('study'); }}
-                className={`nav-tab-btn shrink-0 whitespace-nowrap flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${activeTab === 'study' ? 'active-tab' : ''}`}
-                style={activeTab === 'study'
-                  ? { background: 'linear-gradient(135deg,#38bdf8,#818cf8)', color: '#fff', boxShadow: '0 4px 14px rgba(99,102,241,0.35)' }
-                  : { color: '#38bdf8' }}
-              >
-                <GraduationCap className="w-3.5 h-3.5" /> Ôn Luyện & Đề Thi
-              </button>
-            )}
-            <button
-              onClick={() => { playPopSound(); onChangeTab('speaking'); }}
-              className={`nav-tab-btn shrink-0 whitespace-nowrap flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${activeTab === 'speaking' ? 'active-tab' : ''}`}
-              style={activeTab === 'speaking'
-                ? { background: 'linear-gradient(135deg,#3b82f6,#1d4ed8)', color: '#fff', boxShadow: '0 4px 14px rgba(59,130,246,0.35)' }
-                : { color: 'rgba(255,255,255,0.45)' }}
-            >
-              <Volume2 className="w-3.5 h-3.5" /> Luyện Phát Âm AI
-            </button>
-            <button
-              onClick={() => { playPopSound(); onChangeTab('roleplay'); }}
-              className={`nav-tab-btn shrink-0 whitespace-nowrap flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${activeTab === 'roleplay' ? 'active-tab' : ''}`}
-              style={activeTab === 'roleplay'
-                ? { background: 'linear-gradient(135deg,#a855f7,#7c3aed)', color: '#fff', boxShadow: '0 4px 14px rgba(168,85,247,0.35)' }
-                : { color: 'rgba(255,255,255,0.45)' }}
-            >
-              <MessagesSquare className="w-3.5 h-3.5" /> Hội Thoại 1-1
-            </button>
-            {currentLang === 'zh' && (
-              <button
-                onClick={() => { playPopSound(); onChangeTab('pinyin'); }}
-                className={`nav-tab-btn shrink-0 whitespace-nowrap flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${activeTab === 'pinyin' ? 'active-tab' : ''}`}
-                style={activeTab === 'pinyin'
-                  ? { background: 'linear-gradient(135deg,#f59e0b,#d97706)', color: '#fff', boxShadow: '0 4px 14px rgba(245,158,11,0.35)' }
-                  : { color: 'rgba(255,255,255,0.45)' }}
-              >
-                <Compass className="w-3.5 h-3.5" /> Pinyin 4 Thanh
-              </button>
-            )}
-            <button
-              onClick={() => { playPopSound(); onChangeTab('dictionary'); }}
-              className={`nav-tab-btn shrink-0 whitespace-nowrap flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${activeTab === 'dictionary' ? 'active-tab' : ''}`}
-              style={activeTab === 'dictionary'
-                ? { background: 'linear-gradient(135deg,#14b8a6,#0891b2)', color: '#fff', boxShadow: '0 4px 14px rgba(20,184,166,0.35)' }
-                : { color: 'rgba(255,255,255,0.45)' }}
-            >
-              <BookMarked className="w-3.5 h-3.5" />
-              {currentLang === 'zh' ? 'Tra Cứu & Bộ Thủ' : 'Từ Điển & Nguồn Gốc'}
-            </button>
-            {!FREE_MODE && <button
-              onClick={() => { playPopSound(); onChangeTab('pricing'); }}
-              className={`nav-tab-btn shrink-0 whitespace-nowrap flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${activeTab === 'pricing' ? 'active-tab' : ''}`}
-              style={activeTab === 'pricing'
-                ? { background: 'linear-gradient(135deg,#f59e0b,#eab308)', color: '#0a0f1e', boxShadow: '0 4px 14px rgba(245,158,11,0.35)' }
-                : { color: '#fbbf24' }}
-            >
-              <ShoppingBag className="w-3.5 h-3.5" /> Khoá Học & Bảng Giá
-            </button>}
+          <nav className="hidden lg:flex order-last basis-full max-w-full items-center justify-start xl:justify-center gap-1 overflow-x-auto no-scrollbar border-t border-white/[0.06] pt-1">
+            {([
+              { tab: 'learn', label: 'Lộ Trình', icon: BookOpen, show: true },
+              { tab: 'hsk-prep', label: 'Ôn Thi HSK 1-6', icon: GraduationCap, show: currentLang === 'zh' },
+              { tab: 'english-vocab', label: 'Từ Vựng A1-C1', icon: GraduationCap, show: currentLang === 'en' },
+              { tab: 'study', label: 'Ôn Luyện & Đề Thi', icon: GraduationCap, show: currentLang === 'zh' || currentLang === 'en' },
+              { tab: 'speaking', label: 'Luyện Phát Âm AI', icon: Volume2, show: true },
+              { tab: 'roleplay', label: 'Hội Thoại 1-1', icon: MessagesSquare, show: true },
+              { tab: 'pinyin', label: 'Pinyin 4 Thanh', icon: Compass, show: currentLang === 'zh' },
+              { tab: 'dictionary', label: currentLang === 'zh' ? 'Tra Cứu & Bộ Thủ' : 'Từ Điển & Nguồn Gốc', icon: BookMarked, show: true },
+              { tab: 'pricing', label: 'Khoá Học & Bảng Giá', icon: ShoppingBag, show: !FREE_MODE, accent: true },
+            ] as { tab: AppNavTab; label: string; icon: React.ElementType; show: boolean; accent?: boolean }[])
+              .filter((t) => t.show)
+              .map(({ tab, label, icon: Icon, accent }) => {
+                const active = activeTab === tab;
+                return (
+                  <button
+                    key={tab}
+                    onClick={() => { playPopSound(); onChangeTab(tab); }}
+                    className={`group relative shrink-0 whitespace-nowrap flex items-center gap-1.5 px-3.5 py-2.5 text-[13px] font-bold transition-colors cursor-pointer ${
+                      active ? 'text-white' : accent ? 'text-amber-300 hover:text-amber-200' : 'text-slate-400 hover:text-white'
+                    }`}
+                  >
+                    <Icon className={`w-4 h-4 ${active ? 'text-emerald-400' : ''}`} /> {label}
+                    <span
+                      className={`absolute inset-x-3 -bottom-px h-[3px] rounded-full bg-gradient-to-r from-emerald-400 to-sky-400 transition-opacity ${
+                        active ? 'opacity-100' : 'opacity-0 group-hover:opacity-40'
+                      }`}
+                    />
+                  </button>
+                );
+              })}
           </nav>
 
           {/* ── Gamification Stats & Auth ── */}
