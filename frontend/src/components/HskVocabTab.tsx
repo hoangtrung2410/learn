@@ -29,7 +29,7 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
   const [selectedLevel, setSelectedLevel] = useState<number>(1);
   const locked = !hasScope(zhLevelScope(selectedLevel));
   const [searchQuery, setSearchQuery] = useState('');
-  const [viewMode, setViewMode] = useState<'list' | 'flashcard'>('list');
+  const [viewMode, setViewMode] = useState<'list' | 'flashcard'>(() => (typeof window !== 'undefined' && window.innerWidth < 640 ? 'flashcard' : 'list'));
   const [flashcardIdx, setFlashcardIdx] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
   const [allVocab, setAllVocab] = useState<HskVocabItem[]>(HSK_VOCABULARY_LIST);

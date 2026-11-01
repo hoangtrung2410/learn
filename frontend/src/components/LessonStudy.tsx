@@ -41,6 +41,9 @@ export const LessonStudy: React.FC<Props> = ({ lesson, currentLang, onClose, onS
   const [tab, setTab] = useState<Tab>('text');
   const [showPy, setShowPy] = useState(true);
   const [showVi, setShowVi] = useState(true);
+  const [vi, setVi] = useState(0);
+  const allVocab = study.texts.flatMap((t) => t.vocab);
+  const cur = allVocab[Math.min(vi, allVocab.length - 1)];
   const nVocab = study.texts.reduce((n, t) => n + t.vocab.length, 0);
 
   const speak = (zh: string) => void speakNativeText(zh, currentLang);
@@ -57,15 +60,15 @@ export const LessonStudy: React.FC<Props> = ({ lesson, currentLang, onClose, onS
           <button onClick={onClose} aria-label="Đóng" className="rounded-xl p-1.5 text-slate-400 hover:bg-slate-800 hover:text-white"><X className="h-5 w-5" /></button>
         </div>
 
-        <div className="flex items-center gap-1 border-b border-slate-800 px-3 pt-2">
+        <div className="flex flex-wrap items-center gap-x-1 border-b border-slate-800 px-3 pt-2">
           {(([['text', 'Bài khoá'], ['vocab', 'Từ mới'], ['grammar', 'Ngữ pháp']] as [Tab, string][]).concat(lesson.sbt ? [['sbt', 'Sổ tay'] as [Tab, string]] : [])).map(([k, label]) => (
-            <button key={k} onClick={() => setTab(k)} className={`relative px-4 py-2.5 text-sm font-bold ${tab === k ? 'text-white' : 'text-slate-400 hover:text-slate-200'}`}>
+            <button key={k} onClick={() => setTab(k)} className={`relative whitespace-nowrap px-3 py-2.5 text-sm font-bold sm:px-4 ${tab === k ? 'text-white' : 'text-slate-400 hover:text-slate-200'}`}>
               {label}
               <span className={`absolute inset-x-3 -bottom-px h-[3px] rounded-full bg-gradient-to-r from-emerald-400 to-sky-400 ${tab === k ? 'opacity-100' : 'opacity-0'}`} />
             </button>
           ))}
           {tab === 'text' && (
-            <div className="ml-auto flex items-center gap-1.5 pb-1.5">
+            <div className="flex w-full items-center justify-end gap-1.5 pb-1.5 sm:ml-auto sm:w-auto">
               <button onClick={() => setShowPy(!showPy)} className="inline-flex items-center gap-1 rounded-lg bg-slate-800 px-2 py-1 text-[11px] font-bold text-slate-300 hover:bg-slate-700">{showPy ? <Eye className="h-3 w-3" /> : <EyeOff className="h-3 w-3" />} Pinyin</button>
               <button onClick={() => setShowVi(!showVi)} className="inline-flex items-center gap-1 rounded-lg bg-slate-800 px-2 py-1 text-[11px] font-bold text-slate-300 hover:bg-slate-700"><Languages className="h-3 w-3" /> {showVi ? 'Ẩn dịch' : 'Hiện dịch'}</button>
             </div>
@@ -102,8 +105,27 @@ export const LessonStudy: React.FC<Props> = ({ lesson, currentLang, onClose, onS
             </section>
           ))}
 
+          {tab === 'vocab' && cur && (
+            <div className="sm:hidden">
+              <div className="mb-2 flex items-center justify-between text-xs font-bold text-slate-400">
+                <span>Từ {Math.min(vi, allVocab.length - 1) + 1} / {allVocab.length}</span>
+                <span className="rounded-full bg-slate-800 px-2 py-0.5">{cur.proper ? 'Danh từ riêng' : cur.pos}</span>
+              </div>
+              <button onClick={() => speak(cur.zh)} className="flex w-full flex-col items-center rounded-3xl border border-slate-700 bg-slate-950/60 px-4 py-10 text-center">
+                <span className="font-chinese text-6xl font-black text-white">{cur.zh}</span>
+                <span className="mt-3 text-xl font-semibold text-blue-300">{toPinyin(cur.zh)}</span>
+                <span className="mt-4 text-base text-slate-200">{cur.vi}</span>
+                <span className="mt-5 inline-flex items-center gap-1 text-xs text-slate-500"><Volume2 className="h-4 w-4" /> Chạm để nghe</span>
+              </button>
+              <div className="mt-4 flex gap-3">
+                <button disabled={vi === 0} onClick={() => setVi(vi - 1)} className="flex-1 rounded-2xl bg-slate-800 py-3 text-sm font-bold text-slate-200 disabled:opacity-40">← Từ trước</button>
+                <button disabled={vi >= allVocab.length - 1} onClick={() => { setVi(vi + 1); }} className="btn-tactile-green flex-1 rounded-2xl py-3 text-sm font-extrabold text-slate-950 disabled:opacity-40">Từ tiếp →</button>
+              </div>
+            </div>
+          )}
+
           {tab === 'vocab' && study.texts.map((t) => (
-            <section key={t.n}>
+            <section key={t.n} className="hidden sm:block">
               <div className="mb-2 flex flex-wrap items-center justify-between gap-2">
                 <h3 className="text-sm font-black text-emerald-300">Từ mới · Bài khoá {t.n}</h3>
                 <BookAudio src={audioUrl(study.book, study.no, t.audioVocab)} label="Nghe từ mới" />

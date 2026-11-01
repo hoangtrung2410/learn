@@ -52,7 +52,7 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
   const [selectedTopic, setSelectedTopic] = useState('Tất cả');
   const [selectedLevel, setSelectedLevel] = useState<string>('Tất cả');
   const [searchQuery, setSearchQuery] = useState('');
-  const [viewMode, setViewMode] = useState<'list' | 'flashcard' | 'quiz'>('list');
+  const [viewMode, setViewMode] = useState<'list' | 'flashcard' | 'quiz'>(() => (typeof window !== 'undefined' && window.innerWidth < 640 ? 'flashcard' : 'list'));
 
   // Flashcard state
   const [flashcardIdx, setFlashcardIdx] = useState(0);

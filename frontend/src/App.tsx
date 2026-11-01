@@ -291,19 +291,19 @@ export default function App() {
       <footer className="relative mt-8 overflow-hidden border-t border-white/10 bg-[#070b16]">
         <div className="pointer-events-none absolute -bottom-24 left-1/2 h-64 w-[40rem] -translate-x-1/2 rounded-full bg-emerald-500/10 blur-[100px]" />
         <div className="pointer-events-none absolute -right-4 -top-10 select-none font-chinese text-[14rem] font-black leading-none text-white/[0.03]">学</div>
-        <div className="relative mx-auto grid max-w-6xl gap-10 px-4 py-12 sm:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr_1fr]">
-          <div>
+        <div className="relative mx-auto grid max-w-6xl grid-cols-2 gap-x-4 gap-y-6 px-4 py-6 sm:gap-10 sm:py-12 lg:grid-cols-[1.4fr_1fr_1fr_1fr]">
+          <div className="col-span-2 lg:col-span-1">
             <div className="flex items-center gap-2.5">
               <span className="flex h-10 w-10 items-center justify-center rounded-2xl bg-gradient-to-br from-emerald-500 to-sky-500 text-xl shadow-[0_0_20px_rgba(16,185,129,0.4)]">🐼</span>
               <span className="text-lg font-black tracking-tight text-white">LinguaHub</span>
             </div>
-            <p className="mt-4 max-w-xs text-sm leading-relaxed text-slate-400">
+            <p className="mt-2 max-w-xs text-xs leading-relaxed text-slate-400 sm:mt-4 sm:text-sm">
               Học tiếng Trung theo Giáo trình New HSK 1–3, thêm tiếng Anh, flashcard, luyện đề và AI chấm phát âm.
             </p>
           </div>
           <nav aria-label="Học" className="text-sm">
             <div className="text-xs font-bold uppercase tracking-widest text-slate-500">Học</div>
-            <ul className="mt-4 space-y-2.5 text-slate-300">
+            <ul className="mt-2 space-y-1.5 text-slate-300 sm:mt-4 sm:space-y-2.5">
               <li><button onClick={() => changeTab('learn')} className="hover:text-emerald-300 cursor-pointer">Lộ trình HSK</button></li>
               <li><button onClick={() => changeTab('study')} className="hover:text-emerald-300 cursor-pointer">Flashcard & đề thi</button></li>
               <li><button onClick={() => changeTab('pinyin')} className="hover:text-emerald-300 cursor-pointer">Pinyin 4 thanh</button></li>
@@ -311,7 +311,7 @@ export default function App() {
           </nav>
           <nav aria-label="Luyện với AI" className="text-sm">
             <div className="text-xs font-bold uppercase tracking-widest text-slate-500">Luyện với AI</div>
-            <ul className="mt-4 space-y-2.5 text-slate-300">
+            <ul className="mt-2 space-y-1.5 text-slate-300 sm:mt-4 sm:space-y-2.5">
               <li><button onClick={() => changeTab('speaking')} className="hover:text-emerald-300 cursor-pointer">Chấm phát âm</button></li>
               <li><button onClick={() => changeTab('roleplay')} className="hover:text-emerald-300 cursor-pointer">Hội thoại 1-1</button></li>
               <li><button onClick={() => changeTab('dictionary')} className="hover:text-emerald-300 cursor-pointer">Tra cứu từ</button></li>
@@ -319,7 +319,7 @@ export default function App() {
           </nav>
           {!FREE_MODE && <nav aria-label="Liên kết chân trang" className="text-sm">
             <div className="text-xs font-bold uppercase tracking-widest text-slate-500">Hỗ trợ</div>
-            <ul className="mt-4 space-y-2.5 text-slate-300">
+            <ul className="mt-2 space-y-1.5 text-slate-300 sm:mt-4 sm:space-y-2.5">
               <li><button onClick={() => changeTab('pricing')} className="hover:text-emerald-300 cursor-pointer">Bảng giá</button></li>
               <li><button onClick={() => { setLegalPage('terms'); changeTab('legal'); }} className="hover:text-emerald-300 cursor-pointer">Điều khoản</button></li>
               <li><button onClick={() => { setLegalPage('privacy'); changeTab('legal'); }} className="hover:text-emerald-300 cursor-pointer">Bảo mật</button></li>
@@ -327,7 +327,7 @@ export default function App() {
             </ul>
           </nav>}
         </div>
-        <div className="relative border-t border-white/[0.06] px-4 py-5 text-center text-xs text-slate-500">
+        <div className="relative border-t border-white/[0.06] px-4 py-3 text-center text-[11px] text-slate-500 sm:py-5 sm:text-xs">
           © {new Date().getFullYear()} LinguaHub AI · Nền tảng học Tiếng Trung & Ngoại ngữ tương tác
         </div>
       </footer>
