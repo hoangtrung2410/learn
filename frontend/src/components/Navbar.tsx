@@ -19,12 +19,13 @@ import {
   GraduationCap,
   Type,
   Sparkles,
+  Gamepad2,
 } from 'lucide-react';
 import { FREE_MODE } from '../lib/api';
 import { CLOUD_AUTH } from '../lib/cloud';
 import { playPopSound } from '../utils/audio';
 
-export type AppNavTab = 'home' | 'learn' | 'study' | 'hsk-prep' | 'english-vocab' | 'speaking' | 'roleplay' | 'pinyin' | 'pricing' | 'dictionary' | 'account' | 'admin' | 'legal';
+export type AppNavTab = 'home' | 'learn' | 'study' | 'hsk-prep' | 'english-vocab' | 'speaking' | 'roleplay' | 'pinyin' | 'pricing' | 'dictionary' | 'games' | 'account' | 'admin' | 'legal';
 
 interface NavbarProps {
   currentLang: LanguageCode;
@@ -263,6 +264,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               { tab: 'speaking', label: 'Luyện Phát Âm AI', icon: Volume2, show: true },
               { tab: 'roleplay', label: 'Hội Thoại 1-1', icon: MessagesSquare, show: true },
               { tab: 'pinyin', label: 'Pinyin 4 Thanh', icon: Compass, show: currentLang === 'zh' },
+              { tab: 'games', label: 'Trò Chơi', icon: Gamepad2, show: true },
               { tab: 'dictionary', label: currentLang === 'zh' ? 'Tra Cứu & Bộ Thủ' : 'Từ Điển & Nguồn Gốc', icon: BookMarked, show: true },
               { tab: 'pricing', label: 'Khoá Học & Bảng Giá', icon: ShoppingBag, show: !FREE_MODE, accent: true },
             ] as { tab: AppNavTab; label: string; icon: React.ElementType; show: boolean; accent?: boolean }[])
@@ -478,6 +480,9 @@ export const Navbar: React.FC<NavbarProps> = ({
               Pinyin
             </button>
           )}
+          <button onClick={() => onChangeTab('games')} className={`px-3 py-1.5 rounded-xl font-bold flex items-center gap-1 whitespace-nowrap transition-all ${activeTab === 'games' ? 'bg-emerald-600 text-white' : 'text-slate-400'}`}>
+            <Gamepad2 className="w-3.5 h-3.5" /> Trò Chơi
+          </button>
           <button onClick={() => onChangeTab('dictionary')} className={`px-3 py-1.5 rounded-xl font-bold flex items-center gap-1 whitespace-nowrap transition-all ${activeTab === 'dictionary' ? 'bg-teal-600 text-white' : 'text-slate-400'}`}>
             {currentLang === 'zh' ? 'Tra Cứu' : 'Từ Điển'}
           </button>

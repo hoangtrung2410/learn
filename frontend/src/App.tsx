@@ -25,6 +25,7 @@ const LegalView = lazy(() => import('./components/LegalView').then((m) => ({ def
 const DictionaryView = lazy(() => import('./components/DictionaryView').then((m) => ({ default: m.DictionaryView })));
 const HskExamHubView = lazy(() => import('./components/HskExamHubView').then((m) => ({ default: m.HskExamHubView })));
 const EnglishVocabHubView = lazy(() => import('./components/EnglishVocabHubView').then((m) => ({ default: m.EnglishVocabHubView })));
+const GamesView = lazy(() => import('./components/GamesView').then((m) => ({ default: m.GamesView })));
 const StudyCenterView = lazy(() => import('./components/StudyCenterView').then((m) => ({ default: m.StudyCenterView })));
 
 export default function App() {
@@ -217,6 +218,8 @@ export default function App() {
           />
         )}
 
+        {activeTab === 'games' && <GamesView onAddXp={handleAddXp} />}
+
         {activeTab === 'study' && (
           <StudyCenterView currentLang={currentLang} onAddXp={handleAddXp} />
         )}
@@ -307,6 +310,7 @@ export default function App() {
               <li><button onClick={() => changeTab('learn')} className="hover:text-emerald-300 cursor-pointer">Lộ trình HSK</button></li>
               <li><button onClick={() => changeTab('study')} className="hover:text-emerald-300 cursor-pointer">Flashcard & đề thi</button></li>
               <li><button onClick={() => changeTab('pinyin')} className="hover:text-emerald-300 cursor-pointer">Pinyin 4 thanh</button></li>
+              <li><button onClick={() => changeTab('games')} className="hover:text-emerald-300 cursor-pointer">Trò chơi ôn từ</button></li>
             </ul>
           </nav>
           <nav aria-label="Luyện với AI" className="text-sm">
