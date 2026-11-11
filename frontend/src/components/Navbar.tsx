@@ -428,17 +428,17 @@ export const Navbar: React.FC<NavbarProps> = ({
                           style={{ color: '#fbbf24' }}
                         >
                           <Crown className="w-4 h-4 text-amber-400" />
-                          Quản trị bán hàng
+                          {FREE_MODE ? 'Quản trị' : 'Quản trị bán hàng'}
                         </button>
                       )}
 
-                      {!FREE_MODE && <button
+                      {(!FREE_MODE || CLOUD_AUTH) && <button
                         onClick={() => { playPopSound(); setUserMenuOpen(false); onChangeTab('account'); }}
                         className="w-full flex items-center gap-2 px-3 py-2 rounded-xl text-left text-xs transition-colors cursor-pointer hover:bg-white/5"
                         style={{ color: 'rgba(255,255,255,0.6)' }}
                       >
                         <Shield className="w-4 h-4 text-purple-400" />
-                        Tài khoản & đơn hàng
+                        {FREE_MODE ? 'Tài khoản & mật khẩu' : 'Tài khoản & đơn hàng'}
                       </button>}
 
                       <button

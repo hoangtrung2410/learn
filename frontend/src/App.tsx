@@ -21,6 +21,7 @@ const PricingView = lazy(() => import('./components/PricingView').then((m) => ({
 const HomeView = lazy(() => import('./components/HomeView').then((m) => ({ default: m.HomeView })));
 const AccountView = lazy(() => import('./components/AccountView').then((m) => ({ default: m.AccountView })));
 const AdminView = lazy(() => import('./components/AdminView').then((m) => ({ default: m.AdminView })));
+const CloudAccountView = lazy(() => import('./components/CloudAccountView').then((m) => ({ default: m.CloudAccountView })));
 const CloudAdminView = lazy(() => import('./components/CloudAdminView').then((m) => ({ default: m.CloudAdminView })));
 const LegalView = lazy(() => import('./components/LegalView').then((m) => ({ default: m.LegalView })));
 const DictionaryView = lazy(() => import('./components/DictionaryView').then((m) => ({ default: m.DictionaryView })));
@@ -247,7 +248,7 @@ export default function App() {
 
         {activeTab === 'pricing' && <PricingView onBuy={handleBuy} highlight={pricingHighlight} />}
 
-        {activeTab === 'account' && <AccountView />}
+        {activeTab === 'account' && (CLOUD_AUTH ? <CloudAccountView /> : <AccountView />)}
 
         {activeTab === 'admin' && (isAdmin ? (CLOUD_AUTH ? <CloudAdminView /> : <AdminView />) : <div className="py-24 text-center text-sm text-slate-400">Bạn không có quyền truy cập trang này.</div>)}
 
