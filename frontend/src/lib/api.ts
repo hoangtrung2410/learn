@@ -4,6 +4,16 @@ const TOKEN_KEY = 'lp_token';
 /** Bản tĩnh miễn phí (không có backend). */
 export const FREE_MODE: boolean = typeof __FREE_MODE__ !== 'undefined' && __FREE_MODE__;
 
+/** Bản miễn phí có Supabase: AI chạy qua các hàm /api trên Vercel, xác thực bằng token Supabase. */
+const ENV = import.meta.env as Record<string, any>;
+export const FREE_AI: boolean = FREE_MODE && !!ENV.VITE_SUPABASE_URL && !!ENV.VITE_SUPABASE_ANON_KEY;
+
+// Token đăng nhập Supabase hiện tại; cloud.ts cập nhật mỗi khi phiên thay đổi hoặc được làm mới.
+let cloudToken: string | null = null;
+export const setCloudToken = (t: string | null) => {
+  cloudToken = t;
+};
+
 export const getToken = (): string | null => {
   try {
     return localStorage.getItem(TOKEN_KEY);
@@ -31,7 +41,7 @@ export class ApiError extends Error {
 
 /** Header Authorization cho các lệnh fetch viết tay (ví dụ luồng SSE). */
 export const authHeaders = (extra: Record<string, string> = {}): Record<string, string> => {
-  const t = getToken();
+  const t = getToken() || cloudToken;
   return { ...extra, ...(t ? { Authorization: `Bearer ${t}` } : {}) };
 };
 
@@ -71,7 +81,7 @@ export const formatDateTime = (ms: number | null | undefined): string =>
 
 /** Gọi API AI: tự gắn token; 401 mở khung đăng nhập, 429 báo hết lượt trong ngày. */
 export async function aiFetch(path: string, body: unknown, signal?: AbortSignal): Promise<Response> {
-  if (FREE_MODE) throw new ApiError('Tính năng AI chưa bật ở bản miễn phí. Các phần ôn luyện khác vẫn dùng đầy đủ.', 0);
+  if (FREE_MODE && !FREE_AI) throw new ApiError('Tính năng AI chưa bật ở bản miễn phí. Các phần ôn luyện khác vẫn dùng đầy đủ.', 0);
   const res = await fetch(path, {
     method: 'POST',
     headers: authHeaders({ 'Content-Type': 'application/json' }),

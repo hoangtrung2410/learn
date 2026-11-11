@@ -1,5 +1,5 @@
 import type { User } from '../types';
-import { FREE_MODE } from './api';
+import { FREE_MODE, setCloudToken } from './api';
 
 // Đăng nhập + đồng bộ tiến độ cho bản miễn phí (không có backend riêng): dùng Supabase.
 // Bản thử trên máy (npm run dev -- --mode free, đặt VITE_FAKE_AUTH=1) dùng đăng nhập giả lưu trong trình duyệt.
@@ -88,6 +88,7 @@ async function makeSupabase(): Promise<CloudProvider> {
   return {
     async getUser() {
       const { data } = await sb.auth.getSession();
+      setCloudToken(data.session?.access_token ?? null);
       return data.session?.user ? map(data.session.user) : null;
     },
     async signUp(email, password, name) {
@@ -98,6 +99,7 @@ async function makeSupabase(): Promise<CloudProvider> {
     async signIn(email, password) {
       const { data, error } = await sb.auth.signInWithPassword({ email, password });
       if (error) throw error;
+      setCloudToken(data.session?.access_token ?? null);
       return map(data.user);
     },
     async sendLoginLink(email) {
@@ -115,7 +117,10 @@ async function makeSupabase(): Promise<CloudProvider> {
       await sb.auth.signOut();
     },
     onChange(cb) {
-      const { data } = sb.auth.onAuthStateChange((_evt, session) => {
+      const { data } = sb.auth.onAuthStateChange((evt, session) => {
+        setCloudToken(session?.access_token ?? null);
+        // Làm mới token không đổi người dùng: không cần tải lại vai trò.
+        if (evt === 'TOKEN_REFRESHED') return;
         // Gọi Supabase ngay trong callback có thể treo, nên tách ra lượt sau.
         if (!session?.user) return cb(null);
         const u = session.user;

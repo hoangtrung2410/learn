@@ -89,3 +89,41 @@ revoke execute on function public.admin_set_admin(text, boolean) from anon, publ
 grant execute on function public.is_admin() to authenticated;
 grant execute on function public.admin_list_users() to authenticated;
 grant execute on function public.admin_set_admin(text, boolean) to authenticated;
+
+-- ===== Lượt AI mỗi ngày (bản miễn phí, hàm AI chạy trên Vercel) =====
+create table if not exists public.ai_usage (
+  user_id uuid not null references auth.users (id) on delete cascade,
+  day date not null,
+  kind text not null,
+  count int not null default 0,
+  primary key (user_id, day, kind)
+);
+alter table public.ai_usage enable row level security;
+
+drop policy if exists "xem lượt AI của mình" on public.ai_usage;
+create policy "xem lượt AI của mình" on public.ai_usage
+  for select using (auth.uid() = user_id);
+
+-- Tăng lượt dùng hôm nay (giờ Việt Nam) và trả về còn trong hạn mức hay không. Quản trị viên không giới hạn.
+-- Người dùng gọi thẳng hàm này cũng chỉ tự tiêu lượt của mình; hạn mức thật do máy chủ truyền vào.
+create or replace function public.consume_ai(p_kind text, p_limit int) returns boolean
+language plpgsql security definer set search_path = public as $$
+declare
+  n int;
+begin
+  if auth.uid() is null then
+    return false;
+  end if;
+  if public.is_admin() then
+    return true;
+  end if;
+  insert into public.ai_usage (user_id, day, kind, count)
+  values (auth.uid(), (now() at time zone 'Asia/Ho_Chi_Minh')::date, p_kind, 1)
+  on conflict (user_id, day, kind) do update set count = public.ai_usage.count + 1
+  returning count into n;
+  return n <= p_limit;
+end;
+$$;
+
+revoke execute on function public.consume_ai(text, int) from anon, public;
+grant execute on function public.consume_ai(text, int) to authenticated;
