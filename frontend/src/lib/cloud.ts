@@ -23,6 +23,8 @@ interface CloudProvider {
   getUser(): Promise<User | null>;
   signUp(email: string, password: string, name: string): Promise<{ user: User | null; needsConfirm: boolean }>;
   signIn(email: string, password: string): Promise<User>;
+  /** Gửi link đăng nhập (không cần mật khẩu); lần đầu dùng sẽ tự tạo tài khoản. */
+  sendLoginLink(email: string): Promise<void>;
   signOut(): Promise<void>;
   onChange(cb: (u: User | null) => void): () => void;
   loadProgress(userId: string): Promise<Progress | null>;
@@ -95,6 +97,13 @@ async function makeSupabase(): Promise<CloudProvider> {
       const { data, error } = await sb.auth.signInWithPassword({ email, password });
       if (error) throw error;
       return map(data.user);
+    },
+    async sendLoginLink(email) {
+      const { error } = await sb.auth.signInWithOtp({
+        email,
+        options: { shouldCreateUser: true, emailRedirectTo: window.location.origin },
+      });
+      if (error) throw error;
     },
     async signOut() {
       await sb.auth.signOut();
@@ -180,6 +189,9 @@ function makeFake(): CloudProvider {
       const u = toUser(rec.id, email, rec.name);
       notify(u);
       return u;
+    },
+    async sendLoginLink() {
+      throw new Error('Đăng nhập giả không gửi được email.');
     },
     async signOut() {
       localStorage.removeItem('fake_session');

@@ -127,6 +127,22 @@ export const AuthModal: React.FC<AuthModalProps> = ({ isOpen, onClose, initialTa
     }
   };
 
+  const sendLink = async () => {
+    setError(null);
+    setSuccess(null);
+    const mail = email.trim().toLowerCase();
+    if (!EMAIL_RE.test(mail)) return setError('Nhập email trước, rồi bấm gửi link.');
+    setLoading(true);
+    try {
+      await (await getCloud()).sendLoginLink(mail);
+      setSuccess(`Đã gửi link đăng nhập tới ${mail}. Mở email và bấm vào link là vào thẳng, không cần mật khẩu.`);
+    } catch (err: any) {
+      setError(cloudErrorMessage(err));
+    } finally {
+      setLoading(false);
+    }
+  };
+
   const switchTab = (t: 'login' | 'register') => {
     playPopSound();
     setTab(t);
@@ -238,10 +254,16 @@ export const AuthModal: React.FC<AuthModalProps> = ({ isOpen, onClose, initialTa
           <button type="submit" disabled={loading} className="w-full py-3 rounded-xl bg-purple-600 hover:bg-purple-500 disabled:opacity-60 text-white font-bold text-sm shadow-lg shadow-purple-600/30 transition-all flex items-center justify-center gap-2 cursor-pointer">
             {loading ? <span className="animate-pulse">Đang xử lý...</span> : (<><span>{tab === 'login' ? 'Đăng nhập' : 'Hoàn tất đăng ký'}</span><ArrowRight className="w-4 h-4" /></>)}
           </button>
+
+          {CLOUD_AUTH && tab === 'login' && (
+            <button type="button" onClick={sendLink} disabled={loading} className="w-full py-2.5 rounded-xl bg-slate-800 hover:bg-slate-700 border border-slate-700 disabled:opacity-60 text-slate-200 font-bold text-sm transition-colors flex items-center justify-center gap-2 cursor-pointer">
+              <Mail className="w-4 h-4" /> Gửi link đăng nhập qua email (không cần mật khẩu)
+            </button>
+          )}
         </form>
 
         <p className="text-[11px] text-slate-500 text-center">
-          Quên mật khẩu? Liên hệ hỗ trợ để được cấp lại mật khẩu tạm.
+          {CLOUD_AUTH ? 'Quên mật khẩu hoặc chưa có tài khoản? Dùng link đăng nhập qua email.' : 'Quên mật khẩu? Liên hệ hỗ trợ để được cấp lại mật khẩu tạm.'}
         </p>
       </div>
     </div>
