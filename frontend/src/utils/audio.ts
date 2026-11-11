@@ -155,6 +155,12 @@ export function playToneFrequency(tone: number) {
   }
 }
 
+const NOVELTY_VOICES =
+  /Bad News|Bahh|Bells|Boing|Bubbles|Cellos|Good News|Jester|Organ|Superstar|Trinoids|Whisper|Wobble|Zarvox|Albert|Fred|Junior|Ralph|Kathy|Grandma|Grandpa|Rocko|Shelley|Eddy|Flo|Reed|Sandy/;
+
+// Câu đang chờ đọc (sau nhịp chờ ngắn); dừng đọc thì huỷ và kết thúc lời hứa của nó.
+let pendingSpeak: { timer: number; done: () => void } | null = null;
+
 // Browser native Speech Synthesis
 export function speakWithBrowser(text: string, lang: LanguageCode, rate = 1.0): Promise<void> {
   return new Promise((resolve) => {
@@ -163,6 +169,11 @@ export function speakWithBrowser(text: string, lang: LanguageCode, rate = 1.0): 
       return;
     }
 
+    if (pendingSpeak) {
+      window.clearTimeout(pendingSpeak.timer);
+      pendingSpeak.done();
+      pendingSpeak = null;
+    }
     window.speechSynthesis.cancel();
 
     const utterance = new SpeechSynthesisUtterance(text);
@@ -176,11 +187,14 @@ export function speakWithBrowser(text: string, lang: LanguageCode, rate = 1.0): 
     utterance.rate = rate; // 1.0 normal, 0.75 slow
     utterance.pitch = 1.0;
 
-    // Pick best matching native voice if available
-    const voices = window.speechSynthesis.getVoices();
-    const matchedVoice = voices.find(
-      (v) => v.lang.startsWith(utterance.lang.slice(0, 2)) && (v.name.includes('Natural') || v.name.includes('Google') || v.name.includes('Chinese') || v.name.includes('Siri'))
-    ) || voices.find((v) => v.lang.startsWith(utterance.lang.slice(0, 2)));
+    // Chọn giọng bản xứ tốt nhất; bỏ các giọng hiệu ứng của macOS (Bad News, Bahh, Bells...).
+    const voices = window.speechSynthesis
+      .getVoices()
+      .filter((v) => v.lang.startsWith(utterance.lang.slice(0, 2)) && !NOVELTY_VOICES.test(v.name));
+    const matchedVoice =
+      voices.find((v) => /Natural|Google|Siri|Samantha|Tingting|Meijia|Chinese/.test(v.name)) ||
+      voices.find((v) => v.lang === utterance.lang) ||
+      voices[0];
 
     if (matchedVoice) {
       utterance.voice = matchedVoice;
@@ -189,7 +203,12 @@ export function speakWithBrowser(text: string, lang: LanguageCode, rate = 1.0): 
     utterance.onend = () => resolve();
     utterance.onerror = () => resolve();
 
-    window.speechSynthesis.speak(utterance);
+    // Chrome bỏ qua câu nói nếu speak() chạy ngay sau cancel(): chờ một nhịp ngắn.
+    const timer = window.setTimeout(() => {
+      pendingSpeak = null;
+      window.speechSynthesis.speak(utterance);
+    }, 80);
+    pendingSpeak = { timer, done: resolve };
   });
 }
 
@@ -232,6 +251,11 @@ export function stopSpeaking() {
     currentAudio?.pause();
   } catch {}
   currentAudio = null;
+  if (pendingSpeak) {
+    window.clearTimeout(pendingSpeak.timer);
+    pendingSpeak.done();
+    pendingSpeak = null;
+  }
   if ('speechSynthesis' in window) window.speechSynthesis.cancel();
 }
 
