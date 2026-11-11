@@ -19,6 +19,8 @@ import {
   Filter,
 } from 'lucide-react';
 import confetti from 'canvas-confetti';
+import { GamesPanel } from './games/GamesPanel';
+import { toSentenceTokens } from './games/types';
 
 interface HskVocabTabProps {
   onAddXp: (amount: number) => void;
@@ -29,7 +31,7 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
   const [selectedLevel, setSelectedLevel] = useState<number>(1);
   const locked = !hasScope(zhLevelScope(selectedLevel));
   const [searchQuery, setSearchQuery] = useState('');
-  const [viewMode, setViewMode] = useState<'list' | 'flashcard'>(() => (typeof window !== 'undefined' && window.innerWidth < 640 ? 'flashcard' : 'list'));
+  const [viewMode, setViewMode] = useState<'list' | 'flashcard' | 'game'>(() => (typeof window !== 'undefined' && window.innerWidth < 640 ? 'flashcard' : 'game'));
   const [flashcardIdx, setFlashcardIdx] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
   const [allVocab, setAllVocab] = useState<HskVocabItem[]>(HSK_VOCABULARY_LIST);
@@ -130,16 +132,16 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
             <button
               onClick={() => {
                 playPopSound();
-                setViewMode('list');
+                setViewMode('game');
               }}
               className={`flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${
-                viewMode === 'list'
+                viewMode === 'game'
                   ? 'bg-amber-500 text-slate-950 font-black shadow'
                   : 'text-slate-400 hover:text-white'
               }`}
             >
-              <Filter className="w-3.5 h-3.5" />
-              Danh Sách
+              <Sparkles className="w-3.5 h-3.5" />
+              Trò Chơi
             </button>
             <button
               onClick={() => {
@@ -157,6 +159,7 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
               <Layers className="w-3.5 h-3.5" />
               Lật Thẻ Flashcard
             </button>
+
           </div>
         </div>
 
@@ -226,6 +229,18 @@ export const HskVocabTab: React.FC<HskVocabTabProps> = ({ onAddXp }) => {
             </div>
           )}
         </LockedPanel>
+      )}
+
+      {!locked && viewMode === 'game' && (
+        <GamesPanel
+          lang="zh"
+          items={filteredList.map((w) => ({ id: w.id, front: w.hanzi, sub: w.pinyin, back: w.meaning, lang: 'zh' as const }))}
+          sentences={filteredList.flatMap((w) => {
+            const tokens = toSentenceTokens(w.exampleHanzi || '', 'zh');
+            return tokens.length ? [{ id: w.id, text: w.exampleHanzi, sub: w.examplePinyin, vi: w.exampleVi, tokens, lang: 'zh' as const }] : [];
+          })}
+          onAddXp={onAddXp}
+        />
       )}
 
       {!locked && viewMode === 'flashcard' && (

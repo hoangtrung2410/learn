@@ -18,14 +18,16 @@ import {
   Shield,
   GraduationCap,
   Type,
+  Sun,
+  Moon,
   Sparkles,
-  Gamepad2,
+  Newspaper,
 } from 'lucide-react';
 import { FREE_MODE } from '../lib/api';
 import { CLOUD_AUTH } from '../lib/cloud';
 import { playPopSound } from '../utils/audio';
 
-export type AppNavTab = 'home' | 'learn' | 'study' | 'hsk-prep' | 'english-vocab' | 'speaking' | 'roleplay' | 'pinyin' | 'pricing' | 'dictionary' | 'games' | 'account' | 'admin' | 'legal';
+export type AppNavTab = 'home' | 'learn' | 'study' | 'hsk-prep' | 'english-vocab' | 'speaking' | 'roleplay' | 'pinyin' | 'pricing' | 'dictionary' | 'reading' | 'account' | 'admin' | 'legal';
 
 interface NavbarProps {
   currentLang: LanguageCode;
@@ -83,6 +85,13 @@ export const Navbar: React.FC<NavbarProps> = ({
   onOpenFontSettings,
   onLogout,
 }) => {
+  const [light, setLight] = useState(() => document.documentElement.classList.contains('light'));
+  const toggleTheme = () => {
+    const next = !light;
+    setLight(next);
+    document.documentElement.classList.toggle('light', next);
+    try { localStorage.setItem('lp_theme', next ? 'light' : 'dark'); } catch { /* bỏ qua */ }
+  };
   const [langMenuOpen, setLangMenuOpen] = useState(false);
   const [userMenuOpen, setUserMenuOpen] = useState(false);
   const currentLangObj = SUPPORTED_LANGUAGES.find((l) => l.id === currentLang) || SUPPORTED_LANGUAGES[0];
@@ -264,7 +273,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               { tab: 'speaking', label: 'Luyện Phát Âm AI', icon: Volume2, show: true },
               { tab: 'roleplay', label: 'Hội Thoại 1-1', icon: MessagesSquare, show: true },
               { tab: 'pinyin', label: 'Pinyin 4 Thanh', icon: Compass, show: currentLang === 'zh' },
-              { tab: 'games', label: 'Trò Chơi', icon: Gamepad2, show: true },
+              { tab: 'reading', label: 'Đọc Báo', icon: Newspaper, show: true },
               { tab: 'dictionary', label: currentLang === 'zh' ? 'Tra Cứu & Bộ Thủ' : 'Từ Điển & Nguồn Gốc', icon: BookMarked, show: true },
               { tab: 'pricing', label: 'Khoá Học & Bảng Giá', icon: ShoppingBag, show: !FREE_MODE, accent: true },
             ] as { tab: AppNavTab; label: string; icon: React.ElementType; show: boolean; accent?: boolean }[])
@@ -321,6 +330,17 @@ export const Navbar: React.FC<NavbarProps> = ({
               <Heart className="w-4 h-4 fill-rose-500 text-rose-500" />
               <span>{isSuperAdmin ? '∞' : `${stats.hearts}/${stats.maxHearts}`}</span>
             </div>
+
+            {/* Đổi nền sáng / tối */}
+            <button
+              onClick={() => { playPopSound(); toggleTheme(); }}
+              title={light ? 'Chuyển sang nền tối' : 'Chuyển sang nền trắng'}
+              aria-label={light ? 'Chuyển sang nền tối' : 'Chuyển sang nền trắng'}
+              className="flex items-center justify-center w-9 h-9 rounded-xl cursor-pointer transition-all hover:scale-105"
+              style={{ background: 'rgba(255,255,255,0.05)', border: '1px solid rgba(255,255,255,0.08)' }}
+            >
+              {light ? <Moon className="w-4 h-4 text-indigo-300" /> : <Sun className="w-4 h-4 text-amber-300" />}
+            </button>
 
             {/* Font Settings */}
             <button
@@ -480,8 +500,8 @@ export const Navbar: React.FC<NavbarProps> = ({
               Pinyin
             </button>
           )}
-          <button onClick={() => onChangeTab('games')} className={`px-3 py-1.5 rounded-xl font-bold flex items-center gap-1 whitespace-nowrap transition-all ${activeTab === 'games' ? 'bg-emerald-600 text-white' : 'text-slate-400'}`}>
-            <Gamepad2 className="w-3.5 h-3.5" /> Trò Chơi
+          <button onClick={() => onChangeTab('reading')} className={`px-3 py-1.5 rounded-xl font-bold flex items-center gap-1 whitespace-nowrap transition-all ${activeTab === 'reading' ? 'bg-emerald-600 text-white' : 'text-slate-400'}`}>
+            <Newspaper className="w-3.5 h-3.5" /> Đọc Báo
           </button>
           <button onClick={() => onChangeTab('dictionary')} className={`px-3 py-1.5 rounded-xl font-bold flex items-center gap-1 whitespace-nowrap transition-all ${activeTab === 'dictionary' ? 'bg-teal-600 text-white' : 'text-slate-400'}`}>
             {currentLang === 'zh' ? 'Tra Cứu' : 'Từ Điển'}

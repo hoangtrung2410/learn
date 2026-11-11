@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import { GameSentence, pick, shuffle } from './pool';
+import { GameSentence, joinTokens, pick, shuffle } from './types';
 import { playErrorSound, playPopSound, playSuccessSound, speakNativeText } from '../../utils/audio';
 
 const TOTAL = 8;
@@ -36,8 +36,8 @@ export const SentenceGame: React.FC<{ sentences: GameSentence[]; onWin: (xp: num
     const next = [...chosen, k];
     setChosen(next);
     if (next.length === q.tokens.length) {
-      const built = next.map((x) => bank.find((b) => b.k === x)!.t).join('');
-      if (built === q.tokens.join('')) { setState('ok'); setScore((s) => s + 1); playSuccessSound(); void speakNativeText(q.zh, 'zh'); }
+      const built = joinTokens(next.map((x) => bank.find((b) => b.k === x)!.t), q.lang);
+      if (built === joinTokens(q.tokens, q.lang)) { setState('ok'); setScore((s) => s + 1); playSuccessSound(); void speakNativeText(q.text, q.lang); }
       else { setState('bad'); playErrorSound(); }
     }
   };
@@ -72,8 +72,8 @@ export const SentenceGame: React.FC<{ sentences: GameSentence[]; onWin: (xp: num
       </div>
       {state !== 'play' && (
         <div className={`mt-4 rounded-xl p-3 text-center text-sm ${state === 'ok' ? 'bg-emerald-500/10 text-emerald-200' : 'bg-rose-500/10 text-rose-200'}`}>
-          <div className="font-chinese text-lg font-black text-white">{q.zh}</div>
-          <div className="text-xs text-blue-300">{q.py}</div>
+          <div className="font-chinese text-lg font-black text-white">{q.text}</div>
+          {q.sub && <div className="text-xs text-blue-300">{q.sub}</div>}
         </div>
       )}
       {state === 'play' && chosen.length > 0 && <button onClick={() => setChosen([])} className="mt-3 text-xs font-bold text-slate-400 underline">Xếp lại</button>}

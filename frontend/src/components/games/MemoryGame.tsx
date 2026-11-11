@@ -1,18 +1,18 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { RotateCcw } from 'lucide-react';
-import { GameWord, pick, shuffle } from './pool';
+import { GameItem, pick, shuffle } from './types';
 import { playErrorSound, playPopSound, playSuccessSound } from '../../utils/audio';
 
 interface Card { id: string; pair: number; text: string; kind: 'zh' | 'vi'; sub?: string }
 
-export const MemoryGame: React.FC<{ words: GameWord[]; onWin: (xp: number) => void }> = ({ words, onWin }) => {
+export const MemoryGame: React.FC<{ words: GameItem[]; onWin: (xp: number) => void }> = ({ words, onWin }) => {
   const PAIRS = Math.min(6, words.length);
   const [round, setRound] = useState(0);
   const cards = useMemo<Card[]>(() => {
     const chosen = pick(words, PAIRS);
     return shuffle(chosen.flatMap((w, i) => [
-      { id: `z${i}`, pair: i, text: w.zh, kind: 'zh' as const, sub: w.py },
-      { id: `v${i}`, pair: i, text: w.vi, kind: 'vi' as const },
+      { id: `z${i}`, pair: i, text: w.front, kind: 'zh' as const, sub: w.sub },
+      { id: `v${i}`, pair: i, text: w.back, kind: 'vi' as const },
     ]));
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [words, round]);
@@ -75,14 +75,14 @@ export const MemoryGame: React.FC<{ words: GameWord[]; onWin: (xp: number) => vo
               {shown ? (
                 c.kind === 'zh' ? (
                   <>
-                    <span className="font-chinese text-2xl font-black text-white sm:text-3xl">{c.text}</span>
+                    <span className={`${words[0]?.lang === 'zh' ? 'font-chinese text-2xl sm:text-3xl' : 'text-lg sm:text-xl'} font-black leading-tight text-white`}>{c.text}</span>
                     <span className="mt-0.5 text-[10px] font-semibold text-blue-300 sm:text-xs">{c.sub}</span>
                   </>
                 ) : (
                   <span className="text-[11px] font-bold leading-tight text-slate-100 sm:text-sm">{c.text}</span>
                 )
               ) : (
-                <span className="font-chinese text-3xl font-black text-slate-600">学</span>
+                <span className="font-chinese text-3xl font-black text-slate-600">{words[0]?.lang === 'en' ? 'A' : '学'}</span>
               )}
             </button>
           );

@@ -25,6 +25,8 @@ import {
 } from 'lucide-react';
 import confetti from 'canvas-confetti';
 import { VocabPager, VOCAB_PAGE_SIZE } from './VocabPager';
+import { GamesPanel } from './games/GamesPanel';
+import { toSentenceTokens } from './games/types';
 
 interface EnglishVocabHubViewProps {
   onAddXp: (amount: number) => void;
@@ -52,7 +54,7 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
   const [selectedTopic, setSelectedTopic] = useState('Tất cả');
   const [selectedLevel, setSelectedLevel] = useState<string>('Tất cả');
   const [searchQuery, setSearchQuery] = useState('');
-  const [viewMode, setViewMode] = useState<'list' | 'flashcard' | 'quiz'>(() => (typeof window !== 'undefined' && window.innerWidth < 640 ? 'flashcard' : 'list'));
+  const [viewMode, setViewMode] = useState<'list' | 'flashcard' | 'quiz' | 'game'>(() => (typeof window !== 'undefined' && window.innerWidth < 640 ? 'flashcard' : 'game'));
 
   // Flashcard state
   const [flashcardIdx, setFlashcardIdx] = useState(0);
@@ -237,15 +239,15 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
                 type="button"
                 onClick={() => {
                   playPopSound();
-                  setViewMode('list');
+                  setViewMode('game');
                 }}
                 className={`px-3 py-1.5 rounded-xl font-bold transition-colors cursor-pointer ${
-                  viewMode === 'list'
-                    ? 'bg-slate-800 text-white shadow-sm'
+                  viewMode === 'game'
+                    ? 'bg-slate-800 text-amber-300 shadow-sm'
                     : 'text-slate-400 hover:text-slate-200'
                 }`}
               >
-                Danh Sách
+                Trò Chơi
               </button>
               <button
                 type="button"
@@ -450,6 +452,18 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
       {/* VIEW MODE 2: FLASHCARD 3D */}
       {viewMode !== 'list' && studyList.length === 0 && filteredList.length > 0 && firstLockedScope && (
         <LockedPanel scope={scopeOf(firstLockedScope)} what="Bộ từ đang chọn" />
+      )}
+
+      {viewMode === 'game' && (
+        <GamesPanel
+          lang="en"
+          items={studyList.map((w) => ({ id: w.id, front: w.word, sub: w.ipa, back: w.meaningVi, lang: 'en' as const }))}
+          sentences={studyList.flatMap((w) => {
+            const tokens = toSentenceTokens(w.exampleEn || '', 'en');
+            return tokens.length ? [{ id: w.id, text: w.exampleEn, vi: w.exampleVi, tokens, lang: 'en' as const }] : [];
+          })}
+          onAddXp={(n) => onAddXp?.(n)}
+        />
       )}
 
       {viewMode === 'flashcard' && currentFlashcard && (
