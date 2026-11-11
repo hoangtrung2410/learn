@@ -10,7 +10,7 @@ import { logActivity, getStreak } from './lib/daily';
 import { CheckoutModal } from './components/CheckoutModal';
 import { MockPayPage, PaymentResultModal } from './components/PaymentPages';
 import { LoginWall } from './components/LoginWall';
-import { AUTH_REQUIRED } from './lib/cloud';
+import { AUTH_REQUIRED, CLOUD_AUTH } from './lib/cloud';
 
 // Mỗi màn hình tải riêng khi mở lần đầu, giúp trang chủ nhẹ và mở nhanh.
 const LearningPathView = lazy(() => import('./components/LearningPathView').then((m) => ({ default: m.LearningPathView })));
@@ -21,6 +21,7 @@ const PricingView = lazy(() => import('./components/PricingView').then((m) => ({
 const HomeView = lazy(() => import('./components/HomeView').then((m) => ({ default: m.HomeView })));
 const AccountView = lazy(() => import('./components/AccountView').then((m) => ({ default: m.AccountView })));
 const AdminView = lazy(() => import('./components/AdminView').then((m) => ({ default: m.AdminView })));
+const CloudAdminView = lazy(() => import('./components/CloudAdminView').then((m) => ({ default: m.CloudAdminView })));
 const LegalView = lazy(() => import('./components/LegalView').then((m) => ({ default: m.LegalView })));
 const DictionaryView = lazy(() => import('./components/DictionaryView').then((m) => ({ default: m.DictionaryView })));
 const HskExamHubView = lazy(() => import('./components/HskExamHubView').then((m) => ({ default: m.HskExamHubView })));
@@ -248,7 +249,7 @@ export default function App() {
 
         {activeTab === 'account' && <AccountView />}
 
-        {activeTab === 'admin' && (isAdmin ? <AdminView /> : <div className="py-24 text-center text-sm text-slate-400">Bạn không có quyền truy cập trang này.</div>)}
+        {activeTab === 'admin' && (isAdmin ? (CLOUD_AUTH ? <CloudAdminView /> : <AdminView />) : <div className="py-24 text-center text-sm text-slate-400">Bạn không có quyền truy cập trang này.</div>)}
 
         {activeTab === 'legal' && <LegalView page={legalPage} onChangePage={setLegalPage} />}
         </Suspense>

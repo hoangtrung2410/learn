@@ -27,6 +27,21 @@ interface CloudProvider {
   onChange(cb: (u: User | null) => void): () => void;
   loadProgress(userId: string): Promise<Progress | null>;
   saveProgress(userId: string, data: Record<string, string>): Promise<string>;
+  listUsers(): Promise<CloudUserRow[]>;
+  setAdmin(email: string, make: boolean): Promise<void>;
+}
+
+/** Một dòng trong trang quản trị bản miễn phí. */
+export interface CloudUserRow {
+  id: string;
+  email: string;
+  name: string;
+  createdAt: string;
+  lastSignInAt: string | null;
+  confirmed: boolean;
+  isAdmin: boolean;
+  progress: Record<string, string> | null;
+  progressAt: string | null;
 }
 
 const avatarOf = (seed: string) => `https://api.dicebear.com/7.x/bottts/svg?seed=${encodeURIComponent(seed)}`;
@@ -60,7 +75,12 @@ async function makeSupabase(): Promise<CloudProvider> {
   const sb = createClient(SUPABASE_URL!, SUPABASE_KEY!, {
     auth: { persistSession: true, autoRefreshToken: true, detectSessionInUrl: true },
   });
-  const map = (u: any): User => toUser(u.id, u.email || '', u.user_metadata?.name);
+  // Quyền quản trị nằm ở bảng app_admins trên máy chủ (hàm is_admin), người dùng không tự cấp được.
+  const map = async (u: any): Promise<User> => {
+    const base = toUser(u.id, u.email || '', u.user_metadata?.name);
+    const { data } = await sb.rpc('is_admin');
+    return data === true ? { ...base, role: 'admin', isSuperAdmin: true } : base;
+  };
   return {
     async getUser() {
       const { data } = await sb.auth.getSession();
@@ -69,7 +89,7 @@ async function makeSupabase(): Promise<CloudProvider> {
     async signUp(email, password, name) {
       const { data, error } = await sb.auth.signUp({ email, password, options: { data: { name } } });
       if (error) throw error;
-      return { user: data.session?.user ? map(data.session.user) : null, needsConfirm: !data.session };
+      return { user: data.session?.user ? await map(data.session.user) : null, needsConfirm: !data.session };
     },
     async signIn(email, password) {
       const { data, error } = await sb.auth.signInWithPassword({ email, password });
@@ -80,8 +100,32 @@ async function makeSupabase(): Promise<CloudProvider> {
       await sb.auth.signOut();
     },
     onChange(cb) {
-      const { data } = sb.auth.onAuthStateChange((_evt, session) => cb(session?.user ? map(session.user) : null));
+      const { data } = sb.auth.onAuthStateChange((_evt, session) => {
+        // Gọi Supabase ngay trong callback có thể treo, nên tách ra lượt sau.
+        if (!session?.user) return cb(null);
+        const u = session.user;
+        setTimeout(() => void map(u).then(cb), 0);
+      });
       return () => data.subscription.unsubscribe();
+    },
+    async listUsers() {
+      const { data, error } = await sb.rpc('admin_list_users');
+      if (error) throw error;
+      return (data || []).map((r: any) => ({
+        id: r.id,
+        email: r.email,
+        name: r.name,
+        createdAt: r.created_at,
+        lastSignInAt: r.last_sign_in_at,
+        confirmed: r.confirmed,
+        isAdmin: r.is_admin,
+        progress: r.progress,
+        progressAt: r.progress_at,
+      }));
+    },
+    async setAdmin(email, make) {
+      const { error } = await sb.rpc('admin_set_admin', { target_email: email, make });
+      if (error) throw error;
     },
     async loadProgress(userId) {
       const { data, error } = await sb.from('user_progress').select('data, updated_at').eq('user_id', userId).maybeSingle();
@@ -152,6 +196,12 @@ function makeFake(): CloudProvider {
       const updatedAt = new Date().toISOString();
       localStorage.setItem('fake_progress_' + userId, JSON.stringify({ data, updatedAt }));
       return updatedAt;
+    },
+    async listUsers() {
+      return [];
+    },
+    async setAdmin() {
+      throw new Error('Đăng nhập giả không có quản trị.');
     },
   };
 }
