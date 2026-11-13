@@ -33,8 +33,10 @@ import {
   Eye,
   EyeOff,
   VolumeX,
+  Phone,
 } from 'lucide-react';
 import confetti from 'canvas-confetti';
+import { VoiceCallModal } from './VoiceCallModal';
 
 interface AiRoleplayViewProps {
   currentLang: LanguageCode;
@@ -80,6 +82,7 @@ export const AiRoleplayView: React.FC<AiRoleplayViewProps> = ({ currentLang, onA
       : scenarios.filter((s) => s.category === selectedCategory);
 
   const [activeScenario, setActiveScenario] = useState<RoleplayScenario>(scenarios[0]);
+  const [callOpen, setCallOpen] = useState(false);
 
   // Display toggles
   const [showPinyin, setShowPinyin] = useState(true);
@@ -517,6 +520,16 @@ export const AiRoleplayView: React.FC<AiRoleplayViewProps> = ({ currentLang, onA
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 py-6 space-y-6 animate-in fade-in">
+      <VoiceCallModal
+        open={callOpen}
+        onClose={() => setCallOpen(false)}
+        languageName={currentLang === 'zh' ? 'Tiếng Trung' : 'Tiếng Anh'}
+        targetLanguage={currentLang}
+        scenarioTitle={activeScenario.title}
+        scenarioRole={activeScenario.partnerRole}
+        icon={activeScenario.icon}
+        onAddXp={onAddXp}
+      />
       {/* Studio Top Control Panel */}
       <section className="bg-slate-900 border border-slate-800 rounded-3xl p-6 sm:p-7 shadow-xl">
         <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6">
@@ -821,6 +834,16 @@ export const AiRoleplayView: React.FC<AiRoleplayViewProps> = ({ currentLang, onA
                 </div>
               </div>
 
+              <div className="self-end sm:self-auto flex items-center gap-2">
+              <button
+                type="button"
+                onClick={() => { playPopSound(); setCallOpen(true); }}
+                className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 text-xs font-black transition-colors cursor-pointer"
+                title="Nói chuyện trực tiếp bằng giọng nói với AI"
+              >
+                <Phone className="w-3.5 h-3.5" />
+                <span>Gọi thoại AI</span>
+              </button>
               {/* Reset action */}
               <button
                 type="button"
@@ -839,12 +862,13 @@ export const AiRoleplayView: React.FC<AiRoleplayViewProps> = ({ currentLang, onA
                   setIsTimerActive(false);
                   setHasEarned5MinReward(false);
                 }}
-                className="self-end sm:self-auto flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-slate-900 hover:bg-slate-800 border border-slate-800 text-xs text-slate-300 hover:text-white transition-colors cursor-pointer"
+                className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-slate-900 hover:bg-slate-800 border border-slate-800 text-xs text-slate-300 hover:text-white transition-colors cursor-pointer"
                 title="Bắt đầu lại cuộc trò chuyện"
               >
                 <RefreshCw className="w-3.5 h-3.5" />
                 <span>Bắt đầu lại</span>
               </button>
+              </div>
             </div>
 
             {/* Stepped Journey Progress Bar (Clean connected roadmap) */}
