@@ -88,8 +88,8 @@ let enVocabCache: EnglishVocabItem[] | null = null;
 
 export async function loadEnVocab(): Promise<EnglishVocabItem[]> {
   if (enVocabCache) return enVocabCache;
-  const out: EnglishVocabItem[] = [...ENGLISH_VOCABULARY_1000];
-  const seen = new Set(out.map((w) => w.word.toLowerCase()));
+  const out: EnglishVocabItem[] = ENGLISH_VOCABULARY_1000.map((w) => ({ ...w }));
+  const byWord = new Map(out.map((w) => [w.word.toLowerCase(), w]));
   for (const prefix of ['en-core', 'en-toeic', 'en-ielts']) {
     const lines = await readTxt(prefix);
     let n = 0;
@@ -98,11 +98,16 @@ export async function loadEnVocab(): Promise<EnglishVocabItem[]> {
       if (f.length < 9) continue;
       const [word, ipa, pos, level, topic, meaningVi, collocation, exampleEn, exampleVi] = f;
       const key = word.toLowerCase();
-      if (!word || !meaningVi || seen.has(key)) continue;
+      if (!word || !meaningVi) continue;
+      const dup = byWord.get(key);
       if (!['A1', 'A2', 'B1', 'B2', 'C1'].includes(level)) continue;
-      seen.add(key);
+      if (dup) {
+        // Giữ một bản nhưng ghi nhận gói này cũng có từ đó (để trang TOEIC/IELTS vẫn đủ từ, đúng chủ đề của gói).
+        if (dup.pack !== prefix) dup.alsoPacks = { ...dup.alsoPacks, [prefix]: { topic, level: level as EnglishVocabItem['level'] } };
+        continue;
+      }
       n++;
-      out.push({
+      const item: EnglishVocabItem = {
         id: `${prefix}-${n}`,
         pack: prefix,
         word,
@@ -114,7 +119,9 @@ export async function loadEnVocab(): Promise<EnglishVocabItem[]> {
         collocation,
         exampleEn,
         exampleVi,
-      });
+      };
+      byWord.set(key, item);
+      out.push(item);
     }
   }
   enVocabCache = out;

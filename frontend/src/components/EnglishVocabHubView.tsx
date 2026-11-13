@@ -30,12 +30,23 @@ import { toSentenceTokens } from './games/types';
 
 interface EnglishVocabHubViewProps {
   onAddXp: (amount: number) => void;
+  /** Chỉ học một gói từ (ví dụ 'en-toeic' cho trang Luyện thi TOEIC). */
+  pack?: string;
 }
 
 const LEVELS = ['Tất cả', 'A1', 'A2', 'B1', 'B2', 'C1'] as const;
 
-export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddXp }) => {
-  const [allVocab, setAllVocab] = useState<EnglishVocabItem[]>(ENGLISH_VOCABULARY_1000);
+export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddXp, pack }) => {
+  const [loadedVocab, setAllVocab] = useState<EnglishVocabItem[]>(ENGLISH_VOCABULARY_1000);
+  const allVocab = useMemo(
+    () =>
+      pack
+        ? loadedVocab
+            .filter((w) => w.pack === pack || w.alsoPacks?.[pack])
+            .map((w) => (w.pack === pack ? w : { ...w, ...w.alsoPacks![pack] }))
+        : loadedVocab,
+    [loadedVocab, pack],
+  );
   const [loaded, setLoaded] = useState(false);
   useEffect(() => {
     let alive = true;
@@ -108,7 +119,7 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
     [filteredList, page]
   );
 
-  const masteredCount = Object.keys(masteredIds).length;
+  const masteredCount = pack ? allVocab.filter((w) => masteredIds[w.id]).length : Object.keys(masteredIds).length;
 
   const handlePlayAudio = async (text: string, e?: React.MouseEvent) => {
     if (e) e.stopPropagation();
@@ -199,7 +210,7 @@ export const EnglishVocabHubView: React.FC<EnglishVocabHubViewProps> = ({ onAddX
             <div className="flex items-center gap-3">
               <span className="text-2xl">📚</span>
               <h1 className="text-2xl sm:text-3xl font-black text-white tracking-tight">
-                Kho {total.toLocaleString('vi-VN')} Từ Vựng Tiếng Anh (A1 - C1)
+                {pack === 'en-toeic' ? `${total.toLocaleString('vi-VN')} Từ Vựng TOEIC theo chủ đề` : `Kho ${total.toLocaleString('vi-VN')} Từ Vựng Tiếng Anh (A1 - C1)`}
               </h1>
             </div>
             <div className="flex flex-wrap items-center gap-2 text-xs text-slate-400">

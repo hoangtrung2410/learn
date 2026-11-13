@@ -4,6 +4,7 @@ import {
 } from 'lucide-react';
 import { useAccess, scopeProductId } from '../lib/access';
 import { goPricing } from '../lib/nav';
+import { EnglishVocabHubView } from './EnglishVocabHubView';
 import { playPopSound, playSuccessSound, playErrorSound } from '../utils/audio';
 import {
   loadToeic, buildTest, scaleScore, TEST_COUNT,
@@ -582,7 +583,8 @@ export const ToeicView: React.FC<{ onAddXp: (n: number) => void }> = ({ onAddXp 
   const { hasScope } = useAccess();
   const [data, setData] = useState<ToeicData | null>(null);
   const [error, setError] = useState('');
-  const [mode, setMode] = useState<{ kind: 'home' } | { kind: 'part'; part: Part } | { kind: 'test'; k: number }>({ kind: 'home' });
+  // Mặc định vào học từ vựng TOEIC trước; luyện đề ở mục bên cạnh.
+  const [mode, setMode] = useState<{ kind: 'vocab' } | { kind: 'home' } | { kind: 'part'; part: Part } | { kind: 'test'; k: number }>({ kind: 'vocab' });
   const [openTips, setOpenTips] = useState<Part | null>(null);
   const topRef = useRef<HTMLDivElement>(null);
 
@@ -615,11 +617,22 @@ export const ToeicView: React.FC<{ onAddXp: (n: number) => void }> = ({ onAddXp 
 
   return (
     <div ref={topRef} className="max-w-6xl mx-auto px-3 sm:px-6 py-6 space-y-6 scroll-mt-28">
-      {error && <div role="alert" className="rounded-xl border border-rose-500/30 bg-rose-500/10 px-4 py-3 text-sm text-rose-300">{error}</div>}
-      {!data && !error && (
+      {error && mode.kind !== 'vocab' && <div role="alert" className="rounded-xl border border-rose-500/30 bg-rose-500/10 px-4 py-3 text-sm text-rose-300">{error}</div>}
+      {!data && !error && mode.kind !== 'vocab' && (
         <div role="status" className="flex items-center justify-center gap-2 py-24 text-sm text-slate-400"><Loader2 className="w-4 h-4 animate-spin" /> Đang tải đề TOEIC…</div>
       )}
 
+      {(mode.kind === 'vocab' || mode.kind === 'home') && (
+        <div role="tablist" aria-label="Mục luyện thi TOEIC" className="flex gap-1 p-1 rounded-2xl bg-slate-900 border border-slate-800 w-fit">
+          {([['vocab', 'Từ vựng TOEIC'], ['home', 'Luyện đề & đề thi thử']] as const).map(([k, label]) => (
+            <button key={k} type="button" role="tab" aria-selected={mode.kind === k} onClick={() => { playPopSound(); setMode({ kind: k }); }}
+              className={`px-4 py-2 rounded-xl text-sm font-black cursor-pointer transition-colors ${mode.kind === k ? 'bg-amber-400 text-slate-950' : 'text-slate-400 hover:text-white'}`}>
+              {label}
+            </button>
+          ))}
+        </div>
+      )}
+      {mode.kind === 'vocab' && <EnglishVocabHubView pack="en-toeic" onAddXp={onAddXp} />}
       {data && mode.kind === 'part' && <Practice data={data} part={mode.part} onBack={() => setMode({ kind: 'home' })} onAddXp={onAddXp} />}
       {data && mode.kind === 'test' && <MockTest data={data} k={mode.k} onBack={() => setMode({ kind: 'home' })} onAddXp={onAddXp} />}
 
@@ -688,7 +701,7 @@ export const ToeicView: React.FC<{ onAddXp: (n: number) => void }> = ({ onAddXp 
 
           <section className={`${cardCls} p-4 text-xs text-slate-400 flex items-start gap-2`}>
             <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
-            <span>Học thêm 1.200 từ vựng TOEIC theo chủ đề ở mục <b className="text-slate-200">Từ Vựng A1-C1</b> (bộ lọc "Luyện thi IELTS & TOEIC").</span>
+            <span>Chưa vững từ vựng? Học 1.200 từ TOEIC theo 12 chủ đề ở mục <button type="button" onClick={() => setMode({ kind: 'vocab' })} className="font-bold text-amber-300 underline cursor-pointer">Từ vựng TOEIC</button> trước khi làm đề.</span>
           </section>
         </>
       )}

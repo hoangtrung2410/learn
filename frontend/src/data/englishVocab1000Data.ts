@@ -11,6 +11,8 @@ export interface EnglishVocabItem {
   exampleVi: string;
   /** Gói nguồn (en-core / en-toeic / en-ielts); từ trong gói TOEIC/IELTS tính theo khoá riêng. */
   pack?: string;
+  /** Các gói khác cũng có từ này (từ trùng chỉ giữ một bản), kèm chủ đề và cấp độ theo gói đó. */
+  alsoPacks?: Record<string, { topic: string; level: 'A1' | 'A2' | 'B1' | 'B2' | 'C1' }>;
 }
 
 export const ENGLISH_VOCABULARY_1000: EnglishVocabItem[] = [
