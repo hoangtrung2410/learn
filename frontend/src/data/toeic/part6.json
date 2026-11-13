@@ -1,0 +1,298 @@
+[
+  {
+    "id": "p6-01",
+    "kind": "email",
+    "title": "Email: East lot closure",
+    "text": "To: All staff at Harlow Logistics\nFrom: Facilities Department\nSubject: East lot closure\n\nBeginning Monday, March 3, the east parking lot will be closed while contractors [1] the surface and repaint the lines. During this period, employees who normally park there may use the public garage on Fenwick Street free of [2]. [3] The attendant will record your vehicle number and wave you through.\n\nThe work is expected to take about two weeks. [4], a period of heavy rain could extend the closure, so please check your inbox for updates. We apologize for the inconvenience and appreciate your patience.\n\nGrace Okafor\nFacilities Manager",
+    "questions": [
+      {
+        "q": "Câu [1]",
+        "options": ["resurfaced", "resurface", "have resurfaced", "to resurface"],
+        "answer": 1,
+        "explain": "Sau 'while' trong mệnh đề thời gian nói về tương lai, ta dùng thì hiện tại đơn: 'while contractors resurface'."
+      },
+      {
+        "q": "Câu [2]",
+        "options": ["rate", "fare", "charge", "amount"],
+        "answer": 2,
+        "explain": "Cụm cố định 'free of charge' nghĩa là miễn phí."
+      },
+      {
+        "q": "Câu [3]",
+        "options": [
+          "Simply show your Harlow employee badge at the entrance booth.",
+          "The east lot has 120 spaces for visitors.",
+          "Our new delivery trucks will arrive next month.",
+          "Please submit your expense reports by Friday."
+        ],
+        "answer": 0,
+        "explain": "Câu sau nói 'The attendant will record your vehicle number...', nên câu trước phải hướng dẫn việc làm ở cổng garage: xuất trình thẻ nhân viên."
+      },
+      {
+        "q": "Câu [4]",
+        "options": ["Therefore", "Similarly", "Instead", "However"],
+        "answer": 3,
+        "explain": "Câu trước nói dự kiến mất hai tuần, câu sau nói mưa có thể kéo dài thời gian — quan hệ tương phản nên dùng 'However'."
+      }
+    ]
+  },
+  {
+    "id": "p6-02",
+    "kind": "notice",
+    "title": "Notice: Library renovation",
+    "text": "Notice to Patrons of Brookside Public Library\n\nThe Brookside Public Library will close its second floor from June 10 to July 22 for renovations. The project will add a quiet study room and replace the [1] carpeting, which has been in place for nearly thirty years. While the second floor is closed, reference materials will be [2] on the ground floor near the information desk. [3], the children's reading area will move temporarily to the community room in the basement.\n\n[4] Updates on the renovation schedule will be posted on our Web site and at the main entrance. Thank you for your understanding as we work to improve your library.",
+    "questions": [
+      {
+        "q": "Câu [1]",
+        "options": ["wear", "wears", "wearing", "worn"],
+        "answer": 3,
+        "explain": "Cần tính từ đứng trước danh từ 'carpeting'; 'worn' (cũ, sờn) phù hợp vì thảm đã dùng gần 30 năm."
+      },
+      {
+        "q": "Câu [2]",
+        "options": ["available", "capable", "eligible", "responsible"],
+        "answer": 0,
+        "explain": "'Reference materials will be available on the ground floor' = tài liệu tham khảo sẽ có sẵn ở tầng trệt."
+      },
+      {
+        "q": "Câu [3]",
+        "options": ["Nevertheless", "Otherwise", "In addition", "For instance"],
+        "answer": 2,
+        "explain": "Câu này bổ sung thêm một thay đổi nữa (khu đọc sách thiếu nhi chuyển chỗ) nên dùng 'In addition'."
+      },
+      {
+        "q": "Câu [4]",
+        "options": [
+          "The library was founded by a local businessman in 1952.",
+          "All other library services will continue as usual during this period.",
+          "Second-floor computers are the newest in the region.",
+          "Membership fees will be refunded at the end of the year."
+        ],
+        "answer": 1,
+        "explain": "Sau khi liệt kê các thay đổi, câu trấn an rằng các dịch vụ khác vẫn hoạt động bình thường là hợp lý trước phần thông báo cập nhật."
+      }
+    ]
+  },
+  {
+    "id": "p6-03",
+    "kind": "memo",
+    "title": "Memo: Expense reporting",
+    "text": "MEMO\nTo: All Department Heads\nFrom: Daniel Ferreira, Finance Director\nDate: September 2\nRe: Expense reporting\n\nStarting October 1, all travel and meal expenses must be submitted through ExpenseTrack, our new online system. Paper forms will no longer be [1]. The system allows employees to photograph receipts with their phones, which should make the process much faster.\n\n[2] To help everyone get started, the finance team will hold training sessions on September 15 and 16. Please make sure that each member of your team [3] one of these sessions. [4], employees who cannot attend may watch a recorded version on the company intranet.\n\nPlease contact me with any questions.",
+    "questions": [
+      {
+        "q": "Câu [1]",
+        "options": ["agreed", "consented", "accepted", "admitted"],
+        "answer": 2,
+        "explain": "'Paper forms will no longer be accepted' = mẫu giấy sẽ không còn được chấp nhận nữa."
+      },
+      {
+        "q": "Câu [2]",
+        "options": [
+          "The finance department moved to the fourth floor last year.",
+          "We understand that learning a new system can take some time.",
+          "Receipts for hotel stays must show the room rate.",
+          "ExpenseTrack was developed by a company in Singapore."
+        ],
+        "answer": 1,
+        "explain": "Câu sau 'To help everyone get started...' nói về đào tạo, nên câu trước hợp lý là thừa nhận việc làm quen hệ thống mới cần thời gian."
+      },
+      {
+        "q": "Câu [3]",
+        "options": ["attend", "attending", "have attended", "attends"],
+        "answer": 3,
+        "explain": "Chủ ngữ 'each member' là số ít, nên động từ chia 'attends'."
+      },
+      {
+        "q": "Câu [4]",
+        "options": ["Alternatively", "Consequently", "Similarly", "Previously"],
+        "answer": 0,
+        "explain": "Xem bản ghi hình là một lựa chọn thay thế cho việc tham dự trực tiếp, nên dùng 'Alternatively'."
+      }
+    ]
+  },
+  {
+    "id": "p6-04",
+    "kind": "article",
+    "title": "Article: Local bakery expands",
+    "text": "WESTFIELD (May 14) — Golden Crust Bakery, a family-owned business on Market Street, will open a second location in the Riverside Shopping Center next month. Owner Lucia Bianchi started the bakery in 2015 with just two employees. Today, it [1] more than twenty people.\n\n\"Our customers have been asking us to open closer to the north side of town for years,\" Ms. Bianchi said. [2] The new shop will be twice the size of the original and will include a seating area for about forty guests.\n\nIn addition to its popular breads and pastries, the Riverside location will offer a [3] menu of sandwiches and soups. Ms. Bianchi plans to hire fifteen new staff members, [4] of whom will be trained at the Market Street store before the opening.",
+    "questions": [
+      {
+        "q": "Câu [1]",
+        "options": ["employs", "employed", "was employing", "will have employed"],
+        "answer": 0,
+        "explain": "'Today' chỉ hiện tại, nên dùng thì hiện tại đơn 'employs'."
+      },
+      {
+        "q": "Câu [2]",
+        "options": [
+          "Several bakeries in Westfield closed last year.",
+          "The Market Street store will close at the end of the month.",
+          "Ms. Bianchi has never visited the Riverside area.",
+          "\"We are excited to finally be able to do that.\""
+        ],
+        "answer": 3,
+        "explain": "Câu này tiếp nối lời bà Bianchi: khách hàng mong mở gần phía bắc và giờ họ đã làm được. Cửa hàng Market Street vẫn hoạt động (nhân viên sẽ được đào tạo ở đó) nên không thể đóng cửa."
+      },
+      {
+        "q": "Câu [3]",
+        "options": ["narrow", "light", "heavy", "thin"],
+        "answer": 1,
+        "explain": "'A light menu' là thực đơn món nhẹ, phù hợp với bánh mì kẹp và súp."
+      },
+      {
+        "q": "Câu [4]",
+        "options": ["they", "them", "all", "those"],
+        "answer": 2,
+        "explain": "Cấu trúc 'all of whom' (tất cả những người đó) dùng để nối mệnh đề quan hệ sau dấu phẩy."
+      }
+    ]
+  },
+  {
+    "id": "p6-05",
+    "kind": "advertisement",
+    "title": "Advertisement: Clearview Window Cleaning",
+    "text": "Clearview Window Cleaning\n\nAre dirty windows making your office look less [1]? Clearview has served businesses in the Port Hamilton area for over a decade. Our trained crews clean windows on buildings of up to twelve stories, using equipment that meets the latest safety standards.\n\nWe offer weekly, monthly, and seasonal service plans. [2], every plan includes a free inspection of window frames and seals. [3] Our crews can work early in the morning or after business hours so that your staff are not disturbed.\n\nCall 555-0148 before April 30 to [4] a free estimate and receive 15 percent off your first cleaning.",
+    "questions": [
+      {
+        "q": "Câu [1]",
+        "options": ["profession", "professional", "professionally", "professionalism"],
+        "answer": 1,
+        "explain": "Sau động từ nối 'look' (+ less) cần một tính từ: 'look less professional'."
+      },
+      {
+        "q": "Câu [2]",
+        "options": ["Moreover", "Instead", "Nonetheless", "Otherwise"],
+        "answer": 0,
+        "explain": "Câu này bổ sung thêm lợi ích (kiểm tra khung cửa miễn phí), nên dùng 'Moreover'."
+      },
+      {
+        "q": "Câu [3]",
+        "options": [
+          "Window frames are usually made of aluminum or wood.",
+          "Our company was recently purchased by a larger firm.",
+          "We also understand that your business cannot stop for us.",
+          "Residential customers should call our other number."
+        ],
+        "answer": 2,
+        "explain": "Câu sau nói đội làm việc sáng sớm hoặc ngoài giờ để không làm phiền nhân viên, nên câu trước hợp lý là 'doanh nghiệp của bạn không thể dừng lại vì chúng tôi'."
+      },
+      {
+        "q": "Câu [4]",
+        "options": ["make", "take", "put", "request"],
+        "answer": 3,
+        "explain": "'Request a free estimate' = yêu cầu báo giá miễn phí; khách hàng là người yêu cầu báo giá."
+      }
+    ]
+  },
+  {
+    "id": "p6-06",
+    "kind": "letter",
+    "title": "Letter: Membership renewal",
+    "text": "Dear Mr. Tanaka,\n\nThank you for being a member of the Coastal Business Association for the past three years. Your current membership will [1] on November 30. To continue enjoying the benefits of membership, please renew before that date.\n\nThis year, members who renew early will receive two free tickets to our annual leadership conference in February. [2] the conference, members also have access to monthly networking events and our online job board.\n\nYou can renew by visiting our Web site or by returning the enclosed form. [3] Should you have any questions, our membership office will be happy to [4] you.\n\nSincerely,\nPriya Raman\nMembership Coordinator",
+    "questions": [
+      {
+        "q": "Câu [1]",
+        "options": ["delay", "depart", "expire", "exceed"],
+        "answer": 2,
+        "explain": "'Membership will expire on November 30' = tư cách hội viên hết hạn vào 30/11, nên cần gia hạn trước ngày đó."
+      },
+      {
+        "q": "Câu [2]",
+        "options": ["Because of", "Instead of", "Despite", "In addition to"],
+        "answer": 3,
+        "explain": "Câu liệt kê thêm quyền lợi ngoài hội nghị ('also have access'), nên dùng 'In addition to'."
+      },
+      {
+        "q": "Câu [3]",
+        "options": [
+          "Payment can be made by credit card or bank transfer.",
+          "The leadership conference was held in Seattle last year.",
+          "We are sorry that you have decided to cancel your membership.",
+          "Mr. Tanaka was elected to the board in 2020."
+        ],
+        "answer": 0,
+        "explain": "Câu trước nói về cách gia hạn, nên câu tiếp theo về cách thanh toán là hợp lý. Ông Tanaka không hủy hội viên."
+      },
+      {
+        "q": "Câu [4]",
+        "options": ["assistance", "assist", "assisting", "assisted"],
+        "answer": 1,
+        "explain": "Sau 'happy to' cần động từ nguyên mẫu: 'happy to assist you'."
+      }
+    ]
+  },
+  {
+    "id": "p6-07",
+    "kind": "press release",
+    "title": "Press release: Norvale Electronics",
+    "text": "FOR IMMEDIATE RELEASE\n\nOSAKA (August 21) — Norvale Electronics announced today that it will open a research center in Kyoto early next year. The facility will focus on battery technology for electric scooters and other small vehicles. [1]\n\nThe center is expected to create approximately 200 jobs, most of them for engineers and laboratory technicians. Norvale has already begun [2] with several local universities to recruit recent graduates.\n\n\"Kyoto offers us access to talented researchers,\" said CEO Hiroshi Mori. \"[3], the city's transportation network makes it easy for our partners to visit.\"\n\nConstruction of the building was completed in June, and equipment is now being [4]. The center is scheduled to begin operations in February.",
+    "questions": [
+      {
+        "q": "Câu [1]",
+        "options": [
+          "Norvale's headquarters in Osaka will be sold next year.",
+          "Electric scooters are not allowed on Kyoto roads.",
+          "The company reported a loss for the third year in a row.",
+          "Demand for these vehicles has grown rapidly in recent years."
+        ],
+        "answer": 3,
+        "explain": "Câu này giải thích lý do công ty tập trung vào pin cho xe điện nhỏ: nhu cầu về loại xe này tăng nhanh."
+      },
+      {
+        "q": "Câu [2]",
+        "options": ["acting", "holding", "working", "doing"],
+        "answer": 2,
+        "explain": "'Begun working with several local universities' = bắt đầu hợp tác với các trường đại học."
+      },
+      {
+        "q": "Câu [3]",
+        "options": ["However", "Furthermore", "Otherwise", "On the contrary"],
+        "answer": 1,
+        "explain": "CEO nêu thêm một ưu điểm thứ hai của Kyoto (giao thông thuận tiện), nên dùng 'Furthermore'."
+      },
+      {
+        "q": "Câu [4]",
+        "options": ["installed", "installing", "install", "installation"],
+        "answer": 0,
+        "explain": "Bị động tiếp diễn 'is now being installed' cần quá khứ phân từ 'installed'."
+      }
+    ]
+  },
+  {
+    "id": "p6-08",
+    "kind": "web page",
+    "title": "Web page: Greenline Office Supplies returns",
+    "text": "Greenline Office Supplies — Return Policy\n\nWe want you to be completely satisfied with every purchase. If you are not, you may return most items within 30 days of [1]. Products must be unused and in their original packaging. [2]\n\nTo start a return, log in to your account and select the order you wish to return. You will receive a prepaid shipping label by e-mail. Refunds are usually [3] within five business days after we receive the item.\n\nPlease note that custom-printed products such as business cards and envelopes cannot be returned [4] they contain an error made by Greenline.",
+    "questions": [
+      {
+        "q": "Câu [1]",
+        "options": ["delivery", "deliver", "delivered", "deliverer"],
+        "answer": 0,
+        "explain": "Sau giới từ 'of' cần một danh từ; 'within 30 days of delivery' = trong 30 ngày kể từ khi giao hàng."
+      },
+      {
+        "q": "Câu [2]",
+        "options": [
+          "Our warehouse is located just outside Denver.",
+          "A copy of the receipt or the order number is also required.",
+          "Business cards can be printed in over 40 colors.",
+          "We will soon begin selling office furniture."
+        ],
+        "answer": 1,
+        "explain": "Câu trước nêu điều kiện trả hàng (chưa sử dụng, còn bao bì), nên câu bổ sung thêm một điều kiện nữa (cần hóa đơn hoặc mã đơn) là hợp lý."
+      },
+      {
+        "q": "Câu [3]",
+        "options": ["funded", "charged", "spent", "processed"],
+        "answer": 3,
+        "explain": "'Refunds are usually processed within five business days' = tiền hoàn thường được xử lý trong 5 ngày làm việc."
+      },
+      {
+        "q": "Câu [4]",
+        "options": ["because", "although", "unless", "so that"],
+        "answer": 2,
+        "explain": "Hàng in theo yêu cầu không được trả, trừ khi (unless) có lỗi do Greenline gây ra."
+      }
+    ]
+  }
+]

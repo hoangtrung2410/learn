@@ -1,0 +1,552 @@
+[
+  {
+    "id": "p2-01",
+    "prompt": "Where is the quarterly budget meeting being held?",
+    "options": [
+      "Yes, it was held last week.",
+      "In the conference room on the fifth floor.",
+      "About the marketing budget."
+    ],
+    "answer": 1,
+    "explain": "Hỏi Where → trả lời địa điểm \"in the conference room\". Bẫy: \"Yes\" không trả lời câu hỏi WH; \"budget\" lặp từ nhưng nói về nội dung."
+  },
+  {
+    "id": "p2-02",
+    "prompt": "When will the new printer be delivered?",
+    "options": [
+      "The printer in the lobby.",
+      "Sometime on Thursday morning.",
+      "Mostly color documents."
+    ],
+    "answer": 1,
+    "explain": "Hỏi When → \"Thursday morning\" là thời gian. Bẫy: \"The printer in the lobby\" lặp từ printer và trả lời Where/Which."
+  },
+  {
+    "id": "p2-03",
+    "prompt": "Who's in charge of ordering office supplies?",
+    "options": [
+      "Ms. Patel handles that now.",
+      "Some pens and paper.",
+      "Yes, I ordered them."
+    ],
+    "answer": 0,
+    "explain": "Hỏi Who → nêu người \"Ms. Patel\". Bẫy: \"pens and paper\" trả lời What; \"Yes\" không dùng cho câu hỏi WH."
+  },
+  {
+    "id": "p2-04",
+    "prompt": "Why was the flight to Singapore delayed?",
+    "options": [
+      "Gate fourteen, I think.",
+      "Because of a mechanical problem.",
+      "About two hours ago."
+    ],
+    "answer": 1,
+    "explain": "Hỏi Why → nêu lý do \"Because of a mechanical problem\". Bẫy: \"two hours ago\" trả lời When, \"Gate fourteen\" trả lời Where."
+  },
+  {
+    "id": "p2-05",
+    "prompt": "How did the client presentation go?",
+    "options": [
+      "Better than we expected.",
+      "She presented the awards.",
+      "By taxi, probably."
+    ],
+    "answer": 0,
+    "explain": "\"How did ... go?\" hỏi kết quả → \"Better than we expected\". Bẫy: \"By taxi\" hiểu nhầm How là phương tiện; \"presented\" lặp âm với presentation."
+  },
+  {
+    "id": "p2-06",
+    "prompt": "Have you finished reviewing the contract?",
+    "options": [
+      "I'm still working on the last section.",
+      "Yes, I'll review it next month.",
+      "The new contractor arrived."
+    ],
+    "answer": 0,
+    "explain": "Trả lời gián tiếp \"still working on the last section\" = chưa xong. Bẫy: \"contractor\" gần âm contract; \"Yes ... next month\" mâu thuẫn thì."
+  },
+  {
+    "id": "p2-07",
+    "prompt": "Would you like to meet on Tuesday or Wednesday?",
+    "options": [
+      "We met last Tuesday.",
+      "Either day works for me.",
+      "Yes, I'd like that."
+    ],
+    "answer": 1,
+    "explain": "Câu hỏi lựa chọn → \"Either day works for me\" (ngày nào cũng được). Bẫy: \"Yes\" không hợp câu hỏi A or B; \"met last Tuesday\" sai thì, lặp từ."
+  },
+  {
+    "id": "p2-08",
+    "prompt": "Didn't Mr. Kim already approve the travel request?",
+    "options": [
+      "Not yet—he's been out all week.",
+      "A round-trip ticket.",
+      "He travels a lot."
+    ],
+    "answer": 0,
+    "explain": "Câu hỏi phủ định → \"Not yet\" kèm lý do \"he's been out all week\". Bẫy: \"ticket\", \"travels\" chỉ liên tưởng/lặp từ travel."
+  },
+  {
+    "id": "p2-09",
+    "prompt": "Why don't we order lunch for the training session?",
+    "options": [
+      "That's a good idea—I'll call the caterer.",
+      "The session trained twenty people.",
+      "Because it was too long."
+    ],
+    "answer": 0,
+    "explain": "\"Why don't we...\" là lời đề nghị → đồng ý \"That's a good idea\". Bẫy: \"Because\" hiểu nhầm là câu hỏi lý do; \"trained\" lặp từ training."
+  },
+  {
+    "id": "p2-10",
+    "prompt": "Could you send me the updated sales figures?",
+    "options": [
+      "He sent it yesterday.",
+      "Sure, I'll e-mail them right after this call.",
+      "Sales were up in March."
+    ],
+    "answer": 1,
+    "explain": "Lời yêu cầu → \"Sure, I'll e-mail them\". Bẫy: \"Sales\" lặp từ; \"He sent it\" sai chủ ngữ và lặp từ send."
+  },
+  {
+    "id": "p2-11",
+    "prompt": "The elevator on the east side is out of order again.",
+    "options": [
+      "In alphabetical order.",
+      "She was in the elevator.",
+      "Let's use the stairs, then."
+    ],
+    "answer": 2,
+    "explain": "Câu trần thuật về thang máy hỏng → phản hồi hợp lý \"Let's use the stairs\". Bẫy: lặp \"elevator\" và \"order\" nhưng sai nghĩa."
+  },
+  {
+    "id": "p2-12",
+    "prompt": "You've worked with this supplier before, haven't you?",
+    "options": [
+      "No, I'll work late tonight.",
+      "The supply cabinet is full.",
+      "Yes, for about three years."
+    ],
+    "answer": 2,
+    "explain": "Câu hỏi đuôi → \"Yes, for about three years\". Bẫy: \"supply\" gần âm supplier; \"work late\" lặp từ work nhưng sai ý."
+  },
+  {
+    "id": "p2-13",
+    "prompt": "What time does the shuttle to the airport leave?",
+    "options": [
+      "Every thirty minutes, starting at six.",
+      "At the main entrance.",
+      "It's a short flight."
+    ],
+    "answer": 0,
+    "explain": "Hỏi What time → \"Every thirty minutes, starting at six\". Bẫy: \"main entrance\" trả lời Where; \"flight\" chỉ liên tưởng airport."
+  },
+  {
+    "id": "p2-14",
+    "prompt": "How many people signed up for the workshop?",
+    "options": [
+      "It's on Friday.",
+      "Over forty so far.",
+      "Sign here, please."
+    ],
+    "answer": 1,
+    "explain": "Hỏi How many → con số \"Over forty\". Bẫy: \"Sign\" lặp âm signed; \"on Friday\" trả lời When."
+  },
+  {
+    "id": "p2-15",
+    "prompt": "When is the report due?",
+    "options": [
+      "To the regional director.",
+      "Let me check with my manager.",
+      "It was a long report."
+    ],
+    "answer": 1,
+    "explain": "Trả lời gián tiếp \"Let me check with my manager\" (chưa biết, sẽ hỏi). Bẫy: lặp \"report\"; \"To the regional director\" trả lời Who/Where."
+  },
+  {
+    "id": "p2-16",
+    "prompt": "Which hotel are you staying at in Chicago?",
+    "options": [
+      "The one near the convention center.",
+      "I stayed at home.",
+      "For three nights."
+    ],
+    "answer": 0,
+    "explain": "Hỏi Which → \"The one near the convention center\". Bẫy: \"three nights\" trả lời How long; \"stayed\" lặp từ, sai thì."
+  },
+  {
+    "id": "p2-17",
+    "prompt": "Where can I find the replacement ink cartridges?",
+    "options": [
+      "I'll replace him next week.",
+      "They're quite expensive.",
+      "Try the cabinet next to the copier."
+    ],
+    "answer": 2,
+    "explain": "Hỏi Where → \"the cabinet next to the copier\". Bẫy: \"replace\" lặp âm replacement nhưng nói về người."
+  },
+  {
+    "id": "p2-18",
+    "prompt": "Is the cafeteria open on weekends?",
+    "options": [
+      "Open the window, please.",
+      "The café on Main Street.",
+      "Only on Saturdays until two."
+    ],
+    "answer": 2,
+    "explain": "Câu hỏi Yes/No trả lời gián tiếp \"Only on Saturdays\". Bẫy: \"café\" gần âm cafeteria; \"Open\" lặp từ nhưng là mệnh lệnh."
+  },
+  {
+    "id": "p2-19",
+    "prompt": "Should I print the handouts or just e-mail them?",
+    "options": [
+      "E-mailing them would save paper.",
+      "Twenty copies.",
+      "Yes, you should."
+    ],
+    "answer": 0,
+    "explain": "Câu hỏi lựa chọn → chọn một phương án \"E-mailing them would save paper\". Bẫy: \"Yes\" không trả lời câu A or B; \"Twenty copies\" trả lời How many."
+  },
+  {
+    "id": "p2-20",
+    "prompt": "I can't log in to the company network.",
+    "options": [
+      "Yes, the log was updated.",
+      "Did you try resetting your password?",
+      "A network of offices."
+    ],
+    "answer": 1,
+    "explain": "Nghe vấn đề không đăng nhập được → gợi ý \"resetting your password\". Bẫy: lặp \"network\", \"log\" nhưng sai nghĩa."
+  },
+  {
+    "id": "p2-21",
+    "prompt": "Who's going to replace Ms. Okafor when she retires?",
+    "options": [
+      "The board hasn't decided yet.",
+      "At the end of the year.",
+      "She tired quickly."
+    ],
+    "answer": 0,
+    "explain": "Trả lời gián tiếp \"hasn't decided yet\" (chưa biết ai). Bẫy: \"end of the year\" trả lời When; \"tired\" gần âm retires."
+  },
+  {
+    "id": "p2-22",
+    "prompt": "Aren't you attending the trade fair in Frankfurt?",
+    "options": [
+      "I had to cancel because of a deadline.",
+      "It was a fair price.",
+      "In the exhibition hall."
+    ],
+    "answer": 0,
+    "explain": "Câu phủ định → \"I had to cancel\" = không đi. Bẫy: \"fair\" đồng âm khác nghĩa (giá hợp lý); \"exhibition hall\" trả lời Where."
+  },
+  {
+    "id": "p2-23",
+    "prompt": "Would you mind covering my shift on Saturday?",
+    "options": [
+      "The cover was torn.",
+      "It shifted slightly.",
+      "Not at all—what time do you start?"
+    ],
+    "answer": 2,
+    "explain": "\"Would you mind...?\" → \"Not at all\" nghĩa là đồng ý giúp. Bẫy: \"cover\", \"shifted\" lặp từ nhưng khác nghĩa."
+  },
+  {
+    "id": "p2-24",
+    "prompt": "Why is the parking lot so empty today?",
+    "options": [
+      "About a hundred spaces.",
+      "It's a national holiday.",
+      "I parked near the gate."
+    ],
+    "answer": 1,
+    "explain": "Hỏi Why → lý do \"It's a national holiday\". Bẫy: \"a hundred spaces\" trả lời How many; \"parked\" lặp từ parking."
+  },
+  {
+    "id": "p2-25",
+    "prompt": "How long will the renovation take?",
+    "options": [
+      "The contractor estimates about six weeks.",
+      "In the lobby area.",
+      "It's very long."
+    ],
+    "answer": 0,
+    "explain": "Hỏi How long (thời gian) → \"about six weeks\". Bẫy: \"very long\" lặp từ long; \"lobby area\" trả lời Where."
+  },
+  {
+    "id": "p2-26",
+    "prompt": "What did you think of the new logo design?",
+    "options": [
+      "The designer's name is Ella.",
+      "I think it looks more modern.",
+      "At the design firm."
+    ],
+    "answer": 1,
+    "explain": "Hỏi ý kiến → \"it looks more modern\". Bẫy: \"designer's name\" trả lời Who; \"design firm\" trả lời Where."
+  },
+  {
+    "id": "p2-27",
+    "prompt": "Let's review the proposal once more before we submit it.",
+    "options": [
+      "Good idea—I'll book a meeting room.",
+      "It was submitted by mail.",
+      "He proposed last month."
+    ],
+    "answer": 0,
+    "explain": "Lời đề nghị → đồng ý \"Good idea\" và hành động tiếp. Bẫy: \"proposed\" gần âm; \"was submitted\" sai thì (chưa nộp)."
+  },
+  {
+    "id": "p2-28",
+    "prompt": "Did you get a chance to call the bank?",
+    "options": [
+      "On the river bank.",
+      "I'll take a chance.",
+      "Yes, they're sending the forms today."
+    ],
+    "answer": 2,
+    "explain": "\"Yes\" kèm kết quả cuộc gọi \"sending the forms today\". Bẫy: \"bank\" đồng âm khác nghĩa (bờ sông); lặp \"chance\"."
+  },
+  {
+    "id": "p2-29",
+    "prompt": "Where should I put these boxes?",
+    "options": [
+      "Since this morning.",
+      "Yes, they're heavy.",
+      "Just leave them by the door."
+    ],
+    "answer": 2,
+    "explain": "Hỏi Where → \"by the door\". Bẫy: \"Since this morning\" trả lời How long; \"Yes\" không dùng cho câu WH."
+  },
+  {
+    "id": "p2-30",
+    "prompt": "When did Mr. Russo join the company?",
+    "options": [
+      "Shortly after I did, I believe.",
+      "The legal department.",
+      "He'll join us for dinner."
+    ],
+    "answer": 0,
+    "explain": "Hỏi When (quá khứ) → \"Shortly after I did\". Bẫy: \"He'll join\" lặp từ và sai thì; \"legal department\" trả lời Which/Where."
+  },
+  {
+    "id": "p2-31",
+    "prompt": "The deadline's been extended, hasn't it?",
+    "options": [
+      "I'll extend the table.",
+      "An extension cord.",
+      "Yes, until next Friday."
+    ],
+    "answer": 2,
+    "explain": "Câu hỏi đuôi → \"Yes, until next Friday\". Bẫy: \"extension\", \"extend\" lặp âm nhưng sai nghĩa."
+  },
+  {
+    "id": "p2-32",
+    "prompt": "Do you want the window seat or the aisle seat?",
+    "options": [
+      "I don't mind either way.",
+      "Have a seat, please.",
+      "Yes, I do."
+    ],
+    "answer": 0,
+    "explain": "Câu hỏi lựa chọn → \"I don't mind either way\" (sao cũng được). Bẫy: \"Have a seat\" lặp từ; \"Yes, I do\" không trả lời A or B."
+  },
+  {
+    "id": "p2-33",
+    "prompt": "This invoice has the wrong amount on it.",
+    "options": [
+      "He invoiced them.",
+      "I'll contact the accounting department.",
+      "A large amount of paper."
+    ],
+    "answer": 1,
+    "explain": "Phản hồi vấn đề hóa đơn sai → \"I'll contact the accounting department\". Bẫy: lặp \"amount\", \"invoiced\"."
+  },
+  {
+    "id": "p2-34",
+    "prompt": "How often is the equipment inspected?",
+    "options": [
+      "Twice a year.",
+      "By a safety officer.",
+      "It's quite expensive."
+    ],
+    "answer": 0,
+    "explain": "Hỏi How often (tần suất) → \"Twice a year\". Bẫy: \"By a safety officer\" trả lời Who; \"expensive\" trả lời How much."
+  },
+  {
+    "id": "p2-35",
+    "prompt": "What's the fastest way to get to the convention center?",
+    "options": [
+      "It's the biggest center in town.",
+      "About a thousand attendees.",
+      "Take the subway—it's only two stops."
+    ],
+    "answer": 2,
+    "explain": "Hỏi cách đi nhanh nhất → \"Take the subway\". Bẫy: lặp \"center\"; \"a thousand attendees\" trả lời How many."
+  },
+  {
+    "id": "p2-36",
+    "prompt": "Can you help me set up the projector?",
+    "options": [
+      "The project starts in May.",
+      "He set the table.",
+      "Sure, give me one minute."
+    ],
+    "answer": 2,
+    "explain": "Lời nhờ → \"Sure, give me one minute\". Bẫy: \"project\" gần âm projector; \"set\" lặp từ nhưng sai ngữ cảnh."
+  },
+  {
+    "id": "p2-37",
+    "prompt": "Haven't the new employees received their ID badges yet?",
+    "options": [
+      "The badge reader at the door.",
+      "They should get them this afternoon.",
+      "Yes, I employed them."
+    ],
+    "answer": 1,
+    "explain": "Câu phủ định → \"should get them this afternoon\" = chưa nhận, chiều nay sẽ có. Bẫy: \"employed\" gần âm employees; lặp \"badge\"."
+  },
+  {
+    "id": "p2-38",
+    "prompt": "Why did you move the meeting to the afternoon?",
+    "options": [
+      "In Meeting Room B.",
+      "We moved offices last year.",
+      "The director's flight arrives late."
+    ],
+    "answer": 2,
+    "explain": "Hỏi Why → lý do gián tiếp \"The director's flight arrives late\". Bẫy: \"Meeting Room B\" trả lời Where; \"moved\" lặp từ."
+  },
+  {
+    "id": "p2-39",
+    "prompt": "Who left this umbrella in the lobby?",
+    "options": [
+      "It's raining heavily.",
+      "It might be Daniel's.",
+      "Left at the next corner."
+    ],
+    "answer": 1,
+    "explain": "Hỏi Who → \"It might be Daniel's\". Bẫy: \"raining\" chỉ liên tưởng umbrella; \"Left\" đồng âm (rẽ trái)."
+  },
+  {
+    "id": "p2-40",
+    "prompt": "Is there a discount for bulk orders?",
+    "options": [
+      "Order the soup.",
+      "I count them every day.",
+      "Only for orders over 500 units."
+    ],
+    "answer": 2,
+    "explain": "Câu Yes/No trả lời gián tiếp \"Only for orders over 500 units\". Bẫy: \"count\" gần âm discount; \"Order\" lặp từ."
+  },
+  {
+    "id": "p2-41",
+    "prompt": "How about hiring a temporary assistant for the busy season?",
+    "options": [
+      "I'll ask HR if we have the budget.",
+      "About three months.",
+      "The season changed."
+    ],
+    "answer": 0,
+    "explain": "Lời đề nghị → phản hồi gián tiếp \"I'll ask HR if we have the budget\". Bẫy: \"three months\" trả lời How long; lặp \"season\"."
+  },
+  {
+    "id": "p2-42",
+    "prompt": "When does the store close tonight?",
+    "options": [
+      "Close the door, please.",
+      "Near the train station.",
+      "At nine, the same as usual."
+    ],
+    "answer": 2,
+    "explain": "Hỏi When → \"At nine\". Bẫy: \"Close\" lặp từ nhưng là mệnh lệnh; \"Near the train station\" trả lời Where."
+  },
+  {
+    "id": "p2-43",
+    "prompt": "The client wants to move the deadline up by a week.",
+    "options": [
+      "A weekly report.",
+      "That won't give us much time.",
+      "Move it to the left."
+    ],
+    "answer": 1,
+    "explain": "Phản hồi tin hạn chót bị đẩy sớm → \"That won't give us much time\". Bẫy: lặp \"move\", \"weekly\" nhưng sai nghĩa."
+  },
+  {
+    "id": "p2-44",
+    "prompt": "Are you taking the bus or driving to the conference?",
+    "options": [
+      "The conference starts at ten.",
+      "My colleague is giving me a ride.",
+      "Yes, I'm going."
+    ],
+    "answer": 1,
+    "explain": "Câu lựa chọn trả lời phương án thứ ba \"My colleague is giving me a ride\". Bẫy: lặp \"conference\"; \"Yes\" không hợp câu A or B."
+  },
+  {
+    "id": "p2-45",
+    "prompt": "How much does it cost to rent the ballroom?",
+    "options": [
+      "For about 200 guests.",
+      "It's a beautiful room.",
+      "The price list is on our website."
+    ],
+    "answer": 2,
+    "explain": "Hỏi giá → trả lời gián tiếp \"The price list is on our website\". Bẫy: \"200 guests\" trả lời How many; lặp \"room\"."
+  },
+  {
+    "id": "p2-46",
+    "prompt": "Where did you put the signed agreements?",
+    "options": [
+      "Sign at the bottom.",
+      "They're in the top drawer of my desk.",
+      "Yes, we agreed."
+    ],
+    "answer": 1,
+    "explain": "Hỏi Where → \"in the top drawer of my desk\". Bẫy: \"agreed\", \"Sign\" lặp âm; \"Yes\" không dùng cho câu WH."
+  },
+  {
+    "id": "p2-47",
+    "prompt": "What's on the agenda for tomorrow's meeting?",
+    "options": [
+      "Yes, it's a long meeting.",
+      "Mainly the budget for next year.",
+      "Tomorrow at ten."
+    ],
+    "answer": 1,
+    "explain": "Hỏi What (nội dung) → \"Mainly the budget\". Bẫy: \"Tomorrow at ten\" trả lời When; \"Yes\" không dùng cho câu WH."
+  },
+  {
+    "id": "p2-48",
+    "prompt": "Will the software update affect our files?",
+    "options": [
+      "The IT team said everything will be backed up.",
+      "Software engineers.",
+      "It's up to date."
+    ],
+    "answer": 0,
+    "explain": "Trả lời gián tiếp \"everything will be backed up\" (dữ liệu an toàn). Bẫy: lặp \"software\"; \"up to date\" gần âm update."
+  },
+  {
+    "id": "p2-49",
+    "prompt": "Why don't you take the afternoon off?",
+    "options": [
+      "Because it's off.",
+      "In the afternoon.",
+      "Thanks, I think I will."
+    ],
+    "answer": 2,
+    "explain": "\"Why don't you...\" là lời gợi ý → \"Thanks, I think I will\". Bẫy: \"Because\" hiểu nhầm là hỏi lý do; lặp \"afternoon\"."
+  },
+  {
+    "id": "p2-50",
+    "prompt": "You're presenting at the board meeting, aren't you?",
+    "options": [
+      "A nice present.",
+      "The board was replaced.",
+      "Actually, Ms. Lee is doing it instead."
+    ],
+    "answer": 2,
+    "explain": "Câu hỏi đuôi → trả lời gián tiếp \"Ms. Lee is doing it instead\" = không phải tôi. Bẫy: \"present\" đồng âm (món quà); lặp \"board\"."
+  }
+]

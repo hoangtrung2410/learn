@@ -1,0 +1,850 @@
+[
+  {
+    "id": "p7s-01",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Email",
+        "title": "Order #58213",
+        "text": "To: Martin Reyes <mreyes@solanocafe.com>\nFrom: Hannah Liu <hliu@pacificpaperware.com>\nDate: April 8\nSubject: Order #58213\n\nDear Mr. Reyes,\n\nI am writing about your order of 5,000 compostable coffee cups, which was scheduled to ship today. Unfortunately, our factory had to stop production for two days last week after a machine broke down, and we are now behind schedule. Your order will ship on April 15 instead.\n\nI understand that you are opening a second café on April 12 and may need the cups before then. If so, we can send 1,000 cups from our current stock by express delivery at no extra cost. They are the same size, but they have a plain white design instead of your printed logo. The remaining 4,000 printed cups would follow on April 15.\n\nPlease let me know by tomorrow afternoon which option you prefer.\n\nBest regards,\nHannah Liu\nCustomer Service, Pacific Paperware"
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is the purpose of the e-mail?",
+        "options": [
+          "To confirm that an order has been delivered",
+          "To explain why a shipment will be late",
+          "To request payment for an invoice",
+          "To announce a new product line"
+        ],
+        "answer": 1,
+        "explain": "Đoạn 1 nói nhà máy phải dừng sản xuất nên đơn hàng sẽ giao ngày 15/4 thay vì hôm nay — email giải thích lý do giao trễ."
+      },
+      {
+        "q": "What does Ms. Liu offer to do?",
+        "options": [
+          "Cancel the order without a fee",
+          "Print a logo on plain cups",
+          "Give a discount on a future order",
+          "Send some cups quickly at no charge"
+        ],
+        "answer": 3,
+        "explain": "Đoạn 2: 'we can send 1,000 cups from our current stock by express delivery at no extra cost'."
+      },
+      {
+        "q": "What is suggested about Mr. Reyes?",
+        "options": [
+          "He is expanding his business.",
+          "He works for Pacific Paperware.",
+          "He has complained before.",
+          "He ordered cups with a white design."
+        ],
+        "answer": 0,
+        "explain": "Email nhắc 'you are opening a second café on April 12' — ông ấy đang mở rộng kinh doanh."
+      }
+    ]
+  },
+  {
+    "id": "p7s-02",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Text-message chain",
+        "title": "Daniel Kim and Rosa Mendes",
+        "text": "Daniel Kim (9:12 A.M.)\nI'm at the Hillcrest office for the client meeting, but the projector here won't connect to my laptop.\n\nRosa Mendes (9:14 A.M.)\nDid you bring the adapter from the supply cabinet?\n\nDaniel Kim (9:15 A.M.)\nI thought it was in my bag. It isn't.\n\nRosa Mendes (9:16 A.M.)\nThe reception desk there usually keeps a few. Ask for Paul.\n\nDaniel Kim (9:24 A.M.)\nGot one. It works now.\n\nRosa Mendes (9:25 A.M.)\nGreat. The clients should be arriving at 9:30, so you're just in time."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Why did Mr. Kim contact Ms. Mendes?",
+        "options": [
+          "He was running late for a meeting.",
+          "He could not find the client's office.",
+          "He was having a problem with equipment.",
+          "He needed a copy of a presentation."
+        ],
+        "answer": 2,
+        "explain": "Tin nhắn lúc 9:12: máy chiếu không kết nối được với laptop — vấn đề về thiết bị."
+      },
+      {
+        "q": "At 9:15 A.M., what does Mr. Kim most likely mean when he writes, \"It isn't\"?",
+        "options": [
+          "He did not remember the meeting time.",
+          "The projector is not working properly.",
+          "He does not have the adapter with him.",
+          "The supply cabinet was locked."
+        ],
+        "answer": 2,
+        "explain": "Ông ấy tưởng bộ chuyển đổi ở trong túi ('I thought it was in my bag'), nhưng không có — tức là không mang theo adapter."
+      }
+    ]
+  },
+  {
+    "id": "p7s-03",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Advertisement",
+        "title": "Summit Fitness",
+        "text": "Summit Fitness — Now Open in Lakeview!\n\nSummit Fitness is proud to announce the opening of our newest club at 220 Harbor Road. Members enjoy access to modern exercise machines, a heated indoor pool, and more than 40 group classes each week, including yoga, cycling, and strength training.\n\nOpening offer: Join before June 30 and pay no registration fee — a savings of $75. New members also receive two free sessions with a certified personal trainer.\n\nMonthly membership: $49 (single), $85 (family of up to four)\nHours: Monday–Friday, 5:30 A.M.–10:00 P.M.; Saturday–Sunday, 7:00 A.M.–8:00 P.M.\n\nFree parking is available in the garage beneath the building. Stop by for a tour or visit www.summitfitness.com to sign up online."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is being advertised?",
+        "options": [
+          "A new gym",
+          "A sporting goods store",
+          "A swimming competition",
+          "A personal training course"
+        ],
+        "answer": 0,
+        "explain": "Câu đầu: Summit Fitness thông báo khai trương câu lạc bộ mới với máy tập, hồ bơi và lớp nhóm — đó là phòng tập thể dục."
+      },
+      {
+        "q": "What is NOT mentioned about Summit Fitness?",
+        "options": [
+          "It offers group classes.",
+          "It has a pool.",
+          "It provides parking.",
+          "It sells sports clothing."
+        ],
+        "answer": 3,
+        "explain": "Quảng cáo có nhắc lớp nhóm, hồ bơi và bãi đỗ xe miễn phí, nhưng không nói gì về bán quần áo thể thao."
+      },
+      {
+        "q": "The word \"certified\" in paragraph 2, line 2, is closest in meaning to",
+        "options": ["experienced", "qualified", "friendly", "independent"],
+        "answer": 1,
+        "explain": "'Certified personal trainer' là huấn luyện viên có chứng chỉ, tức là đủ trình độ chuyên môn (qualified)."
+      }
+    ]
+  },
+  {
+    "id": "p7s-04",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Notice",
+        "title": "Notice to all tenants",
+        "text": "NOTICE TO ALL TENANTS — Maple Court Apartments\n\nThe water supply to Buildings B and C will be shut off on Wednesday, October 9, from 9:00 A.M. to 3:00 P.M. so that plumbers can replace an old main pipe. Building A will not be affected.\n\nWe recommend that residents store some water in advance for drinking and cooking. Bottled water will also be available free of charge in the management office during the shutdown.\n\nWhen the water is turned back on, it may look slightly brown for a few minutes. This is normal. Simply run your tap until the water is clear.\n\nIf you have questions, please call the management office at 555-0192.\n\nThank you,\nMaple Court Management"
+      }
+    ],
+    "questions": [
+      {
+        "q": "Why will the water be shut off?",
+        "options": [
+          "To allow a pipe to be replaced",
+          "To clean the water tanks",
+          "To inspect Building A",
+          "To install new taps in apartments"
+        ],
+        "answer": 0,
+        "explain": "Đoạn 1: nước bị cắt 'so that plumbers can replace an old main pipe'."
+      },
+      {
+        "q": "What are residents advised to do after the water is turned back on?",
+        "options": [
+          "Call the management office",
+          "Collect bottled water",
+          "Let the water run for a short time",
+          "Report any brown water"
+        ],
+        "answer": 2,
+        "explain": "Đoạn 3: 'Simply run your tap until the water is clear' — mở vòi cho nước chảy một lúc."
+      }
+    ]
+  },
+  {
+    "id": "p7s-05",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Article",
+        "title": "City approves bike-share program",
+        "text": "GREENVILLE (March 3) — The Greenville City Council voted on Tuesday to launch a bike-share program this summer. [1] Under the plan, 300 bicycles will be placed at 40 stations across the downtown area and near the university campus.\n\nUsers will be able to rent a bike through a mobile app for $2 per half hour or buy an annual pass for $60. [2] The program will be run by CycleNow, a company that operates similar systems in six other cities.\n\nCouncil member Teresa Ward, who proposed the plan, said it would reduce traffic and help residents who do not own cars. \"Many people live within three miles of where they work,\" she said. \"For them, a bike is often faster than a bus.\" [3]\n\nNot everyone supports the idea. Some downtown business owners worry that the stations will take away parking spaces. [4] The council has promised to review the station locations with these owners before installation begins in May."
+      }
+    ],
+    "questions": [
+      {
+        "q": "How much does an annual pass cost?",
+        "options": ["$2", "$60", "$40", "$300"],
+        "answer": 1,
+        "explain": "Đoạn 2: 'buy an annual pass for $60'."
+      },
+      {
+        "q": "What is indicated about CycleNow?",
+        "options": [
+          "It was founded by Ms. Ward.",
+          "It is based in Greenville.",
+          "It sells bicycles to universities.",
+          "It manages bike-share programs in other cities."
+        ],
+        "answer": 3,
+        "explain": "Đoạn 2: CycleNow là 'a company that operates similar systems in six other cities'."
+      },
+      {
+        "q": "What concern do some business owners have?",
+        "options": [
+          "Bicycles may be stolen.",
+          "Rental prices are too high.",
+          "The program will be delayed.",
+          "Parking may be reduced."
+        ],
+        "answer": 3,
+        "explain": "Đoạn 4: chủ doanh nghiệp lo rằng các trạm xe 'will take away parking spaces' — chỗ đỗ xe sẽ giảm."
+      },
+      {
+        "q": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n\"Students and seniors will receive a 25 percent discount on passes.\"",
+        "options": ["[1]", "[2]", "[3]", "[4]"],
+        "answer": 1,
+        "explain": "Câu về giảm giá vé phù hợp ngay sau câu nói về giá thuê và vé năm ($2, $60) ở vị trí [2]."
+      }
+    ]
+  },
+  {
+    "id": "p7s-06",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Invoice",
+        "title": "Brightwave Printing invoice",
+        "text": "BRIGHTWAVE PRINTING\n45 Elm Street, Dayton, OH 45402\n\nINVOICE #BW-2291\nDate: July 18\nBill to: Ortega & Lane Law Office, 112 Grant Avenue, Dayton\nPayment due: August 17\n\nItem | Quantity | Unit price | Total\nBusiness cards (double-sided) | 2,000 | $0.04 | $80.00\nLetterhead paper (with logo) | 1,500 sheets | $0.10 | $150.00\nPresentation folders | 300 | $1.20 | $360.00\nDesign revision (extra) | 1 | $45.00 | $45.00\n\nSubtotal: $635.00\nDiscount (returning customer, 10%): –$63.50\nTotal due: $571.50\n\nNote: The design revision was requested after the proof had been approved. Payments received after the due date will be charged a late fee of 2%. Thank you for your business!"
+      }
+    ],
+    "questions": [
+      {
+        "q": "Which item cost the most in total?",
+        "options": [
+          "Business cards",
+          "Letterhead paper",
+          "Presentation folders",
+          "Design revision"
+        ],
+        "answer": 2,
+        "explain": "Bìa hồ sơ (presentation folders) có tổng $360.00, cao nhất trong bảng."
+      },
+      {
+        "q": "What is suggested about Ortega & Lane Law Office?",
+        "options": [
+          "It has ordered from Brightwave before.",
+          "It paid the invoice in advance.",
+          "It designed its own business cards.",
+          "It is located in a different state."
+        ],
+        "answer": 0,
+        "explain": "Hóa đơn có dòng 'Discount (returning customer, 10%)' — khách hàng quay lại, tức là đã đặt hàng trước đây."
+      },
+      {
+        "q": "Why was an additional charge added?",
+        "options": [
+          "The order was delivered early.",
+          "A change was made after a proof was accepted.",
+          "Payment was received late.",
+          "Extra folders were ordered."
+        ],
+        "answer": 1,
+        "explain": "Ghi chú: 'The design revision was requested after the proof had been approved' — phí $45 cho chỉnh sửa sau khi đã duyệt bản in thử."
+      }
+    ]
+  },
+  {
+    "id": "p7s-07",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Online chat discussion",
+        "title": "Marketing team chat",
+        "text": "Sofia Petrov [10:31 A.M.]\nHi all. The printer just told me the trade show banners won't be ready until Thursday afternoon.\n\nJames Whitaker [10:33 A.M.]\nThat's cutting it close. We're driving to Chicago on Thursday morning.\n\nSofia Petrov [10:34 A.M.]\nExactly. I asked if they could ship them straight to the convention center instead.\n\nAmara Osei [10:36 A.M.]\nWill the center accept deliveries before the event starts?\n\nSofia Petrov [10:38 A.M.]\nI checked. They'll hold packages for exhibitors starting Wednesday, so Friday morning setup should be fine.\n\nJames Whitaker [10:40 A.M.]\nWhat about the brochures?\n\nAmara Osei [10:42 A.M.]\nAlready taken care of. They're boxed and sitting in my office.\n\nJames Whitaker [10:43 A.M.]\nPerfect. I'll put them in the van on Wednesday night."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is the main topic of the discussion?",
+        "options": [
+          "Choosing a new printing company",
+          "Planning a client dinner",
+          "Designing a brochure",
+          "Preparing materials for a trade show"
+        ],
+        "answer": 3,
+        "explain": "Cả cuộc trò chuyện bàn về băng rôn và tờ rơi cho hội chợ thương mại (trade show)."
+      },
+      {
+        "q": "At 10:33 A.M., what does Mr. Whitaker mean when he writes, \"That's cutting it close\"?",
+        "options": [
+          "He is worried there will not be enough time.",
+          "He thinks the banners are too expensive.",
+          "He wants to leave for Chicago earlier.",
+          "He believes the printer made an error."
+        ],
+        "answer": 0,
+        "explain": "Băng rôn xong chiều thứ Năm nhưng nhóm đi Chicago sáng thứ Năm — ông lo không kịp thời gian."
+      },
+      {
+        "q": "Where will the banners most likely be sent?",
+        "options": [
+          "To Ms. Petrov's office",
+          "To Mr. Whitaker's home",
+          "To the convention center",
+          "To the printing company's warehouse"
+        ],
+        "answer": 2,
+        "explain": "Lúc 10:34 và 10:38, cô Petrov nói sẽ gửi thẳng đến trung tâm hội nghị và nơi này nhận giữ hàng từ thứ Tư."
+      },
+      {
+        "q": "At 10:42 A.M., what does Ms. Osei most likely mean when she writes, \"Already taken care of\"?",
+        "options": [
+          "She has paid the printer.",
+          "She has booked a van.",
+          "The brochures are ready.",
+          "The setup schedule is finished."
+        ],
+        "answer": 2,
+        "explain": "Cô trả lời câu hỏi về tờ rơi và nói thêm 'They're boxed and sitting in my office' — tờ rơi đã sẵn sàng."
+      }
+    ]
+  },
+  {
+    "id": "p7s-08",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Memo",
+        "title": "Flexible working hours",
+        "text": "MEMO\nTo: All employees\nFrom: Rachel Brooks, Human Resources\nDate: January 6\nSubject: Flexible working hours\n\nFollowing the positive results of last year's trial in the accounting department, Vantor Insurance will introduce flexible working hours for all office staff beginning February 3. [1]\n\nUnder the new policy, employees may start work at any time between 7:00 and 10:00 A.M., provided that they complete eight hours each day. All staff must be present during our \"core hours\" of 10:00 A.M. to 3:00 P.M. [2]\n\nEmployees who wish to change their schedule must submit a request form to their manager by January 24. [3] Managers will try to approve all requests, but they may ask some employees to adjust their hours to make sure that each team has enough coverage.\n\nA detailed guide is attached to this memo. [4]"
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is the purpose of the memo?",
+        "options": [
+          "To announce a change in work schedules",
+          "To introduce a new department manager",
+          "To report the results of a survey",
+          "To explain a new insurance policy"
+        ],
+        "answer": 0,
+        "explain": "Đoạn 1: công ty sẽ áp dụng giờ làm việc linh hoạt cho toàn bộ nhân viên văn phòng từ 3/2."
+      },
+      {
+        "q": "By when must employees submit a request?",
+        "options": ["January 6", "February 3", "January 10", "January 24"],
+        "answer": 3,
+        "explain": "Đoạn 3: 'must submit a request form to their manager by January 24'."
+      },
+      {
+        "q": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n\"This is when most team meetings and client calls take place.\"",
+        "options": ["[1]", "[2]", "[3]", "[4]"],
+        "answer": 1,
+        "explain": "'This is when...' giải thích lý do của 'core hours' 10:00–15:00, nên đặt ngay sau câu đó ở vị trí [2]."
+      }
+    ]
+  },
+  {
+    "id": "p7s-09",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Form",
+        "title": "Harborview Hotel guest feedback form",
+        "text": "Harborview Hotel — Guest Feedback Form\n\nName: Ana Lucía Torres\nRoom: 512\nDates of stay: May 3–6\nPurpose of visit: Business\n\nPlease rate the following (1 = poor, 5 = excellent):\nCheck-in process: 5\nRoom cleanliness: 4\nRestaurant: 2\nFitness center: not used\nStaff friendliness: 5\n\nComments:\nThe front desk staff were wonderful, especially Marco, who helped me print documents for my meeting at the last minute. My room was comfortable, though the air conditioner was a little noisy. Breakfast was disappointing — the hot dishes were cold by 7:30 A.M., and there were few choices for guests who do not eat meat. I would stay here again, but I will probably eat elsewhere.\n\nMay we contact you about your comments? [X] Yes [ ] No"
+      }
+    ],
+    "questions": [
+      {
+        "q": "What did Ms. Torres rate the lowest?",
+        "options": [
+          "The restaurant",
+          "Room cleanliness",
+          "The fitness center",
+          "The check-in process"
+        ],
+        "answer": 0,
+        "explain": "Nhà hàng (Restaurant) chỉ được 2 điểm, thấp nhất; phòng gym thì cô không sử dụng."
+      },
+      {
+        "q": "What is indicated about Ms. Torres?",
+        "options": [
+          "She stayed at the hotel for a week.",
+          "She used the fitness center daily.",
+          "She received help from a hotel employee.",
+          "She does not want to be contacted."
+        ],
+        "answer": 2,
+        "explain": "Phần nhận xét: Marco ở quầy lễ tân đã giúp cô in tài liệu cho cuộc họp vào phút chót."
+      }
+    ]
+  },
+  {
+    "id": "p7s-10",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Web page",
+        "title": "Northgate Community College evening courses",
+        "text": "Northgate Community College — Continuing Education\n\nEvening Courses for Working Adults: Fall Semester\n\nOur evening program allows working professionals to build new skills without leaving their jobs. Classes meet once a week from 6:30 to 9:00 P.M. for ten weeks, starting September 15.\n\nPopular courses this fall:\n- Introduction to Digital Marketing (Mondays)\n- Business Spanish for Beginners (Tuesdays)\n- Financial Planning for Small Businesses (Wednesdays)\n- Project Management Basics (Thursdays)\n\nTuition is $320 per course. Students who register for two or more courses receive a 10 percent discount on their total tuition. Many local employers will reimburse employees for course fees; check with your human resources department for details.\n\nRegistration closes on September 5. Class sizes are limited to 25 students, so we encourage you to register early. Courses that do not reach a minimum of eight students may be canceled."
+      }
+    ],
+    "questions": [
+      {
+        "q": "For whom is the information intended?",
+        "options": [
+          "High school students",
+          "People who have full-time jobs",
+          "College instructors",
+          "Small business owners only"
+        ],
+        "answer": 1,
+        "explain": "Tiêu đề 'Evening Courses for Working Adults' và câu 'allows working professionals to build new skills without leaving their jobs'."
+      },
+      {
+        "q": "How can students reduce their tuition?",
+        "options": [
+          "By registering before September 5",
+          "By attending classes on Mondays",
+          "By working for the college",
+          "By taking more than one course"
+        ],
+        "answer": 3,
+        "explain": "'Students who register for two or more courses receive a 10 percent discount'."
+      },
+      {
+        "q": "What is suggested about the courses?",
+        "options": [
+          "They are taught online.",
+          "They last for fifteen weeks.",
+          "They are free for local employees.",
+          "Some may not take place."
+        ],
+        "answer": 3,
+        "explain": "Câu cuối: lớp không đủ tối thiểu 8 học viên 'may be canceled' — có thể bị hủy."
+      }
+    ]
+  },
+  {
+    "id": "p7s-11",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Email",
+        "title": "Interview for Sales Coordinator position",
+        "text": "To: Kevin Adeyemi\nFrom: Lena Hoffmann\nDate: November 2\nSubject: Interview for Sales Coordinator position\n\nDear Mr. Adeyemi,\n\nThank you for applying for the position of Sales Coordinator at Brennan Foods. We were impressed by your application and would like to invite you to an interview at our head office on Thursday, November 9, at 2:00 P.M.\n\nThe interview will last about an hour. You will meet with me and with Carlos Duarte, our regional sales manager. As part of the process, we will ask you to give a short presentation of no more than ten minutes on how you would promote one of our products to supermarket chains. You may choose any product from our current catalog, which is available on our Web site.\n\nPlease confirm your attendance by replying to this e-mail. If the proposed time is not convenient, let me know and I will do my best to accommodate you.\n\nKind regards,\nLena Hoffmann\nHuman Resources, Brennan Foods"
+      }
+    ],
+    "questions": [
+      {
+        "q": "Why was the e-mail sent?",
+        "options": [
+          "To offer Mr. Adeyemi a job",
+          "To schedule a job interview",
+          "To request a product catalog",
+          "To introduce a new sales manager"
+        ],
+        "answer": 1,
+        "explain": "Đoạn 1: 'would like to invite you to an interview... on Thursday, November 9' — mời và hẹn lịch phỏng vấn."
+      },
+      {
+        "q": "What is Mr. Adeyemi asked to prepare?",
+        "options": [
+          "A list of references",
+          "A written sales report",
+          "A brief presentation",
+          "A copy of his diploma"
+        ],
+        "answer": 2,
+        "explain": "Đoạn 2: anh ấy cần trình bày ngắn không quá 10 phút về cách quảng bá một sản phẩm."
+      },
+      {
+        "q": "The word \"accommodate\" in paragraph 3, line 2, is closest in meaning to",
+        "options": ["meet the needs of", "provide a room for", "hold", "include"],
+        "answer": 0,
+        "explain": "Trong ngữ cảnh đổi giờ phỏng vấn, 'accommodate you' nghĩa là đáp ứng nhu cầu/sắp xếp cho phù hợp với anh ấy."
+      }
+    ]
+  },
+  {
+    "id": "p7s-12",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Text-message chain",
+        "title": "Priya Nair and Tom Becker",
+        "text": "Priya Nair (2:05 P.M.)\nHi Tom, are you still at the warehouse?\n\nTom Becker (2:06 P.M.)\nYes, until 4. What's up?\n\nPriya Nair (2:07 P.M.)\nA customer just called. Order 7714 arrived with only 18 of the 20 chairs.\n\nTom Becker (2:09 P.M.)\nLet me check... You're right. Two were left on the loading dock by mistake.\n\nPriya Nair (2:10 P.M.)\nCan they go out today? The customer is setting up for an event tomorrow morning.\n\nTom Becker (2:12 P.M.)\nOur last truck has already left. I could drop them off on my way home, though. The address is near my place.\n\nPriya Nair (2:13 P.M.)\nThat would be a huge help. I'll let the customer know."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What problem does Ms. Nair mention?",
+        "options": [
+          "A customer canceled an order.",
+          "An order was incomplete.",
+          "Some chairs were damaged.",
+          "A delivery truck broke down."
+        ],
+        "answer": 1,
+        "explain": "Lúc 2:07: đơn 7714 chỉ đến 18 trên 20 chiếc ghế — đơn hàng bị thiếu."
+      },
+      {
+        "q": "At 2:13 P.M., what does Ms. Nair most likely mean when she writes, \"That would be a huge help\"?",
+        "options": [
+          "She wants Mr. Becker to stay at the warehouse.",
+          "She thinks a larger truck is needed.",
+          "She will deliver the chairs herself.",
+          "She accepts Mr. Becker's offer."
+        ],
+        "answer": 3,
+        "explain": "Câu này đáp lại lời đề nghị lúc 2:12 của Tom (tự mang ghế đến trên đường về nhà) — cô đồng ý với đề nghị đó."
+      }
+    ]
+  },
+  {
+    "id": "p7s-13",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Article",
+        "title": "Riverside Hotel reopens after major renovation",
+        "text": "Riverside Hotel Reopens After Major Renovation\nBy Michelle Grant\n\nPORTLAND — After eighteen months of construction, the historic Riverside Hotel reopened its doors last Friday. The 110-year-old building, which overlooks the Willamette River, now has 140 guest rooms, up from 96 before the renovation. [1]\n\nThe project cost an estimated $42 million and was led by architect Samuel Ito, who is known for his work restoring older buildings. \"Our goal was to keep the character of the original hotel while making it comfortable for today's travelers,\" Mr. Ito said. [2] Workers carefully repaired the marble floors in the lobby and restored the large windows facing the river.\n\nNew features include a rooftop restaurant, a business center, and meeting rooms that can hold up to 300 people. [3] General manager Olivia Chen said that the hotel has already received bookings for several conferences next spring.\n\nRoom rates start at $189 per night. [4]"
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is the article mainly about?",
+        "options": [
+          "The reopening of a hotel",
+          "The history of Portland",
+          "A new restaurant opening",
+          "An architecture competition"
+        ],
+        "answer": 0,
+        "explain": "Tiêu đề và câu đầu: khách sạn Riverside mở cửa trở lại sau 18 tháng cải tạo."
+      },
+      {
+        "q": "How many rooms did the hotel have before the renovation?",
+        "options": ["110", "140", "96", "300"],
+        "answer": 2,
+        "explain": "Đoạn 1: 'now has 140 guest rooms, up from 96 before the renovation'."
+      },
+      {
+        "q": "What is NOT mentioned as a new feature of the hotel?",
+        "options": [
+          "A rooftop restaurant",
+          "A business center",
+          "A swimming pool",
+          "Meeting rooms"
+        ],
+        "answer": 2,
+        "explain": "Đoạn 3 liệt kê nhà hàng sân thượng, trung tâm thương vụ và phòng họp; không có hồ bơi."
+      },
+      {
+        "q": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n\"The additional rooms were created by using space that had once been offices.\"",
+        "options": ["[1]", "[2]", "[3]", "[4]"],
+        "answer": 0,
+        "explain": "'The additional rooms' nhắc lại việc số phòng tăng từ 96 lên 140, nên đặt ngay sau câu đó ở vị trí [1]."
+      }
+    ]
+  },
+  {
+    "id": "p7s-14",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Notice",
+        "title": "MetroLink Blue Line service changes",
+        "text": "ATTENTION ALL PASSENGERS\nMetroLink Rail — Service Changes on the Blue Line\n\nFrom Saturday, August 2, to Sunday, August 10, there will be no train service between Central Station and Elmwood Station due to track maintenance. Free shuttle buses will replace trains on this section of the line. Buses will leave from the stops marked with yellow signs outside each station every 10 minutes.\n\nPlease allow up to 25 minutes of extra travel time. Trains will continue to run as usual between Elmwood Station and Airport Station.\n\nPassengers with bicycles should note that shuttle buses cannot carry bikes. We apologize for the inconvenience.\n\nFor real-time updates, download the MetroLink app or follow us on social media."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is the purpose of the notice?",
+        "options": [
+          "To announce new ticket prices",
+          "To introduce a new rail line",
+          "To advertise a mobile app",
+          "To inform passengers of a temporary change"
+        ],
+        "answer": 3,
+        "explain": "Thông báo nói tàu ngừng chạy giữa hai ga từ 2/8 đến 10/8 và thay bằng xe buýt — thay đổi tạm thời."
+      },
+      {
+        "q": "What is indicated about the shuttle buses?",
+        "options": [
+          "They will run every 25 minutes.",
+          "They will not allow bicycles.",
+          "They require a special ticket.",
+          "They will go to the airport."
+        ],
+        "answer": 1,
+        "explain": "Đoạn 3: 'shuttle buses cannot carry bikes'. Xe chạy mỗi 10 phút, còn 25 phút là thời gian đi thêm."
+      },
+      {
+        "q": "The word \"allow\" in paragraph 2, line 1, is closest in meaning to",
+        "options": ["plan for", "permit", "admit", "give"],
+        "answer": 0,
+        "explain": "'Allow up to 25 minutes of extra travel time' nghĩa là tính trước/dự trù thêm thời gian, tức 'plan for'."
+      }
+    ]
+  },
+  {
+    "id": "p7s-15",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Advertisement",
+        "title": "Fresh Plate Catering",
+        "text": "Fresh Plate Catering\n\nPlanning an office lunch, a product launch, or a retirement party? Let Fresh Plate take care of the food so you can focus on your guests.\n\nWe prepare every dish from scratch using vegetables from local farms. Choose from our seasonal menus or work with our chef to design a menu that suits your event and budget. Vegetarian, vegan, and gluten-free options are always available.\n\nWe serve groups of 10 to 500 people anywhere in the Brighton area, and our staff will set up, serve, and clean up afterward.\n\nBook any event for 50 or more guests before December 31 and receive a free dessert table.\n\nRequest a quote at www.freshplatecatering.com or call 555-0173."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is indicated about Fresh Plate Catering?",
+        "options": [
+          "It operates a restaurant downtown.",
+          "It only serves vegetarian food.",
+          "It can create custom menus.",
+          "It delivers food nationwide."
+        ],
+        "answer": 2,
+        "explain": "Đoạn 2: khách có thể 'work with our chef to design a menu that suits your event' — thực đơn theo yêu cầu."
+      },
+      {
+        "q": "How can customers receive a free dessert table?",
+        "options": [
+          "By ordering online",
+          "By booking a large event before a certain date",
+          "By choosing a seasonal menu",
+          "By hiring the company for two events"
+        ],
+        "answer": 1,
+        "explain": "'Book any event for 50 or more guests before December 31 and receive a free dessert table'."
+      }
+    ]
+  },
+  {
+    "id": "p7s-16",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Letter",
+        "title": "Hollins Medical Group",
+        "text": "Hollins Medical Group\n78 Cedar Lane\nAustin, TX 78701\n\nSeptember 12\n\nMs. Joanna Pryce\n402 Willow Drive\nAustin, TX 78704\n\nDear Ms. Pryce,\n\nOur records show that you are due for your annual health checkup. Because Dr. Alan Brooks has retired, your care will now be provided by Dr. Nina Castillo, who joined our practice in June. Dr. Castillo has more than fifteen years of experience in family medicine and speaks both English and Spanish.\n\nTo schedule an appointment, please call our office at 555-0136 or use the patient portal on our Web site. Appointments are available Monday through Saturday. Please arrive fifteen minutes early to complete a short health questionnaire, and bring an up-to-date list of any medications you are taking.\n\nWe look forward to seeing you soon.\n\nSincerely,\nHollins Medical Group Patient Services"
+      }
+    ],
+    "questions": [
+      {
+        "q": "Why was the letter sent to Ms. Pryce?",
+        "options": [
+          "To confirm a scheduled appointment",
+          "To request payment for a visit",
+          "To introduce a new office location",
+          "To remind her to book a checkup"
+        ],
+        "answer": 3,
+        "explain": "Câu đầu: 'you are due for your annual health checkup', và đoạn 2 hướng dẫn cách đặt lịch — nhắc cô đặt lịch khám."
+      },
+      {
+        "q": "What is mentioned about Dr. Castillo?",
+        "options": [
+          "She trained under Dr. Brooks.",
+          "She works only on Saturdays.",
+          "She opened the practice in June.",
+          "She can speak two languages."
+        ],
+        "answer": 3,
+        "explain": "Đoạn 1: bác sĩ Castillo 'speaks both English and Spanish'. Bà gia nhập (joined), không phải mở phòng khám vào tháng 6."
+      },
+      {
+        "q": "What is Ms. Pryce asked to bring?",
+        "options": [
+          "A completed questionnaire",
+          "A list of her medications",
+          "Her insurance card",
+          "A letter from Dr. Brooks"
+        ],
+        "answer": 1,
+        "explain": "Đoạn 2: 'bring an up-to-date list of any medications you are taking'. Bảng câu hỏi được điền tại phòng khám."
+      }
+    ]
+  },
+  {
+    "id": "p7s-17",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Online chat discussion",
+        "title": "Wilson Engineering team chat",
+        "text": "Marcus Hale [3:02 P.M.]\nQuick question: has anyone booked a room for Monday's meeting with the Zhao Group?\n\nElena Rossi [3:04 P.M.]\nNot yet. Conference Room A is free, but it only seats eight.\n\nMarcus Hale [3:05 P.M.]\nThey're bringing six people, and there are four of us.\n\nKenji Watanabe [3:07 P.M.]\nRoom C on the third floor holds fourteen. It's reserved Monday morning, though, until 11:30.\n\nMarcus Hale [3:08 P.M.]\nThe meeting starts at 1:00, so that works.\n\nElena Rossi [3:10 P.M.]\nI'll book Room C now. Should I order lunch too?\n\nMarcus Hale [3:11 P.M.]\nThey're flying in that morning, so I'd say yes.\n\nKenji Watanabe [3:12 P.M.]\nI'll set up the video screen. Their manager in Shanghai wants to join remotely.\n\nElena Rossi [3:15 P.M.]\nDone. Room C is ours from 12:30 to 4:00."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Why is Conference Room A not suitable?",
+        "options": [
+          "It is reserved on Monday.",
+          "It has no video screen.",
+          "It is too small for the group.",
+          "It is on a different floor."
+        ],
+        "answer": 2,
+        "explain": "Phòng A chỉ chứa 8 người (3:04), trong khi có 6 khách và 4 nhân viên = 10 người (3:05)."
+      },
+      {
+        "q": "At 3:08 P.M., what does Mr. Hale mean when he writes, \"so that works\"?",
+        "options": [
+          "Room C will be available in time.",
+          "The visitors can arrive early.",
+          "He can change the meeting time.",
+          "Lunch can be delivered at 11:30."
+        ],
+        "answer": 0,
+        "explain": "Phòng C bận đến 11:30 còn cuộc họp bắt đầu lúc 1:00, nên phòng sẽ trống kịp thời."
+      },
+      {
+        "q": "What is suggested about the visitors from the Zhao Group?",
+        "options": [
+          "They have visited Wilson Engineering before.",
+          "They will travel on the day of the meeting.",
+          "They will stay until the evening.",
+          "They requested a vegetarian lunch."
+        ],
+        "answer": 1,
+        "explain": "Lúc 3:11: 'They're flying in that morning' — họ bay đến vào sáng ngày họp."
+      },
+      {
+        "q": "What will Mr. Watanabe do?",
+        "options": [
+          "Book a conference room",
+          "Order lunch",
+          "Travel to Shanghai",
+          "Prepare equipment for a video call"
+        ],
+        "answer": 3,
+        "explain": "Lúc 3:12: 'I'll set up the video screen' vì quản lý ở Thượng Hải muốn tham gia từ xa."
+      }
+    ]
+  },
+  {
+    "id": "p7s-18",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Web page",
+        "title": "Lumen Home Appliances FAQ",
+        "text": "Lumen Home Appliances — Frequently Asked Questions\n\nHow long is the warranty on Lumen products?\nAll Lumen appliances come with a two-year warranty that covers parts and labor. Refrigerators and washing machines also have a ten-year warranty on the motor.\n\nDo I need to register my product?\nRegistration is not required for warranty service, but we recommend it. Registered customers receive reminders about filter changes and are notified of any safety recalls.\n\nWhat should I do if my appliance stops working?\nFirst, check the troubleshooting section of your user manual. If the problem continues, contact our service center at 1-800-555-0110 or submit a request online. Please have your model number and proof of purchase ready.\n\nCan I extend my warranty?\nYes. Within 60 days of purchase, you may buy a Lumen Care plan, which extends coverage for up to three additional years."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is the purpose of the Web page?",
+        "options": [
+          "To answer common customer questions",
+          "To advertise a new refrigerator",
+          "To announce a safety recall",
+          "To explain how to install an appliance"
+        ],
+        "answer": 0,
+        "explain": "Tiêu đề 'Frequently Asked Questions' — trang trả lời các câu hỏi thường gặp của khách hàng."
+      },
+      {
+        "q": "According to the Web page, what is a benefit of registering a product?",
+        "options": [
+          "A longer warranty",
+          "Free repairs",
+          "Notifications about recalls",
+          "A discount on filters"
+        ],
+        "answer": 2,
+        "explain": "Khách đã đăng ký 'are notified of any safety recalls' — được thông báo về thu hồi sản phẩm."
+      },
+      {
+        "q": "What is suggested about the Lumen Care plan?",
+        "options": [
+          "It is included with every purchase.",
+          "It covers only washing machines.",
+          "It cannot be purchased several months after buying a product.",
+          "It requires registration."
+        ],
+        "answer": 2,
+        "explain": "Gói Lumen Care chỉ mua được 'within 60 days of purchase', nên sau vài tháng thì không mua được nữa."
+      }
+    ]
+  },
+  {
+    "id": "p7s-19",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Memo",
+        "title": "New point-of-sale system",
+        "text": "MEMO\nTo: Kitchen and dining staff\nFrom: Andre Collins, Restaurant Manager\nDate: March 18\nRe: New point-of-sale system\n\nOn Monday, March 25, we will replace our old cash registers with a tablet-based ordering system. Servers will enter orders at the table, and the orders will appear immediately on a screen in the kitchen. This should reduce errors and shorten waiting times for our guests.\n\nA representative from the software company will lead two training sessions on Saturday, March 23, at 9:00 A.M. and 3:00 P.M., before and after the lunch shift. Attendance at one session is required for all servers and kitchen staff. You will be paid for the time.\n\nPlease sign up for a session on the sheet next to the staff room door."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is one reason for the change?",
+        "options": [
+          "To reduce mistakes in orders",
+          "To lower staff costs",
+          "To attract more customers at lunch",
+          "To replace broken tablets"
+        ],
+        "answer": 0,
+        "explain": "Đoạn 1: hệ thống mới 'should reduce errors and shorten waiting times'."
+      },
+      {
+        "q": "What are employees asked to do?",
+        "options": [
+          "Work an extra lunch shift",
+          "Download software on their phones",
+          "Contact the software company",
+          "Choose a training time"
+        ],
+        "answer": 3,
+        "explain": "Câu cuối: 'Please sign up for a session' — đăng ký một trong hai buổi đào tạo (9:00 hoặc 15:00)."
+      }
+    ]
+  },
+  {
+    "id": "p7s-20",
+    "kind": "single",
+    "docs": [
+      {
+        "type": "Email",
+        "title": "Office move",
+        "text": "To: All Staff\nFrom: Thomas Reed, Office Manager\nDate: June 4\nSubject: Office move\n\nHello everyone,\n\nAs you know, our team will move to the new office on Bayview Avenue at the end of this month. [1] The movers will arrive on Friday, June 28, at 4:00 P.M., and the new office will be ready for work on Monday, July 1.\n\nBefore the move, please pack the contents of your desk into the boxes that will be delivered next week. [2] Label each box with your name and your new desk number, which you will find on the attached floor plan.\n\nComputers and monitors will be moved by our IT staff, so please do not pack them yourself. [3] Simply turn them off and unplug all cables before you leave on Friday.\n\nIf you have any items that you no longer need, please put them in the recycling area by the kitchen. [4]\n\nThank you for your cooperation.\nThomas"
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is the purpose of the e-mail?",
+        "options": [
+          "To ask for volunteers to help with a move",
+          "To give instructions for an office move",
+          "To announce the opening of a new branch",
+          "To introduce new IT staff"
+        ],
+        "answer": 1,
+        "explain": "Email hướng dẫn nhân viên đóng thùng, dán nhãn và xử lý máy tính trước khi chuyển văn phòng."
+      },
+      {
+        "q": "What should employees do with their computers?",
+        "options": [
+          "Turn them off and disconnect them",
+          "Pack them in boxes",
+          "Bring them to the new office",
+          "Give them to the recycling area"
+        ],
+        "answer": 0,
+        "explain": "Đoạn 4: 'Simply turn them off and unplug all cables before you leave on Friday'."
+      },
+      {
+        "q": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n\"They will be connected and tested over the weekend.\"",
+        "options": ["[1]", "[2]", "[3]", "[4]"],
+        "answer": 2,
+        "explain": "'They' chỉ máy tính và màn hình do bộ phận IT chuyển, nên câu này đặt ngay sau câu đó ở vị trí [3]."
+      }
+    ]
+  }
+]

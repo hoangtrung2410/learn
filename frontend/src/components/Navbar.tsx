@@ -22,12 +22,13 @@ import {
   Moon,
   Sparkles,
   Newspaper,
+  Trophy,
 } from 'lucide-react';
 import { FREE_MODE } from '../lib/api';
 import { CLOUD_AUTH } from '../lib/cloud';
 import { playPopSound } from '../utils/audio';
 
-export type AppNavTab = 'home' | 'learn' | 'study' | 'hsk-prep' | 'english-vocab' | 'speaking' | 'roleplay' | 'pinyin' | 'pricing' | 'dictionary' | 'reading' | 'account' | 'admin' | 'legal';
+export type AppNavTab = 'home' | 'learn' | 'toeic' | 'study' | 'hsk-prep' | 'english-vocab' | 'speaking' | 'roleplay' | 'pinyin' | 'pricing' | 'dictionary' | 'reading' | 'account' | 'admin' | 'legal';
 
 interface NavbarProps {
   currentLang: LanguageCode;
@@ -270,6 +271,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               { tab: 'hsk-prep', label: 'Ôn Thi HSK 1-6', icon: GraduationCap, show: currentLang === 'zh' },
               { tab: 'english-vocab', label: 'Từ Vựng A1-C1', icon: GraduationCap, show: currentLang === 'en' },
               { tab: 'study', label: 'Ôn Luyện & Đề Thi', icon: GraduationCap, show: currentLang === 'zh' || currentLang === 'en' },
+              { tab: 'toeic', label: 'Luyện Thi TOEIC', icon: Trophy, show: currentLang === 'en' },
               { tab: 'speaking', label: 'Luyện Phát Âm AI', icon: Volume2, show: true },
               { tab: 'roleplay', label: 'Hội Thoại 1-1', icon: MessagesSquare, show: true },
               { tab: 'pinyin', label: 'Pinyin 4 Thanh', icon: Compass, show: currentLang === 'zh' },
@@ -487,6 +489,11 @@ export const Navbar: React.FC<NavbarProps> = ({
           {(currentLang === 'zh' || currentLang === 'en') && (
             <button onClick={() => onChangeTab('study')} className={`px-3 py-1.5 rounded-xl font-bold flex items-center gap-1 whitespace-nowrap transition-all ${activeTab === 'study' ? 'bg-sky-500 text-slate-950' : 'text-sky-400'}`}>
               <GraduationCap className="w-3.5 h-3.5" /> Ôn Luyện
+            </button>
+          )}
+          {currentLang === 'en' && (
+            <button onClick={() => onChangeTab('toeic')} className={`px-3 py-1.5 rounded-xl font-bold flex items-center gap-1 whitespace-nowrap transition-all ${activeTab === 'toeic' ? 'bg-amber-500 text-slate-950' : 'text-amber-400'}`}>
+              <Trophy className="w-3.5 h-3.5" /> TOEIC
             </button>
           )}
           <button onClick={() => onChangeTab('speaking')} className={`px-3 py-1.5 rounded-xl font-bold flex items-center gap-1 whitespace-nowrap transition-all ${activeTab === 'speaking' ? 'bg-blue-600 text-white' : 'text-slate-400'}`}>

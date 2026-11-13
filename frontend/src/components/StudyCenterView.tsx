@@ -488,9 +488,9 @@ function fullSpecs(lang: 'zh' | 'en', level: string): FullSpec[] {
   }
   if (lang === 'en') {
     out.push({
-      label: 'TOEIC (100 câu)',
+      label: 'TOEIC Part 5 (100 câu)',
       filter: (q) => q.type === 'toeic',
-      parts: [{ name: 'Reading — Part 5/6/7', types: ['toeic'], n: 100 }],
+      parts: [{ name: 'Reading — Part 5 (điền từ vào câu)', types: ['toeic'], n: 100 }],
       minutes: 75,
     });
     out.push({

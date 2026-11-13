@@ -1,0 +1,512 @@
+[
+  {
+    "id": "p7d-01",
+    "kind": "double",
+    "docs": [
+      {
+        "type": "Advertisement",
+        "title": "Harborview Workspace — Now Open in the Riverside District",
+        "text": "Looking for a professional place to work without the commitment of a long-term lease? Harborview Workspace offers flexible memberships designed for freelancers, start-ups, and remote teams.\n\nMembership options:\nFlex Desk — $180/month: access to any open desk, Monday to Friday, 8 A.M.–6 P.M.\nDedicated Desk — $290/month: your own desk with a lockable cabinet, 24-hour access\nPrivate Office (up to 4 people) — $850/month: furnished office, 24-hour access, 10 free meeting-room hours per month\n\nAll members enjoy high-speed Internet, complimentary coffee, and mail handling. Members who sign a six-month agreement before June 30 will receive their first month at half price. Tours are available daily; book one at www.harborviewworkspace.com/tour."
+      },
+      {
+        "type": "Email",
+        "title": "Subject: Membership inquiry",
+        "text": "From: Daniel Okafor\nTo: memberships@harborviewworkspace.com\nDate: June 22\n\nHello,\n\nI toured your facility last Thursday and was impressed by its bright, quiet atmosphere. I run a small graphic design studio with two colleagues, and we currently work from our homes. We would like a space where we can meet clients and keep our equipment secure overnight, since one of us often works late.\n\nBefore I commit, I have two questions. First, if we need more than the included meeting-room hours, what is the hourly rate for additional time? Second, would it be possible to move into a larger office later in the year if we hire another designer?\n\nI would like to sign a six-month agreement this week so that we can take advantage of your current promotion. Please let me know what documents I need to bring.\n\nBest regards,\nDaniel Okafor\nOkafor Design Studio"
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is indicated about Harborview Workspace?",
+        "options": ["It handles mail for its members.", "It is located next to a train station.", "It recently expanded its building.", "It offers discounts to students."],
+        "answer": 0,
+        "explain": "Quảng cáo ghi tất cả thành viên được hưởng \"mail handling\" (xử lý thư từ)."
+      },
+      {
+        "q": "Why did Mr. Okafor write the email?",
+        "options": ["To schedule a tour of the facility", "To ask for information before signing up", "To complain about the noise in the building", "To cancel his current membership"],
+        "answer": 1,
+        "explain": "Trong email, ông Okafor nói \"Before I commit, I have two questions\" — ông hỏi thông tin trước khi đăng ký."
+      },
+      {
+        "q": "Which membership will Mr. Okafor most likely choose?",
+        "options": ["Flex Desk", "Dedicated Desk", "Private Office", "A daily pass"],
+        "answer": 2,
+        "explain": "Email cho biết nhóm có 3 người, cần gặp khách hàng và làm việc khuya; quảng cáo cho thấy chỉ Private Office (tối đa 4 người) có giờ phòng họp miễn phí và truy cập 24 giờ."
+      },
+      {
+        "q": "What will Mr. Okafor's studio most likely receive if he signs this week?",
+        "options": ["Free storage for equipment", "A larger office at no extra cost", "Ten additional meeting-room hours", "A reduced price for the first month"],
+        "answer": 3,
+        "explain": "Email viết ngày 22/6 và ông muốn ký hợp đồng 6 tháng; quảng cáo nói ký hợp đồng 6 tháng trước 30/6 được giảm nửa giá tháng đầu."
+      },
+      {
+        "q": "In the email, the word \"commit\" in paragraph 2, line 1, is closest in meaning to",
+        "options": ["promise", "make a final decision", "hand over", "perform"],
+        "answer": 1,
+        "explain": "\"Before I commit\" nghĩa là trước khi tôi quyết định/cam kết đăng ký, tức \"make a final decision\"."
+      }
+    ]
+  },
+  {
+    "id": "p7d-02",
+    "kind": "double",
+    "docs": [
+      {
+        "type": "Invoice",
+        "title": "Brightline Office Supplies — Invoice #BL-40712",
+        "text": "Customer: Marlow Accounting Group, 55 Fenwick Street\nOrder date: March 3     Delivery date: March 6\n\nItem                                   Qty   Unit price   Total\nPrinter paper (A4, box of 5 reams)      10    $32.00       $320.00\nBlack toner cartridge (TX-90)            4    $68.00       $272.00\nDesk organizer, mesh                    12    $9.50        $114.00\nErgonomic office chair (Model C2)        3    $145.00      $435.00\n\nSubtotal: $1,141.00\nDelivery fee: $0.00 (free for orders over $500)\nTotal due: $1,141.00\n\nPayment is due within 30 days of delivery. Items may be returned in their original packaging within 14 days of delivery for a full refund. Questions? Contact Customer Care at 555-0148 or care@brightline.com."
+      },
+      {
+        "type": "Email",
+        "title": "Subject: Invoice #BL-40712",
+        "text": "From: Priya Raman\nTo: care@brightline.com\nDate: March 8\n\nDear Customer Care,\n\nOur order arrived on schedule on March 6, and most of the items were in excellent condition. However, I noticed two problems when checking the shipment against your invoice.\n\nFirst, we were charged for twelve desk organizers, but only eight were delivered. Second, one of the office chairs has a broken armrest. Our office manager has kept it in its original box.\n\nI would appreciate it if you could send the missing organizers and arrange for the damaged chair to be collected and replaced. Alternatively, please issue a revised invoice reflecting the correct amount. We will hold payment until this matter is resolved, although I am confident it can be settled well before the deadline.\n\nKind regards,\nPriya Raman\nOffice Administrator, Marlow Accounting Group"
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is indicated on the invoice?",
+        "options": ["Customers must pay within 14 days.", "The order included a delivery charge.", "Delivery is free for orders above a certain amount.", "Toner cartridges are sold in boxes of five."],
+        "answer": 2,
+        "explain": "Hóa đơn ghi \"Delivery fee: $0.00 (free for orders over $500)\" — miễn phí giao hàng cho đơn trên 500 đô."
+      },
+      {
+        "q": "What problem does Ms. Raman mention?",
+        "options": ["Some items were missing from the delivery.", "The shipment arrived later than expected.", "The paper was the wrong size.", "The toner cartridges did not fit the printer."],
+        "answer": 0,
+        "explain": "Trong email, bà Raman nói bị tính tiền 12 khay để bàn nhưng chỉ nhận được 8 cái."
+      },
+      {
+        "q": "By how much was Marlow Accounting Group overcharged for the desk organizers?",
+        "options": ["$9.50", "$19.00", "$28.50", "$38.00"],
+        "answer": 3,
+        "explain": "Email cho biết thiếu 4 khay (12 − 8); hóa đơn ghi đơn giá $9.50, nên bị tính dư 4 × $9.50 = $38.00."
+      },
+      {
+        "q": "What is suggested about the damaged chair?",
+        "options": ["It was ordered by mistake.", "It qualifies for a full refund.", "It was delivered after March 6.", "It is a different model from the one ordered."],
+        "answer": 1,
+        "explain": "Hóa đơn cho phép trả hàng còn nguyên bao bì trong 14 ngày để được hoàn tiền; email (ngày 8/3) cho biết ghế vẫn được giữ trong hộp gốc."
+      },
+      {
+        "q": "In the email, the word \"settled\" in paragraph 3, line 4, is closest in meaning to",
+        "options": ["moved", "paid", "resolved", "occupied"],
+        "answer": 2,
+        "explain": "\"It can be settled\" ở đây chỉ vấn đề (matter) được giải quyết, tức \"resolved\"."
+      }
+    ]
+  },
+  {
+    "id": "p7d-03",
+    "kind": "double",
+    "docs": [
+      {
+        "type": "Web page",
+        "title": "Careers at Ventora Logistics — Regional Operations Coordinator",
+        "text": "Ventora Logistics, a fast-growing freight company with warehouses in five cities, is seeking a Regional Operations Coordinator for its Da Nang office.\n\nResponsibilities:\n- Coordinate daily shipments between warehouses and clients\n- Prepare weekly performance reports for the regional director\n- Train new warehouse staff on safety procedures\n\nRequirements:\n- At least three years of experience in logistics or supply chain management\n- Strong spreadsheet skills; knowledge of RouteMax software is an advantage\n- Fluency in English; a second Asian language is preferred\n- Willingness to travel to other branches up to six days per month\n\nApplications, including a résumé and cover letter, must be submitted by October 15. Interviews will be held during the week of October 27."
+      },
+      {
+        "type": "Letter",
+        "title": "Application for Regional Operations Coordinator",
+        "text": "October 10\n\nDear Hiring Manager,\n\nI am writing to apply for the Regional Operations Coordinator position advertised on your Web site. For the past four years, I have worked as a shipping supervisor at Cao Phong Distribution, where I oversee the movement of goods for more than forty clients and produce monthly reports for senior management.\n\nIn my current role, I redesigned our warehouse orientation program, which reduced workplace accidents by 30 percent within a year. I use spreadsheets every day, and although I have not worked with RouteMax, I recently completed an online course in a similar routing program. In addition to Vietnamese and English, I speak conversational Korean.\n\nI understand that the position requires regular travel, and I am happy to visit other branches as needed. I would welcome the opportunity to discuss my qualifications during your interview week.\n\nSincerely,\nLin Tuyet Mai"
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is NOT listed as a responsibility of the position?",
+        "options": ["Coordinating shipments", "Preparing weekly reports", "Training new staff", "Negotiating contracts with suppliers"],
+        "answer": 3,
+        "explain": "Trang tuyển dụng chỉ liệt kê điều phối hàng, làm báo cáo hằng tuần và đào tạo nhân viên mới; không có đàm phán hợp đồng."
+      },
+      {
+        "q": "What is indicated about Ventora Logistics?",
+        "options": ["Its headquarters are in Da Nang.", "It recently merged with another company.", "It has warehouses in several cities.", "It is hiring several coordinators."],
+        "answer": 2,
+        "explain": "Trang web giới thiệu Ventora là công ty vận tải \"with warehouses in five cities\"."
+      },
+      {
+        "q": "Which responsibility is Ms. Lin's work on the orientation program most relevant to?",
+        "options": ["Training new warehouse staff on safety", "Coordinating daily shipments", "Preparing reports for the regional director", "Traveling to other branches"],
+        "answer": 0,
+        "explain": "Thư xin việc nói cô thiết kế lại chương trình định hướng giúp giảm 30% tai nạn; trang tuyển dụng có nhiệm vụ đào tạo nhân viên mới về an toàn."
+      },
+      {
+        "q": "What is suggested about Ms. Lin?",
+        "options": ["She has less experience than the job requires.", "She lacks experience with one preferred software program.", "She is unwilling to travel for work.", "She submitted her application after the deadline."],
+        "answer": 1,
+        "explain": "Trang tuyển dụng nói biết phần mềm RouteMax là lợi thế; trong thư, cô Lin thừa nhận chưa từng dùng RouteMax."
+      },
+      {
+        "q": "In the letter, the word \"oversee\" in paragraph 1, line 3, is closest in meaning to",
+        "options": ["supervise", "overlook", "ignore", "inspect closely"],
+        "answer": 0,
+        "explain": "\"Oversee the movement of goods\" nghĩa là giám sát, quản lý việc vận chuyển hàng, tức \"supervise\"."
+      }
+    ]
+  },
+  {
+    "id": "p7d-04",
+    "kind": "double",
+    "docs": [
+      {
+        "type": "Schedule",
+        "title": "Annual Staff Training Day — Thursday, May 14, Glenmoor Conference Center",
+        "text": "9:00–9:30     Welcome remarks — Helen Duarte, CEO (Main Hall)\n9:45–11:15    Session A: Managing Customer Complaints — Room 2\n9:45–11:15    Session B: Introduction to the New Expense System — Room 3\n11:30–12:30   Session C: Data Privacy Essentials — Main Hall\n12:30–1:30    Lunch — Garden Terrace\n1:30–3:00     Session D: Leading Effective Meetings — Room 2\n1:30–3:00     Session E: Advanced Spreadsheet Techniques — Room 3\n3:15–4:00     Closing panel and Q&A — Main Hall\n\nAll employees must attend Session C. Participants should choose one morning session (A or B) and one afternoon session (D or E). Please register through the staff portal by May 7."
+      },
+      {
+        "type": "Memo",
+        "title": "Subject: Training Day",
+        "text": "To: All Finance Department Staff\nFrom: Robert Iqbal, Finance Director\nDate: May 4\n\nAs you know, our company will roll out a new expense reporting system on June 1. Because our department will be responsible for approving every claim submitted through the system, I am asking all finance staff to attend the morning session on the new system rather than the other option.\n\nFor the afternoon, you may choose whichever session you prefer. However, those who plan to apply for the senior analyst openings next quarter may find the spreadsheet workshop especially useful.\n\nPlease note that the Garden Terrace is undergoing repairs, so lunch has been moved to the second-floor dining room. Also, the shuttle bus to Glenmoor will leave our main office at 8:15 A.M. If you have any questions, please contact my assistant, Anna Feld."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is true about Session C?",
+        "options": ["It is optional for most employees.", "It is required for all employees.", "It will take place in Room 3.", "It will be led by the CEO."],
+        "answer": 1,
+        "explain": "Lịch trình ghi \"All employees must attend Session C\" — tất cả nhân viên bắt buộc tham dự."
+      },
+      {
+        "q": "Where will finance staff most likely be from 9:45 to 11:15?",
+        "options": ["In the Main Hall", "In Room 2", "On the Garden Terrace", "In Room 3"],
+        "answer": 3,
+        "explain": "Bản ghi nhớ yêu cầu nhân viên tài chính dự buổi sáng về hệ thống chi phí mới; theo lịch, đó là Session B ở Room 3."
+      },
+      {
+        "q": "According to the memo, what will happen on June 1?",
+        "options": ["A training day will be held.", "Senior analyst positions will be advertised.", "A new expense system will be introduced.", "The shuttle bus schedule will change."],
+        "answer": 2,
+        "explain": "Bản ghi nhớ nói công ty sẽ triển khai hệ thống báo cáo chi phí mới vào ngày 1/6."
+      },
+      {
+        "q": "What information on the schedule is no longer correct?",
+        "options": ["The location of lunch", "The time of the welcome remarks", "The date of the event", "The registration deadline"],
+        "answer": 0,
+        "explain": "Lịch trình ghi ăn trưa ở Garden Terrace, nhưng bản ghi nhớ cho biết đã chuyển xuống phòng ăn tầng hai vì Garden Terrace đang sửa chữa."
+      },
+      {
+        "q": "In the memo, the phrase \"roll out\" in paragraph 1, line 1, is closest in meaning to",
+        "options": ["cancel", "review", "postpone", "launch"],
+        "answer": 3,
+        "explain": "\"Roll out a new system\" nghĩa là đưa vào sử dụng, ra mắt — tức \"launch\"."
+      }
+    ]
+  },
+  {
+    "id": "p7t-01",
+    "kind": "triple",
+    "docs": [
+      {
+        "type": "Web page",
+        "title": "Lakeside Community Arts Center — Spring Pottery Courses",
+        "text": "Discover the joy of working with clay! Our spring courses run for eight weeks, beginning April 6. Class sizes are limited to ten students so that instructors can give individual attention.\n\nBeginner Wheel Throwing — Mondays, 6:00–8:30 P.M. — Instructor: Sofia Brandt — $240\nHand-Building Techniques — Wednesdays, 10:00 A.M.–12:30 P.M. — Instructor: Kenji Morita — $210\nGlazing and Decoration — Thursdays, 6:00–8:30 P.M. — Instructor: Sofia Brandt — $260\nWeekend Studio for Families — Saturdays, 9:00–11:00 A.M. — Instructor: Amara Cole — $180\n\nAll fees include clay and firing. Members of the arts center receive a 15 percent discount on course fees. Registration closes March 30; refunds are available until the first class."
+      },
+      {
+        "type": "Form",
+        "title": "Course Registration Form",
+        "text": "Name: Gregory Walsh\nE-mail: gwalsh@mailpoint.net\nCourse selected: Glazing and Decoration\nArts center member: Yes (membership no. 2291)\nPrevious pottery experience: Completed Beginner Wheel Throwing last autumn\nPayment method: Credit card\n\nComments: I work until 6:00 on Thursdays and may arrive about 15 minutes late to some classes. Is that a problem? Also, I would like to know whether I can bring pieces I made last term to glaze in this course."
+      },
+      {
+        "type": "Email",
+        "title": "Subject: Your registration",
+        "text": "From: Sofia Brandt\nTo: Gregory Walsh\nDate: March 25\n\nDear Mr. Walsh,\n\nThank you for signing up for my course. It's nice to hear from a former student! Arriving a little late is fine; I spend the first 20 minutes of each session demonstrating a technique, and I'll be glad to recap anything you miss.\n\nAs for your earlier work, you are welcome to bring up to three pieces, provided they have already been fired once. Unfired clay cannot be glazed safely in our kilns.\n\nOne more thing: we will be using a new set of lead-free glazes this spring, so please do not bring glazes from home. I look forward to seeing you on the first evening.\n\nBest wishes,\nSofia Brandt"
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is indicated about the pottery courses?",
+        "options": ["Materials are included in the fee.", "They are all taught by the same instructor.", "They all meet on weekends.", "They are intended only for experienced students."],
+        "answer": 0,
+        "explain": "Trang web ghi \"All fees include clay and firing\" — học phí đã bao gồm đất sét và nung."
+      },
+      {
+        "q": "How much will Mr. Walsh most likely pay for his course?",
+        "options": ["$204", "$210", "$221", "$260"],
+        "answer": 2,
+        "explain": "Phiếu đăng ký cho thấy ông chọn Glazing and Decoration ($260) và là hội viên; trang web nói hội viên được giảm 15%, nên 260 × 0,85 = $221."
+      },
+      {
+        "q": "What is suggested about Mr. Walsh?",
+        "options": ["He recently became a member of the arts center.", "He has previously been taught by Ms. Brandt.", "He prefers classes held in the morning.", "He works at the Lakeside Community Arts Center."],
+        "answer": 1,
+        "explain": "Phiếu đăng ký nói ông đã học Beginner Wheel Throwing; trang web cho biết lớp đó do Sofia Brandt dạy, và email của bà gọi ông là \"former student\"."
+      },
+      {
+        "q": "What is NOT mentioned in Ms. Brandt's email?",
+        "options": ["A demonstration at the start of each session", "A limit on the number of earlier pieces", "A rule about glazes from home", "A change to the course start date"],
+        "answer": 3,
+        "explain": "Email nhắc đến phần trình diễn đầu buổi, giới hạn 3 sản phẩm và quy định không mang men từ nhà; không hề nói đổi ngày khai giảng."
+      },
+      {
+        "q": "In the email, the word \"provided\" in paragraph 2, line 1, is closest in meaning to",
+        "options": ["as long as", "given away", "offered", "delivered"],
+        "answer": 0,
+        "explain": "\"Provided they have already been fired once\" là liên từ điều kiện, nghĩa là \"với điều kiện là\", tức \"as long as\"."
+      }
+    ]
+  },
+  {
+    "id": "p7t-02",
+    "kind": "triple",
+    "docs": [
+      {
+        "type": "Article",
+        "title": "Local Business News — Tasty Expansion for Saffron Table",
+        "text": "MAPLEWOOD (August 2) — Saffron Table, the Indian restaurant that has drawn crowds to Elm Street since 2019, will open a second location next month in the newly renovated Carver Building on Harbor Avenue. Owner Meera Joshi said the new site will seat 120 diners, nearly twice as many as the original.\n\n\"Our customers kept telling us they had to wait too long for a table,\" Ms. Joshi explained. \"The Harbor Avenue location will also have a private dining room for business events.\"\n\nThe new restaurant will be managed by chef Arjun Patel, who has worked at the Elm Street location for four years. Unlike the original, which closes at 9 P.M., the Harbor Avenue branch will stay open until 11 P.M. on weekends. A grand opening celebration is scheduled for September 12, when all diners will receive a complimentary dessert."
+      },
+      {
+        "type": "Review",
+        "title": "Saffron Table, Harbor Avenue — 4 out of 5 stars (posted September 20 by Colin Mercer)",
+        "text": "I visited the new Saffron Table with three colleagues last Saturday at around 9:30 P.M., after a late meeting, and was relieved to find the kitchen still busy. The lamb curry was rich and perfectly spiced, and the vegetable biryani was generous enough to share.\n\nThe dining room is spacious and attractive, although it was rather noisy on a weekend night. Service was friendly but a little slow; our main courses took nearly 40 minutes to arrive. I suspect the staff are still settling into the new space.\n\nOverall, it is a welcome addition to the waterfront area. I plan to return, perhaps for a quieter weekday lunch, and I would recommend reserving a table in advance."
+      },
+      {
+        "type": "Email",
+        "title": "Subject: Thank you for your review",
+        "text": "From: Meera Joshi\nTo: Colin Mercer\nDate: September 22\n\nDear Mr. Mercer,\n\nThank you for your thoughtful review of our Harbor Avenue restaurant. I was pleased to read that you enjoyed the food, and I appreciate your honest comments about the wait.\n\nYou were right that our team is still adjusting. Since your visit, we have added two servers to our weekend evening shift, and Chef Patel has simplified the preparation of several dishes to speed up service.\n\nAs a gesture of appreciation, I would like to invite you to try our lunch menu as my guest. Please show this e-mail to your server on any weekday before October 31.\n\nWarm regards,\nMeera Joshi\nOwner, Saffron Table"
+      }
+    ],
+    "questions": [
+      {
+        "q": "According to the article, why is Saffron Table opening a second location?",
+        "options": ["To offer a catering service", "Because the Elm Street building is being renovated", "Because customers often had to wait for a table", "Because its chef wanted to run his own restaurant"],
+        "answer": 2,
+        "explain": "Trong bài báo, bà Joshi nói khách hàng thường phàn nàn phải chờ bàn quá lâu."
+      },
+      {
+        "q": "What can be concluded about Mr. Mercer's visit?",
+        "options": ["It took place during the grand opening celebration.", "It was possible because of the new branch's later weekend hours.", "He and his colleagues ate in the private dining room.", "He had previously visited the Elm Street location."],
+        "answer": 1,
+        "explain": "Bài đánh giá cho biết ông đến lúc 9:30 tối thứ Bảy; bài báo nói chi nhánh Harbor Avenue mở đến 11 giờ tối cuối tuần, trong khi chi nhánh cũ đóng cửa lúc 9 giờ."
+      },
+      {
+        "q": "What is NOT mentioned in the review?",
+        "options": ["The quality of the food", "The noise level", "The speed of service", "The availability of parking"],
+        "answer": 3,
+        "explain": "Bài đánh giá nói về món ăn, độ ồn và phục vụ chậm, nhưng không đề cập chỗ đậu xe."
+      },
+      {
+        "q": "What has the restaurant done in response to Mr. Mercer's comments?",
+        "options": ["Hired more staff for busy evenings", "Extended its weekday opening hours", "Lowered the prices of its main courses", "Reduced the number of tables"],
+        "answer": 0,
+        "explain": "Bài đánh giá phàn nàn phục vụ chậm; email của bà Joshi cho biết đã thêm hai nhân viên phục vụ cho ca tối cuối tuần."
+      },
+      {
+        "q": "In the email, the word \"gesture\" in paragraph 3, line 1, is closest in meaning to",
+        "options": ["motion", "request", "token", "reminder"],
+        "answer": 2,
+        "explain": "\"As a gesture of appreciation\" nghĩa là một cử chỉ/món quà để bày tỏ lòng cảm kích, tức \"token\"."
+      }
+    ]
+  },
+  {
+    "id": "p7t-03",
+    "kind": "triple",
+    "docs": [
+      {
+        "type": "Notice",
+        "title": "Notice to Passengers — Coastal Line Track Maintenance",
+        "text": "From Monday, November 3, to Friday, November 14, maintenance work will take place on the Coastal Line between Bayview and Port Selwyn stations. During this period, trains will not run between these two stations after 8:00 P.M. on weekdays. Instead, replacement buses will depart from the front entrance of each station every 30 minutes. Bus journeys take approximately 25 minutes longer than the train.\n\nDaytime and weekend services will operate as normal. Passengers holding monthly passes may use replacement buses at no additional charge. Please note that bicycles cannot be carried on the replacement buses. We apologize for the inconvenience and thank you for your patience."
+      },
+      {
+        "type": "Schedule",
+        "title": "Coastal Line Evening Timetable (Weekdays) — Westbound",
+        "text": "Departs           Arrives      Arrives        Arrives\nHollis Central    Bayview      Port Selwyn    Ridgemont\n6:40 P.M.         7:05 P.M.    7:30 P.M.      7:55 P.M.\n7:10 P.M.         7:35 P.M.    8:00 P.M.      8:25 P.M.\n7:40 P.M.         8:05 P.M.    8:30 P.M.      8:55 P.M.\n8:10 P.M.         8:35 P.M.    9:00 P.M.      9:25 P.M.\n\nWestbound trains continue to run every 30 minutes until 11:10 P.M. Times shown apply to normal operation and do not reflect changes during scheduled maintenance work."
+      },
+      {
+        "type": "Text message",
+        "title": "From: Yuki Tanaka — To: Oliver Grant — Wednesday, November 5, 7:22 P.M.",
+        "text": "Hi Oliver, my client meeting ran late, so I just missed the 7:10 from Hollis Central. I'll take the next one, but I'll have to switch to the bus partway, so I'll be late for the team dinner in Port Selwyn. Please go ahead and order without me. Also, I left my bike at the office because of the notice, so could you give me a ride home after dinner? Thanks!"
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is the purpose of the notice?",
+        "options": ["To announce a fare increase", "To inform passengers about temporary service changes", "To introduce a new station on the Coastal Line", "To explain a new policy on monthly passes"],
+        "answer": 1,
+        "explain": "Thông báo cho biết từ 3/11 đến 14/11 tàu ngừng chạy giữa Bayview và Port Selwyn sau 8 giờ tối do bảo trì — đây là thay đổi dịch vụ tạm thời."
+      },
+      {
+        "q": "According to the notice, what is true about the replacement buses?",
+        "options": ["Monthly pass holders can ride them without paying extra.", "They depart every 15 minutes.", "They also operate on weekends.", "They have space for bicycles."],
+        "answer": 0,
+        "explain": "Thông báo ghi người có vé tháng được đi xe buýt thay thế \"at no additional charge\"."
+      },
+      {
+        "q": "Which train will Ms. Tanaka most likely take?",
+        "options": ["The 6:40 P.M. train", "The 7:10 P.M. train", "The 7:40 P.M. train", "The 8:10 P.M. train"],
+        "answer": 2,
+        "explain": "Tin nhắn nói cô vừa lỡ chuyến 7:10 và sẽ đi chuyến kế tiếp; theo lịch tàu, chuyến tiếp theo khởi hành lúc 7:40."
+      },
+      {
+        "q": "Where will Ms. Tanaka most likely board a replacement bus?",
+        "options": ["At Hollis Central", "At Port Selwyn", "At Ridgemont", "At Bayview"],
+        "answer": 3,
+        "explain": "Theo lịch, chuyến 7:40 đến Bayview lúc 8:05; thông báo nói sau 8 giờ tối tàu không chạy từ Bayview đến Port Selwyn, nên cô phải đổi sang xe buýt ở Bayview."
+      },
+      {
+        "q": "In the notice, the word \"holding\" in paragraph 2, line 1, is closest in meaning to",
+        "options": ["gripping", "possessing", "delaying", "hosting"],
+        "answer": 1,
+        "explain": "\"Passengers holding monthly passes\" nghĩa là hành khách có/sở hữu vé tháng, tức \"possessing\"."
+      }
+    ]
+  },
+  {
+    "id": "p7t-04",
+    "kind": "triple",
+    "docs": [
+      {
+        "type": "Web page",
+        "title": "Pinecrest Hotel — Meeting Room Rental",
+        "text": "Pinecrest Hotel offers three meeting rooms ideal for workshops, interviews, and board meetings. All rates are for a full day (8 A.M.–6 P.M.) and include a projector, a whiteboard, and bottled water.\n\nAspen Room — seats 12 — $350\nBirch Room — seats 30 — $600\nCedar Hall — seats 80 — $1,100\n\nOptional services:\nCoffee break (morning or afternoon) — $8 per person\nBuffet lunch — $22 per person\nVideo-conferencing equipment — $150 per day\n\nBookings made at least 30 days in advance receive a 10 percent discount on room rental. A deposit of 25 percent is required to confirm any reservation. To request a room, complete the online booking form, and our events coordinator will reply within one business day."
+      },
+      {
+        "type": "Form",
+        "title": "Meeting Room Request",
+        "text": "Organization: Fairlane Pharmaceuticals\nContact: Natalia Ruiz, Training Manager\nDate requested: Tuesday, July 21\nForm submitted: June 10\nExpected number of attendees: 25\nRoom preference: Birch Room\nServices required: Buffet lunch, morning coffee break, video-conferencing equipment\n\nAdditional notes: Two of our presenters will join remotely from our Singapore office. We would also appreciate a reserved parking area for a delivery van bringing training materials on the morning of the event."
+      },
+      {
+        "type": "Email",
+        "title": "Subject: Your booking request for July 21",
+        "text": "From: Thomas Becker, Events Coordinator\nTo: Natalia Ruiz\nDate: June 11\n\nDear Ms. Ruiz,\n\nThank you for choosing Pinecrest Hotel. I am happy to confirm that the Birch Room is available on July 21. Because you booked well ahead of time, your room rate has been reduced accordingly.\n\nUnfortunately, our video-conferencing equipment has already been reserved by another group that day. However, the Birch Room has a built-in large screen with a camera, which should be sufficient for your remote presenters, and there is no charge for its use. Regarding your other request, our loading area near the east entrance can be reserved for your van between 7 and 9 A.M.\n\nTo secure the booking, please pay the deposit by June 18.\n\nSincerely,\nThomas Becker"
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is NOT included in the full-day room rate?",
+        "options": ["A projector", "A whiteboard", "Bottled water", "A coffee break"],
+        "answer": 3,
+        "explain": "Trang web nói giá phòng gồm máy chiếu, bảng trắng và nước đóng chai; coffee break là dịch vụ tùy chọn tính phí $8/người."
+      },
+      {
+        "q": "What is indicated about Fairlane Pharmaceuticals' event?",
+        "options": ["It will last for two days.", "Some speakers will participate from another country.", "About 80 people are expected to attend.", "It will be held in Cedar Hall."],
+        "answer": 1,
+        "explain": "Phiếu yêu cầu ghi hai diễn giả sẽ tham gia từ xa từ văn phòng ở Singapore."
+      },
+      {
+        "q": "How much will Fairlane Pharmaceuticals most likely pay for the room rental?",
+        "options": ["$540", "$600", "$350", "$990"],
+        "answer": 0,
+        "explain": "Phiếu nộp ngày 10/6 cho sự kiện 21/7 (trước hơn 30 ngày); trang web nói được giảm 10%, và email xác nhận đã giảm giá, nên Birch Room còn $600 × 0,9 = $540."
+      },
+      {
+        "q": "Which of Ms. Ruiz's requests will NOT be provided as she asked?",
+        "options": ["The buffet lunch", "The morning coffee break", "The video-conferencing equipment", "The reserved space for a van"],
+        "answer": 2,
+        "explain": "Phiếu yêu cầu có thiết bị hội nghị truyền hình, nhưng email cho biết thiết bị đó đã được nhóm khác đặt; khách sạn đề xuất dùng màn hình có sẵn thay thế."
+      },
+      {
+        "q": "In the email, the word \"secure\" in paragraph 4, line 1, is closest in meaning to",
+        "options": ["protect", "fasten", "relax", "guarantee"],
+        "answer": 3,
+        "explain": "\"To secure the booking\" nghĩa là để đảm bảo/giữ chắc việc đặt phòng, tức \"guarantee\"."
+      }
+    ]
+  },
+  {
+    "id": "p7t-05",
+    "kind": "triple",
+    "docs": [
+      {
+        "type": "Memo",
+        "title": "Subject: Office move",
+        "text": "To: All Employees\nFrom: Facilities Department\nDate: January 9\n\nAs announced last month, Corbel Media will move to its new offices at 400 Linden Plaza. The move will take place in stages so that daily work can continue with minimal disruption. Each department has been assigned a moving date (see the attached schedule).\n\nBefore your department's moving date, please pack the contents of your desk into the labeled boxes provided by the facilities team, and remove personal items from shared areas. Computers and monitors will be disconnected and transported by our IT contractor; do not pack them yourself.\n\nOn your moving date, you are encouraged to work from home. Your new workstation will be ready by 8:00 A.M. the following morning."
+      },
+      {
+        "type": "Schedule",
+        "title": "Department Moving Schedule",
+        "text": "Department          Moving date            New floor\nMarketing           Friday, January 23     5th floor\nHuman Resources     Monday, January 26     3rd floor\nFinance             Wednesday, January 28  3rd floor\nDesign              Friday, January 30     6th floor\nCustomer Support    Monday, February 2     2nd floor\n\nPacking boxes will be delivered to each department one week before its moving date. Please contact facilities@corbelmedia.com with any questions about the schedule."
+      },
+      {
+        "type": "Email",
+        "title": "Subject: Question about our move",
+        "text": "From: Leo Fischer\nTo: facilities@corbelmedia.com\nDate: January 24\n\nHello,\n\nMy team received our packing boxes yesterday, and we have started preparing for the move. I have a question about our large-format printer, which we use daily to produce poster proofs for clients. It is too heavy to fit in a standard box, and I am concerned it could be damaged if it is moved carelessly. Will your IT contractor handle it along with the computers, or should I arrange a specialist mover?\n\nAlso, one of my designers, Hana Ito, is scheduled to present to a client at our current office on the morning of our moving date. Could she use a meeting room on the ground floor until noon that day?\n\nThanks,\nLeo Fischer\nDesign Team Lead"
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is the main purpose of the memo?",
+        "options": ["To explain procedures for an office relocation", "To announce the hiring of an IT contractor", "To request feedback on a new office design", "To introduce new department managers"],
+        "answer": 0,
+        "explain": "Bản ghi nhớ hướng dẫn cách đóng gói, việc di chuyển máy tính và làm việc tại nhà trong đợt chuyển văn phòng."
+      },
+      {
+        "q": "What are employees asked NOT to do?",
+        "options": ["Work from home on their moving date", "Use the labeled boxes", "Pack their own computers", "Contact the facilities team"],
+        "answer": 2,
+        "explain": "Bản ghi nhớ ghi máy tính và màn hình sẽ do nhà thầu IT vận chuyển: \"do not pack them yourself\"."
+      },
+      {
+        "q": "When is Ms. Ito scheduled to give her presentation?",
+        "options": ["On January 28", "On January 30", "On February 2", "On January 23"],
+        "answer": 1,
+        "explain": "Email cho biết cô Ito thuyết trình vào buổi sáng ngày chuyển của nhóm Design; lịch chuyển ghi phòng Design chuyển vào thứ Sáu 30/1."
+      },
+      {
+        "q": "On which floor will Mr. Fischer's team most likely work after the move?",
+        "options": ["The 2nd floor", "The 3rd floor", "The 5th floor", "The 6th floor"],
+        "answer": 3,
+        "explain": "Email ký tên \"Design Team Lead\" và nhận thùng ngày 23/1 (một tuần trước 30/1); lịch cho thấy phòng Design chuyển lên tầng 6."
+      },
+      {
+        "q": "In the memo, the word \"stages\" in paragraph 1, line 2, is closest in meaning to",
+        "options": ["phases", "platforms", "theaters", "floors"],
+        "answer": 0,
+        "explain": "\"Take place in stages\" nghĩa là diễn ra theo từng giai đoạn, tức \"phases\"."
+      }
+    ]
+  },
+  {
+    "id": "p7t-06",
+    "kind": "triple",
+    "docs": [
+      {
+        "type": "Web page",
+        "title": "AeroBrew Pro Coffee Maker — Product Details",
+        "text": "The AeroBrew Pro brews up to 12 cups in under eight minutes and keeps coffee hot for four hours with its double-walled steel carafe. A programmable timer lets you wake up to freshly brewed coffee, and the built-in grinder offers five settings, from coarse to fine.\n\nPrice: $189 (Black or Silver); Copper finish: $209\nWarranty: 2 years on all parts; an extended 5-year warranty is available for $25\n\nFree shipping on all orders. Customers who register their product online within 30 days of purchase receive a free bag of our signature roast and a replacement water filter."
+      },
+      {
+        "type": "Review",
+        "title": "Great coffee, frustrating timer — 3 out of 5 stars (by Ananya Sen, verified buyer, March 3)",
+        "text": "I bought the copper AeroBrew Pro a month ago and generally love it. The grinder is quiet, the coffee tastes excellent, and the carafe really does keep it hot all morning.\n\nMy main complaint is the timer. Twice now, it has failed to start at the time I set, so I ended up making coffee by hand before work. The instruction booklet does not explain how to reset the clock after a power cut, which may be the cause. I registered the machine online and received the free coffee, which was a nice touch, but I'd like the timer problem solved before I can give it five stars."
+      },
+      {
+        "type": "Email",
+        "title": "Subject: Your recent review",
+        "text": "From: AeroBrew Customer Care\nTo: Ananya Sen\nDate: March 5\n\nDear Ms. Sen,\n\nThank you for sharing your experience with the AeroBrew Pro. We were sorry to learn about the trouble with the timer. You are correct that a power interruption can erase the timer settings. To fix this, hold down the CLOCK and PROGRAM buttons together for five seconds, then set the time again.\n\nWe have also noticed that some early units shipped with outdated software. Since your machine is still under warranty, we can send you a prepaid label to return it for a free update, which normally takes about a week. We realize this means going without your coffee maker for a few days, so we will include a complimentary travel mug with the returned unit.\n\nBest regards,\nDaniel Huang\nAeroBrew Customer Care"
+      }
+    ],
+    "questions": [
+      {
+        "q": "What feature of the AeroBrew Pro is NOT mentioned on the Web page?",
+        "options": ["A programmable timer", "A built-in grinder", "A milk frother", "A steel carafe"],
+        "answer": 2,
+        "explain": "Trang web nói về bình giữ nhiệt bằng thép, hẹn giờ và máy xay tích hợp; không nhắc đến bộ đánh sữa."
+      },
+      {
+        "q": "How much did Ms. Sen most likely pay for her coffee maker?",
+        "options": ["$209", "$189", "$214", "$234"],
+        "answer": 0,
+        "explain": "Bài đánh giá nói cô mua máy màu đồng (copper); trang web ghi bản Copper giá $209 và miễn phí giao hàng."
+      },
+      {
+        "q": "What else did Ms. Sen most likely receive when she registered her product?",
+        "options": ["A travel mug", "An extended warranty", "A new instruction booklet", "A replacement water filter"],
+        "answer": 3,
+        "explain": "Bài đánh giá nói cô đăng ký online và nhận cà phê miễn phí; trang web cho biết quà đăng ký gồm cà phê và một lõi lọc nước thay thế."
+      },
+      {
+        "q": "What does AeroBrew Customer Care offer Ms. Sen?",
+        "options": ["A full refund", "A free software update", "A discount on her next purchase", "A new carafe"],
+        "answer": 1,
+        "explain": "Email đề nghị gửi nhãn trả trước để cô gửi máy về cập nhật phần mềm miễn phí vì máy còn bảo hành."
+      },
+      {
+        "q": "In the email, the word \"complimentary\" in paragraph 2, line 4, is closest in meaning to",
+        "options": ["flattering", "free of charge", "additional", "matching"],
+        "answer": 1,
+        "explain": "\"A complimentary travel mug\" nghĩa là chiếc cốc tặng miễn phí, tức \"free of charge\" (không phải \"flattering\" = khen ngợi)."
+      }
+    ]
+  }
+]

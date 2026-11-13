@@ -1,0 +1,957 @@
+[
+  {
+    "id": "p4-01",
+    "kind": "announcement",
+    "gender": "W",
+    "text": "Attention, Fresh Harvest shoppers. Thank you for shopping with us this evening. We'd like to remind you that our store will be closing in thirty minutes, at nine o'clock. Please bring your final selections to the checkout area at the front of the store. Tonight, only registers one through four are open, so the self-checkout machines near the exit are a faster option if you have fewer than ten items. Also, starting tomorrow, our bakery department will open an hour earlier, at six a.m., so you can pick up fresh bread and pastries on your way to work. Finally, if you haven't joined our rewards program yet, ask any cashier for an application form tonight and receive a coupon for five dollars off your next purchase.",
+    "questions": [
+      {
+        "q": "Where is the announcement being made?",
+        "options": [
+          "At a supermarket",
+          "At a bakery supply company",
+          "At a restaurant",
+          "At a pharmacy"
+        ],
+        "answer": 0,
+        "explain": "Người nói chào \"Fresh Harvest shoppers\", nhắc quầy thanh toán và khu bánh mì → đây là siêu thị."
+      },
+      {
+        "q": "What does the speaker say will change tomorrow?",
+        "options": [
+          "Self-checkout machines will be installed.",
+          "A department will open earlier.",
+          "The store will stay open later.",
+          "More registers will be available."
+        ],
+        "answer": 1,
+        "explain": "\"starting tomorrow, our bakery department will open an hour earlier\" → một bộ phận mở cửa sớm hơn."
+      },
+      {
+        "q": "What are listeners encouraged to do?",
+        "options": [
+          "Request a membership application",
+          "Return their shopping carts",
+          "Visit the bakery tonight",
+          "Download a coupon online"
+        ],
+        "answer": 0,
+        "explain": "\"ask any cashier for an application form\" cho chương trình thành viên → xin đơn đăng ký."
+      }
+    ]
+  },
+  {
+    "id": "p4-02",
+    "kind": "voicemail",
+    "gender": "M",
+    "text": "Hi, this is Marcus Bell from Lakeview Property Management, calling for Ms. Andrea Silva. I'm returning your message about the leaking pipe under your kitchen sink. I'm sorry to hear about the trouble. I've arranged for one of our plumbers to come by your apartment tomorrow between ten a.m. and noon. He'll need to turn off the water to the whole unit for about an hour while he replaces the pipe, so you may want to fill a few containers beforehand. If that time doesn't work for you, please call me back at 555-0182 before five o'clock today so I can reschedule. Otherwise, the plumber will use the spare key we keep in the office if you're not home. Thanks for your patience.",
+    "questions": [
+      {
+        "q": "Why is the speaker calling?",
+        "options": [
+          "To offer a lease renewal",
+          "To collect a rent payment",
+          "To respond to a maintenance problem",
+          "To announce a building inspection"
+        ],
+        "answer": 2,
+        "explain": "\"I'm returning your message about the leaking pipe\" → gọi lại về sự cố cần sửa chữa."
+      },
+      {
+        "q": "According to the speaker, what will happen during the visit?",
+        "options": [
+          "The kitchen will be repainted.",
+          "The water supply will be turned off.",
+          "The locks will be changed.",
+          "A new sink will be installed."
+        ],
+        "answer": 1,
+        "explain": "\"He'll need to turn off the water to the whole unit for about an hour\" → nguồn nước sẽ bị ngắt."
+      },
+      {
+        "q": "What should the listener do if the appointment time is inconvenient?",
+        "options": [
+          "Leave a key with a neighbor",
+          "Visit the office tomorrow",
+          "Send an e-mail to the office",
+          "Call the speaker by the end of the day"
+        ],
+        "answer": 3,
+        "explain": "\"please call me back ... before five o'clock today\" → gọi lại trước cuối ngày."
+      }
+    ]
+  },
+  {
+    "id": "p4-03",
+    "kind": "advertisement",
+    "gender": "W",
+    "text": "Are you ready to get in shape for summer? Brightline Fitness has just opened its newest location on Carver Avenue, right across from City Park. Our spacious facility features modern weight machines, an indoor pool, and more than forty group classes every week. To celebrate our opening, we're offering a special deal this month only: sign up for any plan that includes access to the pool, which means our Plus plan and above, and we'll take ten dollars off your monthly fee for the entire first year. All new members also receive a free session with a personal trainer, who'll design a workout program just for you. Stop by our front desk any day between six a.m. and ten p.m., or visit our website to take a virtual tour.",
+    "graphic": {
+      "title": "Brightline Fitness – Membership Plans",
+      "rows": [
+        [
+          "Plan",
+          "Monthly fee"
+        ],
+        [
+          "Basic",
+          "$25"
+        ],
+        [
+          "Plus",
+          "$39"
+        ],
+        [
+          "Premium",
+          "$55"
+        ],
+        [
+          "Family",
+          "$79"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "q": "What is being advertised?",
+        "options": [
+          "A public swimming pool",
+          "A sports equipment store",
+          "A personal training app",
+          "A fitness center"
+        ],
+        "answer": 3,
+        "explain": "\"Brightline Fitness has just opened its newest location\" với máy tập, hồ bơi, lớp nhóm → trung tâm thể hình."
+      },
+      {
+        "q": "Look at the graphic. What is the lowest monthly fee a new member can pay this month to use the pool?",
+        "options": [
+          "$29",
+          "$39",
+          "$25",
+          "$45"
+        ],
+        "answer": 0,
+        "explain": "Hồ bơi chỉ có từ gói \"Plus plan and above\"; gói Plus $39 được giảm \"ten dollars\" → $29."
+      },
+      {
+        "q": "What do all new members receive?",
+        "options": [
+          "A one-month extension",
+          "A discount on swimwear",
+          "A complimentary session with a trainer",
+          "A free locker"
+        ],
+        "answer": 2,
+        "explain": "\"All new members also receive a free session with a personal trainer\" → buổi tập miễn phí với huấn luyện viên."
+      }
+    ]
+  },
+  {
+    "id": "p4-04",
+    "kind": "news report",
+    "gender": "M",
+    "text": "In local business news, Harbor Electronics announced this morning that it will build a new manufacturing plant on the east side of Port Wells. The company, which makes components for solar panels, says the plant will create about three hundred jobs when it opens late next year. Mayor Linda Choi welcomed the decision, saying it will bring much-needed investment to the area. However, some residents have raised concerns about increased truck traffic on Elm Road, which is the main route to the site. In response, the company says it is working with city planners to build a separate access road. A public meeting to discuss the project will be held next Tuesday evening at the community center, and all residents are invited to attend.",
+    "questions": [
+      {
+        "q": "What is the news report mainly about?",
+        "options": [
+          "A mayoral election",
+          "A new solar power station",
+          "A factory construction project",
+          "A road repair schedule"
+        ],
+        "answer": 2,
+        "explain": "\"it will build a new manufacturing plant\" → tin chính là dự án xây nhà máy."
+      },
+      {
+        "q": "What concern have some residents expressed?",
+        "options": [
+          "Increased traffic",
+          "Loss of green space",
+          "Higher property taxes",
+          "Noise from night construction"
+        ],
+        "answer": 0,
+        "explain": "\"concerns about increased truck traffic on Elm Road\" → lo ngại giao thông tăng."
+      },
+      {
+        "q": "What will happen next Tuesday?",
+        "options": [
+          "A new road will be completed.",
+          "A plant will open.",
+          "A meeting will be held for residents.",
+          "The mayor will visit the site."
+        ],
+        "answer": 2,
+        "explain": "\"A public meeting ... will be held next Tuesday evening\" → họp với cư dân."
+      }
+    ]
+  },
+  {
+    "id": "p4-05",
+    "kind": "tour",
+    "gender": "W",
+    "text": "Good morning, everyone, and welcome to the Ashford Chocolate Factory. My name is Grace, and I'll be your guide for the next ninety minutes. We'll begin in the history room, where you'll see the original copper kettles our founder used back in 1922. Then we'll walk through the production floor, where our chocolate bars are made. For safety and hygiene reasons, everyone must wear the hairnet and shoe covers you received at the entrance before we go inside. Also, please note that photography isn't permitted on the production floor, as some of our recipes and machinery are confidential. Don't worry, though. There'll be plenty of chances to take pictures in the tasting room at the end of the tour, where you'll sample five of our most popular flavors.",
+    "questions": [
+      {
+        "q": "Where most likely are the listeners?",
+        "options": [
+          "At a food production facility",
+          "At a history museum",
+          "At a kitchenware store",
+          "At a cooking class"
+        ],
+        "answer": 0,
+        "explain": "\"welcome to the Ashford Chocolate Factory\" và \"production floor\" → cơ sở sản xuất thực phẩm."
+      },
+      {
+        "q": "Why are listeners not allowed to take photos on the production floor?",
+        "options": [
+          "The lighting is too dim.",
+          "Visitors might block the walkway.",
+          "Some processes are kept secret.",
+          "The machines are sensitive to flashes."
+        ],
+        "answer": 2,
+        "explain": "\"some of our recipes and machinery are confidential\" → một số quy trình được giữ bí mật."
+      },
+      {
+        "q": "What will listeners do at the end of the tour?",
+        "options": [
+          "Taste some products",
+          "Meet the company founder",
+          "Purchase souvenirs",
+          "Watch a short film"
+        ],
+        "answer": 0,
+        "explain": "\"in the tasting room ... you'll sample five of our most popular flavors\" → nếm thử sản phẩm."
+      }
+    ]
+  },
+  {
+    "id": "p4-06",
+    "kind": "meeting excerpt",
+    "gender": "M",
+    "text": "Before we wrap up, I want to talk about the customer survey results that came in on Friday. Overall, people are happy with our delivery speed, which is great news. But a large number of customers said our mobile app is difficult to use, especially when they try to track their orders. We've had this complaint before. Last year, we promised to redesign the app, and frankly, that project kept getting pushed back. Well, I've talked with the board, and this time it's a top priority. We've hired an outside design firm, and they'll start next month. In the meantime, I'd like each of you to collect specific examples from the customers you speak with. Please send them to Lena on the product team by the end of the week.",
+    "questions": [
+      {
+        "q": "What is the speaker mainly discussing?",
+        "options": [
+          "A new product line",
+          "Customer feedback",
+          "A staff training program",
+          "Delivery costs"
+        ],
+        "answer": 1,
+        "explain": "\"the customer survey results\" → chủ đề là phản hồi của khách hàng."
+      },
+      {
+        "q": "What does the speaker imply when he says, \"We've had this complaint before\"?",
+        "options": [
+          "A problem has not been fixed for some time.",
+          "The survey was poorly designed.",
+          "He disagrees with the survey results.",
+          "Customers are usually satisfied."
+        ],
+        "answer": 0,
+        "explain": "Ngay sau đó ông nói dự án sửa app \"kept getting pushed back\" → vấn đề tồn tại lâu mà chưa được khắc phục."
+      },
+      {
+        "q": "What are listeners asked to do?",
+        "options": [
+          "Attend a board meeting",
+          "Test a new version of the app",
+          "Contact a design firm",
+          "Gather examples from customers"
+        ],
+        "answer": 3,
+        "explain": "\"I'd like each of you to collect specific examples from the customers\" → thu thập ví dụ từ khách hàng."
+      }
+    ]
+  },
+  {
+    "id": "p4-07",
+    "kind": "radio broadcast",
+    "gender": "W",
+    "text": "You're listening to WKRT Radio, and it's time for your weekend traffic update. This Saturday, the annual City Marathon will take place downtown, and several streets will be closed from six a.m. until two p.m. The biggest impact will be on Grand Boulevard, which will be completely closed to vehicles. Because of this, the bus line that serves the State University campus will be suspended until the race is over. Other bus routes will run as normal, though you should expect some delays near the city center. If you're planning to drive downtown, officials recommend parking at the Westside Garage and taking the free shuttle that will run every fifteen minutes. Coming up after the break, we'll have the weekend weather forecast.",
+    "graphic": {
+      "title": "City Bus Routes",
+      "rows": [
+        [
+          "Route",
+          "Destination"
+        ],
+        [
+          "Route 5",
+          "Riverside Mall"
+        ],
+        [
+          "Route 12",
+          "State University"
+        ],
+        [
+          "Route 18",
+          "International Airport"
+        ],
+        [
+          "Route 22",
+          "Ferry Terminal"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "q": "What is the main purpose of the broadcast?",
+        "options": [
+          "To promote a sports event",
+          "To report on a traffic accident",
+          "To announce new bus routes",
+          "To inform listeners about closures for a race"
+        ],
+        "answer": 3,
+        "explain": "\"the annual City Marathon ... several streets will be closed\" → thông báo đóng đường vì cuộc đua."
+      },
+      {
+        "q": "Look at the graphic. Which bus route will be suspended on Saturday morning?",
+        "options": [
+          "Route 5",
+          "Route 22",
+          "Route 12",
+          "Route 18"
+        ],
+        "answer": 2,
+        "explain": "\"the bus line that serves the State University campus will be suspended\"; bảng cho thấy tuyến đến State University là Route 12."
+      },
+      {
+        "q": "What will listeners hear next?",
+        "options": [
+          "A live music performance",
+          "A weather report",
+          "Another traffic update",
+          "An interview with a runner"
+        ],
+        "answer": 1,
+        "explain": "\"Coming up after the break, we'll have the weekend weather forecast\" → bản tin thời tiết."
+      }
+    ]
+  },
+  {
+    "id": "p4-08",
+    "kind": "introduction",
+    "gender": "M",
+    "text": "Good evening, and thank you all for coming to the Northfield Chamber of Commerce annual awards dinner. It's now my great pleasure to introduce this year's winner of the Business Leader of the Year award, Ms. Hannah Osei. Ten years ago, Hannah opened a small coffee shop with just two employees. Today, Osei Roasters operates twelve cafés across the region and employs more than two hundred people. But what impressed our committee most was not her company's growth. It was her commitment to the community. Through her training program, Hannah has helped over a hundred young people gain their first job experience. After she accepts the award, Hannah will say a few words, and then we'll move on to dessert, served, appropriately, with coffee from Osei Roasters.",
+    "questions": [
+      {
+        "q": "What is the purpose of the speech?",
+        "options": [
+          "To celebrate a café opening",
+          "To announce a training program",
+          "To welcome new chamber members",
+          "To introduce an award recipient"
+        ],
+        "answer": 3,
+        "explain": "\"introduce this year's winner of the Business Leader of the Year award\" → giới thiệu người nhận giải."
+      },
+      {
+        "q": "According to the speaker, what impressed the committee most?",
+        "options": [
+          "Her years of management experience",
+          "The rapid growth of her company",
+          "The recipient's support for young people",
+          "The quality of her coffee"
+        ],
+        "answer": 2,
+        "explain": "\"not her company's growth... her commitment to the community\" qua chương trình giúp \"young people gain their first job experience\"."
+      },
+      {
+        "q": "What will happen after the award is presented?",
+        "options": [
+          "A video will be shown.",
+          "The award winner will speak.",
+          "Guests will tour a café.",
+          "Committee members will be introduced."
+        ],
+        "answer": 1,
+        "explain": "\"After she accepts the award, Hannah will say a few words\" → người nhận giải sẽ phát biểu."
+      }
+    ]
+  },
+  {
+    "id": "p4-09",
+    "kind": "instructions",
+    "gender": "W",
+    "text": "Okay, everyone, welcome to your first day on the warehouse team. Before you start, I'm going to show you how to use these handheld scanners. Every package that comes in must be scanned at the receiving dock, and again when it's placed on a shelf. If you skip the second scan, the system won't know where the item is, and someone will have to search the entire building for it. Believe me, that's not how you want to spend your afternoon. To scan, just point the device at the barcode and press the yellow button on the side. You'll hear a beep when it works. Now, I'll hand out a scanner to each of you, and we'll practice with the boxes on that table over there.",
+    "questions": [
+      {
+        "q": "Who most likely are the listeners?",
+        "options": [
+          "Delivery drivers",
+          "New warehouse employees",
+          "Technology consultants",
+          "Store customers"
+        ],
+        "answer": 1,
+        "explain": "\"welcome to your first day on the warehouse team\" → nhân viên kho mới."
+      },
+      {
+        "q": "What does the speaker imply when she says, \"Believe me, that's not how you want to spend your afternoon\"?",
+        "options": [
+          "Finding a misplaced item takes a long time.",
+          "She worked late the previous day.",
+          "Listeners should take a break later.",
+          "The afternoon shift is very busy."
+        ],
+        "answer": 0,
+        "explain": "Câu này nói ngay sau \"someone will have to search the entire building\" → tìm hàng thất lạc rất mất thời gian."
+      },
+      {
+        "q": "What will listeners do next?",
+        "options": [
+          "Fill out some forms",
+          "Watch a training video",
+          "Unload a truck",
+          "Practice using a device"
+        ],
+        "answer": 3,
+        "explain": "\"I'll hand out a scanner ... and we'll practice\" → thực hành dùng máy quét."
+      }
+    ]
+  },
+  {
+    "id": "p4-10",
+    "kind": "voicemail",
+    "gender": "M",
+    "text": "Hello, Ms. Fischer, this is Kevin Ortiz from Summit Office Furniture. I'm calling about your order of twenty ergonomic desk chairs for your new office. Unfortunately, the model you selected, the Ventura chair in black, is currently out of stock, and our supplier says it won't be available for another six weeks. I know you're moving into the new space at the end of this month. We do have the same chair in dark gray, and we could deliver those next Monday. Honestly, most people can't tell the difference. If you'd like to switch to the gray chairs, or if you'd prefer to wait, just let me know by replying to the e-mail I sent you this morning. Either way, delivery will be free.",
+    "questions": [
+      {
+        "q": "What problem does the speaker mention?",
+        "options": [
+          "A delivery was damaged.",
+          "An item is unavailable.",
+          "A payment was declined.",
+          "An order was sent to the wrong address."
+        ],
+        "answer": 1,
+        "explain": "\"the Ventura chair in black, is currently out of stock\" → mặt hàng đang hết."
+      },
+      {
+        "q": "What does the speaker imply when he says, \"I know you're moving into the new space at the end of this month\"?",
+        "options": [
+          "His company can help with the move.",
+          "The new office is not ready yet.",
+          "Waiting for the original item may cause a problem.",
+          "The listener's move has been postponed."
+        ],
+        "answer": 2,
+        "explain": "Ghế đen phải chờ \"another six weeks\" mà khách chuyển văn phòng cuối tháng → chờ hàng cũ sẽ không kịp."
+      },
+      {
+        "q": "What is the listener asked to do?",
+        "options": [
+          "Pay a delivery fee",
+          "Visit a showroom",
+          "Call the supplier directly",
+          "Respond to an e-mail"
+        ],
+        "answer": 3,
+        "explain": "\"let me know by replying to the e-mail I sent you this morning\" → trả lời e-mail."
+      }
+    ]
+  },
+  {
+    "id": "p4-11",
+    "kind": "announcement",
+    "gender": "W",
+    "text": "Good afternoon, passengers. This is an announcement for those traveling on the 3:15 express train to Brighton. Due to a signal problem near Hayward Station, this train will depart approximately twenty-five minutes late, at 3:40. We're also changing the departure platform from platform 6 to platform 9, so please make your way there now. We apologize for any inconvenience. Passengers who need to make a connection at Brighton should speak to a member of staff at the information desk, who can help you find an alternative route. As a reminder, refreshments are available at the café beside platform 2, and passengers holding first-class tickets are welcome to wait in the lounge on the upper level.",
+    "questions": [
+      {
+        "q": "Where is the announcement being made?",
+        "options": [
+          "On a city bus",
+          "At an airport",
+          "At a ferry terminal",
+          "At a train station"
+        ],
+        "answer": 3,
+        "explain": "\"the 3:15 express train to Brighton\", \"platform 9\" → tại ga tàu."
+      },
+      {
+        "q": "What change does the speaker announce?",
+        "options": [
+          "The train will make an extra stop.",
+          "Tickets will be refunded.",
+          "The train will leave from a different platform.",
+          "The café will close early."
+        ],
+        "answer": 2,
+        "explain": "\"changing the departure platform from platform 6 to platform 9\" → đổi sân ga."
+      },
+      {
+        "q": "What should passengers with connections do?",
+        "options": [
+          "Purchase a new ticket",
+          "Wait in the first-class lounge",
+          "Talk to an employee at the information desk",
+          "Check the company's website"
+        ],
+        "answer": 2,
+        "explain": "\"should speak to a member of staff at the information desk\" → gặp nhân viên quầy thông tin."
+      }
+    ]
+  },
+  {
+    "id": "p4-12",
+    "kind": "meeting excerpt",
+    "gender": "M",
+    "text": "Okay, let's get started. As you know, next week is our company-wide training week, and the schedule is up on the screen. Every employee must attend at least two sessions, and the data security session is mandatory for everyone who handles client information, which is most of you. One change, though: Ms. Alvarez has to attend a conference that week, so her session is moving to Friday at the same time. I'll update the online calendar this afternoon. Space in each room is limited to thirty people, and sign-ups are first come, first served. So, if you haven't registered yet, I'd strongly suggest doing it today through the HR portal. Now, let's move on to the next item on the agenda: the new expense policy.",
+    "graphic": {
+      "title": "Training Week Schedule",
+      "rows": [
+        [
+          "Day",
+          "Session",
+          "Trainer"
+        ],
+        [
+          "Monday",
+          "Spreadsheet Basics",
+          "R. Dunn"
+        ],
+        [
+          "Tuesday",
+          "Customer Service Skills",
+          "M. Alvarez"
+        ],
+        [
+          "Wednesday",
+          "Project Planning",
+          "R. Dunn"
+        ],
+        [
+          "Thursday",
+          "Data Security",
+          "K. Novak"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "q": "What is the speaker mainly discussing?",
+        "options": [
+          "A client conference",
+          "Upcoming employee training",
+          "Changes to the HR department",
+          "A new security system"
+        ],
+        "answer": 1,
+        "explain": "\"next week is our company-wide training week\" → nói về các buổi đào tạo sắp tới."
+      },
+      {
+        "q": "Look at the graphic. Which session will be rescheduled?",
+        "options": [
+          "Project Planning",
+          "Spreadsheet Basics",
+          "Customer Service Skills",
+          "Data Security"
+        ],
+        "answer": 2,
+        "explain": "\"Ms. Alvarez ... her session is moving to Friday\"; bảng cho thấy M. Alvarez dạy Customer Service Skills."
+      },
+      {
+        "q": "What does the speaker recommend?",
+        "options": [
+          "Attending an outside conference",
+          "Registering for sessions soon",
+          "Submitting expense reports",
+          "Bringing a laptop to training"
+        ],
+        "answer": 1,
+        "explain": "\"if you haven't registered yet, I'd strongly suggest doing it today\" → nên đăng ký sớm."
+      }
+    ]
+  },
+  {
+    "id": "p4-13",
+    "kind": "advertisement",
+    "gender": "W",
+    "text": "Tired of spending your weekends cleaning? Let SparkleHome do it for you! For over fifteen years, SparkleHome has provided reliable, professional house cleaning to families throughout the Greenfield area. Our trained staff use only eco-friendly products that are safe for children and pets. You can book a one-time deep clean or schedule regular weekly or monthly visits, whatever fits your lifestyle. And unlike many other services, we never ask you to sign a long-term contract. Simply cancel whenever you like. This month, new customers who book online will receive twenty percent off their first visit. Just enter the code FRESH20 at checkout. Visit sparklehome.com today, and spend your next weekend doing something you actually enjoy.",
+    "questions": [
+      {
+        "q": "What kind of business is being advertised?",
+        "options": [
+          "A pet care service",
+          "A cleaning service",
+          "A landscaping company",
+          "A furniture store"
+        ],
+        "answer": 1,
+        "explain": "\"professional house cleaning\" → dịch vụ dọn dẹp nhà."
+      },
+      {
+        "q": "What does the speaker emphasize about the products the company uses?",
+        "options": [
+          "They work quickly.",
+          "They are inexpensive.",
+          "They are imported.",
+          "They are environmentally friendly."
+        ],
+        "answer": 3,
+        "explain": "\"use only eco-friendly products\" → thân thiện với môi trường."
+      },
+      {
+        "q": "How can new customers receive a discount?",
+        "options": [
+          "By referring a friend",
+          "By entering a code when booking online",
+          "By signing a one-year contract",
+          "By calling before the weekend"
+        ],
+        "answer": 1,
+        "explain": "\"new customers who book online ... enter the code FRESH20\" → nhập mã khi đặt trực tuyến."
+      }
+    ]
+  },
+  {
+    "id": "p4-14",
+    "kind": "tour",
+    "gender": "M",
+    "text": "Welcome to Stonebridge Castle. I'm Oliver, and I'll be taking you through the castle's main halls this morning. This building was completed in 1486, and remarkably, the same family lived here for nearly four hundred years. In a moment, we'll climb the north tower, which offers the best views of the river valley. I should mention, though: there are one hundred and twelve steps, and there's no elevator. If you'd prefer not to climb, you're welcome to wait in the garden courtyard, and I'll meet you there afterward. After the tower, we'll visit the great hall, where many of the family's original paintings are still on display. Please remember that touching the artwork isn't allowed. Okay, let's head toward the tower entrance now.",
+    "questions": [
+      {
+        "q": "Where is the tour taking place?",
+        "options": [
+          "At a botanical garden",
+          "At an art gallery",
+          "On a river cruise",
+          "At a historic castle"
+        ],
+        "answer": 3,
+        "explain": "\"Welcome to Stonebridge Castle\", \"completed in 1486\" → lâu đài cổ."
+      },
+      {
+        "q": "What does the speaker imply when he says, \"there are one hundred and twelve steps, and there's no elevator\"?",
+        "options": [
+          "The tower was recently renovated.",
+          "The tour will take longer than planned.",
+          "The climb may be difficult for some visitors.",
+          "Visitors should count the steps."
+        ],
+        "answer": 2,
+        "explain": "Ngay sau đó ông gợi ý ai không muốn leo có thể \"wait in the garden courtyard\" → leo tháp có thể vất vả với một số người."
+      },
+      {
+        "q": "What will the listeners most likely do next?",
+        "options": [
+          "Have lunch in a courtyard",
+          "Walk to a tower",
+          "Look at some paintings",
+          "Watch a short presentation"
+        ],
+        "answer": 1,
+        "explain": "\"let's head toward the tower entrance now\" → đi đến tháp."
+      }
+    ]
+  },
+  {
+    "id": "p4-15",
+    "kind": "news report",
+    "gender": "W",
+    "text": "Good evening. Here's a look at today's top business story. Shares of Meridian Airlines rose sharply this afternoon after the company announced a partnership with Pacific Sky, one of Asia's largest carriers. Under the agreement, passengers will be able to book connecting flights between the two airlines on a single ticket, and members of either airline's frequent flyer program will earn points on both. Meridian's CEO, Tomás Herrera, said the partnership will give customers access to more than ninety new destinations. Industry analysts say the deal could help Meridian compete with larger international rivals. The changes are expected to take effect in early spring. Stay with us. After a short break, we'll speak with a travel expert about what this means for holiday travelers.",
+    "questions": [
+      {
+        "q": "What is the report mainly about?",
+        "options": [
+          "A change in airline leadership",
+          "The opening of a new airport",
+          "Rising ticket prices",
+          "An agreement between two airlines"
+        ],
+        "answer": 3,
+        "explain": "\"announced a partnership with Pacific Sky\" → thỏa thuận hợp tác giữa hai hãng bay."
+      },
+      {
+        "q": "According to the report, what will passengers be able to do?",
+        "options": [
+          "Check in through a new app",
+          "Bring extra luggage",
+          "Receive free seat upgrades",
+          "Collect loyalty points with both companies"
+        ],
+        "answer": 3,
+        "explain": "\"members of either airline's frequent flyer program will earn points on both\" → tích điểm ở cả hai hãng."
+      },
+      {
+        "q": "What will listeners hear after the break?",
+        "options": [
+          "A weather forecast",
+          "A sports update",
+          "An interview with an expert",
+          "An advertisement for a travel agency"
+        ],
+        "answer": 2,
+        "explain": "\"we'll speak with a travel expert\" → phỏng vấn chuyên gia."
+      }
+    ]
+  },
+  {
+    "id": "p4-16",
+    "kind": "announcement",
+    "gender": "M",
+    "text": "Good morning, shoppers, and welcome to Westgate Mall. We're excited to announce that our weekend electronics fair begins today! Retailers will be offering discounts of up to forty percent on laptops, televisions, and smartphones. The fair is being held on the same floor as our electronics stores, so take the escalators near the main entrance to get there. Please note that the elevators on the north side are currently being repaired, so visitors with strollers or wheelchairs should use the elevators beside the information desk. And at one o'clock this afternoon, there will be a free demonstration of the latest virtual reality headsets. Seating is limited, so we recommend arriving a little early.",
+    "graphic": {
+      "title": "Westgate Mall Directory",
+      "rows": [
+        [
+          "Floor",
+          "Stores"
+        ],
+        [
+          "1",
+          "Groceries & Pharmacy"
+        ],
+        [
+          "2",
+          "Clothing & Shoes"
+        ],
+        [
+          "3",
+          "Electronics & Home Goods"
+        ],
+        [
+          "4",
+          "Food Court & Cinema"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "q": "What event is being announced?",
+        "options": [
+          "A sale on electronic devices",
+          "A film festival",
+          "A cooking demonstration",
+          "The grand opening of a store"
+        ],
+        "answer": 0,
+        "explain": "\"weekend electronics fair ... discounts of up to forty percent on laptops\" → đợt giảm giá đồ điện tử."
+      },
+      {
+        "q": "Look at the graphic. On which floor is the fair being held?",
+        "options": [
+          "The third floor",
+          "The first floor",
+          "The second floor",
+          "The fourth floor"
+        ],
+        "answer": 0,
+        "explain": "\"on the same floor as our electronics stores\"; bảng cho thấy Electronics ở tầng 3."
+      },
+      {
+        "q": "What does the speaker recommend doing?",
+        "options": [
+          "Using the north elevators",
+          "Signing up online",
+          "Visiting the food court",
+          "Arriving early for a demonstration"
+        ],
+        "answer": 3,
+        "explain": "\"Seating is limited, so we recommend arriving a little early\" → đến sớm để xem trình diễn."
+      }
+    ]
+  },
+  {
+    "id": "p4-17",
+    "kind": "radio broadcast",
+    "gender": "W",
+    "text": "You're tuned to Morning Mix on 98.4 FM. I'm Rachel Dawson. Now, if you've been following our Community Garden Challenge, you'll know that we asked listeners to send in photos of their vegetable gardens. Well, we expected maybe fifty entries. We got over six hundred! Our judges have been working all week, and they've finally chosen the winner: Paul Mendez from Riverside, whose rooftop garden grows more than thirty kinds of vegetables. Paul wins a two-hundred-dollar gift card to Green Thumb Garden Center. Congratulations, Paul! You can see photos of his garden and the other finalists on our website. Paul will be joining us live in the studio right after this song, so stay tuned to hear his tips for growing vegetables in small spaces.",
+    "questions": [
+      {
+        "q": "What is the broadcast mainly about?",
+        "options": [
+          "A local farmers market",
+          "A cooking competition",
+          "A new garden center",
+          "The result of a contest"
+        ],
+        "answer": 3,
+        "explain": "\"they've finally chosen the winner\" của Community Garden Challenge → kết quả cuộc thi."
+      },
+      {
+        "q": "What does the speaker imply when she says, \"We got over six hundred\"?",
+        "options": [
+          "The contest was more popular than expected.",
+          "The judges made a mistake.",
+          "The prize will be increased.",
+          "The deadline was extended."
+        ],
+        "answer": 0,
+        "explain": "Trước đó cô nói \"we expected maybe fifty entries\" → số bài dự thi vượt xa dự kiến."
+      },
+      {
+        "q": "What will happen after the song?",
+        "options": [
+          "A new contest will be announced.",
+          "The weather will be reported.",
+          "Photos will be posted online.",
+          "The winner will be interviewed."
+        ],
+        "answer": 3,
+        "explain": "\"Paul will be joining us live in the studio right after this song\" → người thắng sẽ lên sóng trò chuyện."
+      }
+    ]
+  },
+  {
+    "id": "p4-18",
+    "kind": "introduction",
+    "gender": "M",
+    "text": "Good morning, everyone. Thanks for joining today's webinar on international marketing. I'm Daniel Ward, and I'll be your host. Our speaker today is Dr. Mei Tanaka, a professor at Kingsley Business School who has advised dozens of companies on entering Asian markets. Her new book, Local First, explains why many brands fail abroad and what they can do differently. Dr. Tanaka will speak for about forty minutes, and then we'll take questions from the audience. If you'd like to ask something, please type your question into the chat box at the bottom of your screen at any time during the presentation, and I'll read a selection of them aloud at the end. A recording of today's session will be e-mailed to all registered participants tomorrow.",
+    "questions": [
+      {
+        "q": "What is the main purpose of the talk?",
+        "options": [
+          "To introduce a guest speaker",
+          "To explain a marketing plan",
+          "To announce a book signing",
+          "To promote a business school"
+        ],
+        "answer": 0,
+        "explain": "\"Our speaker today is Dr. Mei Tanaka\" → giới thiệu diễn giả khách mời."
+      },
+      {
+        "q": "What has Dr. Tanaka recently done?",
+        "options": [
+          "Joined a new university",
+          "Opened a company in Asia",
+          "Published a book",
+          "Won a teaching award"
+        ],
+        "answer": 2,
+        "explain": "\"Her new book, Local First\" → bà vừa xuất bản sách."
+      },
+      {
+        "q": "How can listeners ask questions?",
+        "options": [
+          "By typing in a chat box",
+          "By calling a phone number",
+          "By raising their hands",
+          "By sending an e-mail afterward"
+        ],
+        "answer": 0,
+        "explain": "\"type your question into the chat box\" → gõ vào ô chat."
+      }
+    ]
+  },
+  {
+    "id": "p4-19",
+    "kind": "voicemail",
+    "gender": "W",
+    "text": "Hi, Jonathan, it's Sophie from the events team. I'm calling about the room for our sales workshop at the Riverside Hotel next month. We originally booked a room for about twenty people, but registration has now closed, and we have thirty-two participants. So the room we reserved is too small. I've checked with the hotel, and there's a larger room available on the same date. It also has a built-in projector, which means we won't need to rent one separately. That should actually save us some money. I'll confirm the change with the hotel tomorrow unless you have any objections. Also, could you send me the final list of participants so I can order name badges? Thanks.",
+    "graphic": {
+      "title": "Riverside Hotel – Meeting Rooms",
+      "rows": [
+        [
+          "Room",
+          "Capacity",
+          "Projector"
+        ],
+        [
+          "Maple Room",
+          "15",
+          "No"
+        ],
+        [
+          "Cedar Room",
+          "25",
+          "Yes"
+        ],
+        [
+          "Oak Room",
+          "40",
+          "Yes"
+        ],
+        [
+          "Willow Room",
+          "60",
+          "No"
+        ]
+      ]
+    },
+    "questions": [
+      {
+        "q": "What is the message mainly about?",
+        "options": [
+          "Renting audio equipment",
+          "Changing a room for an event",
+          "Hiring a speaker",
+          "Canceling a workshop"
+        ],
+        "answer": 1,
+        "explain": "\"the room we reserved is too small ... there's a larger room available\" → đổi phòng cho sự kiện."
+      },
+      {
+        "q": "Look at the graphic. Which room will the speaker most likely book?",
+        "options": [
+          "The Oak Room",
+          "The Cedar Room",
+          "The Maple Room",
+          "The Willow Room"
+        ],
+        "answer": 0,
+        "explain": "Cần phòng cho \"thirty-two participants\" và có \"built-in projector\"; bảng: chỉ Oak Room (40 chỗ, có máy chiếu) phù hợp."
+      },
+      {
+        "q": "What does the speaker ask the listener to do?",
+        "options": [
+          "Order name badges",
+          "Send a list of attendees",
+          "Rent a projector",
+          "Call the hotel"
+        ],
+        "answer": 1,
+        "explain": "\"could you send me the final list of participants\" → gửi danh sách người tham dự (bẫy: chính Sophie sẽ đặt bảng tên)."
+      }
+    ]
+  },
+  {
+    "id": "p4-20",
+    "kind": "instructions",
+    "gender": "M",
+    "text": "Attention, all staff. In ten minutes, we'll be holding our quarterly fire drill. When you hear the alarm, please stop what you're doing and leave the building using the nearest stairway. Do not use the elevators under any circumstances. Floor wardens wearing orange vests will guide you to the assembly point in the parking lot across Pine Street. Once there, please find your department's sign and stay with your team so that we can confirm everyone is accounted for. The whole drill should take about fifteen minutes, and you'll be able to return to your desks as soon as the all-clear is given. If you have visitors in the building, please make sure they leave with you. Thank you for your cooperation.",
+    "questions": [
+      {
+        "q": "What is the purpose of the announcement?",
+        "options": [
+          "To introduce new floor wardens",
+          "To explain procedures for a safety drill",
+          "To announce a building renovation",
+          "To describe a parking policy"
+        ],
+        "answer": 1,
+        "explain": "\"we'll be holding our quarterly fire drill\" và hướng dẫn cách sơ tán → giải thích quy trình diễn tập."
+      },
+      {
+        "q": "Where should listeners go after leaving the building?",
+        "options": [
+          "To a parking area",
+          "To the main lobby",
+          "To a nearby café",
+          "To the roof"
+        ],
+        "answer": 0,
+        "explain": "\"the assembly point in the parking lot across Pine Street\" → bãi đỗ xe."
+      },
+      {
+        "q": "What are listeners asked to do at the assembly point?",
+        "options": [
+          "Wait for the elevators",
+          "Put on orange vests",
+          "Stay with their department",
+          "Sign an attendance sheet"
+        ],
+        "answer": 2,
+        "explain": "\"find your department's sign and stay with your team\" → đứng cùng phòng ban."
+      }
+    ]
+  }
+]

@@ -21,6 +21,7 @@ const PricingView = lazy(() => import('./components/PricingView').then((m) => ({
 const HomeView = lazy(() => import('./components/HomeView').then((m) => ({ default: m.HomeView })));
 const AccountView = lazy(() => import('./components/AccountView').then((m) => ({ default: m.AccountView })));
 const AdminView = lazy(() => import('./components/AdminView').then((m) => ({ default: m.AdminView })));
+const ToeicView = lazy(() => import('./components/ToeicView').then((m) => ({ default: m.ToeicView })));
 const CloudAccountView = lazy(() => import('./components/CloudAccountView').then((m) => ({ default: m.CloudAccountView })));
 const CloudAdminView = lazy(() => import('./components/CloudAdminView').then((m) => ({ default: m.CloudAdminView })));
 const LegalView = lazy(() => import('./components/LegalView').then((m) => ({ default: m.LegalView })));
@@ -183,7 +184,7 @@ export default function App() {
           setCurrentLang(lang);
           if (lang !== 'zh' && (activeTab === 'hsk-prep' || activeTab === 'pinyin')) {
             setActiveTab('english-vocab');
-          } else if (lang === 'zh' && activeTab === 'english-vocab') {
+          } else if (lang === 'zh' && (activeTab === 'english-vocab' || activeTab === 'toeic')) {
             setActiveTab('hsk-prep');
           }
         }}
@@ -221,6 +222,7 @@ export default function App() {
         )}
 
         {activeTab === 'reading' && <ReadingView currentLang={currentLang} />}
+        {activeTab === 'toeic' && <ToeicView onAddXp={handleAddXp} />}
 
         {activeTab === 'study' && (
           <StudyCenterView currentLang={currentLang} onAddXp={handleAddXp} />

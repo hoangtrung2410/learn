@@ -1,0 +1,2328 @@
+[
+  {
+    "id": "p3-01",
+    "speakers": [
+      {
+        "name": "Sophie",
+        "gender": "W"
+      },
+      {
+        "name": "Daniel",
+        "gender": "M"
+      }
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "text": "Good morning, welcome to the Harborview Hotel. How can I help you?"
+      },
+      {
+        "s": 1,
+        "text": "Hi, I have a reservation under Daniel Price. I know check-in isn't until three, but my flight got in early, and I was hoping to get into my room."
+      },
+      {
+        "s": 0,
+        "text": "Let me check... I'm sorry, Mr. Price, housekeeping is still cleaning the room. It should be ready around one o'clock."
+      },
+      {
+        "s": 1,
+        "text": "That's fine. I have a client meeting downtown at eleven anyway. Is there somewhere I can leave my suitcase?"
+      },
+      {
+        "s": 0,
+        "text": "Of course. We can keep it behind the desk, and I'll text you as soon as your room is available."
+      },
+      {
+        "s": 1,
+        "text": "Perfect. Could you also tell me the quickest way to get to Bay Street?"
+      },
+      {
+        "s": 0,
+        "text": "The tram stop is right across the road. Take line 4, and it's three stops."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Where does the conversation most likely take place?",
+        "options": [
+          "At an airport",
+          "At a hotel",
+          "At a train station",
+          "At a client's office"
+        ],
+        "answer": 1,
+        "explain": "Người phụ nữ chào: \"welcome to the Harborview Hotel\" và người đàn ông nói về giờ nhận phòng (check-in), nên đây là khách sạn."
+      },
+      {
+        "q": "Why can't the man get into his room now?",
+        "options": [
+          "The room is still being prepared",
+          "His reservation cannot be found",
+          "His flight arrived late",
+          "He forgot his identification"
+        ],
+        "answer": 0,
+        "explain": "Lễ tân nói: \"housekeeping is still cleaning the room\" – phòng vẫn đang được dọn."
+      },
+      {
+        "q": "What will the woman do for the man?",
+        "options": [
+          "Call a taxi for him",
+          "Notify him when his room is ready",
+          "Upgrade his room",
+          "Print a map of downtown"
+        ],
+        "answer": 1,
+        "explain": "Cô ấy nói: \"I'll text you as soon as your room is available\" – sẽ nhắn tin báo khi phòng sẵn sàng."
+      }
+    ]
+  },
+  {
+    "id": "p3-02",
+    "speakers": [
+      {
+        "name": "Marcus",
+        "gender": "M"
+      },
+      {
+        "name": "Linda",
+        "gender": "W"
+      }
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "text": "Linda, are the quarterly sales figures ready? I need them for the board presentation this afternoon."
+      },
+      {
+        "s": 1,
+        "text": "Almost. The regional managers sent their numbers late, so I'm still combining everything into one spreadsheet."
+      },
+      {
+        "s": 0,
+        "text": "The meeting starts at two. Do you think you'll make it?"
+      },
+      {
+        "s": 1,
+        "text": "Well, the Northern office hasn't sent anything yet."
+      },
+      {
+        "s": 0,
+        "text": "Hmm. I'll call Greg up there and ask him to send their data right away."
+      },
+      {
+        "s": 1,
+        "text": "That would help a lot. Once I have it, I just need about half an hour to finish the charts."
+      },
+      {
+        "s": 0,
+        "text": "Great. And when you're done, could you email the file directly to me instead of putting it on the shared drive? I want to check it before the others see it."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What are the speakers mainly discussing?",
+        "options": [
+          "A sales report",
+          "A hiring decision",
+          "A new office location",
+          "A software problem"
+        ],
+        "answer": 0,
+        "explain": "Người đàn ông hỏi: \"are the quarterly sales figures ready?\" – họ bàn về báo cáo doanh số quý."
+      },
+      {
+        "q": "What does the woman imply when she says, \"Well, the Northern office hasn't sent anything yet\"?",
+        "options": [
+          "She will visit the Northern office",
+          "She may not finish on time",
+          "The figures are already complete",
+          "The meeting should be moved"
+        ],
+        "answer": 1,
+        "explain": "Khi được hỏi có kịp không, cô ấy nói văn phòng miền Bắc chưa gửi số liệu – ngụ ý có thể không xong kịp giờ họp."
+      },
+      {
+        "q": "What does the man ask the woman to do?",
+        "options": [
+          "Send the completed file to him",
+          "Contact the regional managers",
+          "Postpone the board meeting",
+          "Upload the charts to a shared folder"
+        ],
+        "answer": 0,
+        "explain": "Anh ấy nói: \"could you email the file directly to me\" – gửi file trực tiếp cho anh ấy."
+      }
+    ]
+  },
+  {
+    "id": "p3-03",
+    "speakers": [
+      {
+        "name": "Tom",
+        "gender": "M"
+      },
+      {
+        "name": "Karen",
+        "gender": "W"
+      },
+      {
+        "name": "Raj",
+        "gender": "M"
+      }
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "text": "Hi, we'd like to book a table for our team dinner next Friday. There'll be about twelve of us."
+      },
+      {
+        "s": 1,
+        "text": "Next Friday... our main dining room is fully booked, but our private room upstairs is available. It seats up to fourteen."
+      },
+      {
+        "s": 2,
+        "text": "That might actually be better. It's a farewell party for a colleague, and we're planning to give a short speech."
+      },
+      {
+        "s": 1,
+        "text": "Then the private room is ideal. There's a minimum spend of six hundred dollars, though, and we'd need a deposit to hold it."
+      },
+      {
+        "s": 0,
+        "text": "Raj, is that within our budget?"
+      },
+      {
+        "s": 2,
+        "text": "It should be. The department set aside about eight hundred."
+      },
+      {
+        "s": 1,
+        "text": "Wonderful. I'll email you the set menu options so everyone can choose in advance."
+      },
+      {
+        "s": 0,
+        "text": "Great, and I'll pay the deposit by card right now."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is the purpose of the dinner?",
+        "options": [
+          "To say goodbye to a coworker",
+          "To celebrate a product launch",
+          "To welcome a new client",
+          "To reward a sales team"
+        ],
+        "answer": 0,
+        "explain": "Raj nói: \"It's a farewell party for a colleague\" – tiệc chia tay đồng nghiệp."
+      },
+      {
+        "q": "What does the woman say about the private room?",
+        "options": [
+          "It includes a sound system",
+          "It is closed on Fridays",
+          "It has a view of the river",
+          "Guests must spend a minimum amount"
+        ],
+        "answer": 3,
+        "explain": "Cô ấy nói: \"There's a minimum spend of six hundred dollars\" – phải chi tiêu tối thiểu."
+      },
+      {
+        "q": "What will Tom most likely do next?",
+        "options": [
+          "Choose from a set menu",
+          "Prepare a speech",
+          "Call his department head",
+          "Make a payment"
+        ],
+        "answer": 3,
+        "explain": "Tom nói: \"I'll pay the deposit by card right now\" – anh ấy sẽ trả tiền đặt cọc."
+      }
+    ]
+  },
+  {
+    "id": "p3-04",
+    "speakers": [
+      {
+        "name": "Ellen",
+        "gender": "W"
+      },
+      {
+        "name": "Victor",
+        "gender": "M"
+      }
+    ],
+    "graphic": {
+      "title": "Copy Paper Prices – Brightline Office Supply",
+      "rows": [
+        [
+          "Quantity",
+          "Price per box"
+        ],
+        [
+          "1–9 boxes",
+          "$32"
+        ],
+        [
+          "10–19 boxes",
+          "$29"
+        ],
+        [
+          "20–49 boxes",
+          "$26"
+        ],
+        [
+          "50+ boxes",
+          "$22"
+        ]
+      ]
+    },
+    "lines": [
+      {
+        "s": 0,
+        "text": "Victor, we're almost out of copy paper again. I was going to order more from Brightline this morning."
+      },
+      {
+        "s": 1,
+        "text": "Good idea. How many boxes do we usually get?"
+      },
+      {
+        "s": 0,
+        "text": "Fifteen, but we keep running out before the end of the month. Since the training sessions started, everyone's been printing handouts."
+      },
+      {
+        "s": 1,
+        "text": "Then let's order more at once. It's cheaper per box, too. Do we have room in the storage closet?"
+      },
+      {
+        "s": 0,
+        "text": "If we move the old monitors out, we could fit about thirty."
+      },
+      {
+        "s": 1,
+        "text": "Let's do thirty, then. I'll ask the IT team to collect the monitors today."
+      },
+      {
+        "s": 0,
+        "text": "Great, I'll place the order after lunch."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What problem does the woman mention?",
+        "options": [
+          "The office keeps running short of a supply",
+          "A printer is broken",
+          "A delivery was late",
+          "The storage closet is locked"
+        ],
+        "answer": 0,
+        "explain": "Cô ấy nói: \"we're almost out of copy paper again\" và \"we keep running out\" – văn phòng thường xuyên hết giấy."
+      },
+      {
+        "q": "According to the woman, why has more paper been used recently?",
+        "options": [
+          "A new client asked for printed reports",
+          "More staff have been hired",
+          "The copier wastes paper",
+          "Handouts are being printed for training"
+        ],
+        "answer": 3,
+        "explain": "Cô ấy nói: \"Since the training sessions started, everyone's been printing handouts.\""
+      },
+      {
+        "q": "Look at the graphic. How much will the company most likely pay per box?",
+        "options": [
+          "$32",
+          "$29",
+          "$26",
+          "$22"
+        ],
+        "answer": 2,
+        "explain": "Họ quyết định đặt \"thirty\" (30 hộp), thuộc mức 20–49 hộp nên giá là $26 mỗi hộp."
+      }
+    ]
+  },
+  {
+    "id": "p3-05",
+    "speakers": [
+      {
+        "name": "Jason",
+        "gender": "M"
+      },
+      {
+        "name": "Amy",
+        "gender": "W"
+      }
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "text": "Ms. Walsh? This is Jason from Riverside Auto. I'm calling about your car."
+      },
+      {
+        "s": 1,
+        "text": "Oh, hi. Is it ready? I was hoping to pick it up after work."
+      },
+      {
+        "s": 0,
+        "text": "Well, we finished the oil change, but while it was on the lift, we noticed the front brake pads are quite worn."
+      },
+      {
+        "s": 1,
+        "text": "Is it dangerous to drive?"
+      },
+      {
+        "s": 0,
+        "text": "Not immediately, but I'd recommend replacing them within the next month. We could do it today for about a hundred and eighty dollars, including labor."
+      },
+      {
+        "s": 1,
+        "text": "Hmm, I'd rather not leave the car another day. I need it for a trip this weekend."
+      },
+      {
+        "s": 0,
+        "text": "The part's in stock, so it would only take an extra hour. It'd still be ready by five."
+      },
+      {
+        "s": 1,
+        "text": "In that case, go ahead."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Who most likely is the man?",
+        "options": [
+          "A mechanic",
+          "A car salesperson",
+          "A travel agent",
+          "A driving instructor"
+        ],
+        "answer": 0,
+        "explain": "Anh ấy gọi từ \"Riverside Auto\" và nói đã thay dầu, kiểm tra phanh – anh ấy là thợ sửa xe."
+      },
+      {
+        "q": "What problem does the man report?",
+        "options": [
+          "A part is out of stock",
+          "The oil change was not completed",
+          "Some brake components are worn",
+          "The bill was calculated incorrectly"
+        ],
+        "answer": 2,
+        "explain": "Anh ấy nói: \"the front brake pads are quite worn\" – má phanh bị mòn."
+      },
+      {
+        "q": "What does the woman agree to do?",
+        "options": [
+          "Rent a car for the weekend",
+          "Pick up the car tomorrow",
+          "Have an additional repair done",
+          "Postpone her trip"
+        ],
+        "answer": 2,
+        "explain": "Khi biết chỉ mất thêm một tiếng, cô ấy nói: \"In that case, go ahead\" – đồng ý thay má phanh luôn."
+      }
+    ]
+  },
+  {
+    "id": "p3-06",
+    "speakers": [
+      {
+        "name": "Nadia",
+        "gender": "W"
+      },
+      {
+        "name": "Peter",
+        "gender": "M"
+      }
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "text": "Peter, did you hear the client from Osaka moved their video call up to ten o'clock?"
+      },
+      {
+        "s": 1,
+        "text": "Ten? I thought it was this afternoon. I haven't even tested the new conference room equipment yet."
+      },
+      {
+        "s": 0,
+        "text": "I know. Facilities only installed the projector yesterday."
+      },
+      {
+        "s": 1,
+        "text": "And I still need to update the slides with last week's survey results."
+      },
+      {
+        "s": 0,
+        "text": "I can take care of the slides if you send me the data. You focus on the equipment."
+      },
+      {
+        "s": 1,
+        "text": "Really? Don't you have your own deadline today?"
+      },
+      {
+        "s": 0,
+        "text": "The budget review? To be honest, it can wait until tomorrow."
+      },
+      {
+        "s": 1,
+        "text": "Thanks, Nadia. I'll forward the survey results now and head to the conference room."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What are the speakers preparing for?",
+        "options": [
+          "A job interview",
+          "A business trip to Osaka",
+          "An online meeting with a client",
+          "A customer survey"
+        ],
+        "answer": 2,
+        "explain": "Cô ấy nói khách hàng ở Osaka đã dời \"their video call\" lên 10 giờ – họ chuẩn bị cuộc gọi video với khách hàng."
+      },
+      {
+        "q": "Why does the man say, \"I haven't even tested the new conference room equipment yet\"?",
+        "options": [
+          "To complain about the Facilities team",
+          "To explain why a projector broke",
+          "To request a different room",
+          "To express concern about being ready"
+        ],
+        "answer": 3,
+        "explain": "Cuộc gọi bị dời sớm hơn mà anh ấy chưa thử thiết bị – anh ấy lo không kịp chuẩn bị."
+      },
+      {
+        "q": "What does the woman offer to do?",
+        "options": [
+          "Lead the budget review",
+          "Reschedule the call",
+          "Contact the Facilities team",
+          "Revise some slides"
+        ],
+        "answer": 3,
+        "explain": "Cô ấy nói: \"I can take care of the slides if you send me the data\" – cô ấy sẽ cập nhật bài trình chiếu."
+      }
+    ]
+  },
+  {
+    "id": "p3-07",
+    "speakers": [
+      {
+        "name": "Luis",
+        "gender": "M"
+      },
+      {
+        "name": "Kevin",
+        "gender": "M"
+      },
+      {
+        "name": "Hannah",
+        "gender": "W"
+      }
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "text": "Kevin, this is Hannah. She's joining the design team today. Is her laptop set up?"
+      },
+      {
+        "s": 1,
+        "text": "Nice to meet you, Hannah. The laptop's ready, but your account won't be active until the HR system processes your contract. That usually takes a few hours."
+      },
+      {
+        "s": 2,
+        "text": "So I can't log in at all this morning?"
+      },
+      {
+        "s": 1,
+        "text": "Not with your own account. But I can give you a temporary guest login so you can at least read the onboarding documents."
+      },
+      {
+        "s": 0,
+        "text": "That works. Hannah, the orientation session is at eleven in Room 5B anyway, so you won't need much before then."
+      },
+      {
+        "s": 2,
+        "text": "Great. Will I need the design software for this week?"
+      },
+      {
+        "s": 1,
+        "text": "Yes, I'll install it this afternoon once your account is active. Just leave the laptop at my desk after lunch."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Who most likely is Hannah?",
+        "options": [
+          "A new employee",
+          "An IT technician",
+          "An HR director",
+          "A visiting client"
+        ],
+        "answer": 0,
+        "explain": "Luis giới thiệu: \"She's joining the design team today\" – Hannah là nhân viên mới."
+      },
+      {
+        "q": "Why can't Hannah use her own account yet?",
+        "options": [
+          "Her password has expired",
+          "Some paperwork has not been processed",
+          "Her laptop needs repairs",
+          "The network is down"
+        ],
+        "answer": 1,
+        "explain": "Kevin nói tài khoản chưa hoạt động \"until the HR system processes your contract\" – hợp đồng chưa được xử lý."
+      },
+      {
+        "q": "What is Hannah asked to do after lunch?",
+        "options": [
+          "Attend an orientation",
+          "Leave her computer with Kevin",
+          "Sign her contract",
+          "Read the onboarding documents"
+        ],
+        "answer": 1,
+        "explain": "Kevin nói: \"Just leave the laptop at my desk after lunch.\""
+      }
+    ]
+  },
+  {
+    "id": "p3-08",
+    "speakers": [
+      {
+        "name": "Olivia",
+        "gender": "W"
+      },
+      {
+        "name": "Sam",
+        "gender": "M"
+      }
+    ],
+    "graphic": {
+      "title": "Departures – Central Station to Westbridge",
+      "rows": [
+        [
+          "Train",
+          "Departs",
+          "Arrives"
+        ],
+        [
+          "Express 210",
+          "8:15",
+          "9:05"
+        ],
+        [
+          "Local 336",
+          "8:45",
+          "10:15"
+        ],
+        [
+          "Express 218",
+          "9:30",
+          "10:20"
+        ],
+        [
+          "Local 340",
+          "9:50",
+          "11:30"
+        ]
+      ]
+    },
+    "lines": [
+      {
+        "s": 0,
+        "text": "Sam, the workshop in Westbridge starts at ten thirty, right? Which train should we take?"
+      },
+      {
+        "s": 1,
+        "text": "I was going to suggest the eight fifteen express, but I have a call with the printing company at eight thirty."
+      },
+      {
+        "s": 0,
+        "text": "How long will that take?"
+      },
+      {
+        "s": 1,
+        "text": "Fifteen minutes at most. I could do it from home before we leave."
+      },
+      {
+        "s": 0,
+        "text": "Then there's no need to rush. Let's take the next express after your call. It gets us there with ten minutes to spare."
+      },
+      {
+        "s": 1,
+        "text": "Sounds good. Should I buy the tickets online?"
+      },
+      {
+        "s": 0,
+        "text": "Yes, please, and get return tickets too. The workshop finishes at four."
+      },
+      {
+        "s": 1,
+        "text": "Will do. I'll book them right after the call."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Where are the speakers going?",
+        "options": [
+          "To a printing company",
+          "To a workshop",
+          "To a job interview",
+          "To a client dinner"
+        ],
+        "answer": 1,
+        "explain": "Cô ấy hỏi: \"the workshop in Westbridge starts at ten thirty, right?\" – họ đi dự hội thảo."
+      },
+      {
+        "q": "Why can't the man take the earliest train?",
+        "options": [
+          "He needs to pick up some materials",
+          "He has a phone call scheduled",
+          "The train is sold out",
+          "He lives far from the station"
+        ],
+        "answer": 1,
+        "explain": "Anh ấy nói: \"I have a call with the printing company at eight thirty.\""
+      },
+      {
+        "q": "Look at the graphic. Which train will the speakers most likely take?",
+        "options": [
+          "Express 210",
+          "Local 336",
+          "Express 218",
+          "Local 340"
+        ],
+        "answer": 2,
+        "explain": "Họ đi chuyến \"next express\" sau cuộc gọi (kết thúc khoảng 8:45) và đến sớm 10 phút trước 10:30 – đó là Express 218, đến lúc 10:20."
+      }
+    ]
+  },
+  {
+    "id": "p3-09",
+    "speakers": [
+      {
+        "name": "Grace",
+        "gender": "W"
+      },
+      {
+        "name": "Henry",
+        "gender": "M"
+      }
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "text": "Hi, Mr. Lee, it's Grace Kim in apartment 4C. The heating in my bedroom stopped working last night."
+      },
+      {
+        "s": 1,
+        "text": "Oh, I'm sorry to hear that. Is it just the bedroom, or the whole apartment?"
+      },
+      {
+        "s": 0,
+        "text": "Just the bedroom. The radiator's completely cold, but the living room is fine."
+      },
+      {
+        "s": 1,
+        "text": "It might be air trapped in the pipes. That happens a lot when the weather first turns cold."
+      },
+      {
+        "s": 0,
+        "text": "Can someone come take a look? I work from home, so I'm in all day."
+      },
+      {
+        "s": 1,
+        "text": "Our maintenance technician is fixing a leak on the second floor this morning. I'll send him up around two."
+      },
+      {
+        "s": 0,
+        "text": "That's great, thanks."
+      },
+      {
+        "s": 1,
+        "text": "In the meantime, there's a portable heater in the storage room. I'll bring it up to you."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Who most likely is the man?",
+        "options": [
+          "A plumber",
+          "A building manager",
+          "An electrician",
+          "A furniture salesperson"
+        ],
+        "answer": 1,
+        "explain": "Người thuê nhà gọi báo sự cố và anh ấy cử \"Our maintenance technician\" đến – anh ấy là quản lý tòa nhà."
+      },
+      {
+        "q": "What problem does the woman report?",
+        "options": [
+          "A heating unit is not working",
+          "A pipe is leaking",
+          "Her neighbors are noisy",
+          "She was overcharged for rent"
+        ],
+        "answer": 0,
+        "explain": "Cô ấy nói: \"The heating in my bedroom stopped working\" và \"The radiator's completely cold\"."
+      },
+      {
+        "q": "What does the man say he will do?",
+        "options": [
+          "Repair a leak himself",
+          "Lower the woman's rent",
+          "Lend the woman a heater",
+          "Move the woman to another unit"
+        ],
+        "answer": 2,
+        "explain": "Anh ấy nói: \"there's a portable heater... I'll bring it up to you\" – cho mượn máy sưởi di động."
+      }
+    ]
+  },
+  {
+    "id": "p3-10",
+    "speakers": [
+      {
+        "name": "Ben",
+        "gender": "M"
+      },
+      {
+        "name": "Rachel",
+        "gender": "W"
+      }
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "text": "Rachel, I just got the floor plan for the Home Tech trade show. Our booth is in Hall C, right at the back."
+      },
+      {
+        "s": 1,
+        "text": "Hall C? That's where the food stands are. Visitors usually go there just to grab lunch."
+      },
+      {
+        "s": 0,
+        "text": "That's what worries me. Last year we were by the main entrance and had over three hundred visitors."
+      },
+      {
+        "s": 1,
+        "text": "Did you ask the organizers if anything else is available?"
+      },
+      {
+        "s": 0,
+        "text": "They said a spot near the entrance opened up, but it costs an extra fifteen hundred dollars."
+      },
+      {
+        "s": 1,
+        "text": "Fifteen hundred dollars is nothing compared to the orders we got last year."
+      },
+      {
+        "s": 0,
+        "text": "True. I'll check with finance before the end of the day, then."
+      },
+      {
+        "s": 1,
+        "text": "And let's make sure we bring enough product samples. We ran out on the second day last time."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What event are the speakers discussing?",
+        "options": [
+          "A company lunch",
+          "A trade show",
+          "A product launch party",
+          "A finance meeting"
+        ],
+        "answer": 1,
+        "explain": "Anh ấy nói: \"the floor plan for the Home Tech trade show\" – họ bàn về hội chợ thương mại."
+      },
+      {
+        "q": "What does the woman mean when she says, \"Fifteen hundred dollars is nothing compared to the orders we got last year\"?",
+        "options": [
+          "The better location is worth the cost",
+          "The fee is too high",
+          "Sales were disappointing last year",
+          "The organizers made a billing error"
+        ],
+        "answer": 0,
+        "explain": "Năm ngoái gian hàng gần lối vào mang lại nhiều đơn hàng, nên cô ấy ngụ ý trả thêm 1.500 đô cho vị trí tốt là đáng."
+      },
+      {
+        "q": "What does the woman suggest?",
+        "options": [
+          "Preparing more samples",
+          "Hiring more booth staff",
+          "Staying in Hall C",
+          "Ordering lunch for the team"
+        ],
+        "answer": 0,
+        "explain": "Cô ấy nói: \"let's make sure we bring enough product samples\" vì năm ngoái bị hết mẫu."
+      }
+    ]
+  },
+  {
+    "id": "p3-11",
+    "speakers": [
+      {
+        "name": "Arthur",
+        "gender": "M"
+      },
+      {
+        "name": "Megan",
+        "gender": "W"
+      },
+      {
+        "name": "Julia",
+        "gender": "W"
+      }
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "text": "Hello, I have a two-thirty appointment with Dr. Song for a cleaning. The name's Arthur Bell."
+      },
+      {
+        "s": 1,
+        "text": "Hi, Mr. Bell. Oh, I'm afraid Dr. Song had to leave early for a family emergency. Didn't you get our message?"
+      },
+      {
+        "s": 0,
+        "text": "No, I've been in meetings all day. I took the afternoon off for this."
+      },
+      {
+        "s": 1,
+        "text": "I'm very sorry. Julia, does Dr. Ortiz have any openings this afternoon?"
+      },
+      {
+        "s": 2,
+        "text": "Let me see... She has a cancellation at three fifteen. Would that work, Mr. Bell?"
+      },
+      {
+        "s": 0,
+        "text": "That's fine, as long as I'm done by four thirty. I have to pick up my daughter."
+      },
+      {
+        "s": 2,
+        "text": "A cleaning usually takes about forty-five minutes, so you'll be fine."
+      },
+      {
+        "s": 1,
+        "text": "While you wait, could you update your insurance details on this form? The policy we have on file has expired."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Where most likely are the speakers?",
+        "options": [
+          "At a school",
+          "At an insurance office",
+          "At a dental clinic",
+          "At a pharmacy"
+        ],
+        "answer": 2,
+        "explain": "Anh ấy có lịch hẹn với \"Dr. Song for a cleaning\" (cạo vôi răng) – đây là phòng khám nha khoa."
+      },
+      {
+        "q": "Why is Dr. Song unavailable?",
+        "options": [
+          "She is attending a conference",
+          "She had to deal with a personal matter",
+          "She is on vacation",
+          "She is with another patient"
+        ],
+        "answer": 1,
+        "explain": "Lễ tân nói: \"Dr. Song had to leave early for a family emergency\" – có việc gia đình khẩn cấp."
+      },
+      {
+        "q": "What is the man asked to do?",
+        "options": [
+          "Come back tomorrow",
+          "Complete a form",
+          "Call his insurance company",
+          "Pay a cancellation fee"
+        ],
+        "answer": 1,
+        "explain": "Megan nói: \"could you update your insurance details on this form?\" – điền vào mẫu đơn."
+      }
+    ]
+  },
+  {
+    "id": "p3-12",
+    "speakers": [
+      {
+        "name": "Frank",
+        "gender": "M"
+      },
+      {
+        "name": "Diane",
+        "gender": "W"
+      }
+    ],
+    "graphic": {
+      "title": "Third Floor Meeting Rooms",
+      "rows": [
+        [
+          "Room",
+          "Seats",
+          "Equipment"
+        ],
+        [
+          "Maple",
+          "6",
+          "TV screen"
+        ],
+        [
+          "Cedar",
+          "10",
+          "Projector"
+        ],
+        [
+          "Birch",
+          "12",
+          "Video conference system"
+        ],
+        [
+          "Oak",
+          "20",
+          "Projector"
+        ]
+      ]
+    },
+    "lines": [
+      {
+        "s": 0,
+        "text": "Diane, I need to book a room for Thursday's meeting with the Singapore team. They'll be joining by video."
+      },
+      {
+        "s": 1,
+        "text": "How many people will be in the room on our side?"
+      },
+      {
+        "s": 0,
+        "text": "Eight from our office, maybe nine if Mr. Hughes can make it."
+      },
+      {
+        "s": 1,
+        "text": "Then you'll need something bigger than Maple. And for a video call you'll want the right equipment."
+      },
+      {
+        "s": 0,
+        "text": "Definitely. Last time we used a projector and a laptop camera, and the other side couldn't hear us at all."
+      },
+      {
+        "s": 1,
+        "text": "I know the room you need. I'll reserve it for you now. What time?"
+      },
+      {
+        "s": 0,
+        "text": "Nine to eleven. Could you also order coffee for the room? It's an early start for us."
+      },
+      {
+        "s": 1,
+        "text": "Sure, I'll call catering after I make the booking."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What is the man planning?",
+        "options": [
+          "A meeting with an overseas team",
+          "A trip to Singapore",
+          "A training session",
+          "A job interview"
+        ],
+        "answer": 0,
+        "explain": "Anh ấy nói: \"Thursday's meeting with the Singapore team. They'll be joining by video.\""
+      },
+      {
+        "q": "What problem does the man mention about a previous meeting?",
+        "options": [
+          "The room was too small",
+          "There was a sound problem",
+          "The projector stopped working",
+          "The coffee arrived late"
+        ],
+        "answer": 1,
+        "explain": "Anh ấy nói lần trước \"the other side couldn't hear us at all\" – bên kia không nghe được."
+      },
+      {
+        "q": "Look at the graphic. Which room will the woman most likely reserve?",
+        "options": [
+          "Maple",
+          "Cedar",
+          "Birch",
+          "Oak"
+        ],
+        "answer": 2,
+        "explain": "Cần phòng cho 8–9 người và có thiết bị họp video tốt (không dùng máy chiếu) – chỉ phòng Birch có \"Video conference system\"."
+      }
+    ]
+  },
+  {
+    "id": "p3-13",
+    "speakers": [
+      {
+        "name": "Laura",
+        "gender": "W"
+      },
+      {
+        "name": "Chris",
+        "gender": "M"
+      }
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "text": "Hi, I'd like to cancel my membership. I'm moving to another city next month."
+      },
+      {
+        "s": 1,
+        "text": "I'm sorry to hear you're leaving. May I ask where you're moving to?"
+      },
+      {
+        "s": 0,
+        "text": "Denver. My company is transferring me to its regional office there."
+      },
+      {
+        "s": 1,
+        "text": "Actually, we have two locations in Denver. You could transfer your membership instead of canceling it, and keep your current rate."
+      },
+      {
+        "s": 0,
+        "text": "Really? I didn't know that. I joined during a promotion, so my rate's pretty low."
+      },
+      {
+        "s": 1,
+        "text": "Exactly. New members there pay about twenty dollars more per month."
+      },
+      {
+        "s": 0,
+        "text": "Then I'd definitely rather transfer. What do I need to do?"
+      },
+      {
+        "s": 1,
+        "text": "Just fill out this transfer request and give us your new address. It takes about a week to process."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Why did the woman come to the gym?",
+        "options": [
+          "To end her membership",
+          "To sign up for a class",
+          "To complain about a price",
+          "To meet a personal trainer"
+        ],
+        "answer": 0,
+        "explain": "Cô ấy nói: \"I'd like to cancel my membership\" – muốn hủy thẻ hội viên."
+      },
+      {
+        "q": "Why is the woman moving?",
+        "options": [
+          "She bought a new house",
+          "Her employer is relocating her",
+          "She found a job at another company",
+          "She is going back to school"
+        ],
+        "answer": 1,
+        "explain": "Cô ấy nói: \"My company is transferring me to its regional office there\" – công ty điều chuyển cô ấy."
+      },
+      {
+        "q": "What does the man ask the woman to provide?",
+        "options": [
+          "A photo ID",
+          "A credit card number",
+          "A letter from her employer",
+          "Her new address"
+        ],
+        "answer": 3,
+        "explain": "Anh ấy nói: \"fill out this transfer request and give us your new address\"."
+      }
+    ]
+  },
+  {
+    "id": "p3-14",
+    "speakers": [
+      {
+        "name": "Chloe",
+        "gender": "W"
+      },
+      {
+        "name": "Ivan",
+        "gender": "M"
+      }
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "text": "Ivan, how's the testing going on the new customer portal? We're supposed to launch on Monday."
+      },
+      {
+        "s": 1,
+        "text": "Mostly fine, but there's a problem with the payment page. On some mobile phones, the confirm button doesn't appear."
+      },
+      {
+        "s": 0,
+        "text": "That's serious. Customers can't complete a purchase without it."
+      },
+      {
+        "s": 1,
+        "text": "I know. The developers think it's a display issue with older browsers. They're working on a fix now."
+      },
+      {
+        "s": 0,
+        "text": "Will it be ready by Monday?"
+      },
+      {
+        "s": 1,
+        "text": "They said it should be, but they also said that last time."
+      },
+      {
+        "s": 0,
+        "text": "Okay, then let's have a backup plan. If it isn't fixed by Friday afternoon, we'll delay the launch by a week."
+      },
+      {
+        "s": 1,
+        "text": "Agreed. I'll let the customer service team know so they're ready to answer questions either way."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What are the speakers mainly discussing?",
+        "options": [
+          "A hiring plan",
+          "A sale on mobile phones",
+          "A customer complaint",
+          "A new website for customers"
+        ],
+        "answer": 3,
+        "explain": "Cô ấy hỏi về việc kiểm thử \"the new customer portal\" sắp ra mắt – một cổng thông tin (website) mới cho khách hàng."
+      },
+      {
+        "q": "Why does the man say, \"they also said that last time\"?",
+        "options": [
+          "He doubts the developers will meet the deadline",
+          "He is confident the work will be done",
+          "He wants to hire different developers",
+          "He forgot what was agreed"
+        ],
+        "answer": 0,
+        "explain": "Lần trước nhóm lập trình hứa rồi nhưng không làm kịp, nên anh ấy nghi ngờ họ sẽ xong trước thứ Hai."
+      },
+      {
+        "q": "What will the man do next?",
+        "options": [
+          "Test some older browsers",
+          "Cancel the launch",
+          "Inform another department",
+          "Call the developers"
+        ],
+        "answer": 2,
+        "explain": "Anh ấy nói: \"I'll let the customer service team know\" – báo cho bộ phận chăm sóc khách hàng."
+      }
+    ]
+  },
+  {
+    "id": "p3-15",
+    "speakers": [
+      {
+        "name": "Monica",
+        "gender": "W"
+      },
+      {
+        "name": "Steve",
+        "gender": "M"
+      },
+      {
+        "name": "Alan",
+        "gender": "M"
+      }
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "text": "So this is the space. It's about two hundred square meters, and as you can see, there's lots of natural light."
+      },
+      {
+        "s": 1,
+        "text": "It's bigger than I expected. Alan, what do you think?"
+      },
+      {
+        "s": 2,
+        "text": "I like it, but we only have fifteen staff right now. We'd be paying for a lot of empty space."
+      },
+      {
+        "s": 1,
+        "text": "We're planning to hire at least ten more people next year, though."
+      },
+      {
+        "s": 0,
+        "text": "And the owner is open to a three-year lease with reduced rent for the first twelve months."
+      },
+      {
+        "s": 2,
+        "text": "That would make a difference. Is parking included?"
+      },
+      {
+        "s": 0,
+        "text": "There are six reserved spaces, and the public garage next door offers monthly passes."
+      },
+      {
+        "s": 1,
+        "text": "Could you send us the lease terms in writing? We'd like to go over them with our accountant."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Who most likely is the woman?",
+        "options": [
+          "A real estate agent",
+          "An accountant",
+          "A building owner",
+          "A job applicant"
+        ],
+        "answer": 0,
+        "explain": "Cô ấy dẫn hai người xem văn phòng và nói về điều kiện của \"the owner\" – cô ấy là môi giới bất động sản."
+      },
+      {
+        "q": "What concern does Alan raise?",
+        "options": [
+          "The office is too dark",
+          "The lease is too short",
+          "Parking is too expensive",
+          "The space may be larger than needed"
+        ],
+        "answer": 3,
+        "explain": "Alan nói: \"We'd be paying for a lot of empty space\" – văn phòng có thể quá rộng so với nhu cầu."
+      },
+      {
+        "q": "What does Steve request?",
+        "options": [
+          "A tour of the garage",
+          "A second viewing",
+          "A lower deposit",
+          "Written details of the lease"
+        ],
+        "answer": 3,
+        "explain": "Steve nói: \"Could you send us the lease terms in writing?\""
+      }
+    ]
+  },
+  {
+    "id": "p3-16",
+    "speakers": [
+      {
+        "name": "Mark",
+        "gender": "M"
+      },
+      {
+        "name": "Jenny",
+        "gender": "W"
+      }
+    ],
+    "graphic": {
+      "title": "Catering Order #4471",
+      "rows": [
+        [
+          "Item",
+          "Quantity"
+        ],
+        [
+          "Vegetable wraps",
+          "20"
+        ],
+        [
+          "Chicken sandwiches",
+          "30"
+        ],
+        [
+          "Fruit platters",
+          "4"
+        ],
+        [
+          "Bottled water",
+          "50"
+        ]
+      ]
+    },
+    "lines": [
+      {
+        "s": 0,
+        "text": "Hi, this is Mark Dunn from Allied Consulting. I placed a lunch order for our seminar tomorrow, and I'd like to make a change."
+      },
+      {
+        "s": 1,
+        "text": "Of course, Mr. Dunn. I have your order here. What would you like to change?"
+      },
+      {
+        "s": 0,
+        "text": "We just found out that more of our attendees are vegetarian than we thought. Could we add ten more of the vegetarian item?"
+      },
+      {
+        "s": 1,
+        "text": "Certainly. Would you like to reduce the chicken sandwiches by the same amount?"
+      },
+      {
+        "s": 0,
+        "text": "Yes, please. The total number of guests hasn't changed."
+      },
+      {
+        "s": 1,
+        "text": "No problem. Your delivery is still scheduled for eleven thirty, correct?"
+      },
+      {
+        "s": 0,
+        "text": "Actually, could it come a little earlier? The morning session might finish at eleven fifteen."
+      },
+      {
+        "s": 1,
+        "text": "I'll ask our driver to arrive by eleven."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Why is the man calling?",
+        "options": [
+          "To revise an order",
+          "To cancel an event",
+          "To complain about a delivery",
+          "To book a seminar room"
+        ],
+        "answer": 0,
+        "explain": "Anh ấy nói: \"I placed a lunch order... and I'd like to make a change\" – muốn sửa đơn hàng."
+      },
+      {
+        "q": "Why does the man want to make a change?",
+        "options": [
+          "The seminar was moved",
+          "Some guests canceled",
+          "More guests do not eat meat",
+          "The price went up"
+        ],
+        "answer": 2,
+        "explain": "Anh ấy nói: \"more of our attendees are vegetarian than we thought\" – nhiều khách ăn chay hơn dự kiến."
+      },
+      {
+        "q": "Look at the graphic. How many vegetable wraps will the man's order now include?",
+        "options": [
+          "10",
+          "20",
+          "30",
+          "40"
+        ],
+        "answer": 2,
+        "explain": "Đơn ban đầu có 20 vegetable wraps (món chay), anh ấy muốn \"add ten more\" nên tổng cộng là 30."
+      }
+    ]
+  },
+  {
+    "id": "p3-17",
+    "speakers": [
+      {
+        "name": "Nina",
+        "gender": "W"
+      },
+      {
+        "name": "Omar",
+        "gender": "M"
+      }
+    ],
+    "lines": [
+      {
+        "s": 1,
+        "text": "Hi, I'm checking in for the flight to Toronto. Here's my passport."
+      },
+      {
+        "s": 0,
+        "text": "Thank you, Mr. Haddad. Are you checking any bags today?"
+      },
+      {
+        "s": 1,
+        "text": "Just this one suitcase. And I'd like an aisle seat if possible."
+      },
+      {
+        "s": 0,
+        "text": "Let me see. The flight's quite full, but there's an aisle seat in row 32, near the back."
+      },
+      {
+        "s": 1,
+        "text": "That's fine. My connection in Toronto is tight, though. I only have fifty minutes."
+      },
+      {
+        "s": 0,
+        "text": "In that case, would you prefer an aisle seat closer to the front? There's one in an exit row for a forty-dollar fee."
+      },
+      {
+        "s": 1,
+        "text": "Yes, I'll take that. It'll help me get off the plane quickly."
+      },
+      {
+        "s": 0,
+        "text": "All right. Your suitcase will be checked through to your final destination, so you won't need to collect it in Toronto."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Where does the conversation most likely take place?",
+        "options": [
+          "On an airplane",
+          "At a travel agency",
+          "At an airport",
+          "At a hotel"
+        ],
+        "answer": 2,
+        "explain": "Người đàn ông nói: \"I'm checking in for the flight to Toronto\" và đưa hộ chiếu – đây là quầy làm thủ tục ở sân bay."
+      },
+      {
+        "q": "What is the man worried about?",
+        "options": [
+          "He might miss a connecting flight",
+          "His suitcase is too heavy",
+          "His passport will expire soon",
+          "The exit row is uncomfortable"
+        ],
+        "answer": 0,
+        "explain": "Anh ấy nói: \"My connection in Toronto is tight... I only have fifty minutes\" – sợ lỡ chuyến nối."
+      },
+      {
+        "q": "What does the man agree to do?",
+        "options": [
+          "Check an additional bag",
+          "Collect his luggage in Toronto",
+          "Change his flight",
+          "Pay for a different seat"
+        ],
+        "answer": 3,
+        "explain": "Anh ấy đồng ý ghế ở hàng thoát hiểm \"for a forty-dollar fee\": \"Yes, I'll take that.\""
+      }
+    ]
+  },
+  {
+    "id": "p3-18",
+    "speakers": [
+      {
+        "name": "Sarah",
+        "gender": "W"
+      },
+      {
+        "name": "Lucas",
+        "gender": "M"
+      }
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "text": "Lucas, I've scheduled the final interviews for the accountant position. Three candidates are coming in on Wednesday."
+      },
+      {
+        "s": 1,
+        "text": "Thanks, Sarah. Who's first?"
+      },
+      {
+        "s": 0,
+        "text": "Ms. Patel, at nine. She's the one with ten years of experience at a large firm."
+      },
+      {
+        "s": 1,
+        "text": "Her résumé is impressive. But I'm a little concerned about the salary she's asking for."
+      },
+      {
+        "s": 0,
+        "text": "She did mention she'd be flexible if we could offer remote work two days a week."
+      },
+      {
+        "s": 1,
+        "text": "Well, half the team already works from home on Fridays."
+      },
+      {
+        "s": 0,
+        "text": "So that might be an option, then. Should I let her know before the interview?"
+      },
+      {
+        "s": 1,
+        "text": "No, let's discuss it in person. Could you print a copy of our current remote work policy for the interview?"
+      }
+    ],
+    "questions": [
+      {
+        "q": "What position are the speakers trying to fill?",
+        "options": [
+          "Accountant",
+          "Office manager",
+          "Sales director",
+          "Recruiter"
+        ],
+        "answer": 0,
+        "explain": "Cô ấy nói: \"the final interviews for the accountant position\" – vị trí kế toán."
+      },
+      {
+        "q": "What does the man imply when he says, \"half the team already works from home on Fridays\"?",
+        "options": [
+          "The office is often empty",
+          "Remote work could be arranged",
+          "The candidate's request is unreasonable",
+          "Fridays are usually quiet"
+        ],
+        "answer": 1,
+        "explain": "Ứng viên muốn làm từ xa; anh ấy nói nhiều người đã làm ở nhà rồi – ngụ ý có thể đáp ứng yêu cầu đó."
+      },
+      {
+        "q": "What does the man ask the woman to do?",
+        "options": [
+          "Call the candidate",
+          "Prepare a document",
+          "Reschedule an interview",
+          "Increase the salary offer"
+        ],
+        "answer": 1,
+        "explain": "Anh ấy nói: \"Could you print a copy of our current remote work policy\" – chuẩn bị một tài liệu."
+      }
+    ]
+  },
+  {
+    "id": "p3-19",
+    "speakers": [
+      {
+        "name": "Erica",
+        "gender": "W"
+      },
+      {
+        "name": "Tony",
+        "gender": "M"
+      },
+      {
+        "name": "Jacob",
+        "gender": "M"
+      }
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "text": "Tony, the shipment for Greenleaf Markets was supposed to leave this morning. The client just called asking where it is."
+      },
+      {
+        "s": 1,
+        "text": "We had it packed, but the truck broke down on the way here. The transport company is sending a replacement."
+      },
+      {
+        "s": 0,
+        "text": "When will it get here?"
+      },
+      {
+        "s": 1,
+        "text": "Jacob's been talking to them. Jacob?"
+      },
+      {
+        "s": 2,
+        "text": "They said around three. So the delivery would reach Greenleaf at about seven this evening."
+      },
+      {
+        "s": 0,
+        "text": "Their store closes at six, though. Nobody will be there to receive it."
+      },
+      {
+        "s": 2,
+        "text": "Then I'll arrange a morning delivery. They can have it by eight tomorrow, before they open."
+      },
+      {
+        "s": 0,
+        "text": "Okay. I'll call the client back and explain, and maybe offer free shipping on their next order."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What problem are the speakers discussing?",
+        "options": [
+          "A shipment has been delayed",
+          "A product was damaged",
+          "An order was canceled",
+          "A bill contained a mistake"
+        ],
+        "answer": 0,
+        "explain": "Erica nói lô hàng \"was supposed to leave this morning\" nhưng chưa đi – hàng bị giao trễ."
+      },
+      {
+        "q": "What caused the problem?",
+        "options": [
+          "Bad weather",
+          "The address was wrong",
+          "There were not enough workers",
+          "A vehicle broke down"
+        ],
+        "answer": 3,
+        "explain": "Tony nói: \"the truck broke down on the way here\" – xe tải bị hỏng."
+      },
+      {
+        "q": "What does Erica plan to do?",
+        "options": [
+          "Drive to the store herself",
+          "Repack the shipment",
+          "Hire a new transport company",
+          "Get in touch with the client"
+        ],
+        "answer": 3,
+        "explain": "Erica nói: \"I'll call the client back and explain\" – gọi lại cho khách hàng."
+      }
+    ]
+  },
+  {
+    "id": "p3-20",
+    "speakers": [
+      {
+        "name": "Paula",
+        "gender": "W"
+      },
+      {
+        "name": "Greg",
+        "gender": "M"
+      }
+    ],
+    "graphic": {
+      "title": "Marketing Summit – Room B",
+      "rows": [
+        [
+          "Time",
+          "Session"
+        ],
+        [
+          "9:00",
+          "Social Media Trends"
+        ],
+        [
+          "10:30",
+          "Building a Brand Story"
+        ],
+        [
+          "1:00",
+          "Data-Driven Advertising"
+        ],
+        [
+          "2:30",
+          "Customer Loyalty Programs"
+        ]
+      ]
+    },
+    "lines": [
+      {
+        "s": 0,
+        "text": "Greg, are you going to any of the sessions in Room B today?"
+      },
+      {
+        "s": 1,
+        "text": "I was planning to attend the one on brand stories, but my manager asked me to meet a supplier at ten."
+      },
+      {
+        "s": 0,
+        "text": "That's too bad. I heard the speaker is excellent."
+      },
+      {
+        "s": 1,
+        "text": "I know. Are they recording the sessions?"
+      },
+      {
+        "s": 0,
+        "text": "Only the keynotes, I think. But she's giving the same talk in Chicago next month."
+      },
+      {
+        "s": 1,
+        "text": "Oh well. Actually, I'm more interested in the one on data-driven advertising. Our team is just starting to use analytics."
+      },
+      {
+        "s": 0,
+        "text": "Then let's go to that one together. I'll save you a seat."
+      },
+      {
+        "s": 1,
+        "text": "Thanks. I'll text you when my meeting's over."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Where most likely are the speakers?",
+        "options": [
+          "At a job fair",
+          "At a supplier's factory",
+          "At a conference",
+          "In a television studio"
+        ],
+        "answer": 2,
+        "explain": "Họ nói về các \"sessions in Room B\", diễn giả và bài phát biểu chính (keynotes) – đây là một hội nghị."
+      },
+      {
+        "q": "Why will the man miss the session on brand stories?",
+        "options": [
+          "It has been canceled",
+          "He will be traveling to Chicago",
+          "The room is full",
+          "He has a meeting with a supplier"
+        ],
+        "answer": 3,
+        "explain": "Anh ấy nói: \"my manager asked me to meet a supplier at ten\" – trùng giờ gặp nhà cung cấp."
+      },
+      {
+        "q": "Look at the graphic. What time will the speakers most likely attend a session together?",
+        "options": [
+          "9:00",
+          "10:30",
+          "1:00",
+          "2:30"
+        ],
+        "answer": 2,
+        "explain": "Họ sẽ cùng đi phiên \"data-driven advertising\"; theo bảng, phiên Data-Driven Advertising bắt đầu lúc 1:00."
+      }
+    ]
+  },
+  {
+    "id": "p3-21",
+    "speakers": [
+      {
+        "name": "George",
+        "gender": "M"
+      },
+      {
+        "name": "Rosa",
+        "gender": "W"
+      }
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "text": "Hello, I'm here to pick up a suit. The name's Wilson."
+      },
+      {
+        "s": 1,
+        "text": "Mr. Wilson... yes, the gray suit. We shortened the sleeves and took in the jacket at the waist. Would you like to try it on?"
+      },
+      {
+        "s": 0,
+        "text": "Sure... Hmm, the sleeves are perfect, but the jacket feels a bit tight across the shoulders."
+      },
+      {
+        "s": 1,
+        "text": "I see what you mean. We only adjusted the waist, but that may have pulled the shoulders in. I can let it out slightly."
+      },
+      {
+        "s": 0,
+        "text": "How long would that take? I need it for a wedding on Saturday."
+      },
+      {
+        "s": 1,
+        "text": "We could have it ready by Thursday afternoon. And there'd be no extra charge, of course."
+      },
+      {
+        "s": 0,
+        "text": "Thursday works. Could you also press the trousers when you're done?"
+      },
+      {
+        "s": 1,
+        "text": "Absolutely. I'll write it on the ticket now."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Who most likely is the woman?",
+        "options": [
+          "A tailor",
+          "A wedding planner",
+          "A shoe repairer",
+          "A fashion model"
+        ],
+        "answer": 0,
+        "explain": "Cô ấy nói: \"We shortened the sleeves and took in the jacket\" – cô ấy là thợ may sửa đồ."
+      },
+      {
+        "q": "What problem does the man mention?",
+        "options": [
+          "The sleeves are too long",
+          "The jacket does not fit well",
+          "The suit is the wrong color",
+          "The trousers are missing"
+        ],
+        "answer": 1,
+        "explain": "Anh ấy nói: \"the jacket feels a bit tight across the shoulders\" – áo khoác hơi chật."
+      },
+      {
+        "q": "What does the man request?",
+        "options": [
+          "A discount",
+          "A refund",
+          "Delivery to his home",
+          "An additional service"
+        ],
+        "answer": 3,
+        "explain": "Anh ấy nhờ thêm: \"Could you also press the trousers\" – ủi quần, một dịch vụ bổ sung."
+      }
+    ]
+  },
+  {
+    "id": "p3-22",
+    "speakers": [
+      {
+        "name": "Fiona",
+        "gender": "W"
+      },
+      {
+        "name": "Hugo",
+        "gender": "M"
+      }
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "text": "Hugo, did you see the email about the new parking policy? Starting next month, employees will have to pay to use the company lot."
+      },
+      {
+        "s": 1,
+        "text": "Yes. Ten dollars a day. A lot of people are upset."
+      },
+      {
+        "s": 0,
+        "text": "I can understand why. I drive in every day, so that's about two hundred a month."
+      },
+      {
+        "s": 1,
+        "text": "Management says it's to encourage people to take public transportation. They're also offering fifty percent off monthly bus passes."
+      },
+      {
+        "s": 0,
+        "text": "The bus from my neighborhood takes over an hour."
+      },
+      {
+        "s": 1,
+        "text": "Have you thought about carpooling? Cars with three or more employees can park for free."
+      },
+      {
+        "s": 0,
+        "text": "Actually, Carmen lives near me. I'll ask her if she'd be interested."
+      },
+      {
+        "s": 1,
+        "text": "Good idea. You can sign up through the HR website."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What are the speakers mainly discussing?",
+        "options": [
+          "A new bus route",
+          "A company relocation",
+          "A traffic accident",
+          "A change in parking rules"
+        ],
+        "answer": 3,
+        "explain": "Cô ấy hỏi: \"did you see the email about the new parking policy?\" – chính sách đỗ xe mới."
+      },
+      {
+        "q": "What does the woman mean when she says, \"The bus from my neighborhood takes over an hour\"?",
+        "options": [
+          "She is often late for work",
+          "Taking the bus is not practical for her",
+          "She wants to move closer to work",
+          "The bus discount is too small"
+        ],
+        "answer": 1,
+        "explain": "Khi được gợi ý đi xe buýt giảm giá, cô ấy nói xe buýt mất hơn một tiếng – ngụ ý đi xe buýt không phù hợp với cô."
+      },
+      {
+        "q": "What will the woman probably do next?",
+        "options": [
+          "Buy a monthly bus pass",
+          "Sell her car",
+          "Complain to management",
+          "Speak with a colleague"
+        ],
+        "answer": 3,
+        "explain": "Cô ấy nói: \"Carmen lives near me. I'll ask her\" – sẽ hỏi đồng nghiệp về việc đi chung xe."
+      }
+    ]
+  },
+  {
+    "id": "p3-23",
+    "speakers": [
+      {
+        "name": "Isabel",
+        "gender": "W"
+      },
+      {
+        "name": "Noah",
+        "gender": "M"
+      },
+      {
+        "name": "Ethan",
+        "gender": "M"
+      }
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "text": "Thanks for staying late, everyone. I'd like to talk about adding a seasonal item to the menu for autumn."
+      },
+      {
+        "s": 1,
+        "text": "What about pumpkin bread? Customers kept asking for it last year."
+      },
+      {
+        "s": 2,
+        "text": "We'd need a new supplier for pumpkin, though. Our current one only sells it frozen."
+      },
+      {
+        "s": 0,
+        "text": "Fresh would definitely taste better. Ethan, could you get a few quotes from local farms?"
+      },
+      {
+        "s": 2,
+        "text": "Sure. There's a farm in Millbrook that delivers twice a week."
+      },
+      {
+        "s": 1,
+        "text": "And I could try out a few recipes this weekend, if I can use the kitchen on Sunday."
+      },
+      {
+        "s": 0,
+        "text": "That's fine. Let's have everyone taste them on Monday morning before we open."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Where do the speakers most likely work?",
+        "options": [
+          "At a grocery store",
+          "At a farm",
+          "At a bakery",
+          "At a cooking school"
+        ],
+        "answer": 2,
+        "explain": "Họ bàn thêm món theo mùa vào thực đơn như \"pumpkin bread\" và nói \"before we open\" – họ làm ở tiệm bánh."
+      },
+      {
+        "q": "What problem does Ethan mention?",
+        "options": [
+          "The kitchen is too small",
+          "Delivery costs have gone up",
+          "Customers disliked a product",
+          "The current supplier does not offer a fresh ingredient"
+        ],
+        "answer": 3,
+        "explain": "Ethan nói: \"Our current one only sells it frozen\" – nhà cung cấp hiện tại chỉ bán bí đỏ đông lạnh."
+      },
+      {
+        "q": "What does Noah offer to do?",
+        "options": [
+          "Contact some farms",
+          "Work at the counter on Sunday",
+          "Open the shop on Monday",
+          "Experiment with recipes"
+        ],
+        "answer": 3,
+        "explain": "Noah nói: \"I could try out a few recipes this weekend\" – thử nghiệm công thức."
+      }
+    ]
+  },
+  {
+    "id": "p3-24",
+    "speakers": [
+      {
+        "name": "Simon",
+        "gender": "M"
+      },
+      {
+        "name": "Wendy",
+        "gender": "W"
+      }
+    ],
+    "graphic": {
+      "title": "Customer Survey: Reasons for Contacting Support",
+      "rows": [
+        [
+          "Reason",
+          "Percentage"
+        ],
+        [
+          "Login problems",
+          "38%"
+        ],
+        [
+          "Billing questions",
+          "27%"
+        ],
+        [
+          "Shipping delays",
+          "21%"
+        ],
+        [
+          "Product returns",
+          "14%"
+        ]
+      ]
+    },
+    "lines": [
+      {
+        "s": 0,
+        "text": "Wendy, have you had a chance to look at the results of the support survey?"
+      },
+      {
+        "s": 1,
+        "text": "I have. I wasn't surprised that login problems were at the top. But we're redesigning that page anyway."
+      },
+      {
+        "s": 0,
+        "text": "Right, that project's already scheduled for next quarter. What about the second-largest category?"
+      },
+      {
+        "s": 1,
+        "text": "That's the one I want to focus on now. Most of those questions could be answered on our website if the information were clearer."
+      },
+      {
+        "s": 0,
+        "text": "So you're thinking of a better FAQ section?"
+      },
+      {
+        "s": 1,
+        "text": "Exactly. And maybe a short video explaining how charges appear on monthly statements."
+      },
+      {
+        "s": 0,
+        "text": "I like that. Could you write up a proposal by next Wednesday? I'll present it at the department meeting."
+      }
+    ],
+    "questions": [
+      {
+        "q": "What are the speakers mainly discussing?",
+        "options": [
+          "The results of a survey",
+          "A website launch",
+          "A training video",
+          "A budget increase"
+        ],
+        "answer": 0,
+        "explain": "Anh ấy hỏi: \"have you had a chance to look at the results of the support survey?\""
+      },
+      {
+        "q": "Why is the woman not focusing on login problems?",
+        "options": [
+          "The issue is rare",
+          "The IT team has fixed it",
+          "Work on that issue is already planned",
+          "Customers did not mention it"
+        ],
+        "answer": 2,
+        "explain": "Cô ấy nói: \"we're redesigning that page anyway\" và anh ấy xác nhận dự án \"already scheduled for next quarter\"."
+      },
+      {
+        "q": "Look at the graphic. Which category does the woman want to focus on?",
+        "options": [
+          "Login problems",
+          "Billing questions",
+          "Shipping delays",
+          "Product returns"
+        ],
+        "answer": 1,
+        "explain": "Cô ấy muốn tập trung vào \"the second-largest category\" – theo bảng là Billing questions (27%); cô ấy cũng nhắc đến cách tính phí trên hóa đơn."
+      }
+    ]
+  },
+  {
+    "id": "p3-25",
+    "speakers": [
+      {
+        "name": "Vanessa",
+        "gender": "W"
+      },
+      {
+        "name": "Leo",
+        "gender": "M"
+      },
+      {
+        "name": "Mia",
+        "gender": "W"
+      }
+    ],
+    "lines": [
+      {
+        "s": 0,
+        "text": "Leo, Mia, about the cover story for the March issue: the interview with the architect Daniel Cho fell through."
+      },
+      {
+        "s": 1,
+        "text": "Oh no. What happened?"
+      },
+      {
+        "s": 0,
+        "text": "His publicist said he's too busy with a project in Seoul. So we need a replacement, and quickly."
+      },
+      {
+        "s": 2,
+        "text": "What about my piece on urban rooftop gardens? It's finished, and the photographer has already taken pictures."
+      },
+      {
+        "s": 1,
+        "text": "That's a good fit for a spring issue, too."
+      },
+      {
+        "s": 0,
+        "text": "I agree. Mia, it's a bit short for a cover story, though. Could you add another eight hundred words by Friday?"
+      },
+      {
+        "s": 2,
+        "text": "Sure. I could include interviews with a couple of the garden owners."
+      },
+      {
+        "s": 1,
+        "text": "I'll contact the photographer about a cover shot, then."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Where do the speakers most likely work?",
+        "options": [
+          "At a garden center",
+          "At an architecture firm",
+          "At a magazine",
+          "At a photography studio"
+        ],
+        "answer": 2,
+        "explain": "Họ bàn về \"the cover story for the March issue\" – bài trang bìa của số tháng Ba, nên họ làm ở tạp chí."
+      },
+      {
+        "q": "Why does the cover story need to be replaced?",
+        "options": [
+          "A deadline was moved up",
+          "Some photos were lost",
+          "An article was too long",
+          "A planned interview will not happen"
+        ],
+        "answer": 3,
+        "explain": "Vanessa nói: \"the interview with the architect Daniel Cho fell through\" – buổi phỏng vấn bị hủy."
+      },
+      {
+        "q": "What is Mia asked to do?",
+        "options": [
+          "Take new photographs",
+          "Contact a publicist",
+          "Make an article longer",
+          "Travel to Seoul"
+        ],
+        "answer": 2,
+        "explain": "Vanessa nói: \"Could you add another eight hundred words by Friday?\" – viết thêm cho bài dài hơn."
+      }
+    ]
+  },
+  {
+    "id": "p3-26",
+    "speakers": [
+      {
+        "name": "Ruth",
+        "gender": "W"
+      },
+      {
+        "name": "Adam",
+        "gender": "M"
+      }
+    ],
+    "graphic": {
+      "title": "Delivery Fees – Fresh Basket Grocery",
+      "rows": [
+        [
+          "Zone",
+          "Area",
+          "Fee"
+        ],
+        [
+          "Zone 1",
+          "Downtown",
+          "Free"
+        ],
+        [
+          "Zone 2",
+          "Eastside",
+          "$4"
+        ],
+        [
+          "Zone 3",
+          "Hillcrest",
+          "$7"
+        ],
+        [
+          "Zone 4",
+          "Lakeview",
+          "$10"
+        ]
+      ]
+    },
+    "lines": [
+      {
+        "s": 0,
+        "text": "Hi, I'd like to set up a regular weekly grocery delivery. I just moved to the area."
+      },
+      {
+        "s": 1,
+        "text": "Welcome! Which neighborhood are you in?"
+      },
+      {
+        "s": 0,
+        "text": "I'm on Maple Avenue, near the Hillcrest library."
+      },
+      {
+        "s": 1,
+        "text": "Ah, then you're actually just inside the Eastside zone. The boundary is the library itself."
+      },
+      {
+        "s": 0,
+        "text": "Oh, that's good news. The grocery store near my old place charged a lot for delivery, so I was a little worried."
+      },
+      {
+        "s": 1,
+        "text": "And if you sign up for weekly deliveries, you'll get ten percent off your first order."
+      },
+      {
+        "s": 0,
+        "text": "Great. Is there a minimum order amount?"
+      },
+      {
+        "s": 1,
+        "text": "Yes, thirty dollars. You can set everything up on our app. I'll text you a link now."
+      }
+    ],
+    "questions": [
+      {
+        "q": "Why is the woman calling?",
+        "options": [
+          "To complain about a late order",
+          "To arrange regular deliveries",
+          "To apply for a job",
+          "To ask about store hours"
+        ],
+        "answer": 1,
+        "explain": "Cô ấy nói: \"I'd like to set up a regular weekly grocery delivery\"."
+      },
+      {
+        "q": "What does the man say the woman will receive?",
+        "options": [
+          "A free gift",
+          "A loyalty card",
+          "A reduced price on her first order",
+          "Free delivery for a month"
+        ],
+        "answer": 2,
+        "explain": "Anh ấy nói: \"you'll get ten percent off your first order\" – giảm giá đơn đầu tiên."
+      },
+      {
+        "q": "Look at the graphic. How much will the woman most likely pay for each delivery?",
+        "options": [
+          "Nothing",
+          "$4",
+          "$7",
+          "$10"
+        ],
+        "answer": 1,
+        "explain": "Dù gần thư viện Hillcrest, anh ấy nói: \"you're actually just inside the Eastside zone\" – theo bảng, khu Eastside phí $4."
+      }
+    ]
+  }
+]
